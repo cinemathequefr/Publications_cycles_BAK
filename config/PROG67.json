@@ -37,6 +37,22 @@
       ]
     },
     {
+      "idCycleProg": 460,
+      "titreCycle": "Hugo Santiago",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2054],
+          "tri": 1
+        },
+        {
+          "titre": "Autour de Hugo Santiago",
+          "cats": [2122],
+          "tri": 1
+        }
+      ]
+    },
+    {
       "idCycleProg": 463,
       "titreCycle": "Andreï Kontchalovski",
       "sousCycles": [
