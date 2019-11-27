@@ -1,0 +1,984 @@
+[
+  {
+    "titre": "3 heures 10 pour Yuma",
+    "titreVo": "3:10 to Yuma",
+    "idFilm": 31564,
+    "ageMinimal": 0,
+    "realisateurs": "Delmer Daves",
+    "annee": 1957,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme dangereux est capturé dans une petite ville. On persuade un éleveur de convoyer en secret le hors-la-loi par le train de Yuma en échange d'une forte prime."
+      }
+    ],
+    "generique": [
+      "Glenn Ford",
+      "Van Heflin",
+      "Felicia Farr"
+    ]
+  },
+  {
+    "titre": "A Little Princess",
+    "titreVo": "",
+    "idFilm": 35278,
+    "ageMinimal": null,
+    "realisateurs": "Marshall Neilan",
+    "annee": 1917,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "A Poor Little Rich Girl",
+    "titreVo": "",
+    "idFilm": 37350,
+    "ageMinimal": null,
+    "realisateurs": "Maurice Tourneur",
+    "annee": 1917,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Gwen's family is rich, but her parents ignore her and most of the servants push her around, so she is lonely and unhappy."
+      }
+    ]
+  },
+  {
+    "titre": "Apollo 13",
+    "titreVo": "",
+    "idFilm": 46882,
+    "ageMinimal": null,
+    "realisateurs": "Ron Howard",
+    "annee": 1994,
+    "pays": "États-Unis",
+    "generique": [
+      "Tom Hanks",
+      "Kevin Bacon",
+      "Gary Sinise"
+    ],
+    "adaptation": "D'après le livre _Lost Moon_ de Jeffrey Kluger et Jim Lovell."
+  },
+  {
+    "titre": "Avatar",
+    "titreVo": "",
+    "idFilm": 110101,
+    "ageMinimal": null,
+    "realisateurs": "James Cameron",
+    "annee": 2007,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Jake Sully, ancien Marine paralysé, est recruté pour se rendre sur Pandora, une planète que des groupes industriels comptent exploiter mais dont l'atmosphère intoxique les Humains."
+      }
+    ],
+    "generique": [
+      "Sam Worthington",
+      "Zoë Saldana",
+      "Sigourney Weaver"
+    ]
+  },
+  {
+    "titre": "Aviator",
+    "idFilm": 94878,
+    "ageMinimal": null,
+    "realisateurs": "Martin Scorsese",
+    "annee": 2003,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Vingt ans de la vie tumultueuse d'Howard Hughes, industriel, milliardaire, casse-cou, pionnier de l'aviation civile, inventeur, producteur, réalisateur, directeur de studio et séducteur insatiable."
+      }
+    ],
+    "generique": [
+      "Leonardo DiCaprio",
+      "Cate Blanchett",
+      "John C. Reilly"
+    ]
+  },
+  {
+    "titre": "Blue Velvet",
+    "titreVo": "",
+    "idFilm": 54865,
+    "ageMinimal": null,
+    "realisateurs": "David Lynch",
+    "annee": 1986,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En rentrant chez lui, Jeffrey trouve une oreille humaine. Épaulé par Sandy, fille d'inspecteur, il décide de mener l'enquête. Tout cela va les mener dans un monde inhabituel et à rencontrer d'étranges personnages..."
+      }
+    ],
+    "generique": [
+      "Kyle MacLachlan",
+      "Isabella Rossellini",
+      "Dennis Hopper",
+      "Laura Dern"
+    ]
+  },
+  {
+    "titre": "Chevauchée de la vengeance",
+    "art": "La",
+    "titreVo": "Ride Lonesome",
+    "idFilm": 56740,
+    "ageMinimal": null,
+    "realisateurs": "Budd Boetticher",
+    "annee": 1959,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans l'espoir d'attirer le meurtrier sa femme dans un piège et de pouvoir enfin se venger, un chasseur de primes capture le frère de l'assassin présumé."
+      }
+    ],
+    "generique": [
+      "Randolph Scott",
+      "Karen Steele",
+      "Pernell Roberts",
+      "Lee Van Cleef"
+    ]
+  },
+  {
+    "titre": "Cow-Boy",
+    "titreVo": "",
+    "idFilm": 45414,
+    "ageMinimal": null,
+    "realisateurs": "Delmer Daves",
+    "annee": 1958,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Frank Harris souhaite à tout prix briser la monotonie de sa vie de réceptionniste au Grand Hôtel de Chicago. Il rêve de devenir cow-boy, mener une vie d'aventures dans de grands espaces. Lorsque Tom Reece, riche éleveur de bétail, fait une halte dans son hôtel, Harris saute sur l'occasion : il parvient à le convaincre de faire partie du prochain voyage. Hélas, la vie de cow-boy n'est pas aussi attrayante que Harris l'imaginait..."
+      }
+    ],
+    "generique": [
+      "Glenn Ford",
+      "Jack Lemmon",
+      "Brian Donlevy"
+    ]
+  },
+  {
+    "titre": "Deux cavaliers",
+    "art": "Les",
+    "titreVo": "Two Rode Together",
+    "idFilm": 32375,
+    "ageMinimal": 0,
+    "realisateurs": "John Ford",
+    "annee": 1960,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un shérif cynique et un officier de cavalerie sont chargés d'aller négocier avec les Indiens Comanches la restitution de prisonniers blancs. Une fois en territoire indien, au prix de difficiles tractations, ils obtiennent la libération d'un jeune blanc qui se croit Indien natif, et d'une jeune femme dont un chef Indien avait fait sa squaw."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Présenté en DCP 4K"
+      }
+    ],
+    "generique": [
+      "James Stewart",
+      "Richard Widmark",
+      "Shirley Jones"
+    ],
+    "adaptation": "D'après le roman _Comanche captives_ de Will Cook."
+  },
+  {
+    "titre": "E piccerella",
+    "titreVo": "",
+    "idFilm": 143438,
+    "ageMinimal": null,
+    "realisateurs": "Elvira Notari",
+    "annee": 1922,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans un café de Naples, Tore va tout faire pour conquérir la jeune Margaratella."
+      }
+    ]
+  },
+  {
+    "titre": "Elephant Man",
+    "art": "The",
+    "idFilm": 41661,
+    "ageMinimal": null,
+    "realisateurs": "David Lynch",
+    "annee": 1979,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1884, le chirurgien Frederick Treves libère John Merrick, un homme-éléphant, de la baraque foraine de Bytes où il est exhibé. Découvrant que Merrick n'est pas un attardé, il le soigne et décide de l'éduquer à l'hôpital."
+      }
+    ],
+    "generique": [
+      "John Hurt",
+      "Anthony Hopkins",
+      "John Gielgud"
+    ],
+    "adaptation": "D'après le livre _The Elephant man and other reminiscences_ de Frederick Treves.  \nD'après le livre _The Elephant man, a study in human dignity_ d'Ashley Montagu."
+  },
+  {
+    "titre": "Enfer des anges",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 47615,
+    "ageMinimal": null,
+    "realisateurs": "Christian-Jaque",
+    "annee": 1939,
+    "pays": "France"
+  },
+  {
+    "titre": "Etat second",
+    "titreVo": "Fearless",
+    "idFilm": 37831,
+    "ageMinimal": null,
+    "realisateurs": "Peter Weir",
+    "annee": 1993,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Max Klein, architecte, vit un terrible accident d'avion. Ce sera pour lui un nouveau départ."
+      }
+    ],
+    "generique": [
+      "Jeff Bridges",
+      "Benicio Del Toro",
+      "Isabella Rossellini",
+      "John Turturro"
+    ]
+  },
+  {
+    "titre": "Etreinte du destin",
+    "art": "L'",
+    "titreVo": "Count Three and Pray",
+    "idFilm": 29740,
+    "ageMinimal": null,
+    "realisateurs": "George Sherman",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À l'issue de la guerre de Sécession, Luke Fargo décide de changer de vie, d'oublier le joueur, bagarreur et coureur de jupons qu'il a été. S'il rentre chez lui, c'est désormais plein de bonnes intentions, dans les habits d'un pasteur pressé de reconstruire l'église locale. Mais son passé lui colle aux bottes et certains se chargent de le lui rappeler..."
+      }
+    ],
+    "generique": [
+      "Van Heflin",
+      "Joanne Woodward",
+      "Phil Carey"
+    ]
+  },
+  {
+    "titre": "Europe 51",
+    "titreVo": "Europa '51",
+    "idFilm": 45110,
+    "ageMinimal": null,
+    "realisateurs": "Roberto Rossellini",
+    "annee": 1951,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A la mort de son enfant, la femme d'un diplomate anglais décide de consacrer sa vie aux déshérités."
+      }
+    ],
+    "generique": [
+      "Ingrid Bergman",
+      "Alexander Knox",
+      "Ettore Giannini"
+    ]
+  },
+  {
+    "titre": "Fanchon le cricket",
+    "titreVo": "Fanchon the Cricket",
+    "idFilm": 122155,
+    "ageMinimal": 0,
+    "realisateurs": "James Kirkwood",
+    "annee": 1915,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Fanchon est une sauvageonne qui n'a peur de rien et vit recluse dans la forêt avec sa grand-mère Fadette, soupçonnée d'être une sorcière. Un jour elle rencontre Jeannot dont elle tombe amoureuse, mais il est déjà fiancé. Il s'agit du seul film où Mary Pickford, son frère Jack et sa sœur Lottie sont réunis à l'écran."
+      }
+    ],
+    "generique": [
+      "Mary Pickford",
+      "Jack Standing",
+      "Lottie Pickford"
+    ]
+  },
+  {
+    "titre": "Figaro",
+    "titreVo": "",
+    "idFilm": 50807,
+    "ageMinimal": null,
+    "realisateurs": "Gaston Ravel",
+    "annee": 1928,
+    "pays": "France",
+    "generique": [
+      "Edmond Van Duren",
+      "Arlette Marchal",
+      "Odette Talazac"
+    ],
+    "adaptation": "D'après les pièces : _ Le Mariage de Figaro, Le Barbier de Séville... _ de Beaumarchais."
+  },
+  {
+    "titre": "Fille d'Ecosse",
+    "titreVo": "Pride of the Clan",
+    "artVo": "The",
+    "idFilm": 37359,
+    "ageMinimal": null,
+    "realisateurs": "Maurice Tourneur",
+    "annee": 1917,
+    "pays": "États-Unis",
+    "generique": [
+      "Mary Pickford",
+      "Matt Moore",
+      "Kathryn Browne-Decker"
+    ]
+  },
+  {
+    "titre": "Francisca",
+    "titreVo": "",
+    "idFilm": 44005,
+    "ageMinimal": null,
+    "realisateurs": "Manoel de Oliveira",
+    "annee": 1981,
+    "pays": "Portugal",
+    "adaptation": "D'après le roman _Fanny Owen_ d'Agustina Bessa-Luís."
+  },
+  {
+    "titre": "Good morning Babylone",
+    "titreVo": "Good Morning Babilonia",
+    "idFilm": 42700,
+    "ageMinimal": null,
+    "realisateurs": "Paolo Taviani, Vittorio Taviani",
+    "annee": 1986,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pour sauver de la faillite la vieille entreprise familiale de restauration de monuments, Andrea et Nicola partent faire fortune aux Amériques. Rencontrant D.W. Griffith, ils vont alors tenter de se faire embaucher sur le tournage d'_Intolérance_."
+      }
+    ],
+    "generique": [
+      "Greta Scacchi"
+    ]
+  },
+  {
+    "titre": "Homme à la caméra",
+    "art": "L'",
+    "titreVo": "Celovek kinoapparatom",
+    "idFilm": 53328,
+    "ageMinimal": null,
+    "realisateurs": "Dziga Vertov",
+    "annee": 1929,
+    "pays": "URSS",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'homme à la caméra enregistre le mouvement de la ville."
+      }
+    ]
+  },
+  {
+    "titre": "Homme de la plaine",
+    "art": "L'",
+    "titreVo": "Man from Laramie",
+    "artVo": "The",
+    "idFilm": 44101,
+    "ageMinimal": null,
+    "realisateurs": "Anthony Mann",
+    "annee": 1954,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le capitaine Will traque un trafiquant d'armes qui vend des fusils aux Apaches."
+      }
+    ],
+    "generique": [
+      "James Stewart",
+      "Arthur Kennedy",
+      "Donald Crisp"
+    ]
+  },
+  {
+    "titre": "Hugo Cabret",
+    "titreVo": "Hugo",
+    "idFilm": 114721,
+    "ageMinimal": 6,
+    "realisateurs": "Martin Scorsese",
+    "annee": 2010,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Hugo, jeune orphelin, vit dans une gare parisienne. Il veut à tout prix ranimer le seul souvenir qui lui reste de son père : un automate. Sa rencontre avec un commerçant de la gare va tout changer."
+      }
+    ],
+    "generique": [
+      "Ben Kingsley",
+      "Sacha Baron Cohen",
+      "Asa Butterfield",
+      "Christopher Lee"
+    ],
+    "adaptation": "D'après le roman _L'Invention de Hugo Cabret_ de Brian Selznick."
+  },
+  {
+    "titre": "Infiltrés",
+    "art": "Les",
+    "titreVo": "Departed",
+    "artVo": "The",
+    "idFilm": 100572,
+    "ageMinimal": 0,
+    "realisateurs": "Martin Scorsese",
+    "annee": 2005,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pour mettre fin au règne du parrain Frank Costello, la police infiltre son gang avec « un bleu » issu des bas quartiers, Billy Costigan."
+      }
+    ],
+    "generique": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "adaptation": "D'après le film _Infernal Affairs_ de Wai-Keung Lau.  \nD'après le scénario du film _Infernal Affairs_ de Felix Chong et Siu Fai Mak."
+  },
+  {
+    "titre": "Insoutenable légèreté de l'être",
+    "art": "L'",
+    "titreVo": "Unbearable Lightness of Being",
+    "artVo": "The",
+    "idFilm": 46163,
+    "ageMinimal": null,
+    "realisateurs": "Philip Kaufman",
+    "annee": 1986,
+    "pays": "États-Unis",
+    "adaptation": "D'après le roman _L'insoutenable légèreté de l'être_ de Milan Kundera."
+  },
+  {
+    "titre": "Left luggage",
+    "titreVo": "",
+    "idFilm": 72024,
+    "ageMinimal": null,
+    "realisateurs": "Jeroen Krabbe",
+    "annee": 1998,
+    "pays": "Belgique-Pays-Bas-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Étudiante en philosophie au début des années 70, Chaja est une jeune juive « libérée ». Sa vie se voit bouleversée quand elle accepte de servir de nurse à Simcha, jeune juif âgé de 5 ans, élevé dans une obédience aux préceptes religieux."
+      }
+    ],
+    "generique": [
+      "Maximilian Schell",
+      "Isabella Rossellini"
+    ]
+  },
+  {
+    "titre": "Lit conjugal",
+    "art": "Le",
+    "titreVo": "Ape regina = Una storia moderna : L'ape regina",
+    "artVo": "L'",
+    "idFilm": 41829,
+    "ageMinimal": null,
+    "realisateurs": "Marco Ferreri",
+    "annee": 1962,
+    "pays": "Italie-France"
+  },
+  {
+    "titre": "Little American",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 101401,
+    "ageMinimal": null,
+    "realisateurs": "Cecil B. DeMille",
+    "annee": 1917,
+    "pays": "États-Unis",
+    "generique": [
+      "Mary Pickford",
+      "Ramon Novarro",
+      "Wallace Beery"
+    ]
+  },
+  {
+    "titre": "Los Olvidados",
+    "titreVo": "Olvidados",
+    "artVo": "Los",
+    "idFilm": 43223,
+    "ageMinimal": 0,
+    "realisateurs": "Luis Buñuel",
+    "annee": 1950,
+    "pays": "Mexique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "La vie criminelle d'un groupe d'enfants pauvres dans la banlieue de Mexico."
+      }
+    ],
+    "generique": [
+      "Estela Inda",
+      "Miguel Inclán",
+      "Alfonso Mejía"
+    ]
+  },
+  {
+    "titre": "Maison rouge",
+    "art": "La",
+    "titreVo": "Red House",
+    "artVo": "The",
+    "idFilm": 61711,
+    "ageMinimal": null,
+    "realisateurs": "Delmer Daves",
+    "annee": 1946,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Masque of the Red Death",
+    "titreVo": "",
+    "idFilm": 98751,
+    "ageMinimal": null,
+    "realisateurs": "Larry Brand",
+    "annee": 1989,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Maze",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 127895,
+    "ageMinimal": null,
+    "realisateurs": "William Cameron Menzies",
+    "annee": 1953,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "My Dad Is Hundred Years Old",
+    "titreVo": "",
+    "idFilm": 127413,
+    "ageMinimal": null,
+    "realisateurs": "Guy Maddin",
+    "annee": 2005,
+    "pays": "Canada",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le film est un portrait du célèbre cinéaste Roberto Rosselini par sa fille et actrice, Isabella."
+      }
+    ],
+    "generique": [
+      "Isabella Rossellini"
+    ]
+  },
+  {
+    "titre": "Naufragés de l'île de la Tortue",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 56895,
+    "ageMinimal": null,
+    "realisateurs": "Jacques Rozier",
+    "annee": 1974,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Employé d'une agence de voyages à Paris, Jean-Arthur Bonaventure et un collègue imaginent un projet inattendu de séjour touristique consistant à revivre sur une île déserte l'expérience de Robinson Crusoé. Ayant convaincu leur direction, tous deux vont s'envoler pour les Antilles afin d'accueillir les premiers vacanciers."
+      }
+    ],
+    "generique": [
+      "Pierre Richard",
+      "Jacques Villeret",
+      "Maurice Risch"
+    ]
+  },
+  {
+    "titre": "New York, New York",
+    "titreVo": "",
+    "idFilm": 36095,
+    "ageMinimal": 0,
+    "realisateurs": "Martin Scorsese",
+    "annee": 1977,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "New York, 1945, Johnny, saxophoniste, et Francine, chanteuse de swing, célèbrent la fin de la guerre avec leurs amis. L'histoire de deux êtres, tiraillés entre leur art et leur amour, d'auditions brillantes en scènes de ménage violentes."
+      }
+    ],
+    "generique": [
+      "Liza Minnelli",
+      "Robert De Niro",
+      "Lionel Stander"
+    ]
+  },
+  {
+    "titre": "Nuit de San Lorenzo",
+    "art": "La",
+    "titreVo": "Notte di San Lorenzo",
+    "artVo": "La",
+    "idFilm": 42717,
+    "ageMinimal": null,
+    "realisateurs": "Paolo Taviani, Vittorio Taviani",
+    "annee": 1981,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "La nuit du 10 août, celle de la San Lorenzo, une femme se souvient de celle de l'été 1944 où, pas même âgée de dix ans, elle vit sa petite ville de Toscane terrorisée par les exactions de l'armée allemande..."
+      }
+    ],
+    "generique": [
+      "Omero Antonutti",
+      "Margarita Lozano",
+      "Claudio Bigagli"
+    ]
+  },
+  {
+    "titre": "Papa longues jambes",
+    "titreVo": "Daddy Long Legs",
+    "idFilm": 35228,
+    "ageMinimal": 0,
+    "realisateurs": "Marshall Neilan",
+    "annee": 1919,
+    "pays": "États-Unis",
+    "generique": [
+      "Mary Pickford",
+      "Milla Davenport",
+      "Percy Haswell"
+    ],
+    "adaptation": "D'après le roman et la pièce _Daddy Long Legs_ de Jean Webster."
+  },
+  {
+    "titre": "Pâques sanglantes",
+    "titreVo": "Non c'è pace tra gli ulivi",
+    "idFilm": 41824,
+    "ageMinimal": null,
+    "realisateurs": "Giuseppe De Santis",
+    "annee": 1949,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sorti de la guerre, et de retour chez lui, Francesco retrouve sa famille dépouillée par leur voisin devenu riche durant le conflit. Avec le soutien de sa sœur Maria, Francesco va tenter de récupérer son bien et de délivrer Lucia de son emprise..."
+      }
+    ],
+    "generique": [
+      "Raf Vallone",
+      "Lucia Bosè"
+    ]
+  },
+  {
+    "titre": "Par l'entrée de service",
+    "titreVo": "Through the Back Door",
+    "idFilm": 84643,
+    "ageMinimal": null,
+    "realisateurs": "Alfred E. Green, Jack Pickford",
+    "annee": 1921,
+    "pays": "États-Unis",
+    "generique": [
+      "Mary Pickford",
+      "Gertrude Astor",
+      "Wilfred Lucas"
+    ]
+  },
+  {
+    "titre": "Pasqualino Settebellezze",
+    "titreVo": "",
+    "idFilm": 43991,
+    "ageMinimal": null,
+    "realisateurs": "Lina Wertmüller",
+    "annee": 1975,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le film dépeint la vie de Pasqualino, un mafieux un peu minable lorsque, déserteur de l'armée italienne, il est parachuté en Allemagne en pleine seconde guerre mondiale."
+      }
+    ],
+    "generique": [
+      "Giancarlo Giannini",
+      "Fernando Rey"
+    ]
+  },
+  {
+    "titre": "Petite Annie",
+    "art": "La",
+    "titreVo": "Little Annie Rooney",
+    "idFilm": 30519,
+    "ageMinimal": null,
+    "realisateurs": "William Beaudine",
+    "annee": 1925,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une jeune femme est confrontée à un drame lorsque son fiancé est accusé d'avoir tué son père policier."
+      }
+    ],
+    "generique": [
+      "Mary Pickford",
+      "William Haines",
+      "Walter James"
+    ]
+  },
+  {
+    "titre": "Peur",
+    "art": "La",
+    "titreVo": "Angst",
+    "idFilm": 42450,
+    "ageMinimal": 0,
+    "realisateurs": "Roberto Rossellini",
+    "annee": 1954,
+    "pays": "RFA-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une femme mariée à un industriel rompt avec son amant, mais une ancienne maîtresse de celui-ci la menace de tout dévoiler et commence à la faire chanter."
+      }
+    ],
+    "generique": [
+      "Ingrid Bergman",
+      "Mathias Wieman",
+      "Renate Mannhardt"
+    ],
+    "adaptation": "D'après le récit _Die Angst_ de Stefan Zweig."
+  },
+  {
+    "titre": "Pré",
+    "art": "Le",
+    "titreVo": "Prato",
+    "artVo": "Il",
+    "idFilm": 42728,
+    "ageMinimal": null,
+    "realisateurs": "Paolo Taviani, Vittorio Taviani",
+    "annee": 1979,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Quand Giovanni arrive à San Gimignano, dans un village de Toscane, il rencontre Eugenia, dont il tombe amoureux. Mais celle-ci est déjà l'amante d'Enzo, jeune garçon aux idées libertaires..."
+      }
+    ],
+    "generique": [
+      "Isabella Rossellini"
+    ]
+  },
+  {
+    "titre": "Professionnels",
+    "art": "Les",
+    "titreVo": "Professionals",
+    "artVo": "The",
+    "idFilm": 30682,
+    "ageMinimal": null,
+    "realisateurs": "Richard Brooks",
+    "annee": 1965,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1917, pendant la révolution mexicaine, Maria, la femme de Grant, un riche propriétaire terrien est enlevée par un bandit mexicain. Grant engage alors quatre professionnels pour la retrouver."
+      }
+    ],
+    "generique": [
+      "Burt Lancaster",
+      "Claudia Cardinale",
+      "Lee Marvin",
+      "Jack Palance"
+    ]
+  },
+  {
+    "titre": "Queen of Sheba Meets the Atom Man",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 143521,
+    "ageMinimal": null,
+    "realisateurs": "Ron Rice",
+    "annee": 2018,
+    "pays": "États-Unis"
+  },
+  {
+    "titre": "Rosita, chanteuse des rues",
+    "titreVo": "Rosita",
+    "idFilm": 34542,
+    "ageMinimal": null,
+    "realisateurs": "Ernst Lubitsch",
+    "annee": 1923,
+    "pays": "États-Unis",
+    "generique": [
+      "Mary Pickford"
+    ]
+  },
+  {
+    "titre": "Saddest Music in the World",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 90381,
+    "ageMinimal": null,
+    "realisateurs": "Guy Maddin",
+    "annee": 2003,
+    "pays": "Canada",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Durant la Grande Dépression, Lady Port-Huntly, baronne de la bière, décide d'organiser un concours de la musique la plus triste au monde. Des musiciens affluent alors de tous les pays pour tenter de remporter le prix de 25.000 dollars..."
+      }
+    ],
+    "generique": [
+      "Isabella Rossellini",
+      "Maria de Medeiros",
+      "Mark McKinney"
+    ]
+  },
+  {
+    "titre": "Sailor et Lula",
+    "titreVo": "Wild at Heart",
+    "idFilm": 34863,
+    "ageMinimal": 0,
+    "realisateurs": "David Lynch",
+    "annee": 1989,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sailor et Lula, deux jeunes amoureux, fuient Marietta, la mère de la jeune fille qui s'oppose à leurs amours, et plusieurs personnages dangereux et mystérieux qui les menacent."
+      }
+    ],
+    "generique": [
+      "Nicolas Cage",
+      "Laura Dern",
+      "Diane Lane",
+      "Willem Dafoe"
+    ],
+    "adaptation": "D'après le roman _Sailor et Lula_ de Barry Gifford."
+  },
+  {
+    "titre": "Signal de l'amour",
+    "art": "Le",
+    "titreVo": "Love Light",
+    "artVo": "The",
+    "idFilm": 113219,
+    "ageMinimal": null,
+    "realisateurs": "Frances Marion",
+    "annee": 1921,
+    "pays": "États-Unis",
+    "generique": [
+      "Mary Pickford"
+    ]
+  },
+  {
+    "titre": "Stratégie de l'araignée",
+    "art": "La",
+    "titreVo": "Strategia del ragno",
+    "artVo": "La",
+    "idFilm": 43348,
+    "ageMinimal": null,
+    "realisateurs": "Bernardo Bertolucci",
+    "annee": 1969,
+    "pays": "Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune homme, Athos, retrouve le village de son enfance. Son père y est mort l'année de sa naissance, assassiné par les Chemises noires."
+      }
+    ],
+    "generique": [
+      "Alida Valli",
+      "Giulio Brogi",
+      "Tino Scotti"
+    ],
+    "adaptation": "D'après le roman _Thème du traître et du héros_ de Jorge Luis Borges."
+  },
+  {
+    "titre": "Titanic",
+    "titreVo": "",
+    "idFilm": 29089,
+    "ageMinimal": null,
+    "realisateurs": "James Cameron",
+    "annee": 1996,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1912\\. Le paquebot le plus grand et le plus moderne du monde, le « Titanic », appareille pour son premier voyage. Quatre jours plus tard, il heurte un iceberg. A son bord, un artiste pauvre et une jeune bourgeoise tombent amoureux."
+      }
+    ],
+    "generique": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ]
+  },
+  {
+    "titre": "Vie criminelle d'Archibald de la Cruz",
+    "art": "La",
+    "titreVo": "Ensayo de un crimen",
+    "idFilm": 43104,
+    "ageMinimal": 0,
+    "realisateurs": "Luis Buñuel",
+    "annee": 1955,
+    "pays": "Mexique",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme dispose, grâce à une boîte à musique magique, du pouvoir de faire mourir les femmes simplement en souhaitant leur mort."
+      }
+    ],
+    "generique": [
+      "Ernesto Alonso",
+      "Miroslava Stern",
+      "Rita Macedo"
+    ],
+    "adaptation": "D'après le roman _Ensayo de un crimen_ de Rodolfo Usigli."
+  },
+  {
+    "titre": "Voyage en Italie",
+    "titreVo": "Viaggio in Italia",
+    "idFilm": 42673,
+    "ageMinimal": 0,
+    "realisateurs": "Roberto Rossellini",
+    "annee": 1953,
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À l'occasion d'un voyage d'affaires à Naples, un couple d'Anglais doit faire face au risque de sa séparation. Chacun de son côté, l'un et l'autre font l'expérience de l'Italie."
+      }
+    ],
+    "generique": [
+      "Ingrid Bergman",
+      "George Sanders",
+      "Maria Mauban"
+    ]
+  },
+  {
+    "titre": "Vrais durs ne dansent pas",
+    "art": "Les",
+    "titreVo": "Tough Guys Don't Dance",
+    "idFilm": 33668,
+    "ageMinimal": null,
+    "realisateurs": "Norman Mailer",
+    "annee": 1987,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'écrivain Tom Madden sombre dans l'alcoolisme. Un jour, il se réveille en découvrant du sang dans sa voiture et, dans sa planque à marijuana, la tête coupée d'une belle blonde platine. Il mène alors l'enquête."
+      }
+    ],
+    "generique": [
+      "Ryan O'Neal",
+      "Isabella Rossellini"
+    ]
+  }
+]
