@@ -14,7 +14,7 @@ Deux tueurs à gages sont chargés d'exécuter un homme. Étonnamment, il ne leu
 de Don Siegel  
 États-Unis / 1954  
 Avec John Derek, Diana Lynn, Kevin McCarthy.  
-Deux frères aux caractères opposés entrent dans l'académie navale américaine. Alors que le pays est sur le point d'intervenir militairement en Corée, ils tombent amoureux de la même femme.
+Deux frères aux caractères opposés entrent à l'Académie navale. Alors que le pays est sur le point d'intervenir militairement en Corée, ils tombent amoureux de la même femme.
 
 Copie Technicolor.
 
@@ -240,7 +240,7 @@ de Don Siegel
 États-Unis / 1970  
 D'après le roman _The Beguiled_ de Thomas Cullinan.  
 Avec Clint Eastwood, Geraldine Page, Elizabeth Hartman.  
-John McBurney, soldat nordiste blessé, est recueilli côté sudiste dans un pensionnat pour jeunes filles. Il joue de son charme pour ne pas être dénoncé une fois soigné. Mais sa stratégie le place dans une situation périlleuse.
+John McBurney, soldat nordiste blessé, est recueilli côté sudiste dans un pensionnat pour jeunes filles. Il joue de son charme pour ne pas être dénoncé une fois soigné. Mais son stratagème le place dans une situation périlleuse.
 
 [142829]  
 **La Quatrième dimension : Le Recyclage de Salvadore Ross**  
