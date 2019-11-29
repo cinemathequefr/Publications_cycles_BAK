@@ -1,0 +1,325 @@
+[
+  {
+    "titre": "Aimer, boire et chanter",
+    "titreVo": "",
+    "idFilm": 122610,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 2013,
+    "pays": "France"
+  },
+  {
+    "titre": "Amour à mort",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 50864,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1984,
+    "pays": "France"
+  },
+  {
+    "titre": "Année dernière à Marienbad",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 50865,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1960,
+    "pays": "France-Italie",
+    "generique": [
+      "Giorgio Albertazzi",
+      "Delphine Seyrig",
+      "Sacha Pitoëff"
+    ]
+  },
+  {
+    "titre": "Chant du styrène",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 58726,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1958,
+    "pays": "France"
+  },
+  {
+    "titre": "Cœurs",
+    "titreVo": "",
+    "idFilm": 100322,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 2006,
+    "pays": "France",
+    "generique": [
+      "Sabine Azéma",
+      "Isabelle Carré",
+      "Laura Morante"
+    ],
+    "adaptation": "D'après la pièce _Private fears in public places_ d'Alan Ayckbourn."
+  },
+  {
+    "titre": "Gershwin",
+    "titreVo": "",
+    "idFilm": 50866,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1992,
+    "pays": "France"
+  },
+  {
+    "titre": "Guernica",
+    "titreVo": "",
+    "idFilm": 50867,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais, Robert Hessens",
+    "annee": 1949,
+    "pays": "France"
+  },
+  {
+    "titre": "Guerre est finie",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 50868,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1965,
+    "pays": "France-Suède",
+    "generique": [
+      "Yves Montand",
+      "Ingrid Thulin",
+      "Geneviève Bujold",
+      "Jean Bouise"
+    ]
+  },
+  {
+    "titre": "Herbes folles",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 108190,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 2008,
+    "pays": "France-Italie",
+    "generique": [
+      "André Dussollier",
+      "Sabine Azéma",
+      "Anne Consigny"
+    ],
+    "adaptation": "D'après le roman _L'Incident_ de Christian Gailly."
+  },
+  {
+    "titre": "Hiroshima, mon amour",
+    "titreVo": "",
+    "idFilm": 50869,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1958,
+    "pays": "France-Japon",
+    "generique": [
+      "Emmanuelle Riva",
+      "Eiji Okada",
+      "Stella Dassas"
+    ]
+  },
+  {
+    "titre": "Je t'aime, je t'aime",
+    "titreVo": "",
+    "idFilm": 50886,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1967,
+    "pays": "France",
+    "generique": [
+      "Claude Rich",
+      "Olga Georges-Picot",
+      "Anouk Ferjac"
+    ]
+  },
+  {
+    "titre": "Mélo",
+    "titreVo": "",
+    "idFilm": 50887,
+    "ageMinimal": 0,
+    "realisateurs": "Alain Resnais",
+    "annee": 1986,
+    "pays": "France",
+    "generique": [
+      "Sabine Azéma",
+      "Fanny Ardant",
+      "Pierre Arditi",
+      "André Dussollier"
+    ]
+  },
+  {
+    "titre": "Mon oncle d'Amérique",
+    "titreVo": "",
+    "idFilm": 50888,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1979,
+    "pays": "France",
+    "generique": [
+      "Gérard Depardieu",
+      "Nicole Garcia",
+      "Roger Pierre"
+    ]
+  },
+  {
+    "titre": "Muriel ou le temps d'un retour",
+    "titreVo": "",
+    "idFilm": 50889,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1962,
+    "pays": "France-Italie",
+    "generique": [
+      "Delphine Seyrig",
+      "Jean-Pierre Kérien",
+      "Nita Klein"
+    ]
+  },
+  {
+    "titre": "No smoking",
+    "titreVo": "",
+    "idFilm": 55379,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1993,
+    "pays": "France",
+    "generique": [
+      "Pierre Arditi",
+      "Sabine Azéma",
+      "Peter Hudson"
+    ]
+  },
+  {
+    "titre": "Nuit et brouillard",
+    "titreVo": "",
+    "idFilm": 50890,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1955,
+    "pays": "France",
+    "generique": [
+      "Michel Bouquet"
+    ]
+  },
+  {
+    "titre": "On connaît la chanson",
+    "titreVo": "",
+    "idFilm": 29021,
+    "ageMinimal": 10,
+    "realisateurs": "Alain Resnais",
+    "annee": 1997,
+    "pays": "France",
+    "generique": [
+      "Pierre Arditi",
+      "Sabine Azéma",
+      "Jean-Pierre Bacri"
+    ]
+  },
+  {
+    "titre": "Paul Gauguin",
+    "titreVo": "",
+    "idFilm": 74895,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1949,
+    "pays": "France"
+  },
+  {
+    "titre": "Providence",
+    "titreVo": "",
+    "idFilm": 50891,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1976,
+    "pays": "France-Grande-Bretagne-Suisse"
+  },
+  {
+    "titre": "Smoking",
+    "titreVo": "",
+    "idFilm": 52306,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1993,
+    "pays": "France-Suisse",
+    "generique": [
+      "Pierre Arditi",
+      "Sabine Azéma",
+      "Peter Hudson"
+    ]
+  },
+  {
+    "titre": "Statues meurent aussi",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 50892,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais, Chris Marker",
+    "annee": 1953,
+    "pays": "France",
+    "generique": [
+      "Jean Négroni"
+    ]
+  },
+  {
+    "titre": "Stavisky",
+    "titreVo": "",
+    "idFilm": 50893,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1973,
+    "pays": "France-Italie"
+  },
+  {
+    "titre": "Toute la mémoire du monde",
+    "titreVo": "",
+    "idFilm": 50894,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1956,
+    "pays": "France",
+    "generique": [
+      "Jacques Dumesnil",
+      "Gérard Willemetz",
+      "Anne Sarraute"
+    ]
+  },
+  {
+    "titre": "Van Gogh",
+    "titreVo": "",
+    "idFilm": 46896,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1948,
+    "pays": "France"
+  },
+  {
+    "titre": "Vie est un roman",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 50895,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1982,
+    "pays": "France"
+  },
+  {
+    "titre": "Vous n'avez encore rien vu",
+    "titreVo": "",
+    "idFilm": 115825,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 2011,
+    "pays": "France-Allemagne",
+    "generique": [
+      "Mathieu Amalric",
+      "Pierre Arditi",
+      "Sabine Azéma",
+      "Jean-Noël Brouté"
+    ],
+    "adaptation": "D'après les pièces de théâtre _Eurydice_ et _Cher Antoine ou l'amour raté_ de Jean Anouilh."
+  }
+]
