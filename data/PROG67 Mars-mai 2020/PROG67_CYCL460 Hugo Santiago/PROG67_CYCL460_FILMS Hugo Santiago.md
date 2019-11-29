@@ -1,5 +1,10 @@
 # Hugo Santiago
 
+[143577]  
+**Aquilea : Nueve pequeños films sobre invasion**  
+d'Alejo Moguillansky  
+Argentine / 2008
+
 [51061]*  
 **Les Autres**  
 de Hugo Santiago  
@@ -8,6 +13,11 @@ Avec Patrice Dally, Noëlle Chatelet, Daniel Vignat.
 Un père cherche à élucider le mystère du suicide de son fils. Au cours de sa quête, ses rencontres et ses découvertes l'amènent à s'identifier à de nombreux personnages. Inconsciemment, il perd peu à peu sa véritable identité.
 
 > (Site) Un père cherche à élucider le mystère du suicide de son fils. Au cours de sa quête, ses rencontres et ses découvertes l'amènent à s'identifier à de nombreux personnages. Inconsciemment, il perd peu à peu sa véritable identité.
+
+[143578]  
+**Borges/Santiago : Variaciones sobre un guion**  
+d'Alejo Moguillansky  
+Argentine / 2008
 
 [142520]  
 **Christophe Coin, le musicien**  

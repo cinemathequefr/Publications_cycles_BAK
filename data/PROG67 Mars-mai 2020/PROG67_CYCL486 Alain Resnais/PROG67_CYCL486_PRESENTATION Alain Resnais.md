@@ -25,6 +25,6 @@ Alain Resnais, mort et vivant.
 
 Claire Vassé
 
-[^1]: Serge Daney, « Resnais et l'"écriture du désastre" », _Libération_, 21 avril 1983, repris dans _Ciné-journal_, Vol. II, Cahiers du cinéma, 1986 ; coll. « Petite bibliothèque des Cahiers du cinéma », 1999, pp. 28-29.
+[^1]: Serge Daney, « Resnais et l'"écriture du désastre" », _Libération_, 21 avril 1983, repris dans _Ciné-journal_, Vol. II, Cahiers du cinéma, 1986 ; coll. Petite bibliothèque des Cahiers du cinéma, 1999, pp. 28-29.
 
-[^2]: Robert Benayoun, _Alain Resnais arpenteur de l'imaginaire_, Stock, 1980 ; éd. augmentée, Ramsay, coll. « Ramsay poche cinéma », 1986, p. 248.
+[^2]: Robert Benayoun, _Alain Resnais arpenteur de l'imaginaire_, Stock, 1980 ; éd. augmentée, Ramsay, coll. Ramsay poche cinéma, 1986, p. 248.
