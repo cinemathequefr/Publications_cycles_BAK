@@ -2,7 +2,8 @@
 
 [142769]  
 **Les Amis**  
-**(Tomodachi / ともだち)**  
+**(Tomodachi)**  
+**(ともだち)**  
 de Hiroshi Shimizu  
 Japon / 1940  
 Avec Konparu Minamizato, Jun Yokoyama, Sheng-Chun Li.  
@@ -10,7 +11,8 @@ Court métrage tourné en Corée pendant la Seconde Guerre mondiale et montrant 
 
 [142778]  
 **L'Amour d'une mère**  
-**(Bojô / 母情)**  
+**(Bojô)**  
+**(母情)**  
 de Hiroshi Shimizu  
 Japon / 1950  
 Avec Nijiko Kiyokawa, Musei Tokugawa, Yataro Kurokawa.  
@@ -18,7 +20,8 @@ Une mère infortunée est obligée de confier ses enfants, de pères différents
 
 [142749]  
 **L'Avancée de l'armée**  
-**(Rikugun daikoshin / 陸軍大行進)**  
+**(Rikugun daikoshin)**  
+**(陸軍大行進)**  
 de Hiroshi Shimizu, Yasushi Sasakibara  
 Japon / 1932  
 Avec Kazuo Hasegawa, Eigoro Onoe, Kokichi Takada.  
@@ -28,7 +31,8 @@ Copie muette, partiellement sonore.
 
 [142779]  
 **Ce que sont devenus les enfants de la ruche**  
-**(Sono go no hachi no su no kodomotachi / その後の蜂の巣の子供達)**  
+**(Sono go no hachi no su no kodomotachi)**  
+**(その後の蜂の巣の子供達)**  
 de Hiroshi Shimizu  
 Japon / 1951  
 Avec Nobue Baba, Mitsuo Harada, Yutaka Iwamoto.  
@@ -36,7 +40,8 @@ Suite des _Enfants de la ruche_, tourné en 1948.
 
 [72105]  
 **Chants pour la victoire**  
-**(Hisshôka / 必勝歌)**  
+**(Hisshôka)**  
+**(必勝歌)**  
 de Masahiro Makino, Kenji Mizoguchi, Hiroshi Shimizu, Tomotaka Tasaka  
 Japon / 1946  
 Avec Reikichi Kawamura, Isamu Kosugi, Kôji Mitsui.  
@@ -44,7 +49,8 @@ Treize histoires exaltant les mérites du patriotisme japonais en temps de guerr
 
 [142774]  
 **Les Châtaignes et les fruits de la passion**  
-**(Donguri to shii no mi / 団栗と椎の実)**  
+**(Donguri to shii no mi)**  
+**(団栗と椎の実)**  
 de Hiroshi Shimizu  
 Japon / 1941  
 Avec Kenji Oyama, Kinuko Wakamizu, Norio Ôtsuka.  
@@ -54,7 +60,8 @@ Copie neuve.
 
 [142775]  
 **Le Chœur de l'aube**  
-**(Akatsuki no gasshô / 暁の合唱)**  
+**(Akatsuki no gasshô)**  
+**(暁の合唱)**  
 de Hiroshi Shimizu  
 Japon / 1941  
 Avec Michiyo Kogure, Takeshi Sakamoto, Mitsuko Yoshikawa.  
@@ -62,7 +69,8 @@ Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et 
 
 [142776]  
 **La Cloche de Sayon**  
-**(Sayon no kane / サヨンの鐘)**  
+**(Sayon no kane)**  
+**(サヨンの鐘)**  
 de Hiroshi Shimizu  
 Japon / 1942  
 Avec Shirley Yamaguchi, Toshiaki Konoe, Kenji Oyama.  
@@ -70,7 +78,8 @@ Taïwan, 1938. L'histoire vraie de Sayon, une jeune femme issue des tribus abori
 
 [142782]  
 **Dans les bas-quartiers de Yokocho**  
-**(Mogura yokochô / もぐら横丁)**  
+**(Mogura yokochô)**  
+**(もぐら横丁)**  
 de Hiroshi Shimizu  
 Japon / 1953  
 Avec Shûji Sano, Shigeru Amachi, Minoru Chiaki, Yoshirô Katagiri.  
@@ -78,7 +87,8 @@ L'écrivain Kazuo Ogata ne parvient pas à vivre de son métier. Sa jeune épous
 
 [72943]  
 **La Danseuse**  
-**(Odoriko / 踊子)**  
+**(Odoriko)**  
+**(踊子)**  
 de Hiroshi Shimizu  
 Japon / 1957  
 Avec Machiko Kyô, Chikage Awashima, Eiji Funakoshi.  
@@ -86,7 +96,8 @@ Hanae travaille comme danseuse de revue dans une salle d'Asakusa et son mari l'a
 
 [142719]  
 **Debout au carrefour**  
-**(Kiro ni tachite / 岐路に立ちて)**  
+**(Kiro ni tachite)**  
+**(岐路に立ちて)**  
 de Hiroshi Shimizu  
 Japon / 1930  
 Avec Hiroko Kawasaki, Kenji Kimura, Takeshi Sakamoto.  
@@ -96,7 +107,8 @@ Copie neuve.
 
 [142755]  
 **Le Démon de l'or**  
-**(Konjiki yasha / 金色夜叉)**  
+**(Konjiki yasha)**  
+**(金色夜叉)**  
 de Hiroshi Shimizu  
 Japon / 1937  
 Avec Daijirô Natsukawa, Hiroko Kawasaki, Sôjin Kamiyama.  
@@ -104,7 +116,8 @@ Omiya et Kanichi se fréquentent depuis des années et semblent promis l'un à l
 
 [142752]  
 **Éclipse**  
-**(Kinkanshoku / 金環蝕)**  
+**(Kinkanshoku)**  
+**(金環蝕)**  
 de Hiroshi Shimizu  
 Japon / 1934  
 Avec Mitsugu Fujii, Hiroko Kawasaki, Michiko Kuwano.  
@@ -114,7 +127,8 @@ Version musiquée. Copie 35 mm National Film Archive of Japan.
 
 [142784]  
 **L'École Shiinomi**  
-**(Shiinomi gakuen / しいのみ学園)**  
+**(Shiinomi gakuen)**  
+**(しいのみ学園)**  
 de Hiroshi Shimizu  
 Japon / 1955  
 Avec Kyôko Kagawa, Yukiko Shimazaki, Ranko Hanai.  
@@ -122,7 +136,8 @@ Un professeur en psychologie et son épouse décident de fonder une école pour 
 
 [139731]  
 **Les Enfants de la ruche**  
-**(Hachi no su no kodomotachi / 蜂の巣の子供たち)**  
+**(Hachi no su no kodomotachi)**  
+**(蜂の巣の子供たち)**  
 de Hiroshi Shimizu  
 Japon / 1948  
 Avec Shunsaku Shimamura, Masako Natsuki, Shoichi Gosho.  
@@ -130,7 +145,8 @@ Un soldat rapatrié du front rencontre dix petits orphelins qui, sous la coupe d
 
 [142781]  
 **Les Enfants du Grand Bouddha**  
-**(Daibutsu sama to kodomotachi / 大仏さまと子供たち)**  
+**(Daibutsu sama to kodomotachi)**  
+**(大仏さまと子供たち)**  
 de Hiroshi Shimizu  
 Japon / 1952  
 Avec Yutaka Iwamoto, Ayako Akabori, Yoshimasa Chiba.  
@@ -138,7 +154,8 @@ Des orphelins de guerre se rassemblent dans Nara, ville historique épargnée pa
 
 [142789]  
 **Les Enfants qui ont besoin d'une mère**  
-**(Haha o motomeru kora / 母を求める子等)**  
+**(Haha o motomeru kora)**  
+**(母を求める子等)**  
 de Hiroshi Shimizu  
 Japon / 1956  
 Avec Hiromitsu Hattori, Eiji Hirota, Noriko Hodaka.  
@@ -146,7 +163,8 @@ Une mère recherche son enfant disparu.
 
 [91079]  
 **L'Épingle à cheveux ornementale**  
-**(Kanzashi / 簪)**  
+**(Kanzashi)**  
+**(簪)**  
 de Hiroshi Shimizu  
 Japon / 1941  
 Avec Kinuyo Tanaka, Shin'ichi Himori, Kanji Kawahara.  
@@ -154,7 +172,8 @@ Dans une station thermale, un pensionnaire se blesse en posant le pied sur une �
 
 [142750]  
 **La Femme qui pleure au printemps**  
-**(Nakinureta haru no onna yo / 泣き濡れた春の女よ)**  
+**(Nakinureta haru no onna yo)**  
+**(泣き濡れた春の女よ)**  
 de Hiroshi Shimizu  
 Japon / 1933  
 Avec Akiko Chihaya, Ryuko Fuji, Shizue Hyôdô.  
@@ -164,7 +183,8 @@ Premier film sonore de Shimizu.
 
 [100286]  
 **Le Forgeron de la fôret**  
-**(Mori no kajiya / 森の鍛冶屋)**  
+**(Mori no kajiya)**  
+**(森の鍛冶屋)**  
 de Hiroshi Shimizu  
 Japon / 1929  
 Avec Masao Inoue, Kaoru Futaba, Kinuyo Tanaka.  
@@ -174,7 +194,8 @@ Mélodrame inspiré du _Forgeron du village_ de John Ford.
 
 [142788]  
 **Fou de pitié**  
-**(Ninjô baka / 人情馬鹿)**  
+**(Ninjô baka)**  
+**(人情馬鹿)**  
 de Hiroshi Shimizu  
 Japon / 1956  
 Avec Rieko Sumi, Keiko Fujita, Eiji Funakoshi.  
@@ -182,7 +203,8 @@ Un client vole de l'argent pour les beaux yeux de Yuri, diva d'un cabaret, mais 
 
 [142786]  
 **L'Histoire de Jiro**  
-**(Jirô monogatari / 次郎物語)**  
+**(Jirô monogatari)**  
+**(次郎物語)**  
 de Hiroshi Shimizu  
 Japon / 1955  
 Avec Michiyo Kogure, Ichirô Ryûzaki, Junko Ikeuchi.  
@@ -190,7 +212,8 @@ Jiro, placé dans une famille d'adoption, est repris sept ans plus tard par ses 
 
 [142814]  
 **L'Image d'une mère**  
-**(Haha no omokage / 母のおもかげ)**  
+**(Haha no omokage)**  
+**(母のおもかげ)**  
 de Hiroshi Shimizu  
 Japon / 1959  
 Avec Jun Negami, Michihiro Môri, Chikage Awashima.  
@@ -198,7 +221,8 @@ La relation tortueuse entre une belle-mère et son fils.
 
 [142813]  
 **L'Itinéraire d'une mère**  
-**(Haha no tabiji / 母の旅路)**  
+**(Haha no tabiji)**  
+**(母の旅路)**  
 de Hiroshi Shimizu  
 Japon / 1958  
 Avec Keiko Chihaya, Tadashi Date, Murasaki Fujima.  
@@ -206,7 +230,8 @@ Avec Keiko Chihaya, Tadashi Date, Murasaki Fujima.
 
 [142751]  
 **Le Jeune universitaire**  
-**(Daigaku no Wakadanna / 大学の若旦那)**  
+**(Daigaku no Wakadanna)**  
+**(大学の若旦那)**  
 de Hiroshi Shimizu  
 Japon / 1933  
 Avec Mitsugu Fujii, Harurô Takeda, Yoshiko Tsubouchi.  
@@ -216,7 +241,8 @@ Copie 35 mm National Film Archive of Japan avec musique de la partition original
 
 [122752]  
 **Jeunes filles japonaises sur le port**  
-**(Minato no nihonmusume / 港の日本娘)**  
+**(Minato no nihonmusume)**  
+**(港の日本娘)**  
 de Hiroshi Shimizu  
 Japon / 1933  
 Avec Michiko Oikawa, Yukiko Inoue, Ureo Egawa.  
@@ -226,7 +252,8 @@ Copie National Film Archive of Japan.
 
 [142761]  
 **Journal d'une famille**  
-**(Katei nikki / 家庭日記)**  
+**(Katei nikki)**  
+**(家庭日記)**  
 de Hiroshi Shimizu  
 Japon / 1938  
 Avec Hideo Fujino, Kaoru Futaba, Michiko Kuwano.  
@@ -234,7 +261,8 @@ Deux amis d'enfance qui s'étaient perdus de vue se retrouvent des années plus 
 
 [91131]  
 **Journal d'une femme médecin**  
-**(Joi no kiroku / 女医の記録)**  
+**(Joi no kiroku)**  
+**(女医の記録)**  
 de Hiroshi Shimizu  
 Japon / 1941  
 Avec Kinuyo Tanaka, Chiyoko Fumiya, Shin Saburi.  
@@ -242,14 +270,15 @@ Un groupe d'infirmières s'arrête dans un village pour y dispenser des soins gr
 
 [142770]  
 **Keijô**  
-**(undefined京城)**  
+**(京城)**  
 de Hiroshi Shimizu  
 Japon / 1940  
 Portrait de la ville de Séoul, alors rebaptisée Keijô, produit à la demande de la compagnie des chemins de fer coréens pendant l'occupation japonaise.
 
 [142772]  
 **Mémoires d'une chanteuse ambulante**  
-**(Uta-jo oboegaki / 歌女おぼえ書)**  
+**(Uta-jo oboegaki)**  
+**(歌女おぼえ書)**  
 de Hiroshi Shimizu  
 Japon / 1941  
 Avec Yaeko Mizutani, Ken Uehara, Hideo Fujino.  
@@ -257,7 +286,8 @@ Uta, une chanteuse ambulante, épouse le fils d'un grossiste en thé. Pendant qu
 
 [139094]  
 **Monsieur Merci**  
-**(Arigatô-san / 有りがたうさん)**  
+**(Arigatô-san)**  
+**(有りがたうさん)**  
 de Hiroshi Shimizu  
 Japon / 1937  
 Avec Ken Uehara, Ryuji Ishiyama, Michiko Kuwano.  
@@ -265,7 +295,8 @@ Avec Ken Uehara, Ryuji Ishiyama, Michiko Kuwano.
 
 [142777]  
 **Monsieur Shosuke Ohara**  
-**(Ohara Shôsuke-san / 小原庄助さん)**  
+**(Ohara Shôsuke-san)**  
+**(小原庄助さん)**  
 de Hiroshi Shimizu  
 Japon / 1949  
 Avec Akiko Kazami, Denjiro Okochi, Reiko Miyagawa.  
@@ -273,7 +304,7 @@ Ohara descend d'une lignée prestigieuse. Il fait preuve de générosité dans s
 
 [142768]  
 **Nobuko**  
-**(undefined信子)**  
+**(信子)**  
 de Hiroshi Shimizu  
 Japon / 1940  
 Avec Shinobu Aoki, Mitsuko Higashiyama, Shin'ichi Himori.  
@@ -281,7 +312,8 @@ Nobuko arrive de province pour enseigner dans une école pour filles. Elle est m
 
 [142756]  
 **Oublier même l'amour**  
-**(恋も忘れて / undefined)**  
+**(Koi mo wasurete)**  
+**(恋も忘れて)**  
 de Hiroshi Shimizu  
 Japon / 1937  
 Avec Michiko Kuwano, Shûji Sano, Tomio Aoki.  
@@ -289,7 +321,8 @@ Dans une ville portuaire, une mère célibataire s'occupe seule de son fils et t
 
 [142716]  
 **Les Parents**  
-**(Oya / 親)**  
+**(Oya)**  
+**(親)**  
 de Hiroshi Shimizu  
 Japon / 1929  
 Avec Mariko Aoyama, Arai Atsushi, Kanji Kawahara.  
@@ -297,7 +330,8 @@ Un homme infortuné est contraint d'abandonner sa fille aux abords d'un sanctuai
 
 [142718]  
 **Perle éternelle**  
-**(Fue no shiratama / 不壊の白珠)**  
+**(Fue no shiratama)**  
+**(不壊の白珠)**  
 de Hiroshi Shimizu  
 Japon / 1929  
 Avec Arai Atsushi, Satoko Date, Yôko Fujita.  
@@ -305,7 +339,8 @@ Toshie est amoureuse de Narita, mais il épouse sa sœur cadette.
 
 [142787]  
 **Pourquoi sont-elles devenues ainsi ?**  
-**(Naze kanojora wa sô natta ka / 何故彼女等はそうなったか)**  
+**(Naze kanojora wa sô natta ka)**  
+**(何故彼女等はそうなったか)**  
 de Hiroshi Shimizu  
 Japon / 1956  
 Avec Kyôko Kagawa, Toyo Takahashi, Konomi Fuji.  
@@ -313,7 +348,8 @@ Le quotidien d'une école pour filles au passé malheureux.
 
 [142783]  
 **Le Profil de la ville**  
-**(Tokai no yokogao / 都会の横顔)**  
+**(Tokai no yokogao)**  
+**(都会の横顔)**  
 de Hiroshi Shimizu  
 Japon / 1953  
 Avec Ineko Arima, Michiyo Kogure, Ryô Ikebe.  
@@ -321,7 +357,8 @@ Asako, venue faire des achats à Tokyo, perd sa fille dans la foule. L'enfant es
 
 [142764]  
 **Les Quatre saisons des enfants**  
-**(Kodomo no shiki / 子供の四季)**  
+**(Kodomo no shiki)**  
+**(子供の四季)**  
 de Hiroshi Shimizu  
 Japon / 1939  
 Avec Teruo Furuya, Masao Hayama, Shin'ichi Himori.  
@@ -329,7 +366,8 @@ Une année dans la vie de deux enfants, qui, ayant perdu leur père, doivent emm
 
 [142728]  
 **Les Sept mers : Chasteté**  
-**(Nanatsu no umi, kôhen: Teiso-hen / 七つの海 後篇 貞操篇)**  
+**(Nanatsu no umi, kôhen: Teiso-hen)**  
+**(七つの海 後篇 貞操篇)**  
 de Hiroshi Shimizu  
 Japon / 1932  
 Avec Arai Atsushi, Satoko Date, Ureo Egawa.  
@@ -337,7 +375,8 @@ Mariée à Takehiko, la jeune Yumie est bien décidée à faire chambre à part,
 
 [142727]  
 **Les Sept mers : Virginité**  
-**(Nanatsu no umi, zenpen: Shojo-hen / 七つの海 前篇 処女篇)**  
+**(Nanatsu no umi, zenpen: Shojo-hen)**  
+**(七つの海 前篇 処女篇)**  
 de Hiroshi Shimizu  
 Japon / 1932  
 Avec Arai Atsushi, Satoko Date, Ureo Egawa.  
@@ -345,7 +384,8 @@ Fiancée à Yuzuru, le rejeton d'une riche famille, Yumie est violée par Takehi
 
 [142812]  
 **Le Son de la brume**  
-**(Kiri no oto / 霧の音)**  
+**(Kiri no oto)**  
+**(霧の音)**  
 de Hiroshi Shimizu  
 Japon / 1956  
 Avec Ken Uehara, Michiyo Kogure, Keizo Kawasaki.  
@@ -353,7 +393,8 @@ Dans une hutte au cœur des Alpes japonaises, un botaniste observe deux jeunes m
 
 [142780]  
 **Sous les fleurs de pêchers**  
-**(Momo no hana no saku shita de / 桃の花の咲く下で)**  
+**(Momo no hana no saku shita de)**  
+**(桃の花の咲く下で)**  
 de Hiroshi Shimizu  
 Japon / 1951  
 Avec Shizuko Kasagi, Ranko Hanai, Shin'ichi Himori.  
@@ -361,7 +402,8 @@ Artiste de _kamishibai_, Amiko rencontre un grand succès auprès des enfants. M
 
 [142771]  
 **La Tour d'introspection**  
-**(Mikaheri no tô / みかへりの搭)**  
+**(Mikaheri no tô)**  
+**(みかへりの搭)**  
 de Hiroshi Shimizu  
 Japon / 1941  
 Avec Chimura Enoki, Teruo Furuya, Mamiko Harada.  
@@ -369,7 +411,8 @@ La vie quotidienne dans un centre de redressement pour enfants difficiles, entre
 
 [142722]  
 **Un amour étincelant**  
-**(Kagayaku ai / かがやく愛)**  
+**(Kagayaku ai)**  
+**(かがやく愛)**  
 de Hiroshi Shimizu  
 Japon / 1931  
 Avec Tatsuko Fuji, Teruyo Hayami, Shôichi Kofujita.  
@@ -379,7 +422,8 @@ Film muet avec accompagnement musical, effets sonores et un commentaire _benshi_
 
 [38110]  
 **Un enfant dans le vent**  
-**(Kaze no naka no kodomo / 風の中の子供)**  
+**(Kaze no naka no kodomo)**  
+**(風の中の子供)**  
 de Hiroshi Shimizu  
 Japon / 1937  
 Avec Reikichi Kawamura, Mitsuko Yoshikawa, Masao Hayama.  
@@ -387,7 +431,8 @@ Après l'emprisonnement de son père, un garçon est envoyé à la campagne pour
 
 [122584]  
 **Un héros de Tokyo**  
-**(Tokyo no eiyu / 東京の英雄)**  
+**(Tokyo no eiyu)**  
+**(東京の英雄)**  
 de Hiroshi Shimizu  
 Japon / 1935  
 Avec Mitsugu Fujii, Mitsuko Yoshikawa, Yukichi Iwata.  
@@ -397,7 +442,8 @@ L'homme d'affaires Nemoto se remarie et son fils Kanichi doit s'intégrer à la 
 
 [122753]  
 **Une femme et son masseur**  
-**(Anma to onna / 按摩と女)**  
+**(Anma to onna)**  
+**(按摩と女)**  
 de Hiroshi Shimizu  
 Japon / 1938  
 Avec Shin'ichi Himori, Ayuko Hirano, Toru Hirose.  
@@ -405,7 +451,8 @@ Chassés-croisés dans une station thermale autour d'un masseur aveugle, prompt 
 
 [142757]  
 **Une vedette du sport**  
-**(Hanagata senshu / 花形選手)**  
+**(Hanagata senshu)**  
+**(花形選手)**  
 de Hiroshi Shimizu  
 Japon / 1937  
 Avec Shûji Sano, Shin'ichi Himori, Toshiaki Konoe.  
@@ -413,7 +460,8 @@ Deux jeunes étudiants, Seki, « la vedette du sport », et son rival acharné, 
 
 [142785]  
 **Les Vieux bouddhas de Nara**  
-**(Nara ni wa furuki butsutachi / 奈良には古き仏たち)**  
+**(Nara ni wa furuki butsutachi)**  
+**(奈良には古き仏たち)**  
 de Hiroshi Shimizu  
 Japon / 1953  
 Court métrage réalisé en même temps que _Les Enfants du Grand Bouddha_. Certaines séquences ont été mises en scène par le futur scénariste Shinnichi Sekizawa, alors assistant réalisateur.
@@ -422,7 +470,8 @@ Copie neuve.
 
 [142720]  
 **La Voie lactée**  
-**(Ginga / 銀河)**  
+**(Ginga)**  
+**(銀河)**  
 de Hiroshi Shimizu  
 Japon / 1931  
 Avec Shin'ichi Himori, Ryokichi Ishida, Hiroko Kawasaki.  
