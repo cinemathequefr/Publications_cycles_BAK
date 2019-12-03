@@ -1,5 +1,26 @@
 [
   {
+    "titre": "À la croisée des chemins",
+    "titreVo": "Kiro ni tachite",
+    "titreNx": "岐路に立ちて",
+    "idFilm": 142719,
+    "ageMinimal": 0,
+    "realisateurs": "Hiroshi Shimizu",
+    "annee": 1930,
+    "pays": "Japon",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Désespéré de ne pas trouver un travail à Tokyo, un jeune campagnard rentre au pays et survit grâce à la pension de retraite de sa mère. Film publicitaire pour l'épargne retraite de la poste japonaise."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie neuve."
+      }
+    ],
+    "generique": ["Hiroko Kawasaki", "Kenji Kimura", "Takeshi Sakamoto"]
+  },
+  {
     "titre": "Amis",
     "art": "Les",
     "titreVo": "Tomodachi",
@@ -126,6 +147,28 @@
     "generique": ["Kenji Oyama", "Kinuko Wakamizu", "Norio Otsuka"]
   },
   {
+    "titre": "Cheminement d'une mère",
+    "art": "Le",
+    "titreVo": "Haha no tabiji",
+    "titreNx": "母の旅路",
+    "idFilm": 142813,
+    "ageMinimal": null,
+    "realisateurs": "Hiroshi Shimizu",
+    "annee": 1958,
+    "pays": "Japon",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une ancienne acrobate de cirque vit mal son statut de femme de la haute société que lui offre son mari fortuné. Elle retourne au cirque, mais doit y affronter la concurrence de sa propre fille."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie National Film Archive of Japan."
+      }
+    ],
+    "generique": ["Aiko Mimasu", "Tatsuko Niki", "Atsuko Kindaichi"]
+  },
+  {
     "titre": "Chœur de l'aube",
     "art": "Le",
     "titreVo": "Akatsuki no gassho",
@@ -210,27 +253,6 @@
     "adaptation": "D'après le roman _Odoriko_ de Kafu Nagai."
   },
   {
-    "titre": "À la croisée des chemins",
-    "titreVo": "Kiro ni tachite",
-    "titreNx": "岐路に立ちて",
-    "idFilm": 142719,
-    "ageMinimal": 0,
-    "realisateurs": "Hiroshi Shimizu",
-    "annee": 1930,
-    "pays": "Japon",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Désespéré de ne pas trouver un travail à Tokyo, un jeune campagnard rentre au pays et survit grâce à la pension de retraite de sa mère. Film publicitaire pour l'épargne retraite de la poste japonaise."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Copie neuve."
-      }
-    ],
-    "generique": ["Hiroko Kawasaki", "Kenji Kimura", "Takeshi Sakamoto"]
-  },
-  {
     "titre": "Démon de l'or",
     "art": "Le",
     "titreVo": "Konjiki yasha",
@@ -291,28 +313,6 @@
       }
     ],
     "generique": ["Kyoko Kagawa", "Yukiko Shimazaki", "Ranko Hanai"]
-  },
-  {
-    "titre": "Un enfant dans le vent",
-    "titreVo": "Kaze no naka no kodomo",
-    "titreNx": "風の中の子供",
-    "idFilm": 38110,
-    "ageMinimal": null,
-    "realisateurs": "Hiroshi Shimizu",
-    "annee": 1937,
-    "pays": "Japon",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Après l'emprisonnement de son père, un garçon est envoyé à la campagne pour vivre avec son oncle."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Film présenté à la Mostra de Venise en 1938."
-      }
-    ],
-    "generique": ["Reikichi Kawamura", "Mitsuko Yoshikawa", "Masao Hayama"],
-    "adaptation": "D'après le roman _Kaze no naka no kodomo_ de Joji Tsubota."
   },
   {
     "titre": "Enfants de la ruche",
@@ -396,25 +396,22 @@
     "adaptation": "D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse."
   },
   {
-    "titre": "Voici les femmes du printemps qui pleure",
-    "titreVo": "Naki nureta haru no onna yo",
-    "titreNx": "泣き濡れた春の女よ",
-    "idFilm": 142750,
-    "ageMinimal": null,
+    "titre": "Équipe vedette",
+    "art": "L'",
+    "titreVo": "Hanagata senshu",
+    "titreNx": "花形選手",
+    "idFilm": 142757,
+    "ageMinimal": 0,
     "realisateurs": "Hiroshi Shimizu",
-    "annee": 1933,
+    "annee": 1937,
     "pays": "Japon",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Deux jeunes vagabonds, Ohama et Kenji, débarquent dans une ville industrielle de Hokkaido pour devenir, elle hôtesse de bar, lui mineur de fonds. Leur couple est bientôt mis à mal par des rivalités amoureuses."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Premier film entièrement parlant de Shimizu. Copie National Film Archive of Japan."
+        "texte": "Des étudiants partis en manœuvre s'intéressent moins à leur formation militaire qu'aux gens qu'ils croisent sur la route. Un soir, l'un deux surprend Seki, le champion d'athlétisme de l'université, en galante compagnie."
       }
     ],
-    "generique": ["Yoshiko Okada", "Den Obinata", "Akiko Chihaya"]
+    "generique": ["Shuji Sano", "Ryu Chishu", "Shin'ichi Himori"]
   },
   {
     "titre": "Forgeron de la fôret",
@@ -501,49 +498,6 @@
     "generique": ["Jun Negami", "Michihiro Mori", "Chikage Awashima"]
   },
   {
-    "titre": "Cheminement d'une mère",
-    "art": "Le",
-    "titreVo": "Haha no tabiji",
-    "titreNx": "母の旅路",
-    "idFilm": 142813,
-    "ageMinimal": null,
-    "realisateurs": "Hiroshi Shimizu",
-    "annee": 1958,
-    "pays": "Japon",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Une ancienne acrobate de cirque vit mal son statut de femme de la haute société que lui offre son mari fortuné. Elle retourne au cirque, mais doit y affronter la concurrence de sa propre fille."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Copie National Film Archive of Japan."
-      }
-    ],
-    "generique": ["Aiko Mimasu", "Tatsuko Niki", "Atsuko Kindaichi"]
-  },
-  {
-    "titre": "Un jeune héritier à l'université",
-    "titreVo": "Daigaku no wakadanna",
-    "titreNx": "大学の若旦那",
-    "idFilm": 142751,
-    "ageMinimal": null,
-    "realisateurs": "Hiroshi Shimizu",
-    "annee": 1933,
-    "pays": "Japon",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Fujii a été exclu du club de rugby de son université pour avoir amené une geisha sur le stade. Depuis, il mène une vie dissolue au grand dam de son père, riche marchand, à qui il doit succéder."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Copie 35 mm National Film Archive of Japan avec musique de la partition originale."
-      }
-    ],
-    "generique": ["Mitsugu Fujii", "Haruro Takeda", "Yoshiko Tsubouchi"]
-  },
-  {
     "titre": "Jeunes filles japonaises sur le port",
     "titreVo": "Minato no Nihon musume",
     "titreNx": "港の日本娘",
@@ -628,23 +582,6 @@
     ]
   },
   {
-    "titre": "Notes d'une chanteuse ambulante",
-    "titreVo": "Uta-jo oboegaki",
-    "titreNx": "歌女おぼえ書",
-    "idFilm": 142772,
-    "ageMinimal": null,
-    "realisateurs": "Hiroshi Shimizu",
-    "annee": 1941,
-    "pays": "Japon",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Uta, une chanteuse ambulante, épouse le fils d'un grossiste en thé. Pendant qu'il poursuit ses études à Tokyo, elle s'occupe de sa belle-famille. Mais Uta fait l'objet d'une rumeur et tout le monde se méfie d'elle."
-      }
-    ],
-    "generique": ["Yaeko Mizutani", "Ken Uehara", "Hideo Fujino"]
-  },
-  {
     "titre": "Monsieur Merci",
     "titreVo": "Arigato-san",
     "titreNx": "有りがたうさん",
@@ -698,6 +635,23 @@
     ],
     "generique": ["Mieko Takamine", "Mitsuko Miura", "Fumiko Okamura"],
     "adaptation": "D'après le roman _Nobuko_ de Bunroku Shishi."
+  },
+  {
+    "titre": "Notes d'une chanteuse ambulante",
+    "titreVo": "Uta-jo oboegaki",
+    "titreNx": "歌女おぼえ書",
+    "idFilm": 142772,
+    "ageMinimal": null,
+    "realisateurs": "Hiroshi Shimizu",
+    "annee": 1941,
+    "pays": "Japon",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Uta, une chanteuse ambulante, épouse le fils d'un grossiste en thé. Pendant qu'il poursuit ses études à Tokyo, elle s'occupe de sa belle-famille. Mais Uta fait l'objet d'une rumeur et tout le monde se méfie d'elle."
+      }
+    ],
+    "generique": ["Yaeko Mizutani", "Ken Uehara", "Hideo Fujino"]
   },
   {
     "titre": "Oublier même l'amour",
@@ -783,23 +737,6 @@
     "adaptation": "D'après un roman de Toshihiko Takeda."
   },
   {
-    "titre": "Un autre visage de la ville",
-    "titreVo": "Tokai no yokogao",
-    "titreNx": "都会の横顔",
-    "idFilm": 142783,
-    "ageMinimal": null,
-    "realisateurs": "Hiroshi Shimizu",
-    "annee": 1953,
-    "pays": "Japon",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Asako, venue faire des achats à Tokyo, perd sa fille dans la foule. L'enfant est recueillie par un homme-sandwich et une cireuse de chaussures qui tentent par tous les moyens de retrouver sa mère."
-      }
-    ],
-    "generique": ["Ineko Arima", "Sachiki Atami", "Ryo Ikebe"]
-  },
-  {
     "titre": "Quatre saisons des enfants",
     "art": "Les",
     "titreVo": "Kodomo no shiki: harunatsu no maki, akifuyu no maki",
@@ -823,29 +760,6 @@
     "adaptation": "D'après le roman _Kodomo no shiki_ de Joji Tsubota."
   },
   {
-    "titre": "Sept mers, partie 2 : Chasteté",
-    "art": "Les",
-    "titreVo": "Nanatsu no umi, kohen: Teiso-hen",
-    "titreNx": "七つの海・後篇・貞操篇",
-    "idFilm": 142728,
-    "ageMinimal": 0,
-    "realisateurs": "Hiroshi Shimizu",
-    "annee": 1932,
-    "pays": "Japon",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Mariée malgré elle à Takehiko, la jeune Yumie est bien décidée destinée à se venger en faisant chambre à part. Son comportement dépensier jettera l'opprobre sur son honorable belle-famille."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Copie National Film Archive of Japan."
-      }
-    ],
-    "generique": ["Hiroko Kawasaki", "Ichiro Yuki", "Ureo Egawa"],
-    "adaptation": "D'après le roman _Nanatsu no umi_ d'Itsuma Maki."
-  },
-  {
     "titre": "Sept mers, partie 1 : Virginité",
     "art": "Les",
     "titreVo": "Nanatsu no umi, zenpen: Shojo-hen",
@@ -866,6 +780,29 @@
       }
     ],
     "generique": ["Hiroko Kawasaki", "Sachiko Murase", "Atsushi Arai"],
+    "adaptation": "D'après le roman _Nanatsu no umi_ d'Itsuma Maki."
+  },
+  {
+    "titre": "Sept mers, partie 2 : Chasteté",
+    "art": "Les",
+    "titreVo": "Nanatsu no umi, kohen: Teiso-hen",
+    "titreNx": "七つの海・後篇・貞操篇",
+    "idFilm": 142728,
+    "ageMinimal": 0,
+    "realisateurs": "Hiroshi Shimizu",
+    "annee": 1932,
+    "pays": "Japon",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Mariée malgré elle à Takehiko, la jeune Yumie est bien décidée destinée à se venger en faisant chambre à part. Son comportement dépensier jettera l'opprobre sur son honorable belle-famille."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie National Film Archive of Japan."
+      }
+    ],
+    "generique": ["Hiroko Kawasaki", "Ichiro Yuki", "Ureo Egawa"],
     "adaptation": "D'après le roman _Nanatsu no umi_ d'Itsuma Maki."
   },
   {
@@ -955,6 +892,45 @@
     "generique": ["Tatsuko Fuji", "Teruyo Hayami", "Shoichi Kofujita"]
   },
   {
+    "titre": "Un autre visage de la ville",
+    "titreVo": "Tokai no yokogao",
+    "titreNx": "都会の横顔",
+    "idFilm": 142783,
+    "ageMinimal": null,
+    "realisateurs": "Hiroshi Shimizu",
+    "annee": 1953,
+    "pays": "Japon",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Asako, venue faire des achats à Tokyo, perd sa fille dans la foule. L'enfant est recueillie par un homme-sandwich et une cireuse de chaussures qui tentent par tous les moyens de retrouver sa mère."
+      }
+    ],
+    "generique": ["Ineko Arima", "Sachiki Atami", "Ryo Ikebe"]
+  },
+  {
+    "titre": "Un enfant dans le vent",
+    "titreVo": "Kaze no naka no kodomo",
+    "titreNx": "風の中の子供",
+    "idFilm": 38110,
+    "ageMinimal": null,
+    "realisateurs": "Hiroshi Shimizu",
+    "annee": 1937,
+    "pays": "Japon",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Après l'emprisonnement de son père, un garçon est envoyé à la campagne pour vivre avec son oncle."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film présenté à la Mostra de Venise en 1938."
+      }
+    ],
+    "generique": ["Reikichi Kawamura", "Mitsuko Yoshikawa", "Masao Hayama"],
+    "adaptation": "D'après le roman _Kaze no naka no kodomo_ de Joji Tsubota."
+  },
+  {
     "titre": "Un héros de Tokyo",
     "titreVo": "Tokyo no eiyu",
     "titreNx": "東京の英雄",
@@ -976,6 +952,27 @@
     "generique": ["Mitsugu Fujii", "Mitsuko Yoshikawa", "Yukichi Iwata"]
   },
   {
+    "titre": "Un jeune héritier à l'université",
+    "titreVo": "Daigaku no wakadanna",
+    "titreNx": "大学の若旦那",
+    "idFilm": 142751,
+    "ageMinimal": null,
+    "realisateurs": "Hiroshi Shimizu",
+    "annee": 1933,
+    "pays": "Japon",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Fujii a été exclu du club de rugby de son université pour avoir amené une geisha sur le stade. Depuis, il mène une vie dissolue au grand dam de son père, riche marchand, à qui il doit succéder."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie 35 mm National Film Archive of Japan avec musique de la partition originale."
+      }
+    ],
+    "generique": ["Mitsugu Fujii", "Haruro Takeda", "Yoshiko Tsubouchi"]
+  },
+  {
     "titre": "Une femme et son masseur",
     "titreVo": "Anma to onna",
     "titreNx": "按摩と女",
@@ -991,24 +988,6 @@
       }
     ],
     "generique": ["Shin'ichi Himori", "Mieko Takamine", "Shin Tokudaiji"]
-  },
-  {
-    "titre": "Équipe vedette",
-    "art": "L'",
-    "titreVo": "Hanagata senshu",
-    "titreNx": "花形選手",
-    "idFilm": 142757,
-    "ageMinimal": 0,
-    "realisateurs": "Hiroshi Shimizu",
-    "annee": 1937,
-    "pays": "Japon",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Des étudiants partis en manœuvre s'intéressent moins à leur formation militaire qu'aux gens qu'ils croisent sur la route. Un soir, l'un deux surprend Seki, le champion d'athlétisme de l'université, en galante compagnie."
-      }
-    ],
-    "generique": ["Shuji Sano", "Ryu Chishu", "Shin'ichi Himori"]
   },
   {
     "titre": "Vieux bouddhas de Nara",
@@ -1030,6 +1009,27 @@
         "texte": "Copie neuve."
       }
     ]
+  },
+  {
+    "titre": "Voici les femmes du printemps qui pleure",
+    "titreVo": "Naki nureta haru no onna yo",
+    "titreNx": "泣き濡れた春の女よ",
+    "idFilm": 142750,
+    "ageMinimal": null,
+    "realisateurs": "Hiroshi Shimizu",
+    "annee": 1933,
+    "pays": "Japon",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux jeunes vagabonds, Ohama et Kenji, débarquent dans une ville industrielle de Hokkaido pour devenir, elle hôtesse de bar, lui mineur de fonds. Leur couple est bientôt mis à mal par des rivalités amoureuses."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Premier film entièrement parlant de Shimizu. Copie National Film Archive of Japan."
+      }
+    ],
+    "generique": ["Yoshiko Okada", "Den Obinata", "Akiko Chihaya"]
   },
   {
     "titre": "Voie lactée",
