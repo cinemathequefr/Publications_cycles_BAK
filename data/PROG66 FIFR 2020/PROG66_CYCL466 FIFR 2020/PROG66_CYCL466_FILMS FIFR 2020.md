@@ -10,6 +10,11 @@ Un homme dangereux est capturé dans une petite ville. On persuade un éleveur d
 
 > (Site) Un homme dangereux est capturé dans une petite ville. On persuade un éleveur de convoyer en secret le hors-la-loi par le train de Yuma en échange d'une forte prime.
 
+[91760]  
+**6-18-67**  
+de George Lucas  
+États-Unis / 1967
+
 [35278]  
 **A Little Princess**  
 de Marshall Neilan  
@@ -160,6 +165,11 @@ de Maurice Tourneur
 États-Unis / 1917  
 Avec Mary Pickford, Matt Moore, Kathryn Browne-Decker.
 
+[87804]  
+**Filmmaker**  
+de George Lucas  
+États-Unis / 1968
+
 [44005]*  
 **Francisca**  
 de Manoel de Oliveira  
@@ -167,6 +177,16 @@ Portugal / 1981
 D'après le roman _Fanny Owen_ d'Agustina Bessa-Luís.
 
 > (Site) Au milieu du XIXe siècle, un écrivain et son ami José Augusto tombent amoureux des deux sœurs Owen. José Augusto est amoureux de Marie, c'est Fanny qu'il enlève une nuit.
+
+[143589]  
+**François Truffaut, Film Maker**  
+de Michael Darlow  
+Grande-Bretagne / 1973
+
+[143586]  
+**Giger's Alien**  
+de H.R. Giger  
+Suisse / 1979
 
 [42700]  
 **Good morning Babylone**  
@@ -257,6 +277,21 @@ La vie criminelle d'un groupe d'enfants pauvres dans la banlieue de Mexico.
 **(The Red House)**  
 de Delmer Daves  
 États-Unis / 1946
+
+[143590]  
+**The Making of Empire Strikes Back**  
+de Michel Parbot  
+France / 1980
+
+[143588]  
+**Making of l'Armée des ombres**  
+de Selim Sasson  
+France / 1969
+
+[143587]  
+**Making of Subway**  
+de Jean-Hugues Anglade  
+France / 1986
 
 [98751]  
 **Masque of the Red Death**  
@@ -375,6 +410,16 @@ Avec Burt Lancaster, Claudia Cardinale, Lee Marvin, Jack Palance.
 de Ron Rice  
 États-Unis / 2018
 
+[143585]  
+**Regie : Billy Wilder**  
+de Charlotte Kerr  
+RFA / 1977
+
+[143583]  
+**Report from Hollywood**  
+d'Edward Lachman  
+États-Unis / 1982
+
 [34542]*  
 **Rosita, chanteuse des rues**  
 **(Rosita)**  
@@ -402,6 +447,12 @@ Sailor et Lula, deux jeunes amoureux, fuient Marietta, la mère de la jeune fill
 
 > (Site) Sailor et Lula, deux jeunes amoureux, fuient Marietta, la mère de la jeune fille qui s'oppose à leurs amours, et plusieurs personnages dangereux et mystérieux qui les menacent.
 
+[80017]  
+**Sam Fuller and the Big Red One**  
+de Thys Ockersen  
+Pays-Bas / 1979  
+Avec Samuel Fuller, Lee Marvin, Keith Carradine.
+
 [113219]  
 **Le Signal de l'amour**  
 **(The Love Light)**  
@@ -428,6 +479,11 @@ Avec Leonardo DiCaprio, Kate Winslet, Billy Zane.
 1912\. Le paquebot le plus grand et le plus moderne du monde, le « Titanic », appareille pour son premier voyage. Quatre jours plus tard, il heurte un iceberg. A son bord, un artiste pauvre et une jeune bourgeoise tombent amoureux.
 
 > (Site) 1912\. Le paquebot le plus grand et le plus moderne du monde, le _Titanic_, appareille pour son premier voyage. Quatre jours plus tard, il heurte un iceberg. À son bord, un artiste pauvre et une jeune bourgeoise tombent amoureux.
+
+[101073]  
+**To Woody Allen from Europe with love**  
+d'André Delvaux  
+Belgique / 1980
 
 [43104]*  
 **La Vie criminelle d'Archibald de la Cruz**  

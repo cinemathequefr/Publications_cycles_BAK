@@ -20,6 +20,15 @@
     ]
   },
   {
+    "titre": "6-18-67",
+    "titreVo": "",
+    "idFilm": 91760,
+    "ageMinimal": null,
+    "realisateurs": "George Lucas",
+    "annee": 1967,
+    "pays": "États-Unis"
+  },
+  {
     "titre": "A Little Princess",
     "titreVo": "",
     "idFilm": 35278,
@@ -354,6 +363,15 @@
     ]
   },
   {
+    "titre": "Filmmaker",
+    "titreVo": "",
+    "idFilm": 87804,
+    "ageMinimal": null,
+    "realisateurs": "George Lucas",
+    "annee": 1968,
+    "pays": "États-Unis"
+  },
+  {
     "titre": "Francisca",
     "titreVo": "",
     "idFilm": 44005,
@@ -362,6 +380,24 @@
     "annee": 1981,
     "pays": "Portugal",
     "adaptation": "D'après le roman _Fanny Owen_ d'Agustina Bessa-Luís."
+  },
+  {
+    "titre": "François Truffaut, Film Maker",
+    "titreVo": "",
+    "idFilm": 143589,
+    "ageMinimal": null,
+    "realisateurs": "Michael Darlow",
+    "annee": 1973,
+    "pays": "Grande-Bretagne"
+  },
+  {
+    "titre": "Giger's Alien",
+    "titreVo": "",
+    "idFilm": 143586,
+    "ageMinimal": null,
+    "realisateurs": "H.R. Giger",
+    "annee": 1979,
+    "pays": "Suisse"
   },
   {
     "titre": "Good morning Babylone",
@@ -552,6 +588,34 @@
     "realisateurs": "Delmer Daves",
     "annee": 1946,
     "pays": "États-Unis"
+  },
+  {
+    "titre": "Making of Empire Strikes Back",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 143590,
+    "ageMinimal": null,
+    "realisateurs": "Michel Parbot",
+    "annee": 1980,
+    "pays": "France"
+  },
+  {
+    "titre": "Making of l'Armée des ombres",
+    "titreVo": "",
+    "idFilm": 143588,
+    "ageMinimal": null,
+    "realisateurs": "Selim Sasson",
+    "annee": 1969,
+    "pays": "France"
+  },
+  {
+    "titre": "Making of Subway",
+    "titreVo": "",
+    "idFilm": 143587,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Hugues Anglade",
+    "annee": 1986,
+    "pays": "France"
   },
   {
     "titre": "Masque of the Red Death",
@@ -817,6 +881,24 @@
     "pays": "États-Unis"
   },
   {
+    "titre": "Regie : Billy Wilder",
+    "titreVo": "",
+    "idFilm": 143585,
+    "ageMinimal": null,
+    "realisateurs": "Charlotte Kerr",
+    "annee": 1977,
+    "pays": "RFA"
+  },
+  {
+    "titre": "Report from Hollywood",
+    "titreVo": "",
+    "idFilm": 143583,
+    "ageMinimal": null,
+    "realisateurs": "Edward Lachman",
+    "annee": 1982,
+    "pays": "États-Unis"
+  },
+  {
     "titre": "Rosita, chanteuse des rues",
     "titreVo": "Rosita",
     "idFilm": 34542,
@@ -870,6 +952,20 @@
       "Willem Dafoe"
     ],
     "adaptation": "D'après le roman _Sailor et Lula_ de Barry Gifford."
+  },
+  {
+    "titre": "Sam Fuller and the Big Red One",
+    "titreVo": "",
+    "idFilm": 80017,
+    "ageMinimal": null,
+    "realisateurs": "Thys Ockersen",
+    "annee": 1979,
+    "pays": "Pays-Bas",
+    "generique": [
+      "Samuel Fuller",
+      "Lee Marvin",
+      "Keith Carradine"
+    ]
   },
   {
     "titre": "Signal de l'amour",
@@ -927,6 +1023,15 @@
       "Kate Winslet",
       "Billy Zane"
     ]
+  },
+  {
+    "titre": "To Woody Allen from Europe with love",
+    "titreVo": "",
+    "idFilm": 101073,
+    "ageMinimal": null,
+    "realisateurs": "André Delvaux",
+    "annee": 1980,
+    "pays": "Belgique"
   },
   {
     "titre": "Vie criminelle d'Archibald de la Cruz",
