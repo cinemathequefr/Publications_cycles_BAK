@@ -1,4 +1,4 @@
-# Toute la mémoire du monde
+# FIFR 2020
 
 [31564]*  
 **3 heures 10 pour Yuma**  
@@ -60,6 +60,11 @@ de Budd Boetticher
 États-Unis / 1959  
 Avec Randolph Scott, Karen Steele, Pernell Roberts, Lee Van Cleef.  
 Dans l'espoir d'attirer le meurtrier sa femme dans un piège et de pouvoir enfin se venger, un chasseur de primes capture le frère de l'assassin présumé.
+
+[143559]  
+**Color Correction**  
+de Margaret Honda  
+États-Unis / 2015
 
 [45414]  
 **Cow-Boy**  
@@ -160,6 +165,8 @@ Avec Mary Pickford, Matt Moore, Kathryn Browne-Decker.
 de Manoel de Oliveira  
 Portugal / 1981  
 D'après le roman _Fanny Owen_ d'Agustina Bessa-Luís.
+
+> (Site) Au milieu du XIXe siècle, un écrivain et son ami José Augusto tombent amoureux des deux sœurs Owen. José Augusto est amoureux de Marie, c'est Fanny qu'il enlève une nuit.
 
 [42700]  
 **Good morning Babylone**  
@@ -430,6 +437,8 @@ Mexique / 1955
 D'après le roman _Ensayo de un crimen_ de Rodolfo Usigli.  
 Avec Ernesto Alonso, Miroslava Stern, Rita Macedo.  
 Un homme dispose, grâce à une boîte à musique magique, du pouvoir de faire mourir les femmes simplement en souhaitant leur mort.
+
+> (Site) Après la mort accidentelle suspecte d'une jeune infirmière, Archibald de la Cruz, grand bourgeois de Mexico, se confie au juge et lui fait le récit de ses pulsions de tueur de femmes.
 
 [42673]*  
 **Voyage en Italie**  
