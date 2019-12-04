@@ -22,6 +22,11 @@
           "titre": "Séries TV",
           "cats": [2125],
           "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2214],
+          "tri": 4
         }
       ]
     },
@@ -33,6 +38,11 @@
           "titre": "Les films",
           "cats": [2052],
           "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2217],
+          "tri": 4
         }
       ]
     },
@@ -49,6 +59,11 @@
           "titre": "Autour de Hugo Santiago",
           "cats": [2122],
           "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2218],
+          "tri": 4
         }
       ]
     },
@@ -60,6 +75,27 @@
           "titre": "Les films",
           "cats": [2082],
           "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2213],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 455,
+      "titreCycle": "Louis de Funès",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2049],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2220],
+          "tri": 4
         }
       ]
     },
@@ -71,6 +107,43 @@
           "titre": "Les films",
           "cats": [2050],
           "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2216],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 459,
+      "titreCycle": "Elizabeth Taylor",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2053],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2215],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 475,
+      "titreCycle": "Jean-Daniel Pollet",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2198],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2219],
+          "tri": 4
         }
       ]
     },
@@ -82,8 +155,34 @@
           "titre": "Les films",
           "cats": [2221],
           "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2223],
+          "tri": 4
         }
       ]
+    },
+    {
+      "idCycleProg": 485,
+      "titreCycle": "Séances Jeune public",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 487,
+      "titreCycle": "Cinéma français des années 1950",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2226],
+          "tri": 1
+        }
+      ]
+    },
+    {
+      "idCycleProg": 472,
+      "titreCycle": "Archi Vives",
+      "sousCycles": []
     }
   ]
 }

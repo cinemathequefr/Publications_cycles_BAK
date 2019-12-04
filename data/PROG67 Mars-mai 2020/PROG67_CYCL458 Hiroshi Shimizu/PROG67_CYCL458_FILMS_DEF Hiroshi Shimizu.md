@@ -177,7 +177,7 @@ Un soldat rapatrié du front rencontre dix petits orphelins qui, sous la coupe d
 de Hiroshi Shimizu  
 Japon / 1952  
 Avec Yutaka Iwamoto, Ayako Akabori, Yoshimasa Chiba.  
-Des orphelins de guerre se rassemblent dans Nara, ville historique épargnée par les bombardiers américains. Venant en aide aux bonzes, ils s'improvisent guides touristiques. Troisième volet du triptyique des « films de la ruche ».
+Des orphelins de guerre se rassemblent dans Nara, ville historique épargnée par les bombardiers américains. Venant en aide aux bonzes, ils s'improvisent guides touristiques. Troisième volet du « triptyque de la ruche ».
 
 Copie National Film Archive of Japan.
 

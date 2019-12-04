@@ -3,10 +3,12 @@
   "titre": "Septembre-novembre 2019",
   "dateFrom": "",
   "dateTo": "",
-  "cycles": [{
+  "cycles": [
+    {
       "idCycleProg": 11,
       "titreCycle": "Séances spéciales",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Journées du matrimoine 2019",
           "cats": [2105],
           "tri": 4
@@ -21,16 +23,19 @@
     {
       "idCycleProg": 13,
       "titreCycle": "Cinéma d'avant-garde",
-      "sousCycles": [{
-        "titre": "Maisons, masures et cambuses aux images",
-        "cats": [2039],
-        "tri": 4
-      }]
+      "sousCycles": [
+        {
+          "titre": "Maisons, masures et cambuses aux images",
+          "cats": [2039],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 14,
       "titreCycle": "Cinéma bis",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Polars et action à la française",
           "cats": [2077],
           "tri": 4
@@ -45,16 +50,19 @@
     {
       "idCycleProg": 18,
       "titreCycle": "Conservatoire des techniques cinématographiques",
-      "sousCycles": [{
-        "titre": "",
-        "cats": [1856, 2035],
-        "tri": 4
-      }]
+      "sousCycles": [
+        {
+          "titre": "",
+          "cats": [1856, 2035],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 140,
       "titreCycle": "Aujourd'hui le cinéma",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Mikhaël Hers",
           "cats": [2031],
           "tri": 4
@@ -130,7 +138,8 @@
     {
       "idCycleProg": 143,
       "titreCycle": "Fenêtres sur les collections",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Sur les rails",
           "cats": [2107],
           "tri": 4
@@ -145,25 +154,30 @@
     {
       "idCycleProg": 152,
       "titreCycle": "Parlons cinéma avec Arnaud Desplechin",
-      "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2041],
-        "tri": 1
-      }]
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2041],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 192,
       "titreCycle": "Ciné-club Jean Douchet",
-      "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2040],
-        "tri": 4
-      }]
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2040],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 229,
       "titreCycle": "Nicholas Ray",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Les films",
           "cats": [1020],
           "tri": 1
@@ -178,7 +192,8 @@
     {
       "idCycleProg": 328,
       "titreCycle": "Vampires au cinéma",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Soirée d'ouverture",
           "cats": [2108],
           "tri": 4
@@ -213,7 +228,8 @@
     {
       "idCycleProg": 337,
       "titreCycle": "Sterling Hayden",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Les films",
           "cats": [1556],
           "tri": 1
@@ -228,7 +244,8 @@
     {
       "idCycleProg": 341,
       "titreCycle": "James Gray",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Les films",
           "cats": [1577],
           "tri": 1
@@ -243,16 +260,19 @@
     {
       "idCycleProg": 346,
       "titreCycle": "Georg Wilhelm Pabst",
-      "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1585],
-        "tri": 1
-      }]
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [1585],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 351,
       "titreCycle": "Guy Debord",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Les films",
           "cats": [1590],
           "tri": 4
@@ -267,7 +287,8 @@
     {
       "idCycleProg": 365,
       "titreCycle": "Arnaud Desplechin",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Les films",
           "cats": [1645],
           "tri": 1
@@ -287,7 +308,8 @@
     {
       "idCycleProg": 392,
       "titreCycle": "Robert Kramer",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Les films",
           "cats": [1760],
           "tri": 1
@@ -312,16 +334,19 @@
     {
       "idCycleProg": 394,
       "titreCycle": "American Fringe 4",
-      "sousCycles": [{
-        "titre": "Les films",
-        "cats": [1762],
-        "tri": 4
-      }]
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [1762],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 395,
       "titreCycle": "Mauro Bolognini",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Les films",
           "cats": [1763],
           "tri": 1
@@ -346,7 +371,8 @@
     {
       "idCycleProg": 438,
       "titreCycle": "Philippe Garrel",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Les films",
           "cats": [1993, 2102],
           "tri": 1
@@ -361,7 +387,8 @@
     {
       "idCycleProg": 439,
       "titreCycle": "Kira Mouratova",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Les films",
           "cats": [2013, 2038],
           "tri": 1
@@ -376,7 +403,8 @@
     {
       "idCycleProg": 441,
       "titreCycle": "Alejandro Jodorowsky",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Les films",
           "cats": [2022],
           "tri": 1
@@ -392,7 +420,8 @@
       "idCycleProg": 443,
       "titreCycle": "Séances jeune public",
       "type": "jp",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Vampires, monstres & Cie",
           "cats": [2025],
           "tri": 4
@@ -417,16 +446,19 @@
     {
       "idCycleProg": 445,
       "titreCycle": "Voyage dans le cinéma français des années 1940",
-      "sousCycles": [{
-        "titre": "Les films",
-        "cats": [2027],
-        "tri": 1
-      }]
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2027],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 447,
       "titreCycle": "Jean-Pierre Kalfon",
-      "sousCycles": [{
+      "sousCycles": [
+        {
           "titre": "Les films",
           "cats": [2029],
           "tri": 2
