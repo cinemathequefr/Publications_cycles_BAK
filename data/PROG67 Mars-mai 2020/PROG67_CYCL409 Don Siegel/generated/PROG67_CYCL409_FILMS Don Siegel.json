@@ -14,11 +14,7 @@
         "texte": "Deux tueurs à gages sont chargés d'exécuter un homme. Étonnamment, il ne leur résiste pas et se laisse abattre. Les deux assassins s'interrogent sur son comportement et enquêtent sur le vrai motif de leur mission."
       }
     ],
-    "generique": [
-      "Lee Marvin",
-      "John Cassavetes",
-      "Angie Dickinson"
-    ],
+    "generique": ["Lee Marvin", "John Cassavetes", "Angie Dickinson"],
     "adaptation": "D'après le roman _The Killers_ d'Ernest Hemingway."
   },
   {
@@ -40,11 +36,7 @@
         "texte": "Copie Technicolor."
       }
     ],
-    "generique": [
-      "John Derek",
-      "Diana Lynn",
-      "Kevin McCarthy"
-    ]
+    "generique": ["John Derek", "Diana Lynn", "Kevin McCarthy"]
   },
   {
     "titre": "Body Snatchers",
@@ -60,11 +52,7 @@
         "texte": "Remake de _L'Invasion des profanateurs de sepultures_ de Don Siegel_._ Une jeune adolescente rejoint son père sur une base militaire et constate que des extraterrestres remplacent progressivement les humains après avoir pris leur apparence."
       }
     ],
-    "generique": [
-      "Terry Kinney",
-      "Meg Tilly",
-      "Gabrielle Anwar"
-    ]
+    "generique": ["Terry Kinney", "Meg Tilly", "Gabrielle Anwar"]
   },
   {
     "titre": "Ca commence à Vera Cruz",
@@ -81,11 +69,7 @@
         "texte": "Le lieutenant Halliday est injustement accusé d'avoir volé une grosse somme d'argent à l'armée. Afin de prouver son innocence, il part à la recherche du véritable voleur."
       }
     ],
-    "generique": [
-      "Robert Mitchum",
-      "Jane Greer",
-      "William Bendix"
-    ],
+    "generique": ["Robert Mitchum", "Jane Greer", "William Bendix"],
     "adaptation": "D'après la nouvelle _The Road to Carmichael's_ de Richard Wormser."
   },
   {
@@ -102,11 +86,7 @@
         "texte": "Durant la seconde Guerre Mondiale, une troupe de soldat américain part en mission dans le sud de la Chine afin de délivrer un important prisonnier."
       }
     ],
-    "generique": [
-      "Edmond O'Brien",
-      "Barry Sullivan",
-      "Jocelyn Brando"
-    ]
+    "generique": ["Edmond O'Brien", "Barry Sullivan", "Jocelyn Brando"]
   },
   {
     "titre": "Contre une poignée de diamants",
@@ -127,11 +107,7 @@
         "texte": "Copie Technicolor."
       }
     ],
-    "generique": [
-      "Michael Caine",
-      "Donald Pleasence",
-      "Delphine Seyrig"
-    ],
+    "generique": ["Michael Caine", "Donald Pleasence", "Delphine Seyrig"],
     "adaptation": "D'après le roman _Seven Days to a Killing_ de Clive Egleton."
   },
   {
@@ -150,12 +126,7 @@
         "texte": "Les derniers jours d'un tireur légendaire, atteint d'une maladie incurable."
       }
     ],
-    "generique": [
-      "John Wayne",
-      "Lauren Bacall",
-      "Ron Howard",
-      "James Stewart"
-    ],
+    "generique": ["John Wayne", "Lauren Bacall", "Ron Howard", "James Stewart"],
     "adaptation": "D'après le roman _The Shootist_ de Glendon Swarthout."
   },
   {
@@ -173,11 +144,7 @@
         "texte": "Un saisonnier est accusé du meurtre de ses patrons, propriétaires d'un ranch. Son avocat, en tentant d'éviter la condamnation à mort de son client, se heurte à l'hostilité de toute la ville."
       }
     ],
-    "generique": [
-      "Teresa Wright",
-      "Macdonald Carey",
-      "Dolores Moran"
-    ]
+    "generique": ["Teresa Wright", "Macdonald Carey", "Dolores Moran"]
   },
   {
     "titre": "Duel sans merci",
@@ -194,11 +161,7 @@
         "texte": "Silver City. Le shérif et son adjoint essayent d'annihiler une bande armée qui terrorise la région."
       }
     ],
-    "generique": [
-      "Audie Murphy",
-      "Faith Domergue",
-      "Stephen McNally"
-    ]
+    "generique": ["Audie Murphy", "Faith Domergue", "Stephen McNally"]
   },
   {
     "titre": "Enfer est pour les héros",
@@ -207,7 +170,7 @@
     "idFilm": 45130,
     "ageMinimal": 0,
     "realisateurs": "Don Siegel",
-    "annee": 1961,
+    "annee": 1962,
     "pays": "États-Unis",
     "textes": [
       {
@@ -215,11 +178,7 @@
         "texte": "Dans les Ardennes, en 1944, des soldats américains se heurtent à la résistance d'une compagnie allemande."
       }
     ],
-    "generique": [
-      "Steve McQueen",
-      "Bobby Darin",
-      "Fess Parker"
-    ]
+    "generique": ["Steve McQueen", "Bobby Darin", "Fess Parker"]
   },
   {
     "titre": "Ennemi public",
@@ -236,33 +195,7 @@
         "texte": "L'histoire du violent et célèbre gangster Lester Gillis, surnommé Baby Face, qui devient, dans les années noires de la prohibition, l'ennemi public numéro un."
       }
     ],
-    "generique": [
-      "Mickey Rooney",
-      "Carolyn Jones",
-      "Cedric Hardwicke"
-    ]
-  },
-  {
-    "titre": "Espion de trop",
-    "art": "Un",
-    "titreVo": "Telefon",
-    "idFilm": 35927,
-    "ageMinimal": 0,
-    "realisateurs": "Don Siegel",
-    "annee": 1977,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "A la fin de la Guerre Froide, un espion du KGB prend l'initiative de réveiller des agents infiltrés dans la société américaine afin qu'ils commentent des attentats. Les services secrets soviétiques envoient un homme pour l'en empêcher."
-      }
-    ],
-    "generique": [
-      "Charles Bronson",
-      "Lee Remick",
-      "Donald Pleasence"
-    ],
-    "adaptation": "D'après le roman _Telefon_ de Walter Wager."
+    "generique": ["Mickey Rooney", "Carolyn Jones", "Cedric Hardwicke"]
   },
   {
     "titre": "Evadé d'Alcatraz",
@@ -279,11 +212,7 @@
         "texte": "En 1960, après plusieurs tentatives d'évasion, Frank Morris est transféré à la prison de haute sécurité établie sur l'île d'Alcatraz au large de San Francisco. Prêt à tout pour s'échapper, il s'associe avec trois détenus."
       }
     ],
-    "generique": [
-      "Clint Eastwood",
-      "Patrick McGoohan",
-      "Roberts Blossom"
-    ],
+    "generique": ["Clint Eastwood", "Patrick McGoohan", "Roberts Blossom"],
     "adaptation": "D'après le roman _Escape from Alcatraz_ de J. Campbell Bruce."
   },
   {
@@ -300,11 +229,7 @@
         "texte": "Années 50. Frankie Dane est le leader d'une bande de jeunes délinquants. Publiquement humilié par un voisin, il décide de le tuer. Ben Wagner, un travailleur social, tente de le dissuader et de le remettre dans le droit chemin."
       }
     ],
-    "generique": [
-      "James Whitmore",
-      "Sal Mineo",
-      "Mark Rydell"
-    ],
+    "generique": ["James Whitmore", "Sal Mineo", "Mark Rydell"],
     "adaptation": "D'après le téléfilm _Crime in the streets_ de Reginald Rose."
   },
   {
@@ -322,11 +247,7 @@
         "texte": "À Las Vegas, une chanteuse organise avec l'aide d'un jeune croupier l'assassinat de son amant, un joueur professionnel."
       }
     ],
-    "generique": [
-      "Bette Midler",
-      "Ken Wahl",
-      "Rip Torn"
-    ]
+    "generique": ["Bette Midler", "Ken Wahl", "Rip Torn"]
   },
   {
     "titre": "Flamenco",
@@ -346,11 +267,7 @@
         "texte": "Copie Technicolor."
       }
     ],
-    "generique": [
-      "Richard Kiley",
-      "Carmen Sevilla",
-      "José Guardiola"
-    ]
+    "generique": ["Richard Kiley", "Carmen Sevilla", "José Guardiola"]
   },
   {
     "titre": "Hitler Lives",
@@ -382,11 +299,7 @@
         "texte": "En 1885, un vagabond, accusé à tort du meurtre d'une serveuse de saloon, est poursuivi par un shérif impitoyable."
       }
     ],
-    "generique": [
-      "Michael Parks",
-      "Henry Fonda",
-      "Anne Baxter"
-    ]
+    "generique": ["Michael Parks", "Henry Fonda", "Anne Baxter"]
   },
   {
     "titre": "Ici brigade criminelle",
@@ -402,11 +315,7 @@
         "texte": "Deux policiers mettent la main sour une forte somme d'argent volé. L'un d'eux décide de garde la somme. L'autre refuse."
       }
     ],
-    "generique": [
-      "Ida Lupino",
-      "Steve Cochran",
-      "Dean Jagger"
-    ]
+    "generique": ["Ida Lupino", "Steve Cochran", "Dean Jagger"]
   },
   {
     "titre": "Inspecteur Harry",
@@ -423,11 +332,7 @@
         "texte": "L'inspecteur Harry Callahan est à la poursuite d'un tueur qui menace d'exécuter une personne par jour tant que 200 000 dollars ne lui seront pas versés."
       }
     ],
-    "generique": [
-      "Clint Eastwood",
-      "Harry Guardino",
-      "Reni Santoni"
-    ]
+    "generique": ["Clint Eastwood", "Harry Guardino", "Reni Santoni"]
   },
   {
     "titre": "Invasion",
@@ -443,11 +348,7 @@
         "texte": "Alors que le monde est en proie à une épidémie altérant le comportement humain, une psychiatre découvre que le fléau est d'origine extra-terrestre et que son propre fils pourrait être le seul individu capable d'empêcher cette invasion."
       }
     ],
-    "generique": [
-      "Nicole Kidman",
-      "Daniel Craig",
-      "Jeremy Northam"
-    ],
+    "generique": ["Nicole Kidman", "Daniel Craig", "Jeremy Northam"],
     "adaptation": "D'après le roman _L'Invasion des profanateurs_ de Jack Finney."
   },
   {
@@ -465,11 +366,7 @@
         "texte": "Fonctionnaires au service d'hygiène de San Francisco, Matthew et Elizabeth découvrent avec horreur que les habitants de la ville sont progressivement clonés par une espèce végétale venue de l'espace."
       }
     ],
-    "generique": [
-      "Donald Sutherland",
-      "Brooke Adams",
-      "Leonard Nimoy"
-    ],
+    "generique": ["Donald Sutherland", "Brooke Adams", "Leonard Nimoy"],
     "adaptation": "D'après le roman _The Body snatchers_ de Jack Finney."
   },
   {
@@ -479,7 +376,7 @@
     "idFilm": 58029,
     "ageMinimal": 0,
     "realisateurs": "Don Siegel",
-    "annee": 1955,
+    "annee": 1956,
     "pays": "États-Unis",
     "textes": [
       {
@@ -510,11 +407,7 @@
         "texte": "Une bande de trafiquants d'héroïne trouve un moyen astucieux de faire passer la drogue, en la cachant dans des objets achetés par trois touristes, innocents passagers d'un avion. Mais la police découvre la manœuvre. Deux tueurs tentent, de leur côté, de remonter la filière et d'en éliminer les maillons."
       }
     ],
-    "generique": [
-      "Eli Wallach",
-      "Robert Keith",
-      "Richard Jaeckel"
-    ]
+    "generique": ["Eli Wallach", "Robert Keith", "Richard Jaeckel"]
   },
   {
     "titre": "Lion sort ses griffes",
@@ -531,11 +424,7 @@
         "texte": "Une kleptomane est chargée par la police d'espionner un célèbre voleur de diamants."
       }
     ],
-    "generique": [
-      "Burt Reynolds",
-      "Lesley Ann Down",
-      "David Niven"
-    ],
+    "generique": ["Burt Reynolds", "Lesley Ann Down", "David Niven"],
     "adaptation": "D'après le roman _Touch the Lion's Paw_ de Derek Lambert."
   },
   {
@@ -552,11 +441,7 @@
         "texte": "Une veuve loue sa maison à un scientifique atteint d'une étrange maladie."
       }
     ],
-    "generique": [
-      "Ronald Reagan",
-      "Viveca Lindfors",
-      "Broderick Crawford"
-    ],
+    "generique": ["Ronald Reagan", "Viveca Lindfors", "Broderick Crawford"],
     "adaptation": "D'après le roman _Night unto Night_ de Philip Wylie."
   },
   {
@@ -577,11 +462,7 @@
         "texte": "Copie technicolor."
       }
     ],
-    "generique": [
-      "Richard Widmark",
-      "Henry Fonda",
-      "Inger Stevens"
-    ],
+    "generique": ["Richard Widmark", "Henry Fonda", "Inger Stevens"],
     "adaptation": "D'après le roman _The Commissioner_ de Richard Dougherty."
   },
   {
@@ -600,11 +481,7 @@
         "texte": "A la Nouvelle-Orléans, en plein carnaval, un homme recherche le meurtrier de son ami."
       }
     ],
-    "generique": [
-      "Robert Culp",
-      "Edmond O'Brien",
-      "Vera Miles"
-    ],
+    "generique": ["Robert Culp", "Edmond O'Brien", "Vera Miles"],
     "adaptation": "D'après le roman _Ride the Pink Horse_ de Dorothy B. Hughes."
   },
   {
@@ -623,11 +500,7 @@
         "texte": "John McBurney, soldat nordiste blessé, est recueilli dans un pensionnat sudiste pour jeunes filles. Il joue de son charme pour ne pas être dénoncé une fois soigné. D'abord fructueuse, l'entreprise finit par le mettre dans de plus sales draps encore."
       }
     ],
-    "generique": [
-      "Clint Eastwood",
-      "Geraldine Page",
-      "Elizabeth Hartman"
-    ],
+    "generique": ["Clint Eastwood", "Geraldine Page", "Elizabeth Hartman"],
     "adaptation": "D'après le roman _The Beguiled_ de Thomas Cullinan."
   },
   {
@@ -646,11 +519,7 @@
         "texte": "Après s'être cassé la main, Salvadore, un jeune homme agressif et désargenté, acquiert des pouvoirs magiques qu'il utilise afin de se hisser socialement et épouser Leah, son amour d'adolescence."
       }
     ],
-    "generique": [
-      "Don Gordon",
-      "Gail Kobe",
-      "Vaughn Taylor"
-    ]
+    "generique": ["Don Gordon", "Gail Kobe", "Vaughn Taylor"]
   },
   {
     "titre": "Quatrième dimension – Episode : Oncle Simon",
@@ -668,11 +537,7 @@
         "texte": "Barbara s'occupe de son oncle Simon depuis 25 ans. Ils se détestent cordialement. Simon sait que Barbara ne prend soin de lui que par intérêt."
       }
     ],
-    "generique": [
-      "Cedric Hardwicke",
-      "Constance Ford",
-      "Ian Wolfe"
-    ]
+    "generique": ["Cedric Hardwicke", "Constance Ford", "Ian Wolfe"]
   },
   {
     "titre": "Révoltés de la cellule 11",
@@ -689,11 +554,7 @@
         "texte": "Plusieurs prisonniers de la cellule 11 du centre pénitentiaire de Folsom, Californie, profitent de l'inattention d'un gardien pour lancer un mouvement de révolte contre leurs conditions de détention."
       }
     ],
-    "generique": [
-      "Neville Brand",
-      "Emile Meyer",
-      "Frank Faylen"
-    ]
+    "generique": ["Neville Brand", "Emile Meyer", "Frank Faylen"]
   },
   {
     "titre": "Rôdeurs de la plaine",
@@ -710,11 +571,7 @@
         "texte": "1878\\. Au Texas, une altercation voit le jour entre deux communautés: celles des Blancs et celles des Indiens. Le conflit devient de plus en plus violent, plaçant le jeune Pacer Burton dans une position délicate : enfant d'un fermier et d'une femme de la tribu des Kiowas, il doit choisir son camp."
       }
     ],
-    "generique": [
-      "Elvis Presley",
-      "Steve Forrest",
-      "Barbara Eden"
-    ],
+    "generique": ["Elvis Presley", "Steve Forrest", "Barbara Eden"],
     "adaptation": "D'après le roman _Flaming Lance_ de Clair Huffaker."
   },
   {
@@ -732,15 +589,76 @@
         "texte": "Des meurtres violents ont été commis aux abords d'une mine désaffectée, dans le grand canyon du Colorado. Un jeune shérif mène l'enquête."
       }
     ],
-    "generique": [
-      "Cornel Wilde",
-      "Victoria Shaw",
-      "Mickey Shaughnessy"
-    ]
+    "generique": ["Cornel Wilde", "Victoria Shaw", "Mickey Shaughnessy"]
   },
   {
-    "titre": "shérif à New-York",
-    "art": "Un",
+    "titre": "Sierra torride",
+    "titreVo": "Two Mules for Sister Sara",
+    "idFilm": 57017,
+    "ageMinimal": 0,
+    "realisateurs": "Don Siegel",
+    "annee": 1969,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au 19e siècle, en pleine révolution mexicaine, un mercenaire texan sauve la vie d'une religieuse. Elle se dit poursuivie par des Français, les mêmes que le Texan doit combattre pour le compte des rebelles mexicains."
+      }
+    ],
+    "generique": ["Shirley MacLaine", "Clint Eastwood", "Manolo Fabregas"]
+  },
+  {
+    "titre": "Star in the Night",
+    "titreVo": "",
+    "idFilm": 84256,
+    "ageMinimal": 0,
+    "realisateurs": "Don Siegel",
+    "annee": 1945,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Texas, Noël, 1944. Trois cowboys, en poursuivant une enseigne lumineuse, rejoignent un motel au milieu du désert où un couple de jeunes mexicains vient d'être accueilli : José et sa femme, Marie, qui s'apprête à accoucher."
+      }
+    ],
+    "generique": ["J. Carrol Naish", "Donald Woods", "Rosina Galli"]
+  },
+  {
+    "titre": "Tuez Charley Varrick",
+    "titreVo": "Charley Varrick",
+    "idFilm": 53995,
+    "ageMinimal": 0,
+    "realisateurs": "Don Siegel",
+    "annee": 1973,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Charley Varrick cambriole une banque avec sa femme et un acolyte. En possession d'un butin plus important que prévu, Varrick comprend que cette banque du Nouveau-Mexique servait à la Mafia pour déposer ses fonds."
+      }
+    ],
+    "generique": ["Walter Matthau", "Joe Don Baker", "Felicia Farr"],
+    "adaptation": "D'après le roman _The Looters_ de John Reese."
+  },
+  {
+    "titre": "Un espion de trop",
+    "titreVo": "Telefon",
+    "idFilm": 35927,
+    "ageMinimal": 0,
+    "realisateurs": "Don Siegel",
+    "annee": 1977,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A la fin de la Guerre Froide, un espion du KGB prend l'initiative de réveiller des agents infiltrés dans la société américaine afin qu'ils commentent des attentats. Les services secrets soviétiques envoient un homme pour l'en empêcher."
+      }
+    ],
+    "generique": ["Charles Bronson", "Lee Remick", "Donald Pleasence"],
+    "adaptation": "D'après le roman _Telefon_ de Walter Wager."
+  },
+  {
+    "titre": "Un shérif à New-York",
     "titreVo": "Coogan's Bluff",
     "idFilm": 44948,
     "ageMinimal": 0,
@@ -761,67 +679,6 @@
     ]
   },
   {
-    "titre": "Sierra torride",
-    "titreVo": "Two Mules for Sister Sara",
-    "idFilm": 57017,
-    "ageMinimal": 0,
-    "realisateurs": "Don Siegel",
-    "annee": 1969,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Au 19e siècle, en pleine révolution mexicaine, un mercenaire texan sauve la vie d'une religieuse. Elle se dit poursuivie par des Français, les mêmes que le Texan doit combattre pour le compte des rebelles mexicains."
-      }
-    ],
-    "generique": [
-      "Shirley MacLaine",
-      "Clint Eastwood",
-      "Manolo Fabregas"
-    ]
-  },
-  {
-    "titre": "Star in the Night",
-    "titreVo": "",
-    "idFilm": 84256,
-    "ageMinimal": 0,
-    "realisateurs": "Don Siegel",
-    "annee": 1945,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Texas, Noël, 1944. Trois cowboys, en poursuivant une enseigne lumineuse, rejoignent un motel au milieu du désert où un couple de jeunes mexicains vient d'être accueilli : José et sa femme, Marie, qui s'apprête à accoucher."
-      }
-    ],
-    "generique": [
-      "J. Carrol Naish",
-      "Donald Woods",
-      "Rosina Galli"
-    ]
-  },
-  {
-    "titre": "Tuez Charley Varrick",
-    "titreVo": "Charley Varrick",
-    "idFilm": 53995,
-    "ageMinimal": 0,
-    "realisateurs": "Don Siegel",
-    "annee": 1972,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Charley Varrick cambriole une banque avec sa femme et un acolyte. En possession d'un butin plus important que prévu, Varrick comprend que cette banque du Nouveau-Mexique servait à la Mafia pour déposer ses fonds."
-      }
-    ],
-    "generique": [
-      "Walter Matthau",
-      "Joe Don Baker",
-      "Felicia Farr"
-    ],
-    "adaptation": "D'après le roman _The Looters_ de John Reese."
-  },
-  {
     "titre": "Une poignée de plombs",
     "titreVo": "Death of a Gunfighter",
     "idFilm": 62259,
@@ -839,11 +696,7 @@
         "texte": "Allan Smithee est le pseudonyme utilisé par les réalisateurs mécontents de leur film, généralement à la suite de différends avec la production. A cet occasion, derrière ce pseudonyme se cachent Don Siegel et Robert Totten."
       }
     ],
-    "generique": [
-      "Richard Widmark",
-      "Lena Horne",
-      "Carroll O'Connor"
-    ]
+    "generique": ["Richard Widmark", "Lena Horne", "Carroll O'Connor"]
   },
   {
     "titre": "Vagabond des bois maudits",
@@ -860,11 +713,7 @@
         "texte": "Alors qu'il devrait veiller au bon fonctionnement de la ferme selon les ordres de sa mère, Spud Kinney part à la chasse avec son frère et son meilleur ami."
       }
     ],
-    "generique": [
-      "Fabian",
-      "Carol Lynley",
-      "Stuart Whitman"
-    ],
+    "generique": ["Fabian", "Carol Lynley", "Stuart Whitman"],
     "adaptation": "D'après le roman _Houn Dog Man_ de Fred Gipson."
   },
   {
@@ -881,11 +730,7 @@
         "texte": "À Londres à la fin du 19e siècle, George Grodman est contraint de démissionner de Scotland Yard après avoir fait pendre un innocent. Au chômage, il songe de se venger de son remplaçant et rival de toujours, Buckley, confronté à un nouveau meurtre mystérieux."
       }
     ],
-    "generique": [
-      "Sydney Greenstreet",
-      "Peter Lorre",
-      "Joan Lorring"
-    ],
+    "generique": ["Sydney Greenstreet", "Peter Lorre", "Joan Lorring"],
     "adaptation": "D'après le roman _The Big Bow Mystery_ d'Israel Zangwill."
   }
 ]
