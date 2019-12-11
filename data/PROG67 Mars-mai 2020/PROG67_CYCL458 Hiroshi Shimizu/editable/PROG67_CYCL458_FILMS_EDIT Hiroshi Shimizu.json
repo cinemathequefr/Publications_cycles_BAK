@@ -15,7 +15,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Copie neuve."
+        "texte": "Copie neuve Kobe Planet Film Archive."
       }
     ],
     "generique": ["Hiroko Kawasaki", "Kenji Kimura", "Takeshi Sakamoto"]
@@ -77,7 +77,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Version partiellement sonore. Copie National Film Archive of Japan."
+        "texte": "Copie muette, partiellement sonore, reconstituée par le National Film Archive of Japan à partir de trois bobines sonores conservées au Gosfilmofond et sept bobines muettes conservées au National Film Archive of Japan."
       }
     ],
     "generique": ["Kazuo Hasegawa", "Kokichi Takada", "Hideo Fujino"]
@@ -141,7 +141,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Copie neuve."
+        "texte": "Copie neuve Kobe Planet Film Archive."
       }
     ],
     "generique": ["Kenji Oyama", "Kinuko Wakamizu", "Norio Otsuka"]
@@ -1006,7 +1006,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Copie neuve."
+        "texte": "Copie neuve Kobe Planet Film Archive."
       }
     ]
   },

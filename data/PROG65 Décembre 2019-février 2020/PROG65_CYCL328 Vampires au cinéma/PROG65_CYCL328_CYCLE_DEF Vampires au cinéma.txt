@@ -75,7 +75,7 @@
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Les Cicatrices de Dracula
-<pstyle:TITRE_ANG>(The Scars of Dracula)
+<pstyle:TITRE_ANG>(Scars of Dracula)
 <pstyle:TECHNIQUE>de Roy Ward Baker
 <pstyle:TECHNIQUE>Grande-Bretagne/1970/94<0x2019>/VF/35mm
 <pstyle:TECHNIQUE>Avec Christopher Lee, Dennis Waterman, Jenny Hanley.

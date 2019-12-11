@@ -31,7 +31,7 @@ de Joss Whedon, James A. Contner, David Solomon
 
 [58787]  
 **Les Cicatrices de Dracula**  
-**(The Scars of Dracula)**  
+**(Scars of Dracula)**  
 de Roy Ward Baker  
 Grande-Bretagne / 1970  
 Avec Christopher Lee, Dennis Waterman, Jenny Hanley.  
@@ -44,12 +44,29 @@ Mexique / 1993
 Avec Federico Luppi, Ron Perlman, Claudio Brook.  
 Au XIV<sup>e</sup> siècle, un alchimiste enferme le secret de l'éternité dans un boîtier. Six cents ans plus tard, un antiquaire est sur le point de découvrir cette force inconnue.
 
+[115762]  
+**Dark Shadows**  
+de Tim Burton  
+États-Unis / 2011  
+D'après la série télévisée _Dark Shadows_ de Dan Curtis.  
+Avec Johnny Depp, Michelle Pfeiffer, Helena Bonham-Carter, Eva Green.  
+Le vampire Barnabas Collins, emprisonné par une sorcière, est libéré accidentellement deux siècles plus tard. Lorsqu'il rentre chez lui, il retrouve un château délabré et des descendants qu'il va devoir soutenir.
+
 [38622]  
 **Les Deux orphelines vampires**  
 de Jean Rollin  
 France / 1995  
 Avec Isabelle Teboul, Alexandra Pic, Natalie Perrey.  
 Henriette et Louise, deux jumelles aveugles, sont adorées par les religieuses de leur orphelinat. Mais elles cachent un lourd secret : leur capacité à voir la nuit pour tuer des animaux et se nourrir de leur sang.
+
+[57748]  
+**Dracula**  
+**(Bram Stoker's Dracula)**  
+de Francis Ford Coppola  
+États-Unis / 1992  
+D'après le roman _Dracula_ de Bram Stoker.  
+Avec Gary Oldman, Winona Ryder, Anthony Hopkins, Keanu Reeves.  
+Dracula cherche à séduire Mina, en qui il reconnaît sa bien-aimée morte plusieurs siècles auparavant, et s'attaque à Lucy, la fidèle amie de la jeune femme. Mais le fiancé de Lucy tente de la sauver, aidé par Van Helsing.
 
 [42229]  
 **Dracula et les femmes**  
@@ -58,6 +75,14 @@ de Freddie Francis
 Grande-Bretagne / 1968  
 Avec Christopher Lee, Rupert Davies, Veronica Carlson.  
 Dans un petit village de Bavière, le vampire Dracula ressuscite grâce au sang d'un prêtre, et multiplie les victimes.
+
+[52155]  
+**Dracula père et fils**  
+d'Edouard Molinaro  
+France / 1976  
+D'après le roman _Paris-Vampire_ de Claude Klotz.  
+Avec Christopher Lee, Bernard Menez, Catherine Breillat.  
+Dracula père et fils ont dû s'exiler pour raisons politiques. Séparés lors du trajet, le père s'établit en Grande-Bretagne, où il devient une vedette du cinéma d'épouvante, alors que son fils échoue en France où il décroche un emploi de veilleur de nuit.
 
 [65961]  
 **Dracula prisonnier de Frankenstein**  
@@ -125,6 +150,7 @@ Un adolescent tombe amoureux d'une jeune fille qui appartient à la bande des «
 [112081]  
 **Le Lac de Dracula**  
 **(Noroi no yakata: Chi o sû me)**  
+**(呪いの館 血を吸う眼)**  
 de Michio Yamamoto  
 Japon / 1971  
 Avec Midori Fujita, Chôei Takahashi, Sanae Emi.  
@@ -159,6 +185,13 @@ d'Alan Cummings
 Italie / 1986  
 Avec Klaus Kinski, Barbara De Rossi, Donald Pleasence, Christopher Plummer.  
 Le professeur Catalano, piètre chasseur de vampires, se rend à Venise, où Nosferatu est apparu pour la dernière fois pendant le carnaval de 1786. Il espère venir à bout de l'indestructible et toute-puissante créature.
+
+[119997]  
+**Only Lovers Left Alive**  
+de Jim Jarmusch  
+Allemagne-Grande-Bretagne-France-Chypre / 2012  
+Avec Tom Hiddleston, Tilda Swinton, Mia Wasikowska.  
+Adam, musicien underground, et Eve, son amante, sont des vampires qui vivent en solitaires entre Detroit et Tanger. L'arrivée de la petite sœur d'Eve va perturber leur existence.
 
 [34512]  
 **Le Retour de Dracula**  

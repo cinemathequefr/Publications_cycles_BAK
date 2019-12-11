@@ -9,7 +9,7 @@ Japon / 1930
 Avec Hiroko Kawasaki, Kenji Kimura, Takeshi Sakamoto.  
 Désespéré de ne pas trouver un travail à Tokyo, un jeune campagnard rentre au pays et survit grâce à la pension de retraite de sa mère. Film publicitaire pour l'épargne retraite de la poste japonaise.
 
-Copie neuve.
+Copie neuve Kobe Planet Film Archive.
 
 [142769]  
 **Les Amis**  
@@ -40,7 +40,7 @@ Japon / 1932
 Avec Kazuo Hasegawa, Kokichi Takada, Hideo Fujino.  
 Histoire des conquêtes du Japon moderne pour commémorer le 50<sup>e</sup> anniversaire du « Rescrit impérial aux soldats et aux marins » promulgué par l'empereur Meiji en 1882, glorifiant l'esprit martial millénaire du Japon.
 
-Version partiellement sonore. Copie National Film Archive of Japan.
+Copie muette, partiellement sonore, reconstituée par le National Film Archive of Japan à partir de trois bobines sonores conservées au Gosfilmofond et sept bobines muettes conservées au National Film Archive of Japan.
 
 [142779]  
 **Ce que sont devenus les enfants de la ruche**  
@@ -73,7 +73,7 @@ Japon / 1941
 Avec Kenji Oyama, Kinuko Wakamizu, Norio Otsuka.  
 Un père est déterminé à faire de son fils adoptif, timide et poltron, un homme aguerri au contact de la nature. Court métrage connu pour être la quintessence du style Shimizu.
 
-Copie neuve.
+Copie neuve Kobe Planet Film Archive.
 
 [142813]  
 **Le Cheminement d'une mère**  
@@ -520,7 +520,7 @@ de Hiroshi Shimizu
 Japon / 1953  
 Court métrage documentaire sur l'architecture et l'histoire des temples Kofuku-ji et Todai-ji, réalisé en même temps que _Les Enfants du Grand Bouddha_.
 
-Copie neuve.
+Copie neuve Kobe Planet Film Archive.
 
 [142750]  
 **Voici les femmes du printemps qui pleure**  

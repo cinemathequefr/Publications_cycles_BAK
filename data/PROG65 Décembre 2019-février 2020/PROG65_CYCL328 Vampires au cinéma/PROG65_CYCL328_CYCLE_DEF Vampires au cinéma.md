@@ -84,7 +84,7 @@ Dans un petit village de Bavière, le vampire Dracula ressuscite grâce au sang 
 
 [58787]  
 **Les Cicatrices de Dracula**  
-**(The Scars of Dracula)**  
+**(Scars of Dracula)**  
 de Roy Ward Baker  
 Grande-Bretagne / 1970 / 94 min / VF / 35 mm  
 Avec Christopher Lee, Dennis Waterman, Jenny Hanley.  
