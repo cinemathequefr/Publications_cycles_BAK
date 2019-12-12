@@ -19,4 +19,4 @@ En 1990, Pollet, renversé par un train, frôle la mort. Ce drame intervenu en c
 Damien Bertrand
 
 [^1]: Jean-Daniel Pollet dans _Jour après jour_.
-[^2]: _Parle moi encore_ (2016).
+[^2]: _Parle-moi encore_ (2016).
