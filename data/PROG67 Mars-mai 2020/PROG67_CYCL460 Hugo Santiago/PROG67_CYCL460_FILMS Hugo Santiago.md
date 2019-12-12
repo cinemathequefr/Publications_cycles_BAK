@@ -82,7 +82,7 @@ Une ville portugaise subit un siège infini. Seul une poignée d'hommes défende
 > (Site) Une ville imaginaire subit un siège infini. Seule une poignée d'hommes défend la ville, mais leurs forces s'amenuisent peu à peu.
 
 [82158]  
-**Le Loup de la côte ouest**  
+**Le Loup de la côte Ouest**  
 de Hugo Santiago  
 France-Portugal / 2001  
 D'après la nouvelle _Guilt-Edged Blonde_ de Ross MacDonald.  
