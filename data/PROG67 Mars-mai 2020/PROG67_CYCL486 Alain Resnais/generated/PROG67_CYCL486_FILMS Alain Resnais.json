@@ -6,7 +6,13 @@
     "ageMinimal": null,
     "realisateurs": "Alain Resnais",
     "annee": 2013,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans la campagne anglaise du Yorkshire, la vie de trois couples est bouleversée pendant quelques mois, du printemps à l'automne, par le comportement énigmatique de leur ami George Riley."
+      }
+    ]
   },
   {
     "titre": "Amour à mort",
@@ -16,7 +22,40 @@
     "ageMinimal": null,
     "realisateurs": "Alain Resnais",
     "annee": 1984,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Déclaré cliniquement mort, Simon ressuscite quelques instants après son décès. Bouleversé par cette expérience, dont il parle à un couple d'amis pasteurs, Jérôme et Judith, il retrouve Elisabeth, la femme avec qui il vivait une intense histoire d'amour."
+      }
+    ],
+    "generique": [
+      "Sabine Azéma",
+      "Pierre Arditi",
+      "Fanny Ardant"
+    ]
+  },
+  {
+    "titre": "An 01",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 39374,
+    "ageMinimal": null,
+    "realisateurs": "Jacques Doillon",
+    "annee": 1971,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'an 01 est le début d'une ère nouvelle, où chacun prend le temps de vivre. Est-il possible de construire une nouvelle société ?"
+      }
+    ],
+    "generique": [
+      "Professeur Choron",
+      "Romain Bouteille",
+      "Cabu",
+      "François Cavanna"
+    ]
   },
   {
     "titre": "Année dernière à Marienbad",
@@ -27,6 +66,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 1960,
     "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans un château de bohème transformé en hôtel, dans une atmosphère feutrée, un homme s'attache à une femme et tente de la persuader qu'ils ont eu une aventure, l'année dernière, à Marienbad."
+      }
+    ],
     "generique": [
       "Giorgio Albertazzi",
       "Delphine Seyrig",
@@ -41,7 +86,13 @@
     "ageMinimal": null,
     "realisateurs": "Alain Resnais",
     "annee": 1958,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ce film de commande que Resnais réalisa pour le groupe pétro-chimique Péchiney, montre tous les mystères techniques de la fabrication du plastique et de ses succédanés..."
+      }
+    ]
   },
   {
     "titre": "Cœurs",
@@ -51,6 +102,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 2006,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Il neige sur le quartier de la Grande Bibliothèque à Paris et des personnages aussi seuls les uns que les autres se croisent."
+      }
+    ],
     "generique": [
       "Sabine Azéma",
       "Isabelle Carré",
@@ -65,7 +122,13 @@
     "ageMinimal": null,
     "realisateurs": "Alain Resnais",
     "annee": 1992,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "S'inspirant du jazz autant que de Schönberg ou de Stravinsky, le compositeur américain George Gershwin donna à la comédie musicale ses lettres de noblesse. L'histoire de sa vie et de sa gloire reflète les fastes d'une époque mythique, celle de la splendeur de Broadway."
+      }
+    ]
   },
   {
     "titre": "Guernica",
@@ -74,7 +137,13 @@
     "ageMinimal": null,
     "realisateurs": "Alain Resnais, Robert Hessens",
     "annee": 1949,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ce film documentaire part du tableau peint par Picasso en 1937 pour témoigner des atrocités de la guerre civile Espagnole et du fascisme puis traite ensuite la guerre sur un mode métaphorique."
+      }
+    ]
   },
   {
     "titre": "Guerre est finie",
@@ -85,6 +154,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 1965,
     "pays": "France-Suède",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1965, trois jours de la vie de Diego, un résistant anti-franquiste qui passe régulièrement la frontière franco-espagnole sous des identités d'emprunt. De retour de mission, il est en proie au doute."
+      }
+    ],
     "generique": [
       "Yves Montand",
       "Ingrid Thulin",
@@ -101,6 +176,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 2008,
     "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Marguerite Muir se fait voler son sac à la sortie d'un magasin. Le coupable en jette le contenu sur un parking que George Palet ramasse. Cette découverte stimule fortement l'imagination de ce dernier."
+      }
+    ],
     "generique": [
       "André Dussollier",
       "Sabine Azéma",
@@ -116,10 +197,35 @@
     "realisateurs": "Alain Resnais",
     "annee": 1958,
     "pays": "France-Japon",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "«  Le sujet lui-même mêle une aventure passionnelle entre une jeune française et un architecte japonais à un réquisitoire antinucléaire aussi violent que pouvait l'être Nuit et brouillard vis-à-vis des camps d'extermination nazis.  » (Michel Marie)"
+      }
+    ],
     "generique": [
       "Emmanuelle Riva",
       "Eiji Okada",
       "Stella Dassas"
+    ]
+  },
+  {
+    "titre": "I want to go home",
+    "titreVo": "",
+    "idFilm": 50880,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 1988,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un dessinateur de comics américain arrive en France pour revoir sa fille, étudiante depuis deux ans à Paris. Mais les retrouvailles ne se font pas sans problèmes."
+      }
+    ],
+    "generique": [
+      "Adolph Green",
+      "Gérard Depardieu"
     ]
   },
   {
@@ -130,6 +236,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 1967,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Après une tentative de suicide, un employé de bureau se prête à une expérience scientifique : un voyage dans le temps. Des savants lui affirment qu'il va revivre une minute de son passé, une minute parfaite il y a un an."
+      }
+    ],
     "generique": [
       "Claude Rich",
       "Olga Georges-Picot",
@@ -144,6 +256,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 1986,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pierre, célèbre violoniste, invite son ami, Marcel, à dîner et lui présente sa femme. Marcel et Romaine tombent immédiatement amoureux. Elle lui promet de quitter son mari à son retour mais a peur d'avouer son infidélité."
+      }
+    ],
     "generique": [
       "Sabine Azéma",
       "Fanny Ardant",
@@ -159,6 +277,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 1979,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'itinéraire de trois personnages illustré par les théories du professeur Henri Laborit."
+      }
+    ],
     "generique": [
       "Gérard Depardieu",
       "Nicole Garcia",
@@ -173,10 +297,35 @@
     "realisateurs": "Alain Resnais",
     "annee": 1962,
     "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Septembre 1962. Hélène Aughain, antiquaire, vit à Boulogne-sur-Mer avec son beau-fils Bernard, tout juste rentré d'Algérie. Alphonse, l'amour de jeunesse d'Hélène vient lui rendre visite, accompagné de Françoise, une jeune actrice débutante, qu'il dit être sa nièce."
+      }
+    ],
     "generique": [
       "Delphine Seyrig",
       "Jean-Pierre Kérien",
       "Nita Klein"
+    ]
+  },
+  {
+    "titre": "Mystère de l'atelier 15",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 55047,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais, André Heinrich",
+    "annee": 1957,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une enquête scientifique entre reportage et fiction pour découvrir l'origine d'un mal mystérieux dont souffre un ouvrier. Commentaire de Chris Marker et Rémo Forlani."
+      }
+    ],
+    "generique": [
+      "Jean-Pierre Grenier"
     ]
   },
   {
@@ -187,6 +336,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 1993,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Variation sur le film Smoking. Une femme décide de ne pas allumer une cigarette."
+      }
+    ],
     "generique": [
       "Pierre Arditi",
       "Sabine Azéma",
@@ -201,6 +356,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 1955,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1955 : Alain Resnais se rend sur les lieux où des milliers d'hommes, de femmes et d'enfants ont perdu la vie lors de la Seconde Guerre mondiale. Il s'agit d'Orianenbourg, Auschwitz, Dachau, Ravensbruck, Belsen, Neuengamme, Struthof."
+      }
+    ],
     "generique": [
       "Michel Bouquet"
     ]
@@ -213,11 +374,39 @@
     "realisateurs": "Alain Resnais",
     "annee": 1997,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Chassé-croisé de six personnages qui s'aiment et se déchirent, dans un Paris théâtral."
+      }
+    ],
     "generique": [
       "Pierre Arditi",
       "Sabine Azéma",
       "Jean-Pierre Bacri"
     ]
+  },
+  {
+    "titre": "Pas sur la bouche",
+    "titreVo": "",
+    "idFilm": 87761,
+    "ageMinimal": null,
+    "realisateurs": "Alain Resnais",
+    "annee": 2003,
+    "pays": "France-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Paris des années 1925 et son chassé-croisé de personnages fantaisistes dans la grande demeure bourgeoise de Gilberte et Georges Valandray."
+      }
+    ],
+    "generique": [
+      "Sabine Azéma",
+      "Isabelle Nanty",
+      "Audrey Tautou",
+      "Pierre Arditi"
+    ],
+    "adaptation": "D'après l'opérette _Pas sur la bouche !_ de Maurice Yvain et André Barde."
   },
   {
     "titre": "Paul Gauguin",
@@ -226,7 +415,13 @@
     "ageMinimal": null,
     "realisateurs": "Alain Resnais",
     "annee": 1949,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "La vie et l'œuvre de Paul Gauguin (1848-1903) en Bretagne et en Océanie sont évoquées à travers ses peintures et des citations extraites de ses écrits."
+      }
+    ]
   },
   {
     "titre": "Providence",
@@ -235,7 +430,18 @@
     "ageMinimal": null,
     "realisateurs": "Alain Resnais",
     "annee": 1976,
-    "pays": "France-Grande-Bretagne-Suisse"
+    "pays": "France-Grande-Bretagne-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Seul dans sa demeure, la « Providence », le célèbre écrivain Clive Langham attend sa mort, qu'il devine prochaine. Il va bientôt avoir soixante-dix-huit ans. L'angoisse le ronge et il mélange allègrement scènes de la vie réelle et scènes imaginaires."
+      }
+    ],
+    "generique": [
+      "Dirk Bogarde",
+      "Ellen Burstyn",
+      "John Gielgud"
+    ]
   },
   {
     "titre": "Smoking",
@@ -245,6 +451,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 1993,
     "pays": "France-Suisse",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire présente une série de récits hypothétiques mettant en scène les personnages dans un petit village du Yorkshire, interprétés par deux comédiens."
+      }
+    ],
     "generique": [
       "Pierre Arditi",
       "Sabine Azéma",
@@ -260,6 +472,12 @@
     "realisateurs": "Alain Resnais, Chris Marker",
     "annee": 1953,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Documentaire sur l'art africain, pamphlet anticolonialiste et première collaboration entre Alain Resnais et Chris Marker, censuré par l'État pendant 11 ans."
+      }
+    ],
     "generique": [
       "Jean Négroni"
     ]
@@ -271,7 +489,13 @@
     "ageMinimal": null,
     "realisateurs": "Alain Resnais",
     "annee": 1973,
-    "pays": "France-Italie"
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En France, dans les années 30. Stavisky est un puissant conseiller financier, propriétaire de nombreux établissements. Ses relations étroites avec notables et hommes politiques lui confèrent de nombreux privilèges. Pourtant, un énorme scandale couve : celui des faux bons de caisse du Crédit municipal de Bayonne"
+      }
+    ]
   },
   {
     "titre": "Toute la mémoire du monde",
@@ -281,6 +505,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 1956,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A la découverte de la Bibliothèque Nationale, véritable coffre fort et musée des mots où lectures, œuvres précieuses et introuvables, connaissances, catalogues et collections de livres sont enfermés, répertoriés, analysés, classés, notés, étiquetés, enregistrés et consultés."
+      }
+    ],
     "generique": [
       "Jacques Dumesnil",
       "Gérard Willemetz",
@@ -294,7 +524,13 @@
     "ageMinimal": null,
     "realisateurs": "Alain Resnais",
     "annee": 1948,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ce film tente de retracer, uniquement à l'aide de ses œuvres, la vie et l'aventure spirituelle de l'un des plus grands peintres modernes."
+      }
+    ]
   },
   {
     "titre": "Vie est un roman",
@@ -304,7 +540,13 @@
     "ageMinimal": null,
     "realisateurs": "Alain Resnais",
     "annee": 1982,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A la veille de la Première Guerre mondiale. Le comte Forbek présente à ses amis la maquette d'un château dont il veut faire le temple du bonheur."
+      }
+    ]
   },
   {
     "titre": "Vous n'avez encore rien vu",
@@ -314,6 +556,12 @@
     "realisateurs": "Alain Resnais",
     "annee": 2011,
     "pays": "France-Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le majordome du dramaturge d'Anthac convoque tous les amis qui ont interprété sa pièce « Eurydice ». Ils vont voir la captation filmée de cette œuvre jouée par une jeune troupe et vont avoir bien des surprises.."
+      }
+    ],
     "generique": [
       "Mathieu Amalric",
       "Pierre Arditi",

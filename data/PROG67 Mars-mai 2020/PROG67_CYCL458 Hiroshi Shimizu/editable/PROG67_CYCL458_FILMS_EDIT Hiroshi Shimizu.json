@@ -876,7 +876,7 @@
     "titreNx": "かがやく愛",
     "idFilm": 142722,
     "ageMinimal": null,
-    "realisateurs": "Hiroshi Shimizu",
+    "realisateurs": "Yoshio Nishio, Hiroshi Shimizu",
     "annee": 1931,
     "pays": "Japon",
     "textes": [
@@ -886,7 +886,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Film muet avec accompagnement musical, effets sonores et un commentaire _benshi_. Copie National Film Archive of Japan."
+        "texte": "Shimizu a réalisé les dernières minutes du film en remplacement de Nishio, tombé malade en cours de tournage. Film muet. Version sonore avec accompagnement musical et un commentaire _benshi_. Copie National Film Archive of Japan."
       }
     ],
     "generique": ["Tatsuko Fuji", "Teruyo Hayami", "Shoichi Kofujita"]

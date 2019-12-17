@@ -453,12 +453,12 @@ D'après les carnets d'un directeur de centre de redressement d'Osaka édités p
 **Un amour étincelant**  
 **(Kagayaku ai)**  
 **(かがやく愛)**  
-de Hiroshi Shimizu  
+de Yoshio Nishio, Hiroshi Shimizu  
 Japon / 1931  
 Avec Tatsuko Fuji, Teruyo Hayami, Shoichi Kofujita.  
 Le fils d'un tonnelier pauvre est brimé par un celui d'un riche oisif. Film éducatif commandé par le ministère de l'Éducation pour inculquer les vertus de modestie et d'humilité.
 
-Film muet avec accompagnement musical, effets sonores et un commentaire _benshi_. Copie National Film Archive of Japan.
+Shimizu a réalisé les dernières minutes du film en remplacement de Nishio, tombé malade en cours de tournage. Film muet. Version sonore avec accompagnement musical et un commentaire _benshi_. Copie National Film Archive of Japan.
 
 [142783]  
 **Un autre visage de la ville**  
