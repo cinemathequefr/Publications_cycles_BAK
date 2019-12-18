@@ -132,6 +132,17 @@
       ]
     },
     {
+      "idCycleProg": 472,
+      "titreCycle": "Archi Vives",
+      "sousCycles": [
+        {
+          "titre": "Films et conférences",
+          "cats": [2229],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 475,
       "titreCycle": "Jean-Daniel Pollet",
       "sousCycles": [
@@ -146,6 +157,11 @@
           "tri": 4
         }
       ]
+    },
+    {
+      "idCycleProg": 485,
+      "titreCycle": "Séances Jeune public",
+      "sousCycles": []
     },
     {
       "idCycleProg": 486,
@@ -164,11 +180,6 @@
       ]
     },
     {
-      "idCycleProg": 485,
-      "titreCycle": "Séances Jeune public",
-      "sousCycles": []
-    },
-    {
       "idCycleProg": 487,
       "titreCycle": "Cinéma français des années 1950",
       "sousCycles": [
@@ -180,9 +191,21 @@
       ]
     },
     {
-      "idCycleProg": 472,
-      "titreCycle": "Archi Vives",
-      "sousCycles": []
+      "idCycleProg": 488,
+      "titreCycle": "Philip Kaufman",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2227],
+          "tri": 1
+        },
+        {
+          "titre": "Les films",
+          "cats": [2228],
+          "tri": 4
+        }
+      ]
     }
   ]
 }
+  

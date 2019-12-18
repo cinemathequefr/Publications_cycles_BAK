@@ -3,7 +3,8 @@
 [143577]  
 **Aquilea : Nueve pequeños films sobre invasion**  
 d'Alejo Moguillansky  
-Argentine / 2008
+Argentine / 2008  
+Neuf court-métrages filmés dans les décors du film _Invasión_, quarante ans après son tournage.
 
 [51061]*  
 **Les Autres**  
@@ -17,7 +18,8 @@ Un père cherche à élucider le mystère du suicide de son fils. Au cours de sa
 [143578]  
 **Borges/Santiago : Variaciones sobre un guion**  
 d'Alejo Moguillansky  
-Argentine / 2008
+Argentine / 2008  
+Entretien entre Hugo Santiago et David Oubiña à propos du scénario d'_Invasion_, écrit par José Luis Borges.
 
 [142520]  
 **Christophe Coin, le musicien**  
@@ -82,7 +84,7 @@ Une ville portugaise subit un siège infini. Seul une poignée d'hommes défende
 > (Site) Une ville imaginaire subit un siège infini. Seule une poignée d'hommes défend la ville, mais leurs forces s'amenuisent peu à peu.
 
 [82158]  
-**Le Loup de la côte Ouest**  
+**Le Loup de la côte ouest**  
 de Hugo Santiago  
 France-Portugal / 2001  
 D'après la nouvelle _Guilt-Edged Blonde_ de Ross MacDonald.  
@@ -117,7 +119,8 @@ L'histoire de deux escrocs dans le Buenos Aires des années 60.
 [142677]  
 **El Teorema de Santiago**  
 d'Estanislao Buisel, Ignacio Masllorens  
-Argentine / 2015
+Argentine / 2015  
+En 2013 Hugo Santiago revient à Buenos Aires avec un nouveau projet intitulé _Le ciel du Centaure_. Presque toute son épique de tournage est composée de jeunes cinéastes qui ont grandi avec ses œuvres. Ce documentaire relate ce retour.
 
 [51063]  
 **Les Trottoirs de Saturne**  
@@ -132,10 +135,4 @@ de Hugo Santiago
 France / 1992  
 Avec Roland Bertin, Jacques Sereys, Dominique Rozan.  
 La dernière mise en scène d'Antoine Vitez de la pièce _La vie de Galilée_ de Bertol Brecht, filmée par Hugo Santiago.
-
-[143551]  
-**La Voix Humaine**  
-de Hugo Santiago  
-France / 1989  
-_La Voix humaine_ de Francis Poulenc et Jean Cocteau, mise en scène par Alain Françon au Théâtre de Châtelet en 1989, filmé par Hugo Santiago.
 

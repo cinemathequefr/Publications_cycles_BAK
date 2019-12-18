@@ -6,7 +6,13 @@
     "ageMinimal": null,
     "realisateurs": "Alejo Moguillansky",
     "annee": 2008,
-    "pays": "Argentine"
+    "pays": "Argentine",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Neuf court-métrages filmés dans les décors du film _Invasión_, quarante ans après son tournage."
+      }
+    ]
   },
   {
     "titre": "Autres",
@@ -36,7 +42,13 @@
     "ageMinimal": null,
     "realisateurs": "Alejo Moguillansky",
     "annee": 2008,
-    "pays": "Argentine"
+    "pays": "Argentine",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Entretien entre Hugo Santiago et David Oubiña à propos du scénario d'_Invasion_, écrit par José Luis Borges."
+      }
+    ]
   },
   {
     "titre": "Christophe Coin, le musicien",
@@ -296,7 +308,13 @@
     "ageMinimal": null,
     "realisateurs": "Estanislao Buisel, Ignacio Masllorens",
     "annee": 2015,
-    "pays": "Argentine"
+    "pays": "Argentine",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 2013 Hugo Santiago revient à Buenos Aires avec un nouveau projet intitulé _Le ciel du Centaure_. Presque toute son épique de tournage est composée de jeunes cinéastes qui ont grandi avec ses œuvres. Ce documentaire relate ce retour."
+      }
+    ]
   },
   {
     "titre": "Trottoirs de Saturne",
@@ -338,22 +356,6 @@
       "Roland Bertin",
       "Jacques Sereys",
       "Dominique Rozan"
-    ]
-  },
-  {
-    "titre": "Voix Humaine",
-    "art": "La",
-    "titreVo": "",
-    "idFilm": 143551,
-    "ageMinimal": 0,
-    "realisateurs": "Hugo Santiago",
-    "annee": 1989,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "_La Voix humaine_ de Francis Poulenc et Jean Cocteau, mise en scène par Alain Françon au Théâtre de Châtelet en 1989, filmé par Hugo Santiago."
-      }
     ]
   }
 ]
