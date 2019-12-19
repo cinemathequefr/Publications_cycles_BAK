@@ -1,7 +1,7 @@
 [
   {
-    "titre": "Aquilea : Nueve pequeños films sobre invasion",
-    "titreVo": "",
+    "titre": "Aquilea : Neuf petits films sur « Invasion »",
+    "titreVo": "Aquilea: Nueve pequeños films sobre «Invasión»",
     "idFilm": 143577,
     "ageMinimal": null,
     "realisateurs": "Alejo Moguillansky",
@@ -26,18 +26,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« Le fils d'un libraire de paris se suicide. Son père, homme de cinquante et quelques années, qui croyait l'avoir bien compris, sent à présent que jamais il ne l'a connu et le cherche en ceux qui furent ses amis. » Jorge Luis Borges"
+        "texte": "« Le fils d'un libraire de Paris se suicide. Son père, homme de cinquante et quelques années, qui croyait l'avoir bien compris, sent à présent que jamais il ne l'a connu et le cherche en ceux qui furent ses amis. » (Jorge Luis Borges)"
       }
     ],
-    "generique": [
-      "Patrice Dally",
-      "Noëlle Chatelet",
-      "Daniel Vignat"
-    ]
+    "generique": ["Patrice Dally", "Noëlle Chatelet", "Daniel Vignat"]
   },
   {
-    "titre": "Borges/Santiago : Variaciones sobre un guion",
-    "titreVo": "",
+    "titre": "Borges/Santiago : Variations sur un scénario",
+    "titreVo": "Borges/Santiago: Variaciones sobre un guión",
     "idFilm": 143578,
     "ageMinimal": null,
     "realisateurs": "Alejo Moguillansky",
@@ -78,18 +74,14 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un jeune ingénieur se rend à Buenos Aires pour remettre, de la part de son père, un paquet à un mystérieux individu. Il se trouve vite embarqué par une bande d'extravagants à la recherche du même homme."
+        "texte": "Un jeune ingénieur se rend à Buenos Aires pour remettre, de la part de son père, un paquet à un mystérieux individu. Il se trouve vite entraîné par une bande d'extravagants à la recherche du même homme."
       }
     ],
-    "generique": [
-      "Malik Zidi",
-      "Romina Paula",
-      "Roly Serrano"
-    ]
+    "generique": ["Malik Zidi", "Romina Paula", "Roly Serrano"]
   },
   {
-    "titre": "Comentario sobre Los Otros",
-    "titreVo": "",
+    "titre": "Commentaire sur « Les Autres »",
+    "titreVo": "Comentario sobre «Los Otros»",
     "idFilm": 143544,
     "ageMinimal": null,
     "realisateurs": "Ignacio Masllorens, Estanislao Buisel Quintana",
@@ -98,12 +90,12 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans cette brève introduction, Hugo Santiago livre quelques clés pour comprendre son œuvre la plus méconnue: _Les Autres_."
+        "texte": "Dans cette brève introduction, Hugo Santiago livre quelques clés pour comprendre son œuvre la plus méconnue : _Les Autres_."
       }
     ]
   },
   {
-    "titre": "Ecoute voir",
+    "titre": "Écoute voir",
     "titreVo": "",
     "idFilm": 51062,
     "ageMinimal": null,
@@ -116,14 +108,10 @@
         "texte": "M. de Maule fait appel à la détective Claude Alphand pour enquêter sur des individus qui s'introduisent mystérieusement dans son domaine. Elle découvre qu'il s'agit de membres d'une secte à laquelle s'est ralliée la jeune maîtresse du châtelain."
       }
     ],
-    "generique": [
-      "Catherine Deneuve",
-      "Sami Frey",
-      "Florence Delay"
-    ]
+    "generique": ["Catherine Deneuve", "Sami Frey", "Florence Delay"]
   },
   {
-    "titre": "Electre TV",
+    "titre": "Électre",
     "titreVo": "",
     "idFilm": 132291,
     "ageMinimal": 0,
@@ -133,17 +121,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "D'après la mise en scène, par Antoine Vitez, de la tragédie de Sophocle au Théâtre National de Chaillot."
+        "texte": "D'après la mise en scène, par Antoine Vitez, de la tragédie de Sophocle au Théâtre national de Chaillot."
       }
     ],
-    "generique": [
-      "Evelyne Istria",
-      "Jean-Claude Jay",
-      "Redjep Mitrovitsa"
-    ]
+    "generique": ["Évelyne Istria", "Jean-Claude Jay", "Redjep Mitrovitsa"]
   },
   {
-    "titre": "Enumérations",
+    "titre": "Énumérations",
     "titreVo": "",
     "idFilm": 142517,
     "ageMinimal": null,
@@ -156,11 +140,7 @@
         "texte": "Dans une maison à moitié dévastée par un cataclysme, des hommes et des femmes font l'inventaire des décombres sonores de leur mémoire lors d'une cérémonie musicale."
       }
     ],
-    "generique": [
-      "François Bedel",
-      "Richard Dubelski",
-      "Marie-Christine Orry"
-    ]
+    "generique": ["François Bedel", "Richard Dubelski", "Marie-Christine Orry"]
   },
   {
     "titre": "Fable des continents",
@@ -174,13 +154,10 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "« Voyage initiatique d'une soprano et une ethnologue \\[...\\] en Afrique, Asie et Amérique du Sud à la recherche des musiques d'autres cultures » (David Oubiña)"
+        "texte": "« Voyage initiatique d'une soprano et d'une ethnologue en Afrique, Asie et Amérique du Sud, à la recherche des musiques d'autres cultures. » (David Oubiña)"
       }
     ],
-    "generique": [
-      "Catherine Dune",
-      "Edith Scob"
-    ]
+    "generique": ["Catherine Dune", "Edith Scob"]
   },
   {
     "titre": "Geste gibelline",
@@ -194,13 +171,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À Gibellina, dans la Sicile profonde, la somptueuse mise en scène, par Yannis Kokkos, de l'Oresteïa de Iannis Xenakis (d'après Eschyle)."
+        "texte": "À Gibellina, dans la Sicile profonde, la somptueuse mise en scène, par Yannis Kokkos, de l'_Oresteïa_ de Iannis Xenakis, d'après Eschyle."
       }
     ]
   },
   {
     "titre": "Invasion",
-    "titreVo": "",
+    "titreVo": "Invasión",
     "idFilm": 43230,
     "ageMinimal": null,
     "realisateurs": "Hugo Santiago",
@@ -209,17 +186,17 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Aquilea subit un siège infini. Seule une poignée d'hommes défend la ville, mais leur forces s'amenuisent peu à peu. Chef d'œuvre inaugural du cinéma de Hugo Santiago."
+        "texte": "Aquilea subit un siège infini. Seule une poignée d'hommes défend la ville, mais leur forces s'amenuisent peu à peu."
+      },
+      {
+        "typeTexte": 9,
+        "texte": "Chef d'œuvre inaugural du cinéma d'Hugo Santiago."
       }
     ],
-    "generique": [
-      "Lautaro Murúa",
-      "Olga Zubarry",
-      "Juan Carlos Paz"
-    ]
+    "generique": ["Lautaro Murúa", "Olga Zubarry", "Juan Carlos Paz"]
   },
   {
-    "titre": "Loup de la côte ouest",
+    "titre": "Loup de la côte Ouest",
     "art": "Le",
     "titreVo": "",
     "idFilm": 82158,
@@ -230,15 +207,16 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "À la demande d'un vieux milliardaire, le célèbre détective privé la côte ouest américaine, Lew Millar, revient en France."
+        "texte": "À la demande d'un vieux milliardaire, le célèbre détective privé de la côte Ouest américaine, Lew Millar, revient en France."
       }
     ],
     "generique": [
       "James Faulkner",
       "Anna Mouglalis",
-      "Gérard Watkins"
+      "Gérard Watkins",
+      "Valérie Dréville"
     ],
-    "adaptation": "D'après la nouvelle _Guilt-Edged Blonde_ de Ross MacDonald."
+    "adaptation": "D'après la nouvelle _Une blonde dorée sur tranche_ de Ross Macdonald."
   },
   {
     "titre": "Maria Bethânia do Brasil",
@@ -266,7 +244,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Portrait impossible de Maurice Blanchot, dans la série « Un siècle d'écrivains »."
+        "texte": "Portrait impossible de Maurice Blanchot, dans la série _Un siècle d'écrivains_."
       }
     ]
   },
@@ -281,7 +259,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Santiago filme les répétitions du groupe Mosaïques en vue du concert de « Le Quatuor no 14, opus 131 » de Ludwig van Beethoven."
+        "texte": "Hugo Santiago filme les répétitions du groupe Mosaïques en vue du concert du quatuor n° 14, opus 131, de Ludwig van Beethoven."
       }
     ]
   },
@@ -300,16 +278,13 @@
         "texte": "Deux escrocs dans le Buenos Aires des années 1960."
       }
     ],
-    "generique": [
-      "Martín Adjemián",
-      "Concepción de Mederos",
-      "Oscar Cruz"
-    ]
+    "generique": ["Martín Adjemián", "Concepción de Mederos", "Óscar Cruz"]
   },
   {
-    "titre": "Teorema de Santiago",
-    "art": "El",
-    "titreVo": "",
+    "titre": "Théorème de Santiago",
+    "art": "Le",
+    "titreVo": "Teorema de Santiago",
+    "artVo": "El",
     "idFilm": 142677,
     "ageMinimal": null,
     "realisateurs": "Estanislao Buisel, Ignacio Masllorens",
@@ -318,7 +293,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En 2013, Hugo Santiago retourne à Buenos Aires pour un nouveau projet intitulé _Le Ciel du centaure_. Son équipe de tournage est composée, entre autres, de jeunes cinéastes qui ont grandi avec ses œuvres. Celui-ci est le documentaire d'un tel retour."
+        "texte": "En 2013, Hugo Santiago revient à Buenos Aires pour un nouveau projet intitulé _Le Ciel du centaure_. Son équipe de tournage est composée, entre autres, de jeunes cinéastes qui ont grandi avec ses œuvres."
       }
     ]
   },
@@ -337,11 +312,7 @@
         "texte": "Fabián Cortés, célèbre joueur de bandonéon, originaire d'un pays fictif d'Amérique latine, vit en exil à Paris. Obsédé par l'idée du retour, il poursuit une quête impossible de ses racines."
       }
     ],
-    "generique": [
-      "Rodolfo Mederos",
-      "Bérangère Bonvoisin",
-      "Edgardo Lusi"
-    ]
+    "generique": ["Rodolfo Mederos", "Bérangère Bonvoisin", "Edgardo Lusi"]
   },
   {
     "titre": "Vie de Galilée",
@@ -355,13 +326,9 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Création, à la Comédie française, de _La Vie de Galilée_ de Bertolt Brecht. Il s'agit de la dernière mise en scène d'Antoine Vitez."
+        "texte": "Création, à la Comédie-Française, de _La Vie de Galilée_ de Bertolt Brecht. Il s'agit de la dernière mise en scène d'Antoine Vitez."
       }
     ],
-    "generique": [
-      "Roland Bertin",
-      "Jacques Sereys",
-      "Dominique Rozan"
-    ]
+    "generique": ["Roland Bertin", "Jacques Sereys", "Dominique Rozan"]
   }
 ]

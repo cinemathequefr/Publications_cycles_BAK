@@ -5,8 +5,8 @@
     "titreVo": "Shy People",
     "idFilm": 46201,
     "ageMinimal": null,
-    "realisateurs": "Andreï Mikhalkov-Konchalovsky",
-    "annee": 1987,
+    "realisateurs": "Andreï Konchalovsky",
+    "annee": 1986,
     "pays": "États-Unis",
     "textes": [
       {
@@ -23,23 +23,45 @@
   {
     "titre": "Bonheur d'Assia",
     "art": "Le",
-    "titreVo": "Istoriya Asi Klyachinoy, kotoraya lyubila, da ne vyshla zamuzh",
+    "titreVo": "Istoria Assi kliatchinoi katoraia lioubila da nie vychla zamouch = Istoriya Asi Klyachinoy, kotoraya lyubila, da ne vyshla zamuzh",
     "idFilm": 111098,
     "ageMinimal": null,
-    "realisateurs": "Andreï Konchalovsky",
+    "realisateurs": "Andreï Mikhalkov-Konchalovsky",
     "annee": 1966,
     "pays": "URSS",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Assia, une jeune kolkhozienne est amoureuse du chauffeur dont elle attend un enfant. Mais, cette passion n'est pas partagée. Elle s'obstine, malgré les avances d'un autre prétendant, puis décide, lucidement et courageusement, d'élever seule son enfant. ou Assia, ouvrière agricole dans un kolkhoze, a deux amants. L'un l'aime et veut l'epouser, l'autre la brutalise et lui fait un enfant. Assia refuse de choisir entre ses deux prétendants. A travers ses aventures, Konchalovsky retrace également la vie d'un kolkhoz."
+        "texte": "Assia, ouvrière agricole dans un kolkhoze, a deux amants. L'un l'aime et veut l'épouser, l'autre la brutalise et lui fait un enfant. Assia refuse de choisir entre ses deux prétendants. A travers ses aventures, Konchalovsky retrace également la vie d'un kolkhoz.."
       }
     ],
     "generique": [
       "Iya Savvina",
       "Alexandre Sourine",
-      "Lioubov Solokova"
+      "Lioubov Sokolova"
     ]
+  },
+  {
+    "titre": "Casse-Noisette : l'histoire jamais racontée",
+    "titreVo": "Nutcracker in 3D",
+    "artVo": "The",
+    "idFilm": 143650,
+    "ageMinimal": null,
+    "realisateurs": "Andreï Konchalovsky",
+    "annee": 2010,
+    "pays": "Grande-Bretagne-Hongrie-Russie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le soir de Noël, la jeune Mary âgée de 9 ans reçoit de son oncle bien-aimé Albert, un casse-noisette enchanté. L'histoire de Casse-Noisette porté en 3D."
+      }
+    ],
+    "generique": [
+      "Elle Fanning",
+      "John Turturro",
+      "Nathan Lane"
+    ],
+    "adaptation": "D'après le ballet-féérie _Casse-Noisette_ - non crédité de Piotr Ilitch Tchaïkovski.  \nD'après le conte _Casse-Noisette et le Roi des Souris_ - non crédité d'Ernst Theodor Amadeus Hoffmann."
   },
   {
     "titre": "Cercle des intimes",
@@ -48,13 +70,13 @@
     "artVo": "The",
     "idFilm": 33917,
     "ageMinimal": null,
-    "realisateurs": "Andreï Mikhalkov-Konchalovsky",
-    "annee": 1991,
-    "pays": "Italie-URSS",
+    "realisateurs": "Andreï Konchalovsky",
+    "annee": 1990,
+    "pays": "Italie-URSS-États-Unis",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Évocation de la vie de Staline à travers l'itinéraire de son projectionniste attitré et de tout le petit et grand monde qui gravitait autour de lui."
+        "texte": "Évocation de la vie de Staline à travers le portrait de son projectionniste attitré et de tout le petit et grand monde qui gravitait autour de lui."
       }
     ],
     "generique": [
@@ -89,7 +111,7 @@
     "titreVo": "Duet for One",
     "idFilm": 33961,
     "ageMinimal": null,
-    "realisateurs": "Andreï Mikhalkov-Konchalovsky",
+    "realisateurs": "Andreï Konchalovsky",
     "annee": 1986,
     "pays": "États-Unis-Grande-Bretagne",
     "textes": [
@@ -102,22 +124,26 @@
       "Julie Andrews",
       "Alan Bates",
       "Max von Sydow"
-    ]
+    ],
+    "adaptation": "D'après la pièce _Duet for One_ de Tom Kempinski."
   },
   {
     "titre": "Enfant et le pigeon",
     "art": "L'",
-    "titreVo": "Malcik i golub",
+    "titreVo": "Malchik i golub",
     "idFilm": 60749,
     "ageMinimal": null,
-    "realisateurs": "Andreï Mikhalkov-Konchalovsky",
-    "annee": 1962,
+    "realisateurs": "Andreï Kontchalovski, Evgueni = Yevgeni Ostachenko",
+    "annee": 1961,
     "pays": "URSS",
     "textes": [
       {
         "typeTexte": 9,
         "texte": "Un gamin échange un album de timbres contre un pigeon, auquel il rend la liberté."
       }
+    ],
+    "generique": [
+      "Kolia Bourliaïev"
     ]
   },
   {
@@ -153,12 +179,6 @@
         "typeTexte": 9,
         "texte": "Lumière et compagnie est un film documentaire omnibus réalisé par 41 réalisateurs. Chacun a dû produire un court métrage en utilisant le Cinématographe original des frères Lumière, et en répondant à trois règles : pas plus de 52 secondes par court, pas de sons synchronisés, pas plus de trois prises."
       }
-    ],
-    "generique": [
-      "Bruno Ganz",
-      "Otto Sander",
-      "François Mitterrand",
-      "David Lynch"
     ]
   },
   {
@@ -167,7 +187,7 @@
     "titreVo": "Dom Durakov",
     "idFilm": 84715,
     "ageMinimal": null,
-    "realisateurs": "Andreï Mikhalkov-Konchalovsky",
+    "realisateurs": "Andreï Konchalovsky",
     "annee": 2002,
     "pays": "Russie-France",
     "textes": [
@@ -177,7 +197,7 @@
       }
     ],
     "generique": [
-      "Yuliya Vysotskaya",
+      "Ioulia Vyssotskaïa",
       "Evgueni Mironov",
       "Sultan Islamov"
     ]
@@ -187,9 +207,9 @@
     "titreVo": "",
     "idFilm": 33873,
     "ageMinimal": null,
-    "realisateurs": "Andreï Mikhalkov-Konchalovsky",
-    "annee": 1984,
-    "pays": "États-Unis",
+    "realisateurs": "Andreï Konchalovsky",
+    "annee": 1983,
+    "pays": "États-Unis-Israël",
     "textes": [
       {
         "typeTexte": 9,
@@ -203,9 +223,9 @@
     ]
   },
   {
-    "titre": "Nid de gentils-hommes",
+    "titre": "Nid des gentilshommes = Un nid de gentilshommes",
     "art": "Le",
-    "titreVo": "Dvorjanskoe gnezdo",
+    "titreVo": "Dvorianskoie gnezdo",
     "idFilm": 57220,
     "ageMinimal": 0,
     "realisateurs": "Andreï Mikhalkov-Konchalovsky",
@@ -218,10 +238,11 @@
       }
     ],
     "generique": [
-      "Nikita Mikhalkov",
       "Irina Kouptchenko",
-      "Leonid KOULAGUINE"
-    ]
+      "Leonid Koulaguine",
+      "Nikita Mikhalkov"
+    ],
+    "adaptation": "D'après le roman _Nid de gentilhomme_ d'Ivan Tourgueniev."
   },
   {
     "titre": "Nuits blanches du facteur",
@@ -246,48 +267,71 @@
   },
   {
     "titre": "Oncle Vania",
-    "titreVo": "Djadja Vanja",
+    "titreVo": "Diadia Vania",
     "idFilm": 40610,
     "ageMinimal": 0,
     "realisateurs": "Andreï Mikhalkov-Konchalovsky",
-    "annee": 1971,
+    "annee": 1970,
     "pays": "URSS",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "l'oncle Vanya, vit tranquillement en compagnie de sa mère et de sa nièce Sonia. Le retour du Professeur Sérébriakov, son beau-frère, en compagnie de la belle Elena, va rapidement raviver la rancœur que Vanya garde depuis longtemps envers le vieux savant. ou La quiétude d'Ivan Petrovitch, l'oncle Vania, de sa mère et de sa nièce va être troublée par l'arrivée intempestive du beau-frère de Vania accompagné de sa petite famille. A REVOIR"
+        "texte": "l'oncle Vanya, vit tranquillement en compagnie de sa mère et de sa nièce Sonia. Le retour du Professeur Sérébriakov, son beau-frère, en compagnie de la belle Elena, va rapidement raviver la rancœur que Vanya garde depuis longtemps envers le vieux savant."
       }
     ],
     "generique": [
-      "Innokenti Smoktunovsky",
-      "Sergei Bondarchuk",
-      "Irina Kupchenko"
-    ]
+      "Innokenti Smoktounovski",
+      "Sergueï Bondartchouk",
+      "Irina Kouptchenko"
+    ],
+    "adaptation": "D'après la pièce _Oncle Vania_ d'Anton Tchekhov."
   },
   {
     "titre": "Paradis",
     "titreVo": "Rai",
     "idFilm": 137635,
     "ageMinimal": null,
-    "realisateurs": "Andreï Konchalovsky",
+    "realisateurs": "Andreï Kontchalovski",
     "annee": 2015,
     "pays": "Russie-Allemagne",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Olga est une aristocrate russe qui a émigré en France et devient une résistante. Jules est fonctionnaire de police et choisit de collaborer avec le régime nazi. Helmut, fils de la noblesse allemande devient officier SS dans un camp de concentration. Trois destins croisés qui devront répondre de leurs actes devant Dieu pour entrer ou non dans son Paradis. ou Paradis suit le parcours tragique d'une héroïne, aristocrate russe entrée dans la Résistance française, depuis son arrestation jusqu'à son calvaire dans un camp d'extermination."
+        "texte": "Olga est une aristocrate russe qui a émigré en France et devient résistante. Jules est fonctionnaire de police et choisit de collaborer avec le régime nazi. Helmut, fils de la noblesse allemande devient officier SS dans un camp de concentration. Trois destins croisés qui devront répondre de leurs actes devant Dieu pour entrer ou non dans son Paradis."
       }
     ],
     "generique": [
-      "Julia Vysotskaya",
+      "Ioulia Vyssotskaïa",
       "Christian Clauss",
       "Philippe Duquesne"
     ]
   },
   {
+    "titre": "Péché",
+    "art": "Le",
+    "titreVo": "Peccato",
+    "artVo": "Il",
+    "idFilm": 143624,
+    "ageMinimal": null,
+    "realisateurs": "Andreï Konchalovsky",
+    "annee": 2019,
+    "pays": "Italie-Russie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Explorer les pensées et démons intérieurs de Michel-Ange, éclairant la conscience d'un génie; celle d'un homme de la Renaissance avec ses superstitions, ses exaltations, son mysticisme et sa foi dans les miracles."
+      }
+    ],
+    "generique": [
+      "Ioulia Vyssotskaïa",
+      "Orso Maria Guerrini",
+      "Alberto Testone"
+    ]
+  },
+  {
     "titre": "Premier maître",
     "art": "Le",
-    "titreVo": "Pervyi uchitel",
+    "titreVo": "Pervyi outchitel = Pervyi uchitel",
     "idFilm": 46107,
     "ageMinimal": 0,
     "realisateurs": "Andreï Mikhalkov-Konchalovsky",
@@ -296,8 +340,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'arrivée de Diouchen, jeune soldat de l'Armée rouge, envoyé par le Komsomol à l'aoul de Koksaï en Kirghizie, provoque un attroupement. Le jeune homme se présente et explique sa mission : éduquer et apprendre à lire. ou Le premier instituteur, Diouchen, ancien soldat de l'armée rouge, s'installe dans un village kirghize. Diouchen est plein de ferveur : il est persuadé que seule l'instruction délivrera les paysans de leur esclavage et leur permettra d'édifier une vie nouvelle."
+        "texte": "Le premier instituteur, Diouchen, ancien soldat de l'armée rouge, s'installe dans un village kirghize. Diouchen est plein de ferveur : il est persuadé que seule l'instruction délivrera les paysans de leur esclavage et leur permettra d'édifier une vie nouvelle."
       }
+    ],
+    "generique": [
+      "Bolot Beichenaliev",
+      "Natalia Arinbassarova",
+      "Idris Nogaïbaev"
     ]
   },
   {
@@ -305,13 +354,13 @@
     "titreVo": "Kourotchka Riaba",
     "idFilm": 54346,
     "ageMinimal": null,
-    "realisateurs": "Andreï Mikhalkov-Konchalovsky",
+    "realisateurs": "Andreï Konchalovsky",
     "annee": 1994,
-    "pays": "URSS",
+    "pays": "Russie-France",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "L'histoire d'Assia qui vit avec Riaba, sa poule, et découvre un trésor dans son poulailler. Reprise d'une fable moqueuse en Russie."
+        "texte": "L'histoire d'Assia qui vit avec Riaba, sa poule, et découvre un trésor dans son poulailler. Reprise d'une fable satirique russe."
       }
     ],
     "generique": [
@@ -323,7 +372,7 @@
   {
     "titre": "Romance des amoureux",
     "art": "La",
-    "titreVo": "Romans o vljublennyh",
+    "titreVo": "Romans o vlioublennykh = Romans o vljublennyh",
     "idFilm": 60750,
     "ageMinimal": null,
     "realisateurs": "Andreï Mikhalkov-Konchalovsky",
@@ -336,28 +385,17 @@
       }
     ],
     "generique": [
-      "Valentina Ananyna",
+      "Valentina Ananina",
       "Semion Farada",
       "Nikolaï Grinko"
     ]
   },
   {
-    "titre": "Royal Way",
-    "art": "The",
-    "titreVo": "",
-    "idFilm": 78716,
-    "ageMinimal": 0,
-    "realisateurs": "Andreï Mikhalkov-Konchalovsky",
-    "annee": 2000,
-    "pays": "Russie-France",
-    "adaptation": "D'après le roman _La Voix royale_ d'André Malraux."
-  },
-  {
-    "titre": "Runaway Train",
-    "titreVo": "",
+    "titre": "Runaway Train = À Bout de course",
+    "titreVo": "Runaway Train",
     "idFilm": 46077,
     "ageMinimal": null,
-    "realisateurs": "Andreï Mikhalkov-Konchalovsky",
+    "realisateurs": "Andreï Konchalovsky",
     "annee": 1985,
     "pays": "États-Unis",
     "textes": [
@@ -383,7 +421,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Film en deux temps, de la Révolution d'octobre à nos jours, en Sibérie occidentale, évoquant l'histoire de deux familles qui se haïssent. ou Au début du siècle, dans le petit village sibérien d'Elan, les riches Solomine et les Oustoujanine, pauvres mais fiers, se vouent une haine ancestrale."
+        "texte": "Film en deux temps, de la Révolution d'octobre à nos jours, en Sibérie occidentale, évoquant l'histoire de deux familles l'une riche, l'autre pauvre qui se haïssent."
       }
     ],
     "generique": [
@@ -393,11 +431,29 @@
     ]
   },
   {
+    "titre": "Split Cherry Tree",
+    "titreVo": "",
+    "idFilm": 143647,
+    "ageMinimal": 0,
+    "realisateurs": "Andreï Konchalovsky",
+    "annee": 1982,
+    "pays": "Canada-États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un père se rend compte de l'importance de l'éducation comprend les rêves et les ambitions de son fils."
+      }
+    ],
+    "generique": [
+      "Colleen Dewhurst"
+    ]
+  },
+  {
     "titre": "Tango et Cash",
     "titreVo": "Tango & Cash",
     "idFilm": 46202,
     "ageMinimal": null,
-    "realisateurs": "Andreï Mikhalkov-Konchalovsky",
+    "realisateurs": "Andreï Konchalovsky",
     "annee": 1989,
     "pays": "États-Unis",
     "textes": [
@@ -407,8 +463,9 @@
       }
     ],
     "generique": [
-      "Jack Palance",
       "Sylvester Stallone",
+      "Kurt Russell",
+      "Jack Palance",
       "Edward Bunker"
     ]
   },
@@ -423,12 +480,13 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Sur fond de road-movie, Homer, un trentenaire vient en aide à Eddie, sociopathe à tendance agressive, échappé d'un hôpital. ou Un simple d'esprit qui veut traverser les États-Unis pour rendre visite à son père mourant chemine aux côtés d'une jeune femme échappée d'un asile."
+        "texte": "Un simple d'esprit qui veut traverser les États-Unis pour rendre visite à son père mourant chemine aux côtés d'une jeune femme échappée d'un asile."
       }
     ],
     "generique": [
       "James Belushi",
-      "Jim Mapp"
+      "Jim Mapp",
+      "Whoopi Goldberg"
     ]
   }
 ]
