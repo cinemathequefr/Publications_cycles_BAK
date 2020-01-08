@@ -5,6 +5,27 @@
   "dateTo": "",
   "cycles": [
     {
+      "idCycleProg": 14,
+      "titreCycle": "Cinéma bis",
+      "sousCycles": [
+        {
+          "titre": "Le corps souillé",
+          "cats": [2251],
+          "tri": 4
+        },
+        {
+          "titre": "De Funès et les extraterrestres",
+          "cats": [2249],
+          "tri": 4
+        },
+        {
+          "titre": "Luigi Cozzi",
+          "cats": [14],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 409,
       "titreCycle": "Don Siegel",
       "sousCycles": [
