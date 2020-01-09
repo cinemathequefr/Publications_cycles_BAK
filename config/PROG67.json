@@ -5,6 +5,17 @@
   "dateTo": "",
   "cycles": [
     {
+      "idCycleProg": 13,
+      "titreCycle": "Cinéma d'avant-garde",
+      "sousCycles": [
+        {
+          "titre": "À neuf le cinema : Hommage à « Cinéma 9 »",
+          "cats": [2222],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 14,
       "titreCycle": "Cinéma bis",
       "sousCycles": [
