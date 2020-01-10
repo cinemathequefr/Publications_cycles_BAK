@@ -38,7 +38,7 @@ Une mère infortunée est obligée de confier ses enfants, de pères différents
 de Hiroshi Shimizu, Yasushi Sasakibara  
 Japon / 1932  
 Avec Kazuo Hasegawa, Kokichi Takada, Hideo Fujino.  
-Histoire des conquêtes du Japon moderne pour commémorer le 50<sup>e</sup> anniversaire du « Rescrit impérial aux soldats et aux marins » promulgué par l'empereur Meiji en 1882, glorifiant l'esprit martial millénaire du Japon.
+Histoire des conquêtes militaires du Japon moderne pour commémorer le 50<sup>e</sup> anniversaire du « Rescrit impérial aux soldats et aux marins » promulgué par l'empereur Meiji en 1882, glorifiant l'esprit martial millénaire du Japon.
 
 Copie muette, partiellement sonore, reconstituée par le National Film Archive of Japan à partir de trois bobines sonores conservées au Gosfilmofond et sept bobines muettes conservées au National Film Archive of Japan.
 
@@ -102,7 +102,7 @@ Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et 
 de Hiroshi Shimizu  
 Japon / 1942  
 Avec Shirley Yamaguchi, Toshiaki Konoe, Kenji Oyama.  
-Taïwan, 1938. Une jeune aborigène meurt tragiquement en montagne pour sauver la vie du colon japonais qu'elle accompagne. Film basé sur une histoire vraie qui servit la propagande pour la pacification de l'île.
+Taïwan, 1938. Une jeune aborigène meurt tragiquement en montagne pour sauver la vie du colon japonais qu'elle accompagne. Film de propagande basé sur une histoire vraie pour inciter les « sujets taïwanais » à s'enrôler dans l'armée impériale.
 
 Copie National Film Archive of Japan.
 
