@@ -5,6 +5,17 @@
   "dateTo": "",
   "cycles": [
     {
+      "idCycleProg": 11,
+      "titreCycle": "Séances spéciales",
+      "sousCycles": [
+        {
+          "titre": "Projectiles au sens propre : une soirée avec Pierre Senges",
+          "cats": [2245],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 13,
       "titreCycle": "Cinéma d'avant-garde",
       "sousCycles": [
@@ -32,6 +43,28 @@
         {
           "titre": "Luigi Cozzi",
           "cats": [14],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 18,
+      "titreCycle": "Conservatoire des techniques cinématographiques",
+      "sousCycles": [
+        {
+          "titre": "",
+          "cats": [1856],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 152,
+      "titreCycle": "Parlons cinéma avec Bertrand Belin",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2238],
           "tri": 4
         }
       ]
@@ -169,7 +202,7 @@
       "sousCycles": [
         {
           "titre": "Films et conférences",
-          "cats": [2229],
+          "cats": [2247, 2146],
           "tri": 4
         }
       ]
