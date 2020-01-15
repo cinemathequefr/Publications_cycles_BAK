@@ -77,7 +77,7 @@ Soirée de gala d'une boîte de nuit fréquentée par une clientèle noire et da
 de Jean-Daniel Pollet  
 France / 1966  
 D'après la nouvelle _Le Horla_ de Guy de Maupassant.  
-Avec L, a, u, r, e, n, t, , T, e, r, z, i, e, f, f.  
+Avec Laurent Terzieff.  
 Un jeune homme, seul dans sa maison au bord de la mer, sombre peu à peu dans la folie.
 
 [101209]  
@@ -136,7 +136,7 @@ France / 2016
 
 [54484]  
 **Pour mémoire**  
-de Jean-Daniel Pollet, Maurice Borne  
+de Jean-Daniel Pollet, Maurice Born  
 France / 1978  
 Avec Lucien Doyen, René Duchamp, Roland Rousseau, Émile Villette.  
 Jean-Daniel Pollet filme une forge qui s'apprête à fermer, s'attachant à ces hommes au travail et à leurs gestes bientôt perdus.

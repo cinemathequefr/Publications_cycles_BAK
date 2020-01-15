@@ -2,8 +2,9 @@
 
 [126977]  
 **The Assassin**  
-**(Nie yin niang)**  
-de Hsiao-Hsien Hou  
+**(Cike Nie Yinniang)**  
+**(刺客聶隱娘)**  
+de Hou Hsiao-hsien  
 Taïwan-Chine / 2014  
 D'après le récit traditionnel _Nie Yinniang_ de Pei Xing.  
 Avec Shu Qi, Chang Chen, Zhou Yun, Satoshi Tsumabuki.  
@@ -25,3 +26,4 @@ de Kelly Reichardt
 D'après la nouvelle _Old Joy_ de Jonathan Raymond.  
 Avec Daniel London, Will Oldham, Keri Moran.  
 Dans l'Oregon, deux amis de longue date partent camper en montagne le temps d'un week-end. Ils se retrouvent confrontés à leurs différences, l'un plongé dans la vie adulte, l'autre prolongeant l'insouciance de sa jeunesse.
+

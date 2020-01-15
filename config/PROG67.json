@@ -24,7 +24,15 @@
           "cats": [2222],
           "tri": 4
         }
-      ]
+      ],
+      "titreEvenements": {
+        "21939": "Programme 1",
+        "21941": "Programme 2",
+        "21942": "Programme 3",
+        "21944": "Programme 4",
+        "21945": "Programme 5",
+        "21946": "Programme 6"
+      }
     },
     {
       "idCycleProg": 14,
@@ -36,13 +44,13 @@
           "tri": 4
         },
         {
-          "titre": "De Funès et les extraterrestres",
-          "cats": [2249],
+          "titre": "Luigi Cozzi",
+          "cats": [14],
           "tri": 4
         },
         {
-          "titre": "Luigi Cozzi",
-          "cats": [14],
+          "titre": "De Funès et les extraterrestres",
+          "cats": [2249],
           "tri": 4
         }
       ]
@@ -79,14 +87,9 @@
           "tri": 1
         },
         {
-          "titre": "Nuit zombie",
-          "cats": [2126],
-          "tri": 4
-        },
-        {
-          "titre": "Séries TV",
+          "titre": "Courts métrages",
           "cats": [2125],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Rencontres et conférences",
@@ -118,12 +121,12 @@
         {
           "titre": "Les films",
           "cats": [2054],
-          "tri": 1
+          "tri": 2
         },
         {
-          "titre": "Autour de Hugo Santiago",
+          "titre": "Autour d'Hugo Santiago",
           "cats": [2122],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Rencontres et conférences",
@@ -214,7 +217,7 @@
         {
           "titre": "Les films",
           "cats": [2198],
-          "tri": 1
+          "tri": 4
         },
         {
           "titre": "Rencontres et conférences",

@@ -189,8 +189,8 @@
         "texte": "Aquilea subit un siège infini. Seule une poignée d'hommes défend la ville, mais leur forces s'amenuisent peu à peu."
       },
       {
-        "typeTexte": 9,
-        "texte": "Chef d'œuvre inaugural du cinéma d'Hugo Santiago."
+        "typeTexte": 99,
+        "texte": "Chef-d'œuvre inaugural du cinéma d'Hugo Santiago."
       }
     ],
     "generique": ["Lautaro Murúa", "Olga Zubarry", "Juan Carlos Paz"]

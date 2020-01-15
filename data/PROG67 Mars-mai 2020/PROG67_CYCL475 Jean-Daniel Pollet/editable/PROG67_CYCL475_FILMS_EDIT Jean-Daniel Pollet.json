@@ -199,7 +199,7 @@
         "texte": "Un jeune homme, seul dans sa maison au bord de la mer, sombre peu à peu dans la folie."
       }
     ],
-    "generique": "Laurent Terzieff",
+    "generique": ["Laurent Terzieff"],
     "adaptation": "D'après la nouvelle _Le Horla_ de Guy de Maupassant."
   },
   {
@@ -341,7 +341,7 @@
     "titreVo": "",
     "idFilm": 54484,
     "ageMinimal": null,
-    "realisateurs": "Jean-Daniel Pollet, Maurice Borne",
+    "realisateurs": "Jean-Daniel Pollet, Maurice Born",
     "annee": 1978,
     "pays": "France",
     "textes": [
