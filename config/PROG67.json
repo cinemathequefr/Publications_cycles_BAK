@@ -10,7 +10,7 @@
       "sousCycles": [
         {
           "titre": "Projectiles au sens propre : une soirée avec Pierre Senges",
-          "cats": [2245],
+          "cats": [2246],
           "tri": 4
         }
       ]
@@ -61,7 +61,7 @@
       "sousCycles": [
         {
           "titre": "",
-          "cats": [1856],
+          "cats": [2259],
           "tri": 4
         }
       ]
@@ -238,6 +238,21 @@
         {
           "titre": "Les films",
           "cats": [2221],
+          "tri": 1
+        },
+        {
+          "titre": "Visites d'ateliers",
+          "cats": [2236],
+          "tri": 4
+        },
+        {
+          "titre": "Courts métrages documentaires",
+          "cats": [2237],
+          "tri": 4
+        },
+        {
+          "titre": "Films collectifs et encyclopédie",
+          "cats": [2253],
           "tri": 1
         },
         {

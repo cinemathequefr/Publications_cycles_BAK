@@ -1,0 +1,31 @@
+[
+  {
+    "idCategorie": 2246,
+    "idEvenement": 22040,
+    "titre": "Projectiles au sens propre – dialogue avec Pierre Senges",
+    "duree": 45,
+    "idTypeConference": 16,
+    "typeConference": "Dialogue",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Texte à saisir"
+      }
+    ],
+    "intervenants": [
+      {
+        "nomComplet": "Pierre Senges",
+        "idFonction": 143,
+        "fonction": "En présence de",
+        "ordre": 1
+      },
+      {
+        "nomComplet": "Gabriela Trujillo",
+        "idFonction": 40,
+        "fonction": "Animateur",
+        "ordre": 2
+      }
+    ],
+    "mentionAnimation": "Rencontre animée par Gabriela Trujillo"
+  }
+]

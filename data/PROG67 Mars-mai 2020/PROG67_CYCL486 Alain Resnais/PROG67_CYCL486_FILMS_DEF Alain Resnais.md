@@ -32,12 +32,24 @@ France-Italie / 1960
 Avec Giorgio Albertazzi, Delphine Seyrig, Sacha Pitoëff.  
 Dans un château de Bohême, transformé en hôtel de luxe à l'atmosphère feutrée, un homme s'attache à une femme. Il tente de la persuader qu'ils ont eu une aventure, l'année dernière, à Marienbad.
 
+[143682]  
+**La Bague**  
+d'Alain Resnais  
+France / 1946  
+Tourné en décors naturels, le plus ancien film amateur d'Alain Resnais disponible : un mimodrame de Bip où le mime Marceau, âgé de 23 ans, joue également un aveugle. Marceau et Resnais, soldats dans l'Allemagne occupée en 1945-46, avaient fait partie d'une même troupe de théâtre.
+
 [58726]  
 **Le Chant du styrène**  
 d'Alain Resnais  
 France / 1958  
 Avec Sacha Vierny.  
 Film de commande réalisé pour le groupe pétro-chimique Péchiney, qui montre tous les mystères techniques de la fabrication du plastique et de ses dérivés.
+
+[79517]  
+**Christine Boumeester**  
+d'Alain Resnais  
+France / 1947  
+Génèse d'un tableau de l'artiste Christine Boumeester (1904-1971), commencé le soir et achevé au petit matin.
 
 [100322]  
 **Cœurs**  
@@ -46,6 +58,18 @@ France / 2006
 D'après la pièce _Petites peurs partagées_ d'Alan Ayckbourn.  
 Avec Sabine Azéma, Isabelle Carré, André Dussollier.  
 Les rencontres, les amours et le destin de Thierry, Charlotte, Nicole, Dan et Lionel dans un quartier du 13<sup>e</sup> arrondissement de Paris.
+
+[79521]  
+**Domela**  
+d'Alain Resnais  
+France / 1947  
+Promenade dans l'œuvre du peintre néerlandais César Domela (1900-1992). L'artiste est filmé au travail le temps de voir naître l'une de ses œuvres abstraites.
+
+[79518]  
+**Félix Labisse**  
+d'Alain Resnais  
+France / 1947  
+Visite dans l'atelier de Félix Labisse (1905-1982), rue Campagne-Première à Montparnasse. Les artifices de montage reliant invisiblement les tableaux entre eux préfigurent le film _Guernica_, tourné trois ans plus tard.
 
 [50866]  
 **Gershwin**  
@@ -65,6 +89,12 @@ d'Alain Resnais
 France-Suède / 1965  
 Avec Yves Montand, Ingrid Thulin, Geneviève Bujold, Jean Bouise.  
 En 1965, trois jours de la vie de Diego, un résistant antifranquiste qui passe régulièrement la frontière franco-espagnole sous des identités d'emprunt. De retour de mission, il est assailli par le doute.
+
+[79519]  
+**Hartung**  
+d'Alain Resnais  
+France / 1947  
+Henri Goetz a présenté Alain Resnais à Hans Hartung (1904-1989), peintre alors rattaché à l'abstraction lyrique. « Le film me parait spécialement réussi tellement le silence et l'intensité du travail sont visibles et audibles, si l'on peut dire cela d'un film muet. » (Hans Hartung, _Autoportrait_, 1976)
 
 [108190]  
 **Les Herbes folles**  
@@ -96,6 +126,21 @@ d'Alain Resnais
 France / 1967  
 Avec Claude Rich, Olga Georges-Picot, Anouk Ferjac.  
 Après une tentative de suicide, un employé de bureau se prête à une expérience scientifique : un voyage dans le temps qui lui fera revivre une minute de son passé, un an plus tôt exactement.
+
+[52165]  
+**Loin du Vietnam**  
+de Jean-Luc Godard, Joris Ivens, William Klein, Claude Lelouch, Alain Resnais  
+France / 1967  
+Avec Anne Bellec, Karen Blanguernon, Bernard Fresson.  
+Sept façons différentes de présenter les armées nord-vietnamiennes en pleine guerre contre les États-Unis. Un conflit opposant les riches aux pauvres sur fond d'indignation ou parfois d'indifférence de la part de l'opinion publique mondiale.
+
+Copie numérique restaurée par Sofra.
+
+[79516]  
+**Lucien Coutaud**  
+d'Alain Resnais  
+France / 1949  
+Visite dans l'atelier du peintre, décorateur et illustrateur Lucien Coutaud (1904-1977), que nous verrons notamment travailler à l'aide d'un fer à repasser.
 
 [50887]  
 **Mélo**  
@@ -163,6 +208,18 @@ Dans le Paris de 1925, entre amour, amitié et quiproquos, une série de personn
 d'Alain Resnais  
 France / 1949  
 La vie et l'œuvre de Paul Gauguin (1848-1903), en Bretagne et en Océanie, évoquées à travers ses peintures et des citations extraites de ses écrits.
+
+[79515]  
+**Portrait d'Henri Goetz**  
+d'Alain Resnais  
+France / 1947  
+Panorama de l'œuvre du peintre Henri Goetz (1909-1989) où la caméra voyage à l'intérieur des toiles, puis assiste à la création d'un tableau réclamant trois semaines de travail, jusqu'à la signature.
+
+[107280]  
+**Portrait imaginaire (Lettres ouvertes sur la Pologne)**  
+d'Alain Resnais  
+France / 1982  
+Montage d'extraits de films d'Andrzej Wajda dans le cadre d'une émission collective de soutien à la Pologne diffusée sur FR3 le 9 avril 1982, au moment de l'« état de guerre » instauré par le général Jaruzelski.
 
 [50891]  
 **Providence**  

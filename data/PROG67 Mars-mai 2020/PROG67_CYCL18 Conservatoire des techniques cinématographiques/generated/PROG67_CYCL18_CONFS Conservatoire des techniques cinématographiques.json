@@ -1,6 +1,6 @@
 [
   {
-    "idCategorie": 1856,
+    "idCategorie": 2259,
     "idEvenement": 21019,
     "titre": "Eléments pour une histoire de l'optique cinématographique par Marc Salomon",
     "duree": 120,
@@ -16,10 +16,18 @@
         "texte": "L'objectif est l'œil des cinéastes. Pourtant, le thème de l'optique reste le grand oublié de l'histoire des techniques cinématographiques, alors qu'un énorme de travail de recherche a été effectué sur d'autres aspects techniques. Premiers maillons de la chaîne photographique, déterminants quant au rendu de l'image (parfois bien plus que la caméra elle-même), les objectifs sont un des éléments les plus importants dans les choix que doit effectuer un chef opérateur, entre caractéristiques techniques et goût personnel. Définition, focale, ouverture, douceur, contraste, rendu colorimétrique, aberrations, profondeur de champ... autant de mots qui définissent des choix autant techniques qu'esthétiques. Ce sujet a connu, comme tous les autres, des évolutions constantes tout au long de l'histoire du cinéma et c'est ce que nous proposons de retracer ici à travers la production de tous les fabricants d'objectifs pour le cinéma en Allemagne, France, Angleterre et États-Unis."
       }
     ],
-    "sousTitre": "Conférence "
+    "intervenants": [
+      {
+        "nomComplet": "Marc Salomon",
+        "idFonction": 139,
+        "fonction": "Conférencier",
+        "ordre": 1
+      }
+    ],
+    "sousTitre": "Conférence de Marc Salomon"
   },
   {
-    "idCategorie": 1856,
+    "idCategorie": 2259,
     "idEvenement": 21905,
     "titre": "Cinéma et arts forains: technique de l'émerveillement",
     "duree": 480,
