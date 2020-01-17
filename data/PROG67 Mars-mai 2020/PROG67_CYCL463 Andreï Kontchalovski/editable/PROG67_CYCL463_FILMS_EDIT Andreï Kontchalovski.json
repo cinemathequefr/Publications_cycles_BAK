@@ -62,7 +62,6 @@
     "art": "Le",
     "titreVo": "Blijki kroug",
     "titreNx": "Ближний круг",
-    "artVo": "The",
     "idFilm": 33917,
     "ageMinimal": null,
     "realisateurs": "Andreï Kontchalovski",
@@ -144,6 +143,7 @@
   {
     "titre": "Gloss",
     "titreVo": "Glianets",
+    "titreNx": "Глянец",
     "idFilm": 107233,
     "ageMinimal": null,
     "realisateurs": "Andreï Kontchalovski",

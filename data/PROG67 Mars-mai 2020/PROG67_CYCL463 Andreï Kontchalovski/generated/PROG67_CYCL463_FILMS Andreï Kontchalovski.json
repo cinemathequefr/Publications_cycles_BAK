@@ -33,6 +33,10 @@
       {
         "typeTexte": 9,
         "texte": "Assia, ouvrière agricole dans un kolkhoze, a deux amants. L'un l'aime et veut l'épouser, l'autre la brutalise et lui fait un enfant. Assia refuse de choisir entre ses deux prétendants. A travers ses aventures, Konchalovsky retrace également la vie d'un kolkhoz.."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration 4K, Andreï Kontchalovski Studios."
       }
     ],
     "generique": [
@@ -40,28 +44,6 @@
       "Alexandre Sourine",
       "Lioubov Sokolova"
     ]
-  },
-  {
-    "titre": "Casse-Noisette : l'histoire jamais racontée",
-    "titreVo": "Nutcracker in 3D",
-    "artVo": "The",
-    "idFilm": 143650,
-    "ageMinimal": null,
-    "realisateurs": "Andreï Konchalovsky",
-    "annee": 2010,
-    "pays": "Grande-Bretagne-Hongrie-Russie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Le soir de Noël, la jeune Mary âgée de 9 ans reçoit de son oncle bien-aimé Albert, un casse-noisette enchanté. L'histoire de Casse-Noisette porté en 3D."
-      }
-    ],
-    "generique": [
-      "Elle Fanning",
-      "John Turturro",
-      "Nathan Lane"
-    ],
-    "adaptation": "D'après le ballet-féérie _Casse-Noisette_ - non crédité de Piotr Ilitch Tchaïkovski.  \nD'après le conte _Casse-Noisette et le Roi des Souris_ - non crédité d'Ernst Theodor Amadeus Hoffmann."
   },
   {
     "titre": "Cercle des intimes",
@@ -86,27 +68,6 @@
     ]
   },
   {
-    "titre": "Chacun son cinéma : Dans le noir",
-    "titreVo": "",
-    "idFilm": 102163,
-    "ageMinimal": null,
-    "realisateurs": "Andreï Konchalovsky",
-    "annee": 2006,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Film anniversaire réalisé à l'occasion des 60 ans du Festival de Cannes. 34 cinéastes, issus de 25 pays, ont réalisé chacun un court métrage de 3 minutes autour du thème de la salle de cinéma."
-      }
-    ],
-    "generique": [
-      "Yola Sanko",
-      "Juris Laucinsh",
-      "Amexeï Grishine",
-      "Daria Gratcheva"
-    ]
-  },
-  {
     "titre": "Duo pour une soliste",
     "titreVo": "Duet for One",
     "idFilm": 33961,
@@ -128,25 +89,6 @@
     "adaptation": "D'après la pièce _Duet for One_ de Tom Kempinski."
   },
   {
-    "titre": "Enfant et le pigeon",
-    "art": "L'",
-    "titreVo": "Malchik i golub",
-    "idFilm": 60749,
-    "ageMinimal": null,
-    "realisateurs": "Andreï Kontchalovski, Evgueni = Yevgeni Ostachenko",
-    "annee": 1961,
-    "pays": "URSS",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un gamin échange un album de timbres contre un pigeon, auquel il rend la liberté."
-      }
-    ],
-    "generique": [
-      "Kolia Bourliaïev"
-    ]
-  },
-  {
     "titre": "Gloss",
     "titreVo": "Glyanets",
     "idFilm": 107233,
@@ -158,27 +100,16 @@
       {
         "typeTexte": 9,
         "texte": "Galia, jeune ouvrière dans une usine de province, rêve de devenir mannequin. Elle quitte ses parents alcooliques et son petit ami violent et monte à Moscou."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration 2K Andreï Kontchalovski Studios."
       }
     ],
     "generique": [
       "Yuliya Vysotskaya",
       "Irina Rozanova",
       "Aleksei Serebryakov"
-    ]
-  },
-  {
-    "titre": "Lumière et compagnie",
-    "titreVo": "",
-    "idFilm": 59932,
-    "ageMinimal": null,
-    "realisateurs": "Sarah Moon, Patrice Leconte, Gabriel Axel, [etc.]",
-    "annee": 1995,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Lumière et compagnie est un film documentaire omnibus réalisé par 41 réalisateurs. Chacun a dû produire un court métrage en utilisant le Cinématographe original des frères Lumière, et en répondant à trois règles : pas plus de 52 secondes par court, pas de sons synchronisés, pas plus de trois prises."
-      }
     ]
   },
   {
@@ -194,6 +125,10 @@
       {
         "typeTexte": 9,
         "texte": "En 1996, pendant la première guerre en Tchétchénie, la vie de patients livrés à eux-mêmes dans un hôpital situé en Ingouchie, à quelques kilomètres de la frontière tchétchène."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration 2K, Andreï Kontchalovski Studios."
       }
     ],
     "generique": [
@@ -382,6 +317,10 @@
       {
         "typeTexte": 9,
         "texte": "Serguei et Tania s'aiment. Lorsque Serguei est porte disparu sur le front, Tania se marie avec un ami d'enfance. Mais Serguei revient."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "format sous réserve."
       }
     ],
     "generique": [
@@ -421,6 +360,10 @@
     "textes": [
       {
         "typeTexte": 9,
+        "texte": "format sous réserve."
+      },
+      {
+        "typeTexte": 9,
         "texte": "Film en deux temps, de la Révolution d'octobre à nos jours, en Sibérie occidentale, évoquant l'histoire de deux familles l'une riche, l'autre pauvre qui se haïssent."
       }
     ],
@@ -428,24 +371,6 @@
       "Nikita Mikhalkov",
       "Vitali Solomin",
       "Sergueï Chakourov"
-    ]
-  },
-  {
-    "titre": "Split Cherry Tree",
-    "titreVo": "",
-    "idFilm": 143647,
-    "ageMinimal": 0,
-    "realisateurs": "Andreï Konchalovsky",
-    "annee": 1982,
-    "pays": "Canada-États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un père se rend compte de l'importance de l'éducation comprend les rêves et les ambitions de son fils."
-      }
-    ],
-    "generique": [
-      "Colleen Dewhurst"
     ]
   },
   {
