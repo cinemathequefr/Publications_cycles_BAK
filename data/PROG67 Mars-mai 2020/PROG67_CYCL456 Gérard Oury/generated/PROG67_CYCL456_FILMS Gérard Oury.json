@@ -32,7 +32,15 @@
     "textes": [
       {
         "typeTexte": 9,
+        "texte": "Texte à saisir"
+      },
+      {
+        "typeTexte": 9,
         "texte": "A la suite d'un quiproquo, Victor Pivert, un homme d'affaires irascible et raciste, se retrouve confronté malgré lui à un règlement de comptes entre terroristes d'un pays arabe. Afin se semer ses poursuivants, il se déguise en rabbin, après avoir croisé à Orly des religieux juifs en provenance de New-York."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film accessible aux enfants"
       }
     ],
     "generique": [
@@ -75,6 +83,10 @@
       {
         "typeTexte": 9,
         "texte": "De Paris à Bruxelles, un train spécial va transporter les fonds secrets des nations de l'O.T.A.N. Des deux côtés de la Manche, deux individus cherchent à s'en emparer. Arthur, petit truand débrouillard, et Le Cerveau, brillant escroc disposant d'une équipe de spécialistes et de moyens considérables."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film accessible aux enfants"
       }
     ],
     "generique": [
@@ -97,6 +109,18 @@
       {
         "typeTexte": 9,
         "texte": "Saroyan, un trafiquant, utilise un honnête commerçant, répondant au nom d'Antoine Maréchal, pour emmener de Naples à Bordeaux une Cadillac remplie d'héroïne."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film accessible aux enfants"
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Projection suivie d'une discussion avec Danièle Thompson, réalisatrice, fille et scénariste de Gérard Oury."
+      },
+      {
+        "typeTexte": 203,
+        "texte": "Suite à la destruction de sa 2CV, Antoine Maréchal voyage finalement dans une magnifique Cadillac. Il ne se doute pas qu'un trafiquant a truffé cette voiture de produits illégaux dans ses portières, son pare-choc ou son moteur. Le voyage s'annonce mouvementé."
       }
     ],
     "generique": [
@@ -182,6 +206,14 @@
       {
         "typeTexte": 9,
         "texte": "Don Salluste profite de ses fonctions de ministre des Finances du roi d'Espagne pour s'enrichir. Mais la reine Marie-Anne de Neubourg, qui le déteste, réussit à le chasser de la cour. Ivre de vengeance, il décide de la compromettre grâce à son valet Blaze."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film accessible aux enfants"
+      },
+      {
+        "typeTexte": 203,
+        "texte": "Il est lor, mon seignor, l'or de se réveiller... Très libre adaptation de Ruy Blas de Victor Hugo, le film est une suite de mésaventures et de quiproquos mené par le duo formé par don Salluste, avare et hypocrite ministre et son agile valet Blaze."
       }
     ],
     "generique": [
@@ -203,6 +235,14 @@
       {
         "typeTexte": 9,
         "texte": "En 1942, un avion anglais est abattu par les Allemands. Les trois pilotes sautent en parachute et atterrissent dans différents endroits de la capitale. Ils sont aidés par deux civils français qui acceptent de les mener en zone libre; ils deviennent ainsi, malgré eux, acteurs de la Résistance."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film accessible aux enfants"
+      },
+      {
+        "typeTexte": 203,
+        "texte": "Dans la France occupée, un peintre en bâtiment candide (Bourvil) et un chef d'orchestre irritable (de Funès) aident un petit groupe de pilotes anglais tombés du ciel à gagner la zone libre. Formant un duo comique irrésistible ils deviennent malgré eux des héros de la Résistance."
       }
     ]
   },
@@ -294,6 +334,10 @@
       {
         "typeTexte": 9,
         "texte": "Urbain Dieudonné a réussi à amasser mille lingots d'or à l'insu de Fleurette, son épouse et ex-inspectrice des impôts, et de Jacques, son homme à tout à faire. Avec sa grand-mère Zézette, il cherche à passer le magot en Suisse. Les lingots sont incorporés dans les briques de la maison."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film accessible aux enfants"
       }
     ],
     "generique": [
@@ -314,6 +358,10 @@
       {
         "typeTexte": 9,
         "texte": "Clarisse Boulanger, ancienne membre de la DGSE est contactée pour une mission exceptionnelle : la destruction d'un yatch appartenant à un trafiquant d'armes. Antoine, le mari de Clarisse ignore tout des activités de son épouse. Il se trouve mêlé malgré lui à l'opération secrète ..."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film accessible aux enfants"
       }
     ],
     "generique": [

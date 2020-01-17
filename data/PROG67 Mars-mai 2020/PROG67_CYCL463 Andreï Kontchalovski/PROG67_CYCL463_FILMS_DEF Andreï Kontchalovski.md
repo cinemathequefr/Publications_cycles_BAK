@@ -28,7 +28,7 @@ Le soir de Noël, la jeune Mary reçoit de son oncle bien-aimé un casse-noisett
 
 [33917]  
 **Le Cercle des intimes**  
-**(The Blijki kroug)**  
+**(Blijki kroug)**  
 **(Ближний круг)**  
 d'Andreï Kontchalovski  
 Italie-URSS-États-Unis / 1990  
@@ -63,6 +63,7 @@ Un jeune garçon échange un album de timbres contre un pigeon, auquel il rend l
 [107233]  
 **Gloss**  
 **(Glianets)**  
+**(Глянец)**  
 d'Andreï Kontchalovski  
 Russie / 2007  
 Avec Ioulia Vyssotskaïa, Irina Rozanova, Alexeï Serebryakov.  

@@ -105,7 +105,7 @@
         {
           "titre": "Les films",
           "cats": [2052],
-          "tri": 1
+          "tri": 2
         },
         {
           "titre": "Rencontres et conférences",
@@ -156,8 +156,13 @@
       "titreCycle": "Louis de Funès",
       "sousCycles": [
         {
-          "titre": "Les films",
-          "cats": [2049],
+          "titre": "De Funès avant De Funès",
+          "cats": [2261],
+          "tri": 1
+        },
+        {
+          "titre": "Les classiques",
+          "cats": [2049, 2265],
           "tri": 1
         },
         {

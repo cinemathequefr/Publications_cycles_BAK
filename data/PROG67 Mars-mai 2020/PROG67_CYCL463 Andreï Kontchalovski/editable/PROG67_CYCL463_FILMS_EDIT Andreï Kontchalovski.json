@@ -30,6 +30,10 @@
       {
         "typeTexte": 9,
         "texte": "Assia, ouvrière agricole dans un kolkhoze, a deux amants. L'un l'aime et veut l'épouser, l'autre la brutalise et lui fait un enfant. Assia refuse de choisir entre ses deux prétendants."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration 4K par The Andrei Konchalovsky Studios."
       }
     ],
     "generique": ["Iya Savvina", "Alexandre Sourine", "Lioubov Sokolova"]
@@ -153,6 +157,10 @@
       {
         "typeTexte": 9,
         "texte": "Galia, jeune ouvrière dans une usine de province, rêve de devenir mannequin. Elle quitte ses parents alcooliques et son petit ami violent pour se rendre à Moscou."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration 2K par The Andrei Konchalovsky Studios."
       }
     ],
     "generique": ["Ioulia Vyssotskaïa", "Irina Rozanova", "Alexeï Serebryakov"]
@@ -186,6 +194,10 @@
       {
         "typeTexte": 9,
         "texte": "En 1996, pendant la première guerre en Tchétchénie, la vie des patients, livrés à eux-mêmes, dans l'hôpital psychiatrique d'Ingouchie, tout près de la frontière."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauration 2K par The Andrei Konchalovsky Studios."
       }
     ],
     "generique": ["Ioulia Vyssotskaïa", "Evgueni Mironov", "Sultan Islamov"]
@@ -360,6 +372,10 @@
       {
         "typeTexte": 9,
         "texte": "Sergueï et Tania s'aiment. Lorsque Sergueï est porté disparu sur le front, Tania épouse un ami d'enfance. Mais Sergueï revient."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Format sous réserve."
       }
     ],
     "generique": ["Evgueni Kindinov", "Elena Koreneva"]
@@ -392,6 +408,10 @@
       {
         "typeTexte": 9,
         "texte": "De la révolution d'Octobre à nos jours, en Sibérie occidentale, l'histoire de deux familles, l'une riche et l'autre pauvre, qui se haïssent."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Format sous réserve."
       }
     ],
     "generique": ["Nikita Mikhalkov", "Vitali Solomine", "Sergueï Chakourov"]

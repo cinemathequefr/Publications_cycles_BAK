@@ -19,7 +19,8 @@ Diana, jeune journaliste, ne supporte plus les tensions de la vie new-yorkaise q
 d'Andreï Kontchalovski  
 URSS / 1966 / 99 min / VOSTF / DCP  
 Avec Iya Savvina, Alexandre Sourine, Lioubov Sokolova.  
-Assia, ouvrière agricole dans un kolkhoze, a deux amants. L'un l'aime et veut l'épouser, l'autre la brutalise et lui fait un enfant. Assia refuse de choisir entre ses deux prétendants.
+Assia, ouvrière agricole dans un kolkhoze, a deux amants. L'un l'aime et veut l'épouser, l'autre la brutalise et lui fait un enfant. Assia refuse de choisir entre ses deux prétendants.  
+Restauration 4K par The Andrei Konchalovsky Studios.
 
 - ma 17 mar 20h00 HL  
   Ouverture de la rétrospective
@@ -54,7 +55,8 @@ Une violoniste virtuose voit sa carrière et sa vie brisées par la sclérose en
 d'Andreï Kontchalovski  
 Russie / 2007 / 118 min / VOSTF / DCP  
 Avec Ioulia Vyssotskaïa, Irina Rozanova, Alexeï Serebryakov.  
-Galia, jeune ouvrière dans une usine de province, rêve de devenir mannequin. Elle quitte ses parents alcooliques et son petit ami violent pour se rendre à Moscou.
+Galia, jeune ouvrière dans une usine de province, rêve de devenir mannequin. Elle quitte ses parents alcooliques et son petit ami violent pour se rendre à Moscou.  
+Restauration 2K par The Andrei Konchalovsky Studios.
 
 - sa 28 mar 17h15 GF
 - di 5 avr 14h30 GF
@@ -65,7 +67,8 @@ Galia, jeune ouvrière dans une usine de province, rêve de devenir mannequin. E
 d'Andreï Kontchalovski  
 Russie-France / 2002 / 108 min / VOSTF / DCP  
 Avec Ioulia Vyssotskaïa, Evgueni Mironov, Sultan Islamov.  
-En 1996, pendant la première guerre en Tchétchénie, la vie des patients, livrés à eux-mêmes, dans l'hôpital psychiatrique d'Ingouchie, tout près de la frontière.
+En 1996, pendant la première guerre en Tchétchénie, la vie des patients, livrés à eux-mêmes, dans l'hôpital psychiatrique d'Ingouchie, tout près de la frontière.  
+Restauration 2K par The Andrei Konchalovsky Studios.
 
 - me 25 mar 16h30 GF
 - me 8 avr 21h45 JE
@@ -122,7 +125,7 @@ d'Andreï Kontchalovski
 Russie-Allemagne / 2015 / 131 min / VOSTF / DCP  
 Avec Ioulia Vyssotskaïa, Christian Clauss, Philippe Duquesne.
 
-1942. Une aristocrate russe, membre de la résistance, un fonctionnaire de police collaborationniste, et un officier SS, en poste dans un camp de concentration, doivent répondre de leurs actes devant Dieu pour entrer ou non au paradis.
+1942\. Une aristocrate russe, membre de la résistance, un fonctionnaire de police collaborationniste, et un officier SS, en poste dans un camp de concentration, doivent répondre de leurs actes devant Dieu pour entrer ou non au paradis.
 
 - me 18 mar 19h00 HL  
   Voir aussi Leçon de cinéma
@@ -166,7 +169,8 @@ Assia vit avec Riaba, sa poule, et découvre un jour un trésor dans son poulail
 d'Andreï Kontchalovski  
 URSS / 1974 / 138 min / VOSTF / DCP  
 Avec Evgueni Kindinov, Elena Koreneva.  
-Sergueï et Tania s'aiment. Lorsque Sergueï est porté disparu sur le front, Tania épouse un ami d'enfance. Mais Sergueï revient.
+Sergueï et Tania s'aiment. Lorsque Sergueï est porté disparu sur le front, Tania épouse un ami d'enfance. Mais Sergueï revient.  
+Format sous réserve.
 
 - lu 23 mar 19h30 JE
 - me 1 avr 19h00 JE
@@ -187,7 +191,8 @@ Un gangster réputé dangereux et une petite frappe s'évadent d'un pénitencier
 d'Andreï Kontchalovski  
 URSS / 1978 / 205 min / VOSTF / 35 mm  
 Avec Nikita Mikhalkov, Vitali Solomine, Sergueï Chakourov.  
-De la révolution d'Octobre à nos jours, en Sibérie occidentale, l'histoire de deux familles, l'une riche et l'autre pauvre, qui se haïssent.
+De la révolution d'Octobre à nos jours, en Sibérie occidentale, l'histoire de deux familles, l'une riche et l'autre pauvre, qui se haïssent.  
+Format sous réserve.
 
 - sa 21 mar 14h30 HL
 
@@ -226,3 +231,5 @@ Historien et critique de cinéma, Michel Ciment est maître de conférences en c
 
 - me 18 mar 19h00 HL
   À la suite de la projection de _Paradis_ d'Andreï Kontchalovski
+
+Remerciements : Arkéion Films, ARRI Media, ASC Distribution, Cinémathèque du Luxembourg, Cinémathèque suisse, The Andrei Konchalovsky Studios, Park Circus, Park Circus Limited, Sophie Dulac Distribution.
