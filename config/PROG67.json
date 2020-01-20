@@ -234,7 +234,19 @@
     {
       "idCycleProg": 485,
       "titreCycle": "Séances Jeune public",
-      "sousCycles": []
+      "type": "jp",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2212],
+          "tri": 4
+        }
+      ],
+      "titreEvenements": {
+        "22062": "Séance à remonter le temps",
+        "22063": "Programme de courts métrages : Burlesques !",
+        "22068": "Marie Bobine : Les Quatre saisons : Le Printemps"
+      }
     },
     {
       "idCycleProg": 486,

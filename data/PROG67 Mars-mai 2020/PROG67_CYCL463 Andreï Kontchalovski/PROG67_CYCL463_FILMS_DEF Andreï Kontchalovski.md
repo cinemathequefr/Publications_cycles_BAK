@@ -17,6 +17,8 @@ URSS / 1966
 Avec Iya Savvina, Alexandre Sourine, Lioubov Sokolova.  
 Assia, ouvrière agricole dans un kolkhoze, a deux amants. L'un l'aime et veut l'épouser, l'autre la brutalise et lui fait un enfant. Assia refuse de choisir entre ses deux prétendants.
 
+Restauration 4K par The Andrei Konchalovsky Studios.
+
 [143650]  
 **Casse-noisette**  
 **(The Nutcracker in 3D)**  
@@ -66,8 +68,10 @@ Un jeune garçon échange un album de timbres contre un pigeon, auquel il rend l
 **(Глянец)**  
 d'Andreï Kontchalovski  
 Russie / 2007  
-Avec Ioulia Vyssotskaïa, Irina Rozanova, Alexeï Serebryakov.  
+Avec Ioulia Vyssotskaïa, Irina Rozanova, Alexeï Serebriakov.  
 Galia, jeune ouvrière dans une usine de province, rêve de devenir mannequin. Elle quitte ses parents alcooliques et son petit ami violent pour se rendre à Moscou.
+
+Restauration 2K par The Andrei Konchalovsky Studios.
 
 [59932]  
 **Lumière et compagnie**  
@@ -83,6 +87,8 @@ d'Andreï Kontchalovski
 Russie-France / 2002  
 Avec Ioulia Vyssotskaïa, Evgueni Mironov, Sultan Islamov.  
 En 1996, pendant la première guerre en Tchétchénie, la vie des patients, livrés à eux-mêmes, dans l'hôpital psychiatrique d'Ingouchie, tout près de la frontière.
+
+Restauration 2K par The Andrei Konchalovsky Studios.
 
 [33873]  
 **Maria's Lovers**  
@@ -164,6 +170,8 @@ URSS / 1974
 Avec Evgueni Kindinov, Elena Koreneva.  
 Sergueï et Tania s'aiment. Lorsque Sergueï est porté disparu sur le front, Tania épouse un ami d'enfance. Mais Sergueï revient.
 
+Format sous réserve.
+
 [46077]  
 **Runaway Train**  
 d'Andreï Kontchalovski  
@@ -179,6 +187,8 @@ d'Andreï Kontchalovski
 URSS / 1978  
 Avec Nikita Mikhalkov, Vitali Solomine, Sergueï Chakourov.  
 De la révolution d'Octobre à nos jours, en Sibérie occidentale, l'histoire de deux familles, l'une riche et l'autre pauvre, qui se haïssent.
+
+Format sous réserve.
 
 [143647]  
 **Split Cherry Tree**  
