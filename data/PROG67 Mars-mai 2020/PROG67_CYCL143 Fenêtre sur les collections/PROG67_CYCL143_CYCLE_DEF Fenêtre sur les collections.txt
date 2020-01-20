@@ -1,0 +1,74 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Les Documents cinématographiques
+
+<pstyle:TITRE>Les Idoles
+<pstyle:TECHNIQUE>de Marin Karmitz, Paule Sengissen
+<pstyle:TECHNIQUE>France/1963/7<0x2019>/DCP
+<pstyle:TECHNIQUE>Avec Johnny Hallyday.
+<pstyle:SYNOPSIS>Des jeunes, passionnés de musique, rêvent de marcher sur les pas de Johnny Hallyday, Sheila, Françoise Hardy ou des Chaussettes noires en devenant la prochaine «<0x00A0>idole des jeunes<0x00A0>».
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Parlons femmes
+<pstyle:TITRE_ANG>(Se permettete parliamo di donne)
+<pstyle:TECHNIQUE>d'Ettore Scola
+<pstyle:TECHNIQUE>Italie-France/1963/93<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Vittorio Gassman, Sylvia Koscina, Antonella Lualdi.
+<pstyle:SYNOPSIS>Film à sketches composé de neuf histoires comiques, chacune d<0x2019>elle présentant un archétype féminin<0x00A0>: mère, s<0x0153>ur, fiancée, maîtresse, prostituée...
+<pstyle:><cstyle:INFOSBLEUES>ve 13 marXXX19h00XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:TITRE>La Pieuvre
+<pstyle:TECHNIQUE>de Jean Painlevé
+<pstyle:TECHNIQUE>France/1928/10<0x2019>
+<pstyle:SYNOPSIS>«<0x00A0>J<0x2019>ai fait la connaissance de la pieuvre en 1911<0x00A0>: j<0x2019>avais neuf ans et ma famille m<0x2019>amena en Bretagne. J<0x2019>ai été tellement séduit que c<0x2019>est ce qui m<0x2019>a fait choisir la zoologie comme certificat et m<0x2019>amena en 1922 comme étudiant à mieux connaître cet animal. Elle fut le sujet de mon premier film public en 1927.<0x00A0>» (Jean Painlevé)
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Le Bernard l'ermite
+<pstyle:TECHNIQUE>de Jean Painlevé
+<pstyle:TECHNIQUE>France/1929/13<0x2019>
+<pstyle:SYNOPSIS>Le Bernard l<0x2019>ermite est un crustacé marin qui habite les coquilles vides. Pour en choisir une, il l<0x2019>inspecte, la mesure et la soupèse.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Acéra ou le bal des sorcières
+<pstyle:TECHNIQUE>de Jean Painlevé
+<pstyle:TECHNIQUE>France/1972/17<0x2019>/DCP
+<pstyle:SYNOPSIS>Présentation de l<0x2019>acéra, mollusque bisexué qui nage à l<0x2019>aide d<0x2019>un repli formant un manteau autour du corps. Sa nage ressemble à une danse, la danse serpentine mise à la mode par Loïe Fuller.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Transition de phases dans les cristaux liquides
+<pstyle:TECHNIQUE>de Jean Painlevé
+<pstyle:TECHNIQUE>France/1978/10<0x2019>/DCP
+<pstyle:SYNOPSIS>Étude au microscope polarisant des structures des cristaux liquides. Images choisies dans les travaux d<0x2019>Yves Bouligand pour illustrer <ct:Italic>L<0x2019>Antarctique<ct:>, dernière <0x0153>uvre musicale de François de Roubaix, originellement composée pour le film <ct:Italic>Voyage au bout du monde<ct:> de Jacques-Yves Cousteau, qui la refusera.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Les Musiciens du dimanche
+<pstyle:TITRE_ANG>(Muzykanci)
+<pstyle:TECHNIQUE>de Kazimierz Karabasz
+<pstyle:TECHNIQUE>Pologne/1958/10<0x2019>
+<pstyle:SYNOPSIS>Répétition d<0x2019>un orchestre de musiciens issus de la classe ouvrière. Court métrage récompensé à la Mostra de Venise en 1960, et l<0x2019>un des films préférés du réalisateur Krzysztof Kie[lowski, mentor de Kazimierz Karabasz.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>La Cinémathèque française
+<pstyle:TECHNIQUE>de Jean Herman
+<pstyle:TECHNIQUE>France/1962/8<0x2019>/DCP
+<pstyle:TECHNIQUE>Avec Henri Langlois.
+<pstyle:SYNOPSIS>Influencé par le surréalisme, Jean Herman filme les bureaux de la Cinémathèque Française, abritée dans un «<0x00A0>hôtel particulier de la rue de Courcelles<0x00A0>», et la salle de projection rue d<0x2019>Ulm.
+<pstyle:><cstyle:INFOSBLEUES>ve 13 marXXX21h30XXX
+<cstyle:SALLESBLEUES>C
+
+<pstyle:CATEGORIE>Mariages à l'européenne
+
+<pstyle:TITRE>L'Esclave
+<pstyle:TECHNIQUE>de Yves Ciampi
+<pstyle:TECHNIQUE>France-Italie/1953/99<0x2019>/VF/35mm
+<pstyle:TECHNIQUE>Avec Daniel Gélin, Eleonora Rossi Drago, Barbara Laage.
+<pstyle:SYNOPSIS>À la suite d<0x2019>un accident, Michel Landa, un jeune pianiste et compositeur, sombre dans la dépendance à la morphine. Seule Elena, son épouse, est prête à tout sacrifier pour l<0x2019>aider à sortir de ce cauchemar.
+<pstyle:><cstyle:INFOSBLEUES>ve 03 avrXXX19h30XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance présentée par Paola Palma
+<pstyle:TITRE>Un amour de Tchékov
+<pstyle:TITRE_ANG>(Sjuzet dlja nebolsogo rasskaza)
+<pstyle:TECHNIQUE>de Sergueï Youtkevitch
+<pstyle:TECHNIQUE>URSS-France/1968/86<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Nikolaï Grinko, Marina Vlady.
+<pstyle:SYNOPSIS>À la veille de son départ pour Sakhaline, Anton Tchekhov fait la connaissance d<0x2019>une amie de sa s<0x0153>ur, la chanteuse Lika Mizinova. La proximité qui naît entre eux marquera l<0x2019>écrivain pour la vie.
+<pstyle:><cstyle:INFOSBLEUES>ve 03 avrXXX21h45XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance présentée par Valérie Pozner
+<pstyle:CATEGORIE>Glorieux Technicolor
+

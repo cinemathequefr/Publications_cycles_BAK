@@ -53,7 +53,7 @@
 <pstyle:TITRE_ANG>(Glianets)
 <pstyle:TECHNIQUE>d'Andreï Kontchalovski
 <pstyle:TECHNIQUE>Russie/2007/118<0x2019>/VOSTF/DCP
-<pstyle:TECHNIQUE>Avec Ioulia Vyssotskaïa, Irina Rozanova, Alexeï Serebryakov.
+<pstyle:TECHNIQUE>Avec Ioulia Vyssotskaïa, Irina Rozanova, Alexeï Serebriakov.
 <pstyle:SYNOPSIS>Galia, jeune ouvrière dans une usine de province, rêve de devenir mannequin. Elle quitte ses parents alcooliques et son petit ami violent pour se rendre à Moscou.
 <pstyle:INFOS_UTILES>Restauration 2K par The Andrei Konchalovsky Studios.
 <pstyle:><cstyle:INFOSBLEUES>sa 28 marXXX17h15XXX

@@ -77,7 +77,42 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Film à redécouvrir en famille, accessible aux enfants"
+              "texte": "Film à redécouvrir en famille, accessible aux enfants."
+            }
+          ]
+        },
+        {
+          "idSeance": 33500,
+          "ordre": 1,
+          "dateHeure": "2020-05-09T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2261,
+          "idEvenement": 21760,
+          "typeEvenement": 13,
+          "idFilm": 49691,
+          "art": "Les",
+          "titre": "Bons vivants",
+          "titreVo": "",
+          "realisateurs": "Georges Lautner",
+          "annee": 1965,
+          "pays": "France-Italie",
+          "duree": 100,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Louis de Funès",
+            "Mireille Darc",
+            "Jean Richard"
+          ],
+          "adaptation": "D'après la nouvelle _À la manière de Tolstoï_ de Paul Reboux et Charles Muller.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La fermeture des maisons closes évoquée en trois sketches."
             }
           ]
         },
@@ -644,6 +679,41 @@
           ]
         },
         {
+          "idSeance": 33968,
+          "ordre": 1,
+          "dateHeure": "2020-05-21T20:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2261,
+          "idEvenement": 21764,
+          "typeEvenement": 13,
+          "idFilm": 57937,
+          "art": "Les",
+          "titre": "Veinards",
+          "titreVo": "",
+          "realisateurs": "Jack Pinoteau",
+          "annee": 1962,
+          "pays": "France",
+          "duree": 100,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Louis de Funès",
+            "Francis Blanche",
+            "Mireille Darc",
+            "Jacqueline Maillan"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Stars, argent, concours et gagnants chanceux dans une série de cinq sketches (_Le Vison_, _Le Repas gastronomique_, _La Vedette_, _Le Yacht_, _Le Gros lot_)."
+            }
+          ]
+        },
+        {
           "idSeance": 33911,
           "ordre": 1,
           "dateHeure": "2020-04-09T20:30:00",
@@ -719,7 +789,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Film à redécouvrir en famille, accessible aux enfants"
+              "texte": "Film à redécouvrir en famille, accessible aux enfants."
             }
           ]
         },
@@ -760,42 +830,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Film à redécouvrir en famille, accessible aux enfants"
-            }
-          ]
-        },
-        {
-          "idSeance": 33500,
-          "ordre": 1,
-          "dateHeure": "2020-05-09T20:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "idCategorie": 2049,
-          "idEvenement": 21760,
-          "typeEvenement": 13,
-          "idFilm": 49691,
-          "art": "Les",
-          "titre": "Bons vivants",
-          "titreVo": "",
-          "realisateurs": "Georges Lautner",
-          "annee": 1965,
-          "pays": "France-Italie",
-          "duree": 100,
-          "version": "",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Louis de Funès",
-            "Mireille Darc",
-            "Jean Richard"
-          ],
-          "adaptation": "D'après la nouvelle _À la manière de Tolstoï_ de Paul Reboux et Charles Muller.",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "La fermeture des maisons closes évoquée en trois sketches."
+              "texte": "Film à redécouvrir en famille, accessible aux enfants."
             }
           ]
         },
@@ -807,7 +842,7 @@
             "GF",
             "Georges Franju"
           ],
-          "idCategorie": 2049,
+          "idCategorie": 2265,
           "idEvenement": 21740,
           "typeEvenement": 13,
           "idFilm": 49693,
@@ -833,7 +868,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Film à redécouvrir en famille, accessible aux enfants"
+              "texte": "Film à redécouvrir en famille, accessible aux enfants."
             }
           ]
         },
@@ -905,7 +940,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Film à redécouvrir en famille, accessible aux enfants"
+              "texte": "Film à redécouvrir en famille, accessible aux enfants."
             }
           ]
         },
@@ -1081,7 +1116,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Film à redécouvrir en famille, accessible aux enfants"
+              "texte": "Film à redécouvrir en famille, accessible aux enfants."
             }
           ]
         },
@@ -1119,7 +1154,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Film à redécouvrir en famille, accessible aux enfants"
+              "texte": "Film à redécouvrir en famille, accessible aux enfants."
             }
           ]
         },
@@ -1206,7 +1241,7 @@
           "idFilm": 50189,
           "titre": "Oscar",
           "titreVo": "",
-          "realisateurs": "Edouard Molinaro",
+          "realisateurs": "Édouard Molinaro",
           "annee": 1967,
           "pays": "France",
           "duree": 85,
@@ -1243,7 +1278,7 @@
           "idFilm": 50189,
           "titre": "Oscar",
           "titreVo": "",
-          "realisateurs": "Edouard Molinaro",
+          "realisateurs": "Édouard Molinaro",
           "annee": 1967,
           "pays": "France",
           "duree": 85,
@@ -1468,41 +1503,6 @@
             {
               "typeTexte": 9,
               "texte": "Félicien Mezeray, brocanteur d'art, découvre un jour un authentique Modigliani. Il pense alors que sa fortune est faite. Mais l'œuvre est tatouée sur le dos d'un ex-légionnaire bougon et colérique."
-            }
-          ]
-        },
-        {
-          "idSeance": 33968,
-          "ordre": 1,
-          "dateHeure": "2020-05-21T20:30:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "idCategorie": 2049,
-          "idEvenement": 21764,
-          "typeEvenement": 13,
-          "idFilm": 57937,
-          "art": "Les",
-          "titre": "Veinards",
-          "titreVo": "",
-          "realisateurs": "Jack Pinoteau",
-          "annee": 1962,
-          "pays": "France",
-          "duree": 100,
-          "version": "",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Louis de Funès",
-            "Francis Blanche",
-            "Mireille Darc",
-            "Jacqueline Maillan"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Stars, argent, concours et gagnants chanceux dans une série de cinq sketches (_Le Vison_, _Le Repas gastronomique_, _La Vedette_, _Le Yacht_, _Le Gros lot_)."
             }
           ]
         },

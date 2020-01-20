@@ -23,16 +23,6 @@ Film à redécouvrir en famille, accessible aux enfants.
 
 - sa 18 avr 15h00 GF
 
-[49691]  
-**Les Bons vivants**  
-de Georges Lautner  
-France-Italie / 1965 / 100 min / 35 mm  
-D'après la nouvelle _À la manière de Tolstoï_ de Paul Reboux et Charles Muller.  
-Avec Louis de Funès, Mireille Darc, Jean Richard.  
-La fermeture des maisons closes évoquée en trois sketches.
-
-- sa 9 mai 20h30 JE
-
 [48720]  
 **Le Capitaine Fracasse**  
 de Pierre Gaspard-Huit  
@@ -190,15 +180,6 @@ Paris, 1943. Martin, chauffeur de taxi réduit au chômage par la pénurie d'ess
 
 - ve 3 avr 21h45 GF
 
-[57937]  
-**Les Veinards**  
-de Jack Pinoteau  
-France / 1962 / 100 min / 35 mm  
-Avec Louis de Funès, Francis Blanche, Mireille Darc, Jacqueline Maillan.  
-Stars, argent, concours et gagnants chanceux dans une série de cinq sketches (_Le Vison_, _Le Repas gastronomique_, _La Vedette_, _Le Yacht_, _Le Gros lot_).
-
-- je 21 mai 20h30 JE
-
 ## Les classiques
 
 [54573]  
@@ -222,6 +203,16 @@ Film à redécouvrir en famille, accessible aux enfants.
 
 - sa 9 mai 15h00 GF  
   Séance présentée par Bernard Menez (sous réserve)
+
+[49691]  
+**Les Bons vivants**  
+de Georges Lautner  
+France-Italie / 1965 / 100 min / 35 mm  
+D'après la nouvelle _À la manière de Tolstoï_ de Paul Reboux et Charles Muller.  
+Avec Louis de Funès, Mireille Darc, Jean Richard.  
+La fermeture des maisons closes évoquée en trois sketches.
+
+- sa 9 mai 20h30 JE
 
 [49693]  
 **Des pissenlits par la racine**  
@@ -305,7 +296,7 @@ Evan Evans est à la fois danseur, musicien, impresario, metteur en scène et ma
 
 [50189]  
 **Oscar**  
-d'Édouard Molinaro  
+d'Edouard Molinaro  
 France / 1967 / 85 min / DCP  
 D'après la pièce _Oscar_ de Claude Magnier.  
 Avec Louis de Funès, Claude Rich, Claude Gensac, Agathe Natanson.  
@@ -364,6 +355,15 @@ Avec Jean Gabin, Louis de Funès, Dominique Davray.
 Félicien Mezeray, brocanteur d'art, découvre un jour un authentique Modigliani. Il pense alors que sa fortune est faite. Mais l'œuvre est tatouée sur le dos d'un ex-légionnaire bougon et colérique.
 
 - sa 2 mai 20h30 JE
+
+[57937]  
+**Les Veinards**  
+de Jack Pinoteau  
+France / 1962 / 100 min / 35 mm  
+Avec Louis de Funès, Francis Blanche, Mireille Darc, Jacqueline Maillan.  
+Stars, argent, concours et gagnants chanceux dans une série de cinq sketches (_Le Vison_, _Le Repas gastronomique_, _La Vedette_, _Le Yacht_, _Le Gros lot_).
+
+- je 21 mai 20h30 JE
 
 [57113]  
 **La Zizanie**  

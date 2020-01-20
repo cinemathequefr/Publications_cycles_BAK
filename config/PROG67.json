@@ -67,6 +67,68 @@
       ]
     },
     {
+      "idCycleProg": 140,
+      "titreCycle": "Aujourd'hui le cinéma",
+      "sousCycles": [
+        {
+          "titre": "Hadrien La Vapeur et Corto Vaclav",
+          "cats": [2230],
+          "tri": 4
+        },
+        {
+          "titre": "Frédéric Farrucci",
+          "cats": [2231],
+          "tri": 4
+        },
+        {
+          "titre": "Wissam Charaf",
+          "cats": [2241],
+          "tri": 4
+        },
+        {
+          "titre": "Alexis Langlois",
+          "cats": [2242],
+          "tri": 4
+        },
+        {
+          "titre": "Delphine Gleize",
+          "cats": [2252],
+          "tri": 4
+        },
+        {
+          "titre": "Konstantina Kotzamani",
+          "cats": [2254],
+          "tri": 4
+        },
+        {
+          "titre": "Nouvelles du Canada",
+          "cats": [2266],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 143,
+      "titreCycle": "Fenêtre sur les collections",
+      "sousCycles": [
+        {
+          "titre": "Les Documents cinématographiques",
+          "cats": [2243],
+          "tri": 4
+        },
+        {
+          "titre": "Mariages à l'européenne",
+          "cats": [2244],
+          "tri": 4
+        },
+        {
+          "titre": "Glorieux Technicolor",
+          "cats": [2248],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 152,
       "titreCycle": "Parlons cinéma avec Bertrand Belin",
       "sousCycles": [
@@ -298,11 +360,6 @@
           "titre": "Les films",
           "cats": [2227],
           "tri": 1
-        },
-        {
-          "titre": "Nuit Body Snatchers",
-          "cats": [2228],
-          "tri": 4
         }
       ]
     }

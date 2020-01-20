@@ -21,26 +21,6 @@
     ]
   },
   {
-    "titre": "Body Snatchers",
-    "titreVo": "",
-    "idFilm": 32336,
-    "ageMinimal": null,
-    "realisateurs": "Abel Ferrara",
-    "annee": 1992,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Remake de _L'Invasion des profanateurs de sepultures_ de Don Siegel_._ Une jeune adolescente rejoint son père sur une base militaire et constate que des extraterrestres remplacent progressivement les humains après avoir pris leur apparence."
-      }
-    ],
-    "generique": [
-      "Terry Kinney",
-      "Meg Tilly",
-      "Gabrielle Anwar"
-    ]
-  },
-  {
     "titre": "Etoffe des héros",
     "art": "L'",
     "titreVo": "Right Stuff",
@@ -190,72 +170,6 @@
     ]
   },
   {
-    "titre": "Invasion",
-    "art": "The",
-    "idFilm": 103089,
-    "ageMinimal": 0,
-    "realisateurs": "Oliver Hirschbiegel",
-    "annee": 2005,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Alors que le monde est en proie à une épidémie altérant le comportement humain, une psychiatre découvre que le fléau est d'origine extra-terrestre et que son propre fils pourrait être le seul individu capable d'empêcher cette invasion."
-      }
-    ],
-    "generique": [
-      "Nicole Kidman",
-      "Daniel Craig",
-      "Jeremy Northam"
-    ],
-    "adaptation": "D'après le roman _L'Invasion des profanateurs_ de Jack Finney."
-  },
-  {
-    "titre": "Invasion des profanateurs de sépultures",
-    "art": "L'",
-    "titreVo": "Invasion of the Body Snatchers",
-    "idFilm": 33876,
-    "ageMinimal": 0,
-    "realisateurs": "Philip Kaufman",
-    "annee": 1978,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Fonctionnaires au service d'hygiène de San Francisco, Matthew et Elizabeth découvrent avec horreur que les habitants de la ville sont progressivement clonés par une espèce végétale venue de l'espace."
-      }
-    ],
-    "generique": [
-      "Donald Sutherland",
-      "Brooke Adams",
-      "Leonard Nimoy"
-    ],
-    "adaptation": "D'après le roman _The Body snatchers_ de Jack Finney."
-  },
-  {
-    "titre": "Invasion des profanateurs de sépultures",
-    "art": "L'",
-    "titreVo": "Invasion of the Body Snatchers",
-    "idFilm": 58029,
-    "ageMinimal": 0,
-    "realisateurs": "Don Siegel",
-    "annee": 1955,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Dans une petite ville de Californie, le médecin local constate le comportement étrange des habitants, paraissant soudain dénués d'émotions. Peu à peu, il comprend qu'une invasion extraterrestre est en cours."
-      }
-    ],
-    "generique": [
-      "Kevin McCarthy",
-      "Dana Wynter",
-      "King Donovan",
-      "Carolyn Jones"
-    ],
-    "adaptation": "D'après le roman _The Body snatchers_ de Jack Finney."
-  },
-  {
     "titre": "Légende de Jesse James",
     "art": "La",
     "titreVo": "Great Northfield Minnesota Raid",
@@ -312,7 +226,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un gang d'adolescents au début des années 60 dans le Bronx."
+        "texte": "Dans le Bronx des années 1960, Joey et Turkey sont membres des Wanderers, un gang d'Italo-américains. Joey essaie de dissuader Turkey de rejoindre une bande rivale."
       }
     ],
     "generique": [

@@ -1,0 +1,370 @@
+[
+  {
+    "titre": "A ton âge le chagrin c'est vite passé",
+    "titreVo": "",
+    "idFilm": 143686,
+    "ageMinimal": null,
+    "realisateurs": "Alexis Langlois",
+    "annee": 2016,
+    "pays": "France"
+  },
+  {
+    "titre": "Beau joueur",
+    "titreVo": "",
+    "idFilm": 142152,
+    "ageMinimal": null,
+    "realisateurs": "Delphine Gleize",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'Aviron Bayonnais Rugby est remonté en Top 14 grâce à un agrégat de joueurs recrutés un peu à la va-vite. Le rêve d'un nouvel exploit ne vient pas. L'équipe enchaîne les défaites. Malgré les causeries de plus en plus imagées de l'entraîneur Vincent Etcheto, la spirale des mauvais résultats paraît inéluctable. Mais l'équipe ne veut pas s'avouer vaincue."
+      }
+    ]
+  },
+  {
+    "titre": "Bip bip sera-t-il rôti ?",
+    "titreVo": "To Beep or Not to Beep",
+    "idFilm": 125141,
+    "ageMinimal": null,
+    "realisateurs": "Chuck Jones",
+    "annee": 1963,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une aventure de Bip Bip le Coyote."
+      }
+    ]
+  },
+  {
+    "titre": "Blonde et moi",
+    "art": "La",
+    "titreVo": "Girl Can't Help It",
+    "artVo": "The",
+    "idFilm": 37339,
+    "ageMinimal": 0,
+    "realisateurs": "Frank Tashlin",
+    "annee": 1956,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le mafieux Marty Murdock engage Tom Miller, un imprésario alcoolique, pour faire de sa petite amie Jerri Jordan une vedette de la chanson."
+      }
+    ],
+    "generique": [
+      "Tom Ewell",
+      "Jayne Mansfield",
+      "Edmond O'Brien"
+    ]
+  },
+  {
+    "titre": "Comètes incriminées",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 143698,
+    "ageMinimal": null,
+    "realisateurs": "Hadrien La Vapeur",
+    "annee": 2007,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une goutte d'eau et l'orage éclate. La femme furieuse sur sa chaise à bascule et l'homme qui se noie dans l'alcool pour oublier."
+      }
+    ]
+  },
+  {
+    "titre": "Convoi de femmes",
+    "titreVo": "Westward the Women",
+    "idFilm": 36902,
+    "ageMinimal": null,
+    "realisateurs": "William A. Wellman",
+    "annee": 1951,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En 1850, dans l'Ouest américain, le grand propriétaire terrien Roy Whitman recherche des femmes pour travailler dans son exploitation agricole, essentiellement composée d'hommes. Les 150 candidates retenues entament alors la traversée périlleuse des Etats-Unis."
+      }
+    ]
+  },
+  {
+    "titre": "De la terreur, mes sœurs !",
+    "titreVo": "",
+    "idFilm": 143685,
+    "ageMinimal": null,
+    "realisateurs": "Alexis Langlois",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Kalthoum et ses copines sirotent des cocktails, cherchent des plans cul sur Internet, attendent désespérément l'amour et essuient, une fois de plus, les insultes transphobes d'inconnus. Oui mais voilà, aujourd'hui ça ne va pas se passer comme ça : les quatre amies vont imaginer leur vengeance."
+      }
+    ],
+    "generique": [
+      "Nana Benamer",
+      "Naëlle Dariya",
+      "Félix Maritaud"
+    ]
+  },
+  {
+    "titre": "Electric Swan",
+    "titreVo": "",
+    "idFilm": 143757,
+    "ageMinimal": null,
+    "realisateurs": "Konstantina Kotzamani",
+    "annee": 2019,
+    "pays": "France-Argentine-Grèce",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les immeubles ne sont pas censés se mouvoir, mais celui situé au 2050 de l'Avenida del Libertador de Buenos Aires est parcouru de curieux tremblements. Le plafond du dernier étage frissonne causant une étrange nausée qui dévore ses habitants. Ceux qui vivent au sommet redoutent la chute – ceux qui vivent en dessous craignent de se noyer."
+      }
+    ],
+    "generique": [
+      "Juan Carlos Aduviri",
+      "Nelly Prince",
+      "Elisa Massino"
+    ]
+  },
+  {
+    "titre": "Entre les lignes",
+    "titreVo": "",
+    "idFilm": 143676,
+    "ageMinimal": null,
+    "realisateurs": "Frédéric Farrucci",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Fin de l'été. Cinq petits voleurs arpentent la ville. Parmi eux, Stefan tente d'apprendre à lire le français."
+      }
+    ],
+    "generique": [
+      "Avram Ion",
+      "Trayko Atanasov"
+    ]
+  },
+  {
+    "titre": "Etrange histoire de Prince Dethmer",
+    "art": "L'",
+    "titreVo": "",
+    "idFilm": 143701,
+    "ageMinimal": null,
+    "realisateurs": "Hadrien La Vapeur, Corto Vaclav",
+    "annee": 2018,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Dans un quartier populaire de Brazzaville, un danseur à l'avenir prometteur du nom de Prince Dethmer est retrouvé mort. Sa famille organise une cérémonie funéraire, invitant tous ses amis artistes afin de lui rendre un dernier hommage. Mais quelques jours plus tard l'impossible se produit..."
+      }
+    ]
+  },
+  {
+    "titre": "Fanfreluches et idées noires",
+    "titreVo": "",
+    "idFilm": 143687,
+    "ageMinimal": null,
+    "realisateurs": "Alexis Langlois",
+    "annee": 2016,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "7h56. Un dimanche matin. Un groupe de noctambules flamboyants débarque dans un grand appartement pour un étonnant after. Doucement, la joie de la fête laisse place au désespoir. Une force étrange empêche cette faune nocturne de quitter son repère..."
+      }
+    ]
+  },
+  {
+    "titre": "Frigo déménageur",
+    "titreVo": "Cops",
+    "idFilm": 32494,
+    "ageMinimal": 3,
+    "realisateurs": "Eddie Cline, Buster Keaton",
+    "annee": 1922,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Suite à un quiproquo malheureux, Buster se voit poursuivi par des policiers de plus en plus nombreux."
+      }
+    ],
+    "generique": [
+      "Buster Keaton",
+      "Virginia Fox",
+      "Joe Roberts"
+    ]
+  },
+  {
+    "titre": "Goodbye Golovin",
+    "titreVo": "",
+    "idFilm": 143813,
+    "ageMinimal": null,
+    "realisateurs": "Mathieu Grimard",
+    "annee": 2019,
+    "pays": "Canada",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le lendemain des funérailles de son père, Ian Golovin décide de quitter son pays natal. En route pour faire ses adieux à sa sœur, sa décision est mise au défi."
+      }
+    ],
+    "generique": [
+      "Dasha Plahtiy"
+    ]
+  },
+  {
+    "titre": "Kongo",
+    "titreVo": "",
+    "idFilm": 143674,
+    "ageMinimal": null,
+    "realisateurs": "Hadrien La Vapeur, Corto Vaclav",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "A Brazzaville, un monde invisible régit le monde visible. L'apôtre Médard se démène pour guérir les malades victimes de mauvais sorts. Mais sa vie bascule lorsqu'on l'accuse publiquement de pratiquer la magie noire."
+      }
+    ]
+  },
+  {
+    "titre": "Louzolo Amour",
+    "titreVo": "",
+    "idFilm": 143700,
+    "ageMinimal": null,
+    "realisateurs": "Hadrien La Vapeur, Corto Vaclav",
+    "annee": 2015,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une immersion dans les rituels de l'OPH, religion du Congo-Brazzaville fondée autour de la Bièramicine, simple bière transformée en médicament capable de guérir toutes les maladies."
+      }
+    ]
+  },
+  {
+    "titre": "Nuit venue",
+    "art": "La",
+    "titreVo": "",
+    "idFilm": 143675,
+    "ageMinimal": null,
+    "realisateurs": "Frédéric Farrucci",
+    "annee": 2019,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Paris, 2018. Jin, jeune immigré sans papiers, conduit chaque nuit un VTC pour le compte de la mafia chinoise. Une nuit, Noémie, call-girl envoûtante, monte à bord de son taxi. Intriguée par le mutisme et l'aura de Jin, transportée par sa musique, elle décide d'en faire son chauffeur attitré."
+      }
+    ],
+    "generique": [
+      "Camélia Jordana",
+      "Guang Huo"
+    ]
+  },
+  {
+    "titre": "Pieds qui puent",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 143697,
+    "ageMinimal": null,
+    "realisateurs": "Hadrien La Vapeur",
+    "annee": 2005,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Ode aux éléments de la nature, quelque part dans un coin reculé de la Normandie."
+      }
+    ]
+  },
+  {
+    "titre": "Premiers rêves chromatiques",
+    "art": "Les",
+    "titreVo": "",
+    "idFilm": 143696,
+    "ageMinimal": null,
+    "realisateurs": "Hadrien La Vapeur",
+    "annee": 2001,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'histoire d'un garçon qui, parce qu'il ne supportait plus son ombre qui le suivait sans cesse, arrêta la gravitation des astres pendant l'éclipse du soleil."
+      }
+    ]
+  },
+  {
+    "titre": "Recherches sur le Santo Daime",
+    "titreVo": "",
+    "idFilm": 143699,
+    "ageMinimal": null,
+    "realisateurs": "Hadrien La Vapeur",
+    "annee": 2011,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une immersion en quatre épisodes dans les rituels du Santo Daime, religion brésilienne qui consacre l'Ayahuasca, le puissant breuvage visionnaire de la forêt amazonienne."
+      }
+    ]
+  },
+  {
+    "titre": "Sisu",
+    "titreVo": "",
+    "idFilm": 143691,
+    "ageMinimal": null,
+    "realisateurs": "Frédéric Farrucci",
+    "annee": 2015,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Jérémy, un jeune pilote de rallye talentueux, ne s'intéresse pas au résultat. Sa quête est ailleurs : il cherche l'état second que lui procure parfois le pilotage à haut risque. Ce que les pilotes finlandais appellent Sisu."
+      }
+    ],
+    "generique": [
+      "Vincent Rottiers",
+      "Margot Bancilhon"
+    ]
+  },
+  {
+    "titre": "Suis-je le gardien de mon frère ?",
+    "titreVo": "",
+    "idFilm": 143692,
+    "ageMinimal": null,
+    "realisateurs": "Frédéric Farrucci",
+    "annee": 2012,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "L'hiver, Antoine et Joseph chassent en montagne puis trinquent avec d'autres villageois au bar d'Antoine. L'été, l'établissement accueille une jeunesse branchée et alcoolisée qui défie Antoine en s'attaquant au naïf Joseph. La tragédie éclate à l'aube."
+      }
+    ],
+    "generique": [
+      "Nathanaël Maïni",
+      "Jean-Philippe Ricci"
+    ]
+  },
+  {
+    "titre": "Tombé du ciel",
+    "titreVo": "",
+    "idFilm": 134632,
+    "ageMinimal": null,
+    "realisateurs": "Wissam Charaf",
+    "annee": 2016,
+    "pays": "France-Liban",
+    "generique": [
+      "Raed Yassin",
+      "Rodrigue Sleiman"
+    ]
+  }
+]

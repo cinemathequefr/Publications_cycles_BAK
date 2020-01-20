@@ -133,7 +133,7 @@
     ]
   },
   {
-    "idCategorie": 2049,
+    "idCategorie": 2265,
     "typeEvenement": 13,
     "idEvenement": 21740,
     "idSeance": 33973,
@@ -772,7 +772,7 @@
     "mention": "Séance présentée par Bernard Menez (sous réserve)"
   },
   {
-    "idCategorie": 2049,
+    "idCategorie": 2261,
     "typeEvenement": 13,
     "idEvenement": 21760,
     "idSeance": 33500,
@@ -979,7 +979,7 @@
     ]
   },
   {
-    "idCategorie": 2049,
+    "idCategorie": 2261,
     "typeEvenement": 13,
     "idEvenement": 21764,
     "idSeance": 33968,

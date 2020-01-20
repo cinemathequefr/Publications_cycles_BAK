@@ -1,0 +1,162 @@
+[
+  {
+    "idCategorie": 2230,
+    "typeEvenement": 13,
+    "idEvenement": 22113,
+    "idSeance": 33124,
+    "dateHeure": "2020-03-09T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 143698,
+        "ordre": 1,
+        "idSeance": 33124,
+        "idCopie": 20652,
+        "duree": 5,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 143700,
+        "ordre": 2,
+        "idSeance": 33124,
+        "idCopie": 20653,
+        "duree": 10,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 143697,
+        "ordre": 3,
+        "idSeance": 33124,
+        "idCopie": 20650,
+        "duree": 6,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 143696,
+        "ordre": 4,
+        "idSeance": 33124,
+        "idCopie": 20649,
+        "duree": 27,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      },
+      {
+        "idFilm": 143699,
+        "ordre": 5
+      },
+      {
+        "idFilm": 143701,
+        "ordre": 6,
+        "idSeance": 33124,
+        "idCopie": 20654,
+        "duree": 23,
+        "version": "",
+        "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2230,
+    "typeEvenement": 13,
+    "idEvenement": 22042,
+    "idSeance": 33126,
+    "dateHeure": "2020-03-09T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "typeSeance": 43,
+    "items": [
+      {
+        "idFilm": 143674,
+        "ordre": 1,
+        "idSeance": 33126,
+        "idCopie": 20596,
+        "duree": 70,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Avant-première. Séance suivie d'une discussion avec Hadrien La Vapeur et Corto Vaclav"
+  },
+  {
+    "idCategorie": 2231,
+    "typeEvenement": 13,
+    "idEvenement": 22044,
+    "idSeance": 33212,
+    "dateHeure": "2020-03-16T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 143692,
+        "ordre": 1,
+        "idSeance": 33212,
+        "idCopie": 20646,
+        "duree": 24,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 143691,
+        "ordre": 2,
+        "idSeance": 33212,
+        "idCopie": 20645,
+        "duree": 23,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 143676,
+        "ordre": 3,
+        "idSeance": 33212,
+        "idCopie": 20598,
+        "duree": 19,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2231,
+    "typeEvenement": 13,
+    "idEvenement": 22043,
+    "idSeance": 33833,
+    "dateHeure": "2020-03-16T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "typeSeance": 43,
+    "items": [
+      {
+        "idFilm": 143675,
+        "ordre": 1,
+        "idSeance": 33833,
+        "idCopie": 20597,
+        "duree": 95,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
+    ],
+    "mention": "Avant-première"
+  }
+]
