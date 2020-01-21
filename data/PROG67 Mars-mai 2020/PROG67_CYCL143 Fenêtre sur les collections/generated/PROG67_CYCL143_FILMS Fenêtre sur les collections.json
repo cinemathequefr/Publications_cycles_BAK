@@ -15,6 +15,22 @@
     ]
   },
   {
+    "titre": "Attila, fléau de Dieu",
+    "titreVo": "Attila",
+    "idFilm": 42119,
+    "ageMinimal": null,
+    "realisateurs": "Pietro Francisci",
+    "annee": 1954,
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bande-annonce"
+      }
+    ],
+    "generique": ["Anthony Quinn", "Sophia Loren", "Henri Vidal"]
+  },
+  {
     "titre": "Bernard-l'ermite",
     "art": "Le",
     "titreVo": "",
@@ -45,9 +61,25 @@
         "texte": "Influencé par le surréalisme, Jean Herman filme les bureaux de la Cinémathèque Française, abritée dans un « hôtel particulier de la rue de Courcelles », et la salle de projection rue d'Ulm. Avec Henri Langlois."
       }
     ],
-    "generique": [
-      "Henri Langlois"
-    ]
+    "generique": ["Henri Langlois"]
+  },
+  {
+    "titre": "Dame au manteau d'hermine",
+    "art": "La",
+    "titreVo": "That Lady in Ermine",
+    "idFilm": 33920,
+    "ageMinimal": null,
+    "realisateurs": "Ernst Lubitsch, Otto Preminger",
+    "annee": 1947,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Pour éviter qu'un château soit détruit par l'envahisseur hongrois, une comtesse sort du tableau qui la représentait pour séduire le colonel. Le dernier film de Lubitsch, décédé pendant le tournage, sera terminé par Preminger."
+      }
+    ],
+    "generique": ["Betty Grable", "Douglas Fairbanks Jr.", "Cesar Romero"],
+    "adaptation": "D'après l'opérette _Die Frau im Hermelin_ d'Ernst Welisch et Rudolf Schanzer."
   },
   {
     "titre": "Esclave",
@@ -64,11 +96,7 @@
         "texte": "Michel Landa, un jeune pianiste et compositeur, en crise suite à un accident, sombre dans la dépendance à la morphine. Seule Elena, son épouse, est prête à tout faire et à tout sacrifier pour l'aider à sortir de son cauchemar."
       }
     ],
-    "generique": [
-      "Daniel Gélin",
-      "Eleonora Rossi Drago",
-      "Barbara Laage"
-    ]
+    "generique": ["Daniel Gélin", "Eleonora Rossi Drago", "Barbara Laage"]
   },
   {
     "titre": "Idoles",
@@ -85,9 +113,17 @@
         "texte": "Documentaire qui traite des jeunes passionnés de musique, qui, à l'image de Johnny Hallyday, Sheila, Françoise Hardy ou du groupe Les Chaussettes noires, veulent devenir la prochaine « idole des jeunes »."
       }
     ],
-    "generique": [
-      "Johnny Hallyday"
-    ]
+    "generique": ["Johnny Hallyday"]
+  },
+  {
+    "titre": "Melody cocktail",
+    "titreVo": "Melody Time",
+    "idFilm": 63700,
+    "ageMinimal": null,
+    "realisateurs": "Clyde Geronimi, Wilfred Jackson, Jack Kinney, [etc.]",
+    "annee": 1948,
+    "pays": "États-Unis",
+    "generique": ["Roy Rogers", "LaVerne Andrews", "Maxene Andrews"]
   },
   {
     "titre": "Musiciens du dimanche",
@@ -106,6 +142,19 @@
     ]
   },
   {
+    "titre": "Neige en deuil",
+    "art": "La",
+    "titreVo": "Mountain",
+    "artVo": "The",
+    "idFilm": 31612,
+    "ageMinimal": null,
+    "realisateurs": "Edward Dmytryk",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "generique": ["Spencer Tracy", "Robert Wagner", "Claire Trevor"],
+    "adaptation": "D'après le roman _La Neige en deuil_ de Henri Troyat."
+  },
+  {
     "titre": "Parlons femmes",
     "titreVo": "Se permettete parliamo di donne",
     "idFilm": 61837,
@@ -119,11 +168,7 @@
         "texte": "Premier film d'Ettore Scola. Film à sketches composé de neuf histoires comiques, chacune d'elle présentant un aspect de la femme. Une mère, une maîtresse, une fiancée, une prostituée, une sœur..."
       }
     ],
-    "generique": [
-      "Vittorio Gassman",
-      "Giovanna Ralli",
-      "Antonella Lualdi"
-    ]
+    "generique": ["Vittorio Gassman", "Giovanna Ralli", "Antonella Lualdi"]
   },
   {
     "titre": "Pieuvre",
@@ -142,6 +187,39 @@
     ]
   },
   {
+    "titre": "Qui donc a vu ma belle ?",
+    "titreVo": "Has Anybody Seen My Gal ?",
+    "idFilm": 80530,
+    "ageMinimal": null,
+    "realisateurs": "Douglas Sirk",
+    "annee": 1951,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un riche vieillard sans famille veut transmettre son héritage à la famille de son amour de jeunesse, mais veut d'abord la tester en s'installant chez elle incognito."
+      }
+    ],
+    "generique": ["Charles Coburn", "Piper Laurie", "Rock Hudson"]
+  },
+  {
+    "titre": "Rendez-vous sur l'Amazone",
+    "titreVo": "Americano",
+    "artVo": "The",
+    "idFilm": 54025,
+    "ageMinimal": null,
+    "realisateurs": "William Castle",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bande-annonce"
+      }
+    ],
+    "generique": ["Glenn Ford", "Cesar Romero", "Abbe Lane"]
+  },
+  {
     "titre": "Transition de phases dans les cristaux liquides",
     "titreVo": "",
     "idFilm": 65714,
@@ -157,6 +235,23 @@
     ]
   },
   {
+    "titre": "Trouillard du Far West",
+    "art": "Le",
+    "titreVo": "Pardners",
+    "idFilm": 36990,
+    "ageMinimal": null,
+    "realisateurs": "Norman Taurog",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bande-annonce"
+      }
+    ],
+    "generique": ["Dean Martin", "Jerry Lewis", "Lori Nelson"]
+  },
+  {
     "titre": "Un amour de Tchékov",
     "titreVo": "Sjuzet dlja nebolsogo rasskaza",
     "idFilm": 58757,
@@ -170,8 +265,22 @@
         "texte": "À la veille de son départ pour Sakhaline, Anton Pavlovitch Tchekhov fait la connaissance d'une amie de sa sœur, la chanteuse Lika Mizinova. Une proximité immédiate naît entre les deux êtres, qui ne se développera jamais en lien amoureux, mais marquera l'écrivain pour la vie. C'est son personnage qu'il évoque à travers l'héroïne de la Mouette, rédigée quelques années plus tard."
       }
     ],
-    "generique": [
-      "Marina Vlady"
+    "generique": ["Marina Vlady"]
+  },
+  {
+    "titre": "Unicorn in the Garden",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 143688,
+    "ageMinimal": null,
+    "realisateurs": "William T. Hurtz",
+    "annee": 1953,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bande-annonce"
+      }
     ]
   }
 ]

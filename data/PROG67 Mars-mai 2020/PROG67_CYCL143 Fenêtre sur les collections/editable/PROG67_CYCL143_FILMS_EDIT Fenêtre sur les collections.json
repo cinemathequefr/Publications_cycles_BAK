@@ -15,6 +15,21 @@
     ]
   },
   {
+    "titre": "Attila, fléau de Dieu",
+    "titreVo": "Attila",
+    "idFilm": 42119,
+    "ageMinimal": null,
+    "realisateurs": "Pietro Francisci",
+    "annee": 1954,
+    "pays": "Italie-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bande-annonce."
+      }
+    ]
+  },
+  {
     "titre": "Bernard l'ermite",
     "art": "Le",
     "titreVo": "",
@@ -47,6 +62,26 @@
     ],
     "generique": ["Henri Langlois"]
   },
+
+  {
+    "titre": "Dame au manteau d'hermine",
+    "art": "La",
+    "titreVo": "That Lady in Ermine",
+    "idFilm": 33920,
+    "ageMinimal": null,
+    "realisateurs": "Ernst Lubitsch, Otto Preminger",
+    "annee": 1947,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1861, Italie du Nord. L'armée hongroise assiège le château de la comtesse Angelina. Dans la galerie des ancêtres, Francesca, aïeule d'Angelina, revient à la vie pour sauver la situation, comme elle l'avait fait 300 ans auparavant."
+      }
+    ],
+    "generique": ["Betty Grable", "Douglas Fairbanks Jr.", "Cesar Romero"],
+    "adaptation": "D'après l'opérette _Die Frau im Hermelin_ d'Ernst Welisch et Rudolf Schanzer."
+  },
+
   {
     "titre": "Esclave",
     "art": "L'",
@@ -82,6 +117,21 @@
     "generique": ["Johnny Hallyday"]
   },
   {
+    "titre": "Mélodie cocktail",
+    "titreVo": "Melody Time",
+    "idFilm": 63700,
+    "ageMinimal": null,
+    "realisateurs": "Clyde Geronimi, Wilfred Jackson, Jack Kinney, Hamilton Luske",
+    "annee": 1948,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Film Disney en sept séquences musicales mêlant animation et prises de vues réelles."
+      }
+    ]
+  },
+  {
     "titre": "Musiciens du dimanche",
     "art": "Les",
     "titreVo": "Muzykanci",
@@ -97,6 +147,19 @@
       }
     ]
   },
+
+  {
+    "titre": "Neige en deuil",
+    "art": "La",
+    "titreVo": "Mountain",
+    "artVo": "The",
+    "idFilm": 31612,
+    "ageMinimal": null,
+    "realisateurs": "Edward Dmytryk",
+    "annee": 1955,
+    "pays": "États-Unis"
+  },
+
   {
     "titre": "Parlons femmes",
     "titreVo": "Se permettete parliamo di donne",
@@ -130,6 +193,38 @@
     ]
   },
   {
+    "titre": "Qui donc a vu ma belle ?",
+    "titreVo": "Has Anybody Seen My Gal?",
+    "idFilm": 80530,
+    "ageMinimal": null,
+    "realisateurs": "Douglas Sirk",
+    "annee": 1951,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un riche vieillard sans descendance veut léguer son héritage à la famille de son amour de jeunesse. Pour s'assurer qu'ils le méritent, il devient incognito leur locataire."
+      }
+    ],
+    "generique": ["Piper Laurie", "Rock Hudson", "Charles Coburn"]
+  },
+  {
+    "titre": "Rendez-vous sur l'Amazone",
+    "titreVo": "Americano",
+    "artVo": "The",
+    "idFilm": 54025,
+    "ageMinimal": null,
+    "realisateurs": "William Castle",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bande-annonce."
+      }
+    ]
+  },
+  {
     "titre": "Transition de phases dans les cristaux liquides",
     "titreVo": "",
     "idFilm": 65714,
@@ -145,8 +240,25 @@
     ]
   },
   {
-    "titre": "Un amour de Tchékov",
+    "titre": "Trouillard du Far West",
+    "art": "Le",
+    "titreVo": "Pardners",
+    "idFilm": 36990,
+    "ageMinimal": null,
+    "realisateurs": "Norman Taurog",
+    "annee": 1955,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bande-annonce."
+      }
+    ]
+  },
+  {
+    "titre": "Un amour de Tchekhov",
     "titreVo": "Sjuzet dlja nebolsogo rasskaza",
+    "titreNx": "Сюжет для небольшого рассказа",
     "idFilm": 58757,
     "ageMinimal": null,
     "realisateurs": "Sergueï Youtkevitch",
@@ -159,5 +271,21 @@
       }
     ],
     "generique": ["Nikolaï Grinko", "Marina Vlady"]
+  },
+  {
+    "titre": "Unicorn in the Garden",
+    "art": "The",
+    "titreVo": "",
+    "idFilm": 143688,
+    "ageMinimal": null,
+    "realisateurs": "William T. Hurtz",
+    "annee": 1953,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bande-annonce."
+      }
+    ]
   }
 ]

@@ -73,7 +73,7 @@ Avec Daniel Gélin, Eleonora Rossi Drago, Barbara Laage.
 À la suite d'un accident, Michel Landa, un jeune pianiste et compositeur, sombre dans la dépendance à la morphine. Seule Elena, son épouse, est prête à tout sacrifier pour l'aider à sortir de ce cauchemar.
 
 - ve 3 avr 19h30 JE  
-Séance présentée par Paola Palma
+  Séance présentée par Paola Palma
 
 [58757]  
 **Un amour de Tchekhov**  
@@ -84,7 +84,7 @@ Avec Nikolaï Grinko, Marina Vlady.
 À la veille de son départ pour Sakhaline, Anton Tchekhov fait la connaissance d'une amie de sa sœur, la chanteuse Lika Mizinova. La proximité qui naît entre eux marquera l'écrivain pour la vie.
 
 - ve 3 avr 21h45 JE  
-Séance présentée par Valérie Pozner
+  Séance présentée par Valérie Pozner
 
 ## Glorieux Technicolor
 
@@ -95,7 +95,7 @@ Séance présentée par Valérie Pozner
 **(Melody Time)**  
 de Clyde Geronimi, Wilfred Jackson, Jack Kinney, Hamilton Luske  
 États-Unis / 1948 / 5 min / VO / 16 mm  
-Film Disney en sept séquences musicales mêlant animation et prises de vues réelles.  
+Bande-annonce.  
 suivi de  
 [42119]  
 **Attila, fléau de Dieu**  
@@ -127,14 +127,7 @@ Avec Betty Grable, Douglas Fairbanks Jr., Cesar Romero.
 **(The Mountain)**  
 d'Edward Dmytryk  
 États-Unis / 1955 / 2 min / VOSTF / 35 mm  
-suivi de  
-[80530]  
-**Qui donc a vu ma belle ?**  
-**(Has Anybody Seen My Gal?)**  
-de Douglas Sirk  
-États-Unis / 1951 / 88 min / VOSTF / 35 mm  
-Avec Piper Laurie, Rock Hudson, Charles Coburn.  
-Un riche vieillard sans descendance veut léguer son héritage à la famille de son amour de jeunesse. Pour s'assurer qu'ils le méritent, il devient incognito leur locataire.  
+Bande-annonce.  
 suivi de  
 [54025]  
 **Rendez-vous sur l'Amazone**  
@@ -148,6 +141,13 @@ suivi de
 de William T. Hurtz  
 États-Unis / 1953 / 7 min / VO / 16 mm  
 Bande-annonce.
+suivi de  
+[80530]  
+**Qui donc a vu ma belle ?**  
+**(Has Anybody Seen My Gal?)**  
+de Douglas Sirk  
+États-Unis / 1951 / 88 min / VOSTF / 35 mm  
+Avec Piper Laurie, Rock Hudson, Charles Coburn.  
+Un riche vieillard sans descendance veut léguer son héritage à la famille de son amour de jeunesse. Pour s'assurer qu'ils le méritent, il devient incognito leur locataire.
 
 - ve 15 mai 21h45 GF
-

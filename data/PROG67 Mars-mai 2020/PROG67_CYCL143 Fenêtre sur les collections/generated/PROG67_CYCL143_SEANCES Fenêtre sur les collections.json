@@ -152,5 +152,111 @@
       }
     ],
     "mention": "Séance présentée par Valérie Pozner"
+  },
+  {
+    "idCategorie": 2248,
+    "typeEvenement": 13,
+    "idEvenement": 22096,
+    "idSeance": 33533,
+    "dateHeure": "2020-05-15T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 63700,
+        "ordre": 1,
+        "idSeance": 33533,
+        "idCopie": 20641,
+        "duree": 5,
+        "version": "VO",
+        "format": "16 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 42119,
+        "ordre": 2,
+        "idSeance": 33533,
+        "idCopie": 20639,
+        "duree": 3,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 36990,
+        "ordre": 3,
+        "idSeance": 33533,
+        "idCopie": 20640,
+        "duree": 2,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 33920,
+        "ordre": 4,
+        "idSeance": 33533,
+        "idCopie": 11751,
+        "duree": 90,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2248,
+    "typeEvenement": 13,
+    "idEvenement": 22091,
+    "idSeance": 33534,
+    "dateHeure": "2020-05-15T21:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 31612,
+        "ordre": 1,
+        "idSeance": 33534,
+        "idCopie": 20664,
+        "duree": 2,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 80530,
+        "ordre": 2,
+        "idSeance": 33534,
+        "idCopie": 17702,
+        "duree": 88,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 54025,
+        "ordre": 3,
+        "idSeance": 33534,
+        "idCopie": 20662,
+        "duree": 2,
+        "version": "VF",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 143688,
+        "ordre": 4,
+        "idSeance": 33534,
+        "idCopie": 20663,
+        "duree": 7,
+        "version": "VO",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
   }
 ]
