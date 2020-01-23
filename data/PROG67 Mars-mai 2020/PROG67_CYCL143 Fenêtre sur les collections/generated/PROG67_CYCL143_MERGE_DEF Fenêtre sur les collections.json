@@ -248,7 +248,7 @@
       "textes": [
         {
           "typeTexte": 8,
-          "texte": "Les Documents cinématographiques est une structure créée en 1930 par Jean Painlevé (1902-1989), biologiste, cinéaste, proche des surréalistes, nommé directeur du Cinéma français à la Libération, pour la production de ses films destinés au grand public. À la mort de Jean Painlevé, la société a été reprise par Brigitte Berg, sa collaboratrice pendant une dizaine d'année. Celle-ci, laissant de côté la production, a entamé une activité d'élargissement du fonds en direction de films du patrimoine menacés par l'oubli ou les dégradations des supports."
+          "texte": "Les Documents cinématographiques est une structure créée en 1930 par Jean Painlevé (1902-1989), biologiste, cinéaste, proche des surréalistes, nommé directeur du Cinéma français à la Libération, pour la production de ses films destinés au grand public. À la mort de Jean Painlevé, la société a été reprise par Brigitte Berg, sa collaboratrice pendant une dizaine d'années. Celle-ci, laissant de côté la production, a entamé une activité d'élargissement du fonds en direction de films du patrimoine menacés par l'oubli et les dégradations des supports."
         }
       ]
     },
@@ -337,6 +337,34 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 33534,
+          "ordre": 4,
+          "dateHeure": "2020-05-15T21:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2248,
+          "idEvenement": 22091,
+          "typeEvenement": 13,
+          "idFilm": 143688,
+          "titre": "A Unicorn in the Garden",
+          "titreVo": "",
+          "realisateurs": "William T. Hurtz",
+          "annee": 1953,
+          "pays": "États-Unis",
+          "duree": 7,
+          "version": "VO",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Alors qu'il prépare son petit déjeuner, un homme aperçoit une licorne dans son jardin. Quand il veut annoncer la nouvelle à sa femme, les ennuis commencent."
+            }
+          ]
+        },
+        {
           "idSeance": 33533,
           "ordre": 2,
           "dateHeure": "2020-05-15T19:30:00",
@@ -396,34 +424,6 @@
             {
               "typeTexte": 9,
               "texte": "1861, Italie du Nord. L'armée hongroise assiège le château de la comtesse Angelina. Dans la galerie des ancêtres, Francesca, aïeule d'Angelina, revient à la vie pour sauver la situation, comme elle l'avait fait 300 ans auparavant."
-            }
-          ]
-        },
-        {
-          "idSeance": 33533,
-          "ordre": 1,
-          "dateHeure": "2020-05-15T19:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2248,
-          "idEvenement": 22096,
-          "typeEvenement": 13,
-          "idFilm": 63700,
-          "titre": "Mélodie cocktail",
-          "titreVo": "Melody Time",
-          "realisateurs": "Clyde Geronimi, Wilfred Jackson, Jack Kinney, Hamilton Luske",
-          "annee": 1948,
-          "pays": "États-Unis",
-          "duree": 5,
-          "version": "VO",
-          "format": "16 mm",
-          "ageMinimal": null,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Film Disney en sept séquences musicales mêlant animation et prises de vues réelles."
             }
           ]
         },
@@ -516,6 +516,38 @@
         },
         {
           "idSeance": 33533,
+          "ordre": 1,
+          "dateHeure": "2020-05-15T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2248,
+          "idEvenement": 22096,
+          "typeEvenement": 13,
+          "idFilm": 63700,
+          "titre": "Trees",
+          "titreVo": "",
+          "realisateurs": "Clyde Geronimi, Wilfred Jackson, Jack Kinney, Hamilton Luske",
+          "annee": 1948,
+          "pays": "États-Unis",
+          "duree": 5,
+          "version": "VO",
+          "format": "16 mm",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Hommage aux arbres."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Segment de _Melody Time_, film musical d'animation des studios Disney."
+            }
+          ]
+        },
+        {
+          "idSeance": 33533,
           "ordre": 3,
           "dateHeure": "2020-05-15T19:30:00",
           "idSalle": [
@@ -535,35 +567,6 @@
           "duree": 2,
           "version": "VOSTF",
           "format": "35 mm",
-          "ageMinimal": null,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Bande-annonce."
-            }
-          ]
-        },
-        {
-          "idSeance": 33534,
-          "ordre": 4,
-          "dateHeure": "2020-05-15T21:45:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2248,
-          "idEvenement": 22091,
-          "typeEvenement": 13,
-          "idFilm": 143688,
-          "art": "The",
-          "titre": "Unicorn in the Garden",
-          "titreVo": "",
-          "realisateurs": "William T. Hurtz",
-          "annee": 1953,
-          "pays": "États-Unis",
-          "duree": 7,
-          "version": "VO",
-          "format": "16 mm",
           "ageMinimal": null,
           "textes": [
             {

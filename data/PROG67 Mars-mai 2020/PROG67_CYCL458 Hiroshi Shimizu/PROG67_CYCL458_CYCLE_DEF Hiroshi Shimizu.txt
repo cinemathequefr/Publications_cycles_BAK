@@ -26,7 +26,7 @@
 <pstyle:><cstyle:INFOSBLEUES>di 03 maiXXX16h30XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>L'Amour d'une mère
+<pstyle:TITRE>L<0x2019>Amour d<0x2019>une mère
 <pstyle:TITRE_ANG>(Bojo)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1950/82<0x2019>/VOSTF/16mm
@@ -35,7 +35,7 @@
 <pstyle:><cstyle:INFOSBLEUES>di 03 maiXXX19h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>L'Avancée de l'armée
+<pstyle:TITRE>L<0x2019>Avancée de l<0x2019>armée
 <pstyle:TITRE_ANG>(Rikugun daikoshin)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu, Yasushi Sasakibara
 <pstyle:TECHNIQUE>Japon/1932/88<0x2019>/INT. FR./35mm
@@ -53,6 +53,16 @@
 <pstyle:SYNOPSIS>La suite des <ct:Italic>Enfants de la ruche<ct:> (1948). Shimizu fait jouer leur propre rôle aux enfants qu<0x2019>il a recueillis et élève dans une ferme qu<0x2019>il a achetée, à Izu, spécialement pour eux.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
 <pstyle:><cstyle:INFOSBLEUES>sa 02 maiXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Le Chant de la brume
+<pstyle:TITRE_ANG>(Kiri no oto)
+<pstyle:TECHNIQUE>de Hiroshi Shimizu
+<pstyle:TECHNIQUE>Japon/1956/84<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Ken Uehara, Michiyo Kogure, Keizo Kawasaki.
+<pstyle:SYNOPSIS>Dans une hutte au c<0x0153>ur des Alpes japonaises, un botaniste observe deux jeunes mariés et se remémore son amour de jeunesse.
+<pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
+<pstyle:><cstyle:INFOSBLEUES>di 17 maiXXX21h00XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Chants pour la victoire
@@ -84,7 +94,7 @@
 <pstyle:><cstyle:INFOSBLEUES>lu 18 maiXXX21h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Le Cheminement d'une mère
+<pstyle:TITRE>Le Cheminement d<0x2019>une mère
 <pstyle:TITRE_ANG>(Haha no tabiji)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1958/92<0x2019>/VOSTF/35mm
@@ -94,7 +104,7 @@
 <pstyle:><cstyle:INFOSBLEUES>sa 16 maiXXX21h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Le Ch<0x0153>ur de l'aube
+<pstyle:TITRE>Le Ch<0x0153>ur de l<0x2019>aube
 <pstyle:TITRE_ANG>(Akatsuki no gassho)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1941/101<0x2019>/VOSTF/16mm
@@ -124,7 +134,7 @@
 <pstyle:><cstyle:INFOSBLEUES>me 29 avrXXX21h45XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Le Démon de l'or
+<pstyle:TITRE>Le Démon de l<0x2019>or
 <pstyle:TITRE_ANG>(Konjiki yasha)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1937/77<0x2019>/VOSTF/35mm
@@ -145,7 +155,7 @@
 <pstyle:><cstyle:INFOSBLEUES>di 26 avrXXX21h30XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>L'École Shiinomi
+<pstyle:TITRE>L<0x2019>École Shiinomi
 <pstyle:TITRE_ANG>(Shiinomi gakuen)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1955/99<0x2019>/VOSTF/16mm
@@ -173,7 +183,8 @@
 <pstyle:><cstyle:INFOSBLEUES>me 22 avrXXX20h00XXX
 <cstyle:SALLESBLEUES>A
 <pstyle:EVENEMENT>Ouverture de la rétrospective
-<pstyle:TITRE>Les Enfants qui ont besoin d'une mère
+
+<pstyle:TITRE>Les Enfants qui ont besoin d<0x2019>une mère
 <pstyle:TITRE_ANG>(Haha o motomeru kora)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1956/88<0x2019>/VOSTF/35mm
@@ -183,21 +194,11 @@
 <pstyle:><cstyle:INFOSBLEUES>lu 04 maiXXX21h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>L'Épingle à cheveux
-<pstyle:TITRE_ANG>(Kanzashi)
-<pstyle:TECHNIQUE>de Hiroshi Shimizu
-<pstyle:TECHNIQUE>Japon/1941/70<0x2019>/VOSTF/16mm
-<pstyle:TECHNIQUE>D<0x2019>après la nouvelle <cSkew:9>Yottsu no yubune<cSkew:> de Masuji Ibuse.
-<pstyle:TECHNIQUE>Avec Kinuyo Tanaka, Ryu Chishu, Tatsuo Saito.
-<pstyle:SYNOPSIS>Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s<0x2019>excuser de l<0x2019>incident. Une idylle se noue entre eux.
-<pstyle:><cstyle:INFOSBLEUES>je 07 maiXXX21h30XXX
-<cstyle:SALLESBLEUES>B
-
-<pstyle:TITRE>L'Équipe vedette
+<pstyle:TITRE>L<0x2019>Équipe vedette
 <pstyle:TITRE_ANG>(Hanagata senshu)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1937/64<0x2019>/VOSTF/16mm
-<pstyle:TECHNIQUE>Avec Shuji Sano, Ryu Chishu, Shin'ichi Himori.
+<pstyle:TECHNIQUE>Avec Shuji Sano, Ryu Chishu, Shin<0x2019>ichi Himori.
 <pstyle:SYNOPSIS>Des étudiants partis en man<0x0153>uvre s<0x2019>intéressent moins à leur formation militaire qu<0x2019>aux gens qu<0x2019>ils croisent sur la route. Un soir, l<0x2019>un deux surprend Seki, le champion d<0x2019>athlétisme de l<0x2019>université, en galante compagnie.
 <pstyle:><cstyle:INFOSBLEUES>me 20 maiXXX21h30XXX
 <cstyle:SALLESBLEUES>B
@@ -228,17 +229,7 @@
 <pstyle:><cstyle:INFOSBLEUES>me 06 maiXXX20h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Fou de pitié
-<pstyle:TITRE_ANG>(Ninjo baka)
-<pstyle:TECHNIQUE>de Hiroshi Shimizu
-<pstyle:TECHNIQUE>Japon/1956/70<0x2019>/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Rieko Sumi, Keiko Fujita, Eiji Funakoshi.
-<pstyle:SYNOPSIS>Un client vole de l<0x2019>argent pour les beaux yeux de Yuri, diva d<0x2019>un cabaret, mais la police ne tarde pas à l<0x2019>arrêter.
-<pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
-<pstyle:><cstyle:INFOSBLEUES>di 17 maiXXX14h30XXX
-<cstyle:SALLESBLEUES>B
-
-<pstyle:TITRE>L'Histoire de Jiro
+<pstyle:TITRE>L<0x2019>Histoire de Jiro
 <pstyle:TITRE_ANG>(Jiro monogatari)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1955/99<0x2019>/VOSTF/16mm
@@ -248,7 +239,17 @@
 <pstyle:><cstyle:INFOSBLEUES>me 29 avrXXX19h30XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>L'Image de la mère
+<pstyle:TITRE>L<0x2019>Idiot sentimental
+<pstyle:TITRE_ANG>(Ninjo baka)
+<pstyle:TECHNIQUE>de Hiroshi Shimizu
+<pstyle:TECHNIQUE>Japon/1956/70<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Rieko Sumi, Keiko Fujita, Eiji Funakoshi.
+<pstyle:SYNOPSIS>Un client vole de l<0x2019>argent pour les beaux yeux de Yuri, diva d<0x2019>un cabaret, mais la police ne tarde pas à l<0x2019>arrêter.
+<pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
+<pstyle:><cstyle:INFOSBLEUES>di 17 maiXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>L<0x2019>Image de la mère
 <pstyle:TITRE_ANG>(Haha no omokage)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1959/89<0x2019>/VOSTF/35mm
@@ -269,7 +270,8 @@
 <pstyle:><cstyle:INFOSBLEUES>ve 24 avrXXX19h30XXX
 <cstyle:SALLESBLEUES>B
 <pstyle:EVENEMENT>Accompagnement musical par Jean-François Zygel
-<pstyle:TITRE>Journal d'une famille
+
+<pstyle:TITRE>Journal d<0x2019>une famille
 <pstyle:TITRE_ANG>(Katei nikki)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1938/99<0x2019>/VOSTF/35mm
@@ -280,7 +282,7 @@
 <pstyle:><cstyle:INFOSBLEUES>di 03 maiXXX21h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Journal d'une femme médecin
+<pstyle:TITRE>Journal d<0x2019>une femme médecin
 <pstyle:TITRE_ANG>(Joi no kiroku)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1941/96<0x2019>/VOSTF/35mm
@@ -318,7 +320,7 @@
 <pstyle:><cstyle:INFOSBLEUES>di 24 maiXXX22h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Notes d'une chanteuse ambulante
+<pstyle:TITRE>Notes d<0x2019>une chanteuse ambulante
 <pstyle:TITRE_ANG>(Uta-jo oboegaki)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1941/98<0x2019>/VOSTF/16mm
@@ -327,7 +329,7 @@
 <pstyle:><cstyle:INFOSBLEUES>lu 11 maiXXX19h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Oublier même l'amour
+<pstyle:TITRE>Oublier même l<0x2019>amour
 <pstyle:TITRE_ANG>(Koi mo wasurete)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1937/73<0x2019>/VOSTF/35mm
@@ -345,6 +347,16 @@
 <pstyle:SYNOPSIS>Toshie est amoureuse de Narita, qui épouse sa s<0x0153>ur cadette. Mais l<0x2019>idylle des jeunes mariés est de courte durée.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
 <pstyle:><cstyle:INFOSBLEUES>di 26 avrXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Pour une épingle à cheveux
+<pstyle:TITRE_ANG>(Kanzashi)
+<pstyle:TECHNIQUE>de Hiroshi Shimizu
+<pstyle:TECHNIQUE>Japon/1941/70<0x2019>/VOSTF/16mm
+<pstyle:TECHNIQUE>D<0x2019>après la nouvelle <cSkew:9>Yottsu no yubune<cSkew:> de Masuji Ibuse.
+<pstyle:TECHNIQUE>Avec Kinuyo Tanaka, Ryu Chishu, Tatsuo Saito.
+<pstyle:SYNOPSIS>Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s<0x2019>excuser de l<0x2019>incident. Une idylle se noue entre eux.
+<pstyle:><cstyle:INFOSBLEUES>je 07 maiXXX21h30XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Pourquoi sont-elles devenues ainsi<0x00A0>?
@@ -389,21 +401,11 @@
 <pstyle:><cstyle:INFOSBLEUES>sa 25 avrXXX21h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Le Son de la brume
-<pstyle:TITRE_ANG>(Kiri no oto)
-<pstyle:TECHNIQUE>de Hiroshi Shimizu
-<pstyle:TECHNIQUE>Japon/1956/84<0x2019>/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Ken Uehara, Michiyo Kogure, Keizo Kawasaki.
-<pstyle:SYNOPSIS>Dans une hutte au c<0x0153>ur des Alpes japonaises, un botaniste observe deux jeunes mariés et se remémore son amour de jeunesse.
-<pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
-<pstyle:><cstyle:INFOSBLEUES>di 17 maiXXX21h00XXX
-<cstyle:SALLESBLEUES>B
-
 <pstyle:TITRE>Sous les fleurs de pêchers
 <pstyle:TITRE_ANG>(Momo no hana no saku shita de)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1951/73<0x2019>/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Shizuko Kasagi, Ranko Hanai, Shin'ichi Himori.
+<pstyle:TECHNIQUE>Avec Shizuko Kasagi, Ranko Hanai, Shin<0x2019>ichi Himori.
 <pstyle:SYNOPSIS>Artiste de <ct:Italic>kamishibai<ct:>, Amiko rencontre un grand succès auprès des enfants. Mais ses pièces de théâtre sur papier renferment de bien tortueux destins.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
 <pstyle:SUIVI_DE>Suivi de
@@ -416,7 +418,7 @@
 <pstyle:><cstyle:INFOSBLEUES>ve 22 maiXXX19h30XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>La Tour d'introspection
+<pstyle:TITRE>La Tour d<0x2019>introspection
 <pstyle:TITRE_ANG>(Mikaheri no to)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1941/111<0x2019>/VOSTF/16mm
@@ -454,7 +456,7 @@
 <pstyle:><cstyle:INFOSBLEUES>di 17 maiXXX19h30XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Un jeune héritier à l'université
+<pstyle:TITRE>Un jeune héritier à l<0x2019>université
 <pstyle:TITRE_ANG>(Daigaku no wakadanna)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1933/85<0x2019>/INT. FR./35mm
@@ -468,7 +470,7 @@
 <pstyle:TITRE_ANG>(Anma to onna)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1938/66<0x2019>/VOSTF/16mm
-<pstyle:TECHNIQUE>Avec Shin'ichi Himori, Mieko Takamine, Shin Tokudaiji.
+<pstyle:TECHNIQUE>Avec Shin<0x2019>ichi Himori, Mieko Takamine, Shin Tokudaiji.
 <pstyle:SYNOPSIS>Deux masseurs aveugles arrivent dans la station thermale de montagne où ils vont exercer chaque hiver leur métier. L<0x2019>un des deux s<0x2019>éprend d<0x2019>une cliente tokyoïte bien mystérieuse.
 <pstyle:><cstyle:INFOSBLEUES>di 24 maiXXX20h15XXX
 <cstyle:SALLESBLEUES>B
@@ -483,6 +485,7 @@
 <pstyle:><cstyle:INFOSBLEUES>lu 27 avrXXX19h00XXX
 <cstyle:SALLESBLEUES>B
 <pstyle:EVENEMENT>Accompagnement musical par Jean-François Zygel
+
 <pstyle:CATEGORIE>Rencontres et conférences
 
 <pstyle:TITRE>Dialogue avec Jo Osawa

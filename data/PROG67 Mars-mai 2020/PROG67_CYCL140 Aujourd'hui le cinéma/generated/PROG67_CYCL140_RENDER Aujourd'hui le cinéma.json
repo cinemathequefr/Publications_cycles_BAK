@@ -1,0 +1,393 @@
+{
+  "header": {
+    "idCycleProg": 140,
+    "titreCycle": "Aujourd'hui le cinéma",
+    "sousCycles": [
+      {
+        "titre": "Hadrien La Vapeur et Corto Vaclav",
+        "cats": [
+          2230
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Frédéric Farrucci",
+        "cats": [
+          2231
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Wissam Charaf",
+        "cats": [
+          2241
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Alexis Langlois",
+        "cats": [
+          2242
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Delphine Gleize",
+        "cats": [
+          2252
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Konstantina Kotzamani",
+        "cats": [
+          2254
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Nouvelles du Canada",
+        "cats": [
+          2266
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 67
+  },
+  "data": [
+    {
+      "titreSousCycle": "Hadrien La Vapeur et Corto Vaclav",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2230,
+          "idEvenement": 22113,
+          "films": [
+            {
+              "idFilm": 143698,
+              "titre": "Comètes incriminées",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Hadrien La Vapeur",
+              "annee": 2007,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une goutte d'eau et l'orage éclate. La femme furieuse sur sa chaise à bascule et l'homme qui se noie dans l'alcool pour oublier."
+                }
+              ],
+              "duree": 5,
+              "format": "Numérique",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 143700,
+              "titre": "Louzolo Amour",
+              "titreVo": "",
+              "realisateurs": "Hadrien La Vapeur, Corto Vaclav",
+              "annee": 2015,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une immersion dans les rituels de l'OPH, religion du Congo-Brazzaville fondée autour de la Bièramicine, simple bière transformée en médicament capable de guérir toutes les maladies."
+                }
+              ],
+              "duree": 10,
+              "format": "Numérique",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            },
+            {
+              "idFilm": 143697,
+              "titre": "Pieds qui puent",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Hadrien La Vapeur",
+              "annee": 2005,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Ode aux éléments de la nature, quelque part dans un coin reculé de la Normandie."
+                }
+              ],
+              "duree": 6,
+              "format": "Numérique",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 3
+            },
+            {
+              "idFilm": 143696,
+              "titre": "Premiers rêves chromatiques",
+              "art": "Les",
+              "titreVo": "",
+              "realisateurs": "Hadrien La Vapeur",
+              "annee": 2001,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "L'histoire d'un garçon qui, parce qu'il ne supportait plus son ombre qui le suivait sans cesse, arrêta la gravitation des astres pendant l'éclipse du soleil."
+                }
+              ],
+              "duree": 27,
+              "format": "Numérique",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 4
+            },
+            {
+              "idFilm": 143699,
+              "titre": "Recherches sur le Santo Daime",
+              "titreVo": "",
+              "realisateurs": "Hadrien La Vapeur",
+              "annee": 2011,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Une immersion en quatre épisodes dans les rituels du Santo Daime, religion brésilienne qui consacre l'Ayahuasca, le puissant breuvage visionnaire de la forêt amazonienne."
+                }
+              ],
+              "ageMinimal": null,
+              "ordre": 5
+            },
+            {
+              "idFilm": 143701,
+              "titre": "Etrange histoire de Prince Dethmer",
+              "art": "L'",
+              "titreVo": "",
+              "realisateurs": "Hadrien La Vapeur, Corto Vaclav",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Dans un quartier populaire de Brazzaville, un danseur à l'avenir prometteur du nom de Prince Dethmer est retrouvé mort. Sa famille organise une cérémonie funéraire, invitant tous ses amis artistes afin de lui rendre un dernier hommage. Mais quelques jours plus tard l'impossible se produit..."
+                }
+              ],
+              "duree": 23,
+              "format": "Numérique",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 6
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-03-09T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2230,
+          "idEvenement": 22042,
+          "films": [
+            {
+              "idFilm": 143674,
+              "titre": "Kongo",
+              "titreVo": "",
+              "realisateurs": "Hadrien La Vapeur, Corto Vaclav",
+              "annee": 2019,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "A Brazzaville, un monde invisible régit le monde visible. L'apôtre Médard se démène pour guérir les malades victimes de mauvais sorts. Mais sa vie bascule lorsqu'on l'accuse publiquement de pratiquer la magie noire."
+                }
+              ],
+              "duree": 70,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-03-09T21:15:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Avant-première. Séance suivie d'une discussion avec Hadrien La Vapeur et Corto Vaclav"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Frédéric Farrucci",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2231,
+          "idEvenement": 22044,
+          "films": [
+            {
+              "idFilm": 143692,
+              "titre": "Suis-je le gardien de mon frère ?",
+              "titreVo": "",
+              "realisateurs": "Frédéric Farrucci",
+              "annee": 2012,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "L'hiver, Antoine et Joseph chassent en montagne puis trinquent avec d'autres villageois au bar d'Antoine. L'été, l'établissement accueille une jeunesse branchée et alcoolisée qui défie Antoine en s'attaquant au naïf Joseph. La tragédie éclate à l'aube."
+                }
+              ],
+              "generique": [
+                "Nathanaël Maïni",
+                "Jean-Philippe Ricci"
+              ],
+              "duree": 24,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 143691,
+              "titre": "Sisu",
+              "titreVo": "",
+              "realisateurs": "Frédéric Farrucci",
+              "annee": 2015,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Jérémy, un jeune pilote de rallye talentueux, ne s'intéresse pas au résultat. Sa quête est ailleurs : il cherche l'état second que lui procure parfois le pilotage à haut risque. Ce que les pilotes finlandais appellent Sisu."
+                }
+              ],
+              "generique": [
+                "Vincent Rottiers",
+                "Margot Bancilhon"
+              ],
+              "duree": 23,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 2
+            },
+            {
+              "idFilm": 143676,
+              "titre": "Entre les lignes",
+              "titreVo": "",
+              "realisateurs": "Frédéric Farrucci",
+              "annee": 2018,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Fin de l'été. Cinq petits voleurs arpentent la ville. Parmi eux, Stefan tente d'apprendre à lire le français."
+                }
+              ],
+              "generique": [
+                "Avram Ion",
+                "Trayko Atanasov"
+              ],
+              "duree": 19,
+              "format": "DCP",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 3
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-03-16T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2231,
+          "idEvenement": 22043,
+          "films": [
+            {
+              "idFilm": 143675,
+              "titre": "Nuit venue",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Frédéric Farrucci",
+              "annee": 2019,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Paris, 2018. Jin, jeune immigré sans papiers, conduit chaque nuit un VTC pour le compte de la mafia chinoise. Une nuit, Noémie, call-girl envoûtante, monte à bord de son taxi. Intriguée par le mutisme et l'aura de Jin, transportée par sa musique, elle décide d'en faire son chauffeur attitré."
+                }
+              ],
+              "generique": [
+                "Camélia Jordana",
+                "Guang Huo"
+              ],
+              "duree": 95,
+              "format": "DCP",
+              "version": "VOSTF",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-03-16T21:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ],
+              "mention": "Avant-première"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Wissam Charaf",
+      "tri": 4,
+      "textes": [],
+      "items": []
+    },
+    {
+      "titreSousCycle": "Alexis Langlois",
+      "tri": 4,
+      "textes": [],
+      "items": []
+    },
+    {
+      "titreSousCycle": "Delphine Gleize",
+      "tri": 4,
+      "textes": [],
+      "items": []
+    },
+    {
+      "titreSousCycle": "Konstantina Kotzamani",
+      "tri": 4,
+      "textes": [],
+      "items": []
+    },
+    {
+      "titreSousCycle": "Nouvelles du Canada",
+      "tri": 4,
+      "textes": [],
+      "items": []
+    }
+  ]
+}

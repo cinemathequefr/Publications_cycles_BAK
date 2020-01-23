@@ -2,7 +2,7 @@
 
 ## Les Documents cinématographiques
 
-**Les Documents cinématographiques est une structure créée en 1930 par Jean Painlevé (1902-1989), biologiste, cinéaste, proche des surréalistes, nommé directeur du Cinéma français à la Libération, pour la production de ses films destinés au grand public. À la mort de Jean Painlevé, la société a été reprise par Brigitte Berg, sa collaboratrice pendant une dizaine d'année. Celle-ci, laissant de côté la production, a entamé une activité d'élargissement du fonds en direction de films du patrimoine menacés par l'oubli ou les dégradations des supports.**
+**Les Documents cinématographiques est une structure créée en 1930 par Jean Painlevé (1902-1989), biologiste, cinéaste, proche des surréalistes, nommé directeur du Cinéma français à la Libération, pour la production de ses films destinés au grand public. À la mort de Jean Painlevé, la société a été reprise par Brigitte Berg, sa collaboratrice pendant une dizaine d'années. Celle-ci, laissant de côté la production, a entamé une activité d'élargissement du fonds en direction de films du patrimoine menacés par l'oubli et les dégradations des supports.**
 
 [67870]  
 **Les Idoles**  
@@ -73,7 +73,7 @@ Avec Daniel Gélin, Eleonora Rossi Drago, Barbara Laage.
 À la suite d'un accident, Michel Landa, un jeune pianiste et compositeur, sombre dans la dépendance à la morphine. Seule Elena, son épouse, est prête à tout sacrifier pour l'aider à sortir de ce cauchemar.
 
 - ve 3 avr 19h30 JE  
-  Séance présentée par Paola Palma
+Séance présentée par Paola Palma
 
 [58757]  
 **Un amour de Tchekhov**  
@@ -84,18 +84,18 @@ Avec Nikolaï Grinko, Marina Vlady.
 À la veille de son départ pour Sakhaline, Anton Tchekhov fait la connaissance d'une amie de sa sœur, la chanteuse Lika Mizinova. La proximité qui naît entre eux marquera l'écrivain pour la vie.
 
 - ve 3 avr 21h45 JE  
-  Séance présentée par Valérie Pozner
+Séance présentée par Valérie Pozner
 
 ## Glorieux Technicolor
 
 **Depuis sa mise au point dans les années 1930, le succès du Technicolor trichrome ne s'est pas démenti, apportant qualité et prestige au cinéma hollywoodien et au-delà. Son âge d'or a duré jusqu'à la fin des années 1950. La Cinémathèque française possède dans ses collections des copies Technicolor rares, et propose deux séances « comme à l'époque ».**
 
 [63700]  
-**Mélodie cocktail**  
-**(Melody Time)**  
+**Trees**  
 de Clyde Geronimi, Wilfred Jackson, Jack Kinney, Hamilton Luske  
 États-Unis / 1948 / 5 min / VO / 16 mm  
-Bande-annonce.  
+Hommage aux arbres.  
+Segment de _Melody Time_, film musical d'animation des studios Disney.  
 suivi de  
 [42119]  
 **Attila, fléau de Dieu**  
@@ -127,7 +127,14 @@ Avec Betty Grable, Douglas Fairbanks Jr., Cesar Romero.
 **(The Mountain)**  
 d'Edward Dmytryk  
 États-Unis / 1955 / 2 min / VOSTF / 35 mm  
-Bande-annonce.  
+suivi de  
+[80530]  
+**Qui donc a vu ma belle ?**  
+**(Has Anybody Seen My Gal?)**  
+de Douglas Sirk  
+États-Unis / 1951 / 88 min / VOSTF / 35 mm  
+Avec Piper Laurie, Rock Hudson, Charles Coburn.  
+Un riche vieillard sans descendance veut léguer son héritage à la famille de son amour de jeunesse. Pour s'assurer qu'ils le méritent, il devient incognito leur locataire.  
 suivi de  
 [54025]  
 **Rendez-vous sur l'Amazone**  
@@ -137,17 +144,10 @@ de William Castle
 Bande-annonce.  
 suivi de  
 [143688]  
-**The Unicorn in the Garden**  
+**A Unicorn in the Garden**  
 de William T. Hurtz  
 États-Unis / 1953 / 7 min / VO / 16 mm  
-Bande-annonce.
-suivi de  
-[80530]  
-**Qui donc a vu ma belle ?**  
-**(Has Anybody Seen My Gal?)**  
-de Douglas Sirk  
-États-Unis / 1951 / 88 min / VOSTF / 35 mm  
-Avec Piper Laurie, Rock Hudson, Charles Coburn.  
-Un riche vieillard sans descendance veut léguer son héritage à la famille de son amour de jeunesse. Pour s'assurer qu'ils le méritent, il devient incognito leur locataire.
+Alors qu'il prépare son petit déjeuner, un homme aperçoit une licorne dans son jardin. Quand il veut annoncer la nouvelle à sa femme, les ennuis commencent.
 
 - ve 15 mai 21h45 GF
+

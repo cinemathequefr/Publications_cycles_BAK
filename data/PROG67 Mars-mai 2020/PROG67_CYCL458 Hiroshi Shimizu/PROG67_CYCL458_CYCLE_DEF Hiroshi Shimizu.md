@@ -61,6 +61,17 @@ Copie National Film Archive of Japan.
 
 - sa 2 mai 21h30 GF
 
+[142812]  
+**Le Chant de la brume**  
+**(Kiri no oto)**  
+de Hiroshi Shimizu  
+Japon / 1956 / 84 min / VOSTF / 35 mm  
+Avec Ken Uehara, Michiyo Kogure, Keizo Kawasaki.  
+Dans une hutte au cœur des Alpes japonaises, un botaniste observe deux jeunes mariés et se remémore son amour de jeunesse.  
+Copie National Film Archive of Japan.
+
+- di 17 mai 21h00 GF
+
 [72105]  
 **Chants pour la victoire**  
 **(Hisshoka)**  
@@ -190,7 +201,7 @@ Des orphelins de guerre se rassemblent dans Nara, ville historique épargnée pa
 Copie National Film Archive of Japan.
 
 - me 22 avr 20h00 HL  
-Ouverture de la rétrospective
+  Ouverture de la rétrospective
 
 [142789]  
 **Les Enfants qui ont besoin d'une mère**  
@@ -202,17 +213,6 @@ Tout en travaillant dans un centre d'éducation pour des enfants en difficulté,
 Copie National Film Archive of Japan.
 
 - lu 4 mai 21h00 GF
-
-[91079]  
-**L'Épingle à cheveux**  
-**(Kanzashi)**  
-de Hiroshi Shimizu  
-Japon / 1941 / 70 min / VOSTF / 16 mm  
-D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse.  
-Avec Kinuyo Tanaka, Ryu Chishu, Tatsuo Saito.  
-Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s'excuser de l'incident. Une idylle se noue entre eux.
-
-- je 7 mai 21h30 GF
 
 [142757]  
 **L'Équipe vedette**  
@@ -253,17 +253,6 @@ Copie neuve Kobe Planet Film Archive.
 
 - me 6 mai 20h00 GF
 
-[142788]  
-**Fou de pitié**  
-**(Ninjo baka)**  
-de Hiroshi Shimizu  
-Japon / 1956 / 70 min / VOSTF / 35 mm  
-Avec Rieko Sumi, Keiko Fujita, Eiji Funakoshi.  
-Un client vole de l'argent pour les beaux yeux de Yuri, diva d'un cabaret, mais la police ne tarde pas à l'arrêter.  
-Copie National Film Archive of Japan.
-
-- di 17 mai 14h30 GF
-
 [142786]  
 **L'Histoire de Jiro**  
 **(Jiro monogatari)**  
@@ -274,6 +263,17 @@ Avec Michiyo Kogure, Ichiro Ryuzaki, Junko Ikeuchi.
 Jiro, placé dans une famille d'adoption, est repris sept ans plus tard par ses parents biologiques. Mais le garçon réclame bientôt sa mère adoptive à cor et à cri.
 
 - me 29 avr 19h30 GF
+
+[142788]  
+**L'Idiot sentimental**  
+**(Ninjo baka)**  
+de Hiroshi Shimizu  
+Japon / 1956 / 70 min / VOSTF / 35 mm  
+Avec Rieko Sumi, Keiko Fujita, Eiji Funakoshi.  
+Un client vole de l'argent pour les beaux yeux de Yuri, diva d'un cabaret, mais la police ne tarde pas à l'arrêter.  
+Copie National Film Archive of Japan.
+
+- di 17 mai 14h30 GF
 
 [142814]  
 **L'Image de la mère**  
@@ -297,7 +297,7 @@ Yokohama, 1930. Deux lycéennes, Dora et Sunako, sont amoureuses de Henry, un pl
 Copie National Film Archive of Japan.
 
 - ve 24 avr 19h30 GF  
-Accompagnement musical par Jean-François Zygel
+  Accompagnement musical par Jean-François Zygel
 
 [142761]  
 **Journal d'une famille**  
@@ -385,6 +385,17 @@ Copie National Film Archive of Japan.
 
 - di 26 avr 19h00 GF
 
+[91079]  
+**Pour une épingle à cheveux**  
+**(Kanzashi)**  
+de Hiroshi Shimizu  
+Japon / 1941 / 70 min / VOSTF / 16 mm  
+D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse.  
+Avec Kinuyo Tanaka, Ryu Chishu, Tatsuo Saito.  
+Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s'excuser de l'incident. Une idylle se noue entre eux.
+
+- je 7 mai 21h30 GF
+
 [142787]  
 **Pourquoi sont-elles devenues ainsi ?**  
 **(Naze kanojora wa so natta ka)**  
@@ -430,17 +441,6 @@ Mariée malgré elle à Takehiko, la jeune Yumie est bien décidée destinée à
 Copie National Film Archive of Japan.
 
 - sa 25 avr 21h00 GF
-
-[142812]  
-**Le Son de la brume**  
-**(Kiri no oto)**  
-de Hiroshi Shimizu  
-Japon / 1956 / 84 min / VOSTF / 35 mm  
-Avec Ken Uehara, Michiyo Kogure, Keizo Kawasaki.  
-Dans une hutte au cœur des Alpes japonaises, un botaniste observe deux jeunes mariés et se remémore son amour de jeunesse.  
-Copie National Film Archive of Japan.
-
-- di 17 mai 21h00 GF
 
 [142780]  
 **Sous les fleurs de pêchers**  
@@ -534,7 +534,7 @@ Michiko tombe enceinte après avoir été violée par le frère de sa sœur de l
 Copie National Film Archive of Japan.
 
 - lu 27 avr 19h00 GF  
-Accompagnement musical par Jean-François Zygel
+  Accompagnement musical par Jean-François Zygel
 
 ## Rencontres et conférences
 
@@ -556,4 +556,3 @@ Longtemps, Hiroshi Shimizu (1903-1966) est resté un inconnu au Japon. C'est gr�
 Fabrice Arduini est directeur adjoint à la programmation à la Maison de la culture du Japon à Paris.
 
 - je 7 mai 19h00 GF
-

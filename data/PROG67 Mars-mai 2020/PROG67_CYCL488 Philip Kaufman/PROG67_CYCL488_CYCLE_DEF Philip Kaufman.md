@@ -19,7 +19,7 @@ de Philip Kaufman
 Avec Jon Voight, Monique Van Vooren, Joan Darling.  
 Un campagnard un peu naïf, de passage en ville, est assassiné par des gangsters. Il se réincarne en super-héros.
 
-- me 11 mar 21h30 GF
+- me 11 mar 21h30 GF  
 - di 15 mar 20h30 HL
 
 [72739]  
@@ -55,7 +55,7 @@ Paris, 1931. Anaïs Nin rencontre Henry Miller, écrivain encore inconnu, et sa 
 **La Légende de Jesse James**  
 **(The Great Northfield Minnesota Raid)**  
 de Philip Kaufman  
-États-Unis / 1970 / 91 min  
+États-Unis / 1970 / 91 min / VOSTF / Numérique  
 Avec Cliff Robertson, Robert Duvall, Luke Askew.  
 Le gang de Jesse James et celui de Cole Younger joignent leurs forces pour dévaliser une banque.
 
@@ -103,3 +103,4 @@ Avec Warren Oates, Timothy Bottoms, Lou Gossett.
 En 1896, trois chasseurs de baleines, bloqués au nord du Canada, trouvent refuge dans une tribu eskimo. Mais entre alcool, sexe et pillages, ces étrangers bouleversent les habitudes de la petite communauté.
 
 - je 12 mar 21h00 HL
+

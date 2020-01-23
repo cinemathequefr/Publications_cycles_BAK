@@ -80,11 +80,11 @@
 
 <pstyle:CATEGORIE TXT>Depuis sa mise au point dans les années 1930, le succès du Technicolor trichrome ne s<0x2019>est pas démenti, apportant qualité et prestige au cinéma hollywoodien et au-delà. Son âge d<0x2019>or a duré jusqu<0x2019>à la fin des années 1950. La Cinémathèque française possède dans ses collections des copies Technicolor rares, et propose deux séances «<0x00A0>comme à l<0x2019>époque<0x00A0>».
 
-<pstyle:TITRE>Mélodie cocktail
-<pstyle:TITRE_ANG>(Melody Time)
+<pstyle:TITRE>Trees
 <pstyle:TECHNIQUE>de Clyde Geronimi, Wilfred Jackson, Jack Kinney, Hamilton Luske
 <pstyle:TECHNIQUE>États-Unis/1948/5<0x2019>/VO/16mm
-<pstyle:SYNOPSIS>Bande-annonce.
+<pstyle:SYNOPSIS>Hommage aux arbres.
+<pstyle:INFOS_UTILES>Segment de <cSkew:9>Melody Time<cSkew:>, film musical d<0x2019>animation des studios Disney.
 <pstyle:SUIVI_DE>Suivi de
 <pstyle:TITRE>Attila, fléau de Dieu
 <pstyle:TITRE_ANG>(Attila)
@@ -112,7 +112,6 @@
 <pstyle:TITRE_ANG>(The Mountain)
 <pstyle:TECHNIQUE>d<0x2019>Edward Dmytryk
 <pstyle:TECHNIQUE>États-Unis/1955/2<0x2019>/VOSTF/35mm
-<pstyle:SYNOPSIS>Bande-annonce.
 <pstyle:SUIVI_DE>Suivi de
 <pstyle:TITRE>Rendez-vous sur l<0x2019>Amazone
 <pstyle:TITRE_ANG>(The Americano)
@@ -120,10 +119,10 @@
 <pstyle:TECHNIQUE>États-Unis/1955/2<0x2019>/VF/35mm
 <pstyle:SYNOPSIS>Bande-annonce.
 <pstyle:SUIVI_DE>Suivi de
-<pstyle:TITRE>The Unicorn in the Garden
+<pstyle:TITRE>A Unicorn in the Garden
 <pstyle:TECHNIQUE>de William T. Hurtz
 <pstyle:TECHNIQUE>États-Unis/1953/7<0x2019>/VO/16mm
-<pstyle:SYNOPSIS>Bande-annonce.
+<pstyle:SYNOPSIS>Alors qu<0x2019>il prépare son petit déjeuner, un homme aperçoit une licorne dans son jardin. Quand il veut annoncer la nouvelle à sa femme, les ennuis commencent.
 <pstyle:SUIVI_DE>Suivi de
 <pstyle:TITRE>Qui donc a vu ma belle<0x00A0>?
 <pstyle:TITRE_ANG>(Has Anybody Seen My Gal?)

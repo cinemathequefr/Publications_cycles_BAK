@@ -152,6 +152,44 @@
           ]
         },
         {
+          "idSeance": 33551,
+          "ordre": 1,
+          "dateHeure": "2020-05-17T21:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2052,
+          "idEvenement": 20948,
+          "typeEvenement": 13,
+          "idFilm": 142812,
+          "art": "Le",
+          "titre": "Chant de la brume",
+          "titreVo": "Kiri no oto",
+          "realisateurs": "Hiroshi Shimizu",
+          "annee": 1956,
+          "pays": "Japon",
+          "duree": 84,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Ken Uehara",
+            "Michiyo Kogure",
+            "Keizo Kawasaki"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans une hutte au cœur des Alpes japonaises, un botaniste observe deux jeunes mariés et se remémore son amour de jeunesse."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Copie National Film Archive of Japan."
+            }
+          ]
+        },
+        {
           "idSeance": 33598,
           "ordre": 1,
           "dateHeure": "2020-05-25T21:15:00",
@@ -601,43 +639,6 @@
           ]
         },
         {
-          "idSeance": 33921,
-          "ordre": 1,
-          "dateHeure": "2020-05-17T14:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2052,
-          "idEvenement": 22154,
-          "typeEvenement": 13,
-          "idFilm": 142788,
-          "titre": "Fou de pitié",
-          "titreVo": "Ninjo baka",
-          "realisateurs": "Hiroshi Shimizu",
-          "annee": 1956,
-          "pays": "Japon",
-          "duree": 70,
-          "version": "VOSTF",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Rieko Sumi",
-            "Keiko Fujita",
-            "Eiji Funakoshi"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Un client vole de l'argent pour les beaux yeux de Yuri, diva d'un cabaret, mais la police ne tarde pas à l'arrêter."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Copie National Film Archive of Japan."
-            }
-          ]
-        },
-        {
           "idSeance": 33916,
           "ordre": 1,
           "dateHeure": "2020-04-29T19:30:00",
@@ -669,6 +670,44 @@
             {
               "typeTexte": 9,
               "texte": "Jiro, placé dans une famille d'adoption, est repris sept ans plus tard par ses parents biologiques. Mais le garçon réclame bientôt sa mère adoptive à cor et à cri."
+            }
+          ]
+        },
+        {
+          "idSeance": 33921,
+          "ordre": 1,
+          "dateHeure": "2020-05-17T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2052,
+          "idEvenement": 22154,
+          "typeEvenement": 13,
+          "idFilm": 142788,
+          "art": "L'",
+          "titre": "Idiot sentimental",
+          "titreVo": "Ninjo baka",
+          "realisateurs": "Hiroshi Shimizu",
+          "annee": 1956,
+          "pays": "Japon",
+          "duree": 70,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Rieko Sumi",
+            "Keiko Fujita",
+            "Eiji Funakoshi"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un client vole de l'argent pour les beaux yeux de Yuri, diva d'un cabaret, mais la police ne tarde pas à l'arrêter."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Copie National Film Archive of Japan."
             }
           ]
         },
@@ -1102,6 +1141,42 @@
           ]
         },
         {
+          "idSeance": 33479,
+          "ordre": 1,
+          "dateHeure": "2020-05-07T21:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 33485,
+          "idCategorie": 2052,
+          "idEvenement": 20895,
+          "typeEvenement": 13,
+          "idFilm": 91079,
+          "titre": "Pour une épingle à cheveux",
+          "titreVo": "Kanzashi",
+          "realisateurs": "Hiroshi Shimizu",
+          "annee": 1941,
+          "pays": "Japon",
+          "duree": 70,
+          "version": "VOSTF",
+          "format": "16 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Kinuyo Tanaka",
+            "Ryu Chishu",
+            "Tatsuo Saito"
+          ],
+          "adaptation": "D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s'excuser de l'incident. Une idylle se noue entre eux."
+            }
+          ]
+        },
+        {
           "idSeance": 33577,
           "ordre": 1,
           "dateHeure": "2020-05-22T21:45:00",
@@ -1249,44 +1324,6 @@
             {
               "typeTexte": 9,
               "texte": "Mariée malgré elle à Takehiko, la jeune Yumie est bien décidée destinée à se venger en faisant chambre à part. Son comportement dépensier jettera l'opprobre sur son honorable belle-famille."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Copie National Film Archive of Japan."
-            }
-          ]
-        },
-        {
-          "idSeance": 33551,
-          "ordre": 1,
-          "dateHeure": "2020-05-17T21:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2052,
-          "idEvenement": 20948,
-          "typeEvenement": 13,
-          "idFilm": 142812,
-          "art": "Le",
-          "titre": "Son de la brume",
-          "titreVo": "Kiri no oto",
-          "realisateurs": "Hiroshi Shimizu",
-          "annee": 1956,
-          "pays": "Japon",
-          "duree": 84,
-          "version": "VOSTF",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Ken Uehara",
-            "Michiyo Kogure",
-            "Keizo Kawasaki"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Dans une hutte au cœur des Alpes japonaises, un botaniste observe deux jeunes mariés et se remémore son amour de jeunesse."
             },
             {
               "typeTexte": 99,
@@ -1765,43 +1802,6 @@
             {
               "typeTexte": 9,
               "texte": "Un professeur en psychologie et son épouse décident de fonder une école pour élèves atteints de poliomyélite car leurs enfants, souffrant eux-mêmes de cette maladie, subissent les moqueries de leurs camarades."
-            }
-          ]
-        },
-        {
-          "idSeance": 33479,
-          "ordre": 1,
-          "dateHeure": "2020-05-07T21:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "typeAssoc": 117,
-          "idSeanceAssoc": 33485,
-          "idCategorie": 2052,
-          "idEvenement": 20895,
-          "typeEvenement": 13,
-          "idFilm": 91079,
-          "art": "L'",
-          "titre": "Épingle à cheveux",
-          "titreVo": "Kanzashi",
-          "realisateurs": "Hiroshi Shimizu",
-          "annee": 1941,
-          "pays": "Japon",
-          "duree": 70,
-          "version": "VOSTF",
-          "format": "16 mm",
-          "ageMinimal": 0,
-          "generique": [
-            "Kinuyo Tanaka",
-            "Ryu Chishu",
-            "Tatsuo Saito"
-          ],
-          "adaptation": "D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse.",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s'excuser de l'incident. Une idylle se noue entre eux."
             }
           ]
         },

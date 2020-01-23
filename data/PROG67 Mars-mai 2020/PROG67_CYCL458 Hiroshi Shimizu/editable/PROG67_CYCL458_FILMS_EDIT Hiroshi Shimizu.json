@@ -377,8 +377,7 @@
     "generique": ["Aiko Mimasu", "Kuniko Miyake", "Yasuko Kawakami"]
   },
   {
-    "titre": "Épingle à cheveux",
-    "art": "L'",
+    "titre": "Pour une épingle à cheveux",
     "titreVo": "Kanzashi",
     "titreNx": "簪",
     "idFilm": 91079,
@@ -436,7 +435,8 @@
     "generique": ["Masao Inoue", "Kaoru Futaba", "Kinuyo Tanaka"]
   },
   {
-    "titre": "Fou de pitié",
+    "titre": "Idiot sentimental",
+    "art": "L'",
     "titreVo": "Ninjo baka",
     "titreNx": "人情馬鹿",
     "idFilm": 142788,
@@ -806,7 +806,7 @@
     "adaptation": "D'après le roman _Nanatsu no umi_ d'Itsuma Maki."
   },
   {
-    "titre": "Son de la brume",
+    "titre": "Chant de la brume",
     "art": "Le",
     "titreVo": "Kiri no oto",
     "titreNx": "霧の音",

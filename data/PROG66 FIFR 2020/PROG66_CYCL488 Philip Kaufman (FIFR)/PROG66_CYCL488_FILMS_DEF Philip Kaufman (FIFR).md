@@ -1,4 +1,4 @@
-# Philip Kaufman
+# Philip Kaufman (FIFR)
 
 [36623]  
 **Les Aventuriers de l'arche perdue**  
@@ -141,3 +141,4 @@ de Philip Kaufman
 D'après le roman _The White Dawn: An Eskimo Saga_ de James Houston.  
 Avec Warren Oates, Timothy Bottoms, Lou Gossett.  
 En 1896, trois chasseurs de baleines, bloqués au nord du Canada, trouvent refuge dans une tribu eskimo. Mais entre alcool, sexe et pillages, ces étrangers bouleversent les habitudes de la petite communauté.
+

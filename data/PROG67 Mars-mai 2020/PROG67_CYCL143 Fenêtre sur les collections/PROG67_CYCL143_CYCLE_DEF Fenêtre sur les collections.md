@@ -2,7 +2,7 @@
 
 ## Les Documents cinématographiques
 
-**Les Documents cinématographiques est une structure créée en 1930 par Jean Painlevé (1902-1989), biologiste, cinéaste, proche des surréalistes, nommé directeur du Cinéma français à la Libération, pour la production de ses films destinés au grand public. À la mort de Jean Painlevé, la société a été reprise par Brigitte Berg, sa collaboratrice pendant une dizaine d'année. Celle-ci, laissant de côté la production, a entamé une activité d'élargissement du fonds en direction de films du patrimoine menacés par l'oubli ou les dégradations des supports.**
+**Les Documents cinématographiques est une structure créée en 1930 par Jean Painlevé (1902-1989), biologiste, cinéaste, proche des surréalistes, nommé directeur du Cinéma français à la Libération, pour la production de ses films destinés au grand public. À la mort de Jean Painlevé, la société a été reprise par Brigitte Berg, sa collaboratrice pendant une dizaine d'années. Celle-ci, laissant de côté la production, a entamé une activité d'élargissement du fonds en direction de films du patrimoine menacés par l'oubli et les dégradations des supports.**
 
 [67870]  
 **Les Idoles**  
@@ -91,11 +91,11 @@ Séance présentée par Valérie Pozner
 **Depuis sa mise au point dans les années 1930, le succès du Technicolor trichrome ne s'est pas démenti, apportant qualité et prestige au cinéma hollywoodien et au-delà. Son âge d'or a duré jusqu'à la fin des années 1950. La Cinémathèque française possède dans ses collections des copies Technicolor rares, et propose deux séances « comme à l'époque ».**
 
 [63700]  
-**Mélodie cocktail**  
-**(Melody Time)**  
+**Trees**  
 de Clyde Geronimi, Wilfred Jackson, Jack Kinney, Hamilton Luske  
 États-Unis / 1948 / 5 min / VO / 16 mm  
-Film Disney en sept séquences musicales mêlant animation et prises de vues réelles.  
+Hommage aux arbres.  
+Segment de _Melody Time_, film musical d'animation des studios Disney.  
 suivi de  
 [42119]  
 **Attila, fléau de Dieu**  
@@ -144,10 +144,10 @@ de William Castle
 Bande-annonce.  
 suivi de  
 [143688]  
-**The Unicorn in the Garden**  
+**A Unicorn in the Garden**  
 de William T. Hurtz  
 États-Unis / 1953 / 7 min / VO / 16 mm  
-Bande-annonce.
+Alors qu'il prépare son petit déjeuner, un homme aperçoit une licorne dans son jardin. Quand il veut annoncer la nouvelle à sa femme, les ennuis commencent.
 
 - ve 15 mai 21h45 GF
 

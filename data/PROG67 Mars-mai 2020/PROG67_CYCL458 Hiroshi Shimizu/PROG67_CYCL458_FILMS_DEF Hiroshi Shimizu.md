@@ -53,6 +53,17 @@ La suite des _Enfants de la ruche_ (1948). Shimizu fait jouer leur propre rôle 
 
 Copie National Film Archive of Japan.
 
+[142812]  
+**Le Chant de la brume**  
+**(Kiri no oto)**  
+**(霧の音)**  
+de Hiroshi Shimizu  
+Japon / 1956  
+Avec Ken Uehara, Michiyo Kogure, Keizo Kawasaki.  
+Dans une hutte au cœur des Alpes japonaises, un botaniste observe deux jeunes mariés et se remémore son amour de jeunesse.
+
+Copie National Film Archive of Japan.
+
 [72105]  
 **Chants pour la victoire**  
 **(Hisshoka)**  
@@ -192,16 +203,6 @@ Tout en travaillant dans un centre d'éducation pour des enfants en difficulté,
 
 Copie National Film Archive of Japan.
 
-[91079]  
-**L'Épingle à cheveux**  
-**(Kanzashi)**  
-**(簪)**  
-de Hiroshi Shimizu  
-Japon / 1941  
-D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse.  
-Avec Kinuyo Tanaka, Ryu Chishu, Tatsuo Saito.  
-Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s'excuser de l'incident. Une idylle se noue entre eux.
-
 [142757]  
 **L'Équipe vedette**  
 **(Hanagata senshu)**  
@@ -222,17 +223,6 @@ Le forgeron Kyosuke a deux fils, Jiro et Ichiro. Lorsque le premier se retrouve 
 
 Mélodrame inspiré du _Forgeron de la ville_ (1922) de John Ford. Le film le plus ancien encore existant de Shimizu, dans une version raccourcie par rapport à l'original disparu. Copie National Film Archive of Japan.
 
-[142788]  
-**Fou de pitié**  
-**(Ninjo baka)**  
-**(人情馬鹿)**  
-de Hiroshi Shimizu  
-Japon / 1956  
-Avec Rieko Sumi, Keiko Fujita, Eiji Funakoshi.  
-Un client vole de l'argent pour les beaux yeux de Yuri, diva d'un cabaret, mais la police ne tarde pas à l'arrêter.
-
-Copie National Film Archive of Japan.
-
 [142786]  
 **L'Histoire de Jiro**  
 **(Jiro monogatari)**  
@@ -242,6 +232,17 @@ Japon / 1955
 D'après le roman _Jiro monogatari_ de Kojin Shimomura.  
 Avec Michiyo Kogure, Ichiro Ryuzaki, Junko Ikeuchi.  
 Jiro, placé dans une famille d'adoption, est repris sept ans plus tard par ses parents biologiques. Mais le garçon réclame bientôt sa mère adoptive à cor et à cri.
+
+[142788]  
+**L'Idiot sentimental**  
+**(Ninjo baka)**  
+**(人情馬鹿)**  
+de Hiroshi Shimizu  
+Japon / 1956  
+Avec Rieko Sumi, Keiko Fujita, Eiji Funakoshi.  
+Un client vole de l'argent pour les beaux yeux de Yuri, diva d'un cabaret, mais la police ne tarde pas à l'arrêter.
+
+Copie National Film Archive of Japan.
 
 [142814]  
 **L'Image de la mère**  
@@ -368,6 +369,16 @@ Toshie est amoureuse de Narita, qui épouse sa sœur cadette. Mais l'idylle des 
 
 Copie National Film Archive of Japan.
 
+[91079]  
+**Pour une épingle à cheveux**  
+**(Kanzashi)**  
+**(簪)**  
+de Hiroshi Shimizu  
+Japon / 1941  
+D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse.  
+Avec Kinuyo Tanaka, Ryu Chishu, Tatsuo Saito.  
+Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s'excuser de l'incident. Une idylle se noue entre eux.
+
 [142787]  
 **Pourquoi sont-elles devenues ainsi ?**  
 **(Naze kanojora wa so natta ka)**  
@@ -413,17 +424,6 @@ Japon / 1932
 D'après le roman _Nanatsu no umi_ d'Itsuma Maki.  
 Avec Hiroko Kawasaki, Ichiro Yuki, Ureo Egawa.  
 Mariée malgré elle à Takehiko, la jeune Yumie est bien décidée destinée à se venger en faisant chambre à part. Son comportement dépensier jettera l'opprobre sur son honorable belle-famille.
-
-Copie National Film Archive of Japan.
-
-[142812]  
-**Le Son de la brume**  
-**(Kiri no oto)**  
-**(霧の音)**  
-de Hiroshi Shimizu  
-Japon / 1956  
-Avec Ken Uehara, Michiyo Kogure, Keizo Kawasaki.  
-Dans une hutte au cœur des Alpes japonaises, un botaniste observe deux jeunes mariés et se remémore son amour de jeunesse.
 
 Copie National Film Archive of Japan.
 
@@ -543,4 +543,3 @@ Avec Emiko Yagumo, Minoru Takada, Hiroko Kawasaki.
 Michiko tombe enceinte après avoir été violée par le frère de sa sœur de lait. Pour éviter les commérages et l'opprobre, elle accepte d'épouser un prétendant, le secrétaire de son père.
 
 Copie National Film Archive of Japan.
-
