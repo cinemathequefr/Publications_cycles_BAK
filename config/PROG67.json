@@ -81,8 +81,18 @@
           "tri": 4
         },
         {
-          "titre": "Wissam Charaf",
-          "cats": [2241],
+          "titre": "Radiohead par Paul Thomas Anderson",
+          "cats": [2197],
+          "tri": 4
+        },
+        {
+          "titre": "Konstantina Kotzamani",
+          "cats": [2254],
+          "tri": 4
+        },
+        {
+          "titre": "Matthieu Bareyre",
+          "cats": [2269],
           "tri": 4
         },
         {
@@ -96,13 +106,23 @@
           "tri": 4
         },
         {
-          "titre": "Konstantina Kotzamani",
-          "cats": [2254],
+          "titre": "Le G.R.E.C. 2020",
+          "cats": [2267],
           "tri": 4
         },
         {
           "titre": "Nouvelles du Canada",
           "cats": [2266],
+          "tri": 4
+        },
+        {
+          "titre": "Carte blanche au festival Indie Lisboa",
+          "cats": [2268],
+          "tri": 4
+        },
+        {
+          "titre": "Le meilleur des talents Adami",
+          "cats": [2270],
           "tri": 4
         }
       ]

@@ -15,6 +15,8 @@ France / 1976
 Avec Louis de Funès, Coluche, Julien Guiomar.  
 Charles Duchemin, le directeur d'un guide gastronomique très réputé, est opposé à Tricatel, le roi de la restauration industrielle. Duchemin espère voir son fils lui succéder, mais le jeune homme rêve de devenir clown.
 
+Film à redécouvrir en famille, accessible aux enfants.
+
 [48655]  
 **L'Avare**  
 de Jean Girault, Louis de Funès  
@@ -22,6 +24,8 @@ France / 1979
 D'après la pièce _L'Avare_ de Molière.  
 Avec Louis de Funès, Franck David, Claire Dupray, Michel Galabru.  
 L'avare et cupide bourgeois Harpagon, qui protège obstinément une cassette remplie d'or, tente contre leur gré de marier son fils à une riche veuve et sa fille à un noble fortuné.
+
+Film à redécouvrir en famille, accessible aux enfants.
 
 [52049]  
 **La Belle Américaine**  
@@ -31,6 +35,8 @@ Avec Robert Dhéry, Colette Brosset, Louis de Funès.
 En achetant pour une somme dérisoire une superbe voiture, un petit ouvrier a fait l'affaire de sa vie. Cette « belle Américaine » va néanmoins lui causer de nombreux déboires.
 
 Louis de Funès interprète deux frères jumeaux.
+
+Film à redécouvrir en famille, accessible aux enfants.
 
 [49691]  
 **Les Bons vivants**  
@@ -98,6 +104,8 @@ France-Italie / 1963
 Avec Michel Serrault, Francis Blanche, Maurice Biraud, Louis de Funès.  
 Plusieurs personnes recherchent désespérément un billet de tiercé gagnant. Mais le ticket est resté dans la poche d'un cadavre, lui-même caché dans un étui de contrebasse.
 
+Film à redécouvrir en famille, accessible aux enfants.
+
 [48323]  
 **Le Diable et les Dix Commandements**  
 de Julien Duvivier  
@@ -143,6 +151,8 @@ France-Italie / 1964
 Avec Louis de Funès, Geneviève Grad, Michel Galabru, Jean Lefebvre.  
 Le maréchal des logis-chef Cruchot prend ses nouvelles fonctions à Saint-Tropez, aidé de subalternes maladroits. De son côté, sa fille Nicole rencontre de nouveaux amis, tout en s'attirant de multiples ennuis.
 
+Film à redécouvrir en famille, accessible aux enfants.
+
 [54004]  
 **Le Gendarme en balade**  
 de Jean Girault  
@@ -178,6 +188,8 @@ France-Italie / 1969
 D'après la pièce _Hibernatus_ de Jean Bernard-Luc.  
 Avec Louis de Funès, Claude Gensac, Bernard Alane.  
 La vie paisible d'Hubert de Tartas est soudain bouleversée : le grand-père de sa femme vient d'être découvert dans les glaces polaires, en état d'hibernation naturelle depuis 65 ans.
+
+Film à redécouvrir en famille, accessible aux enfants.
 
 [52146]  
 **L'Homme orchestre**  
@@ -227,7 +239,7 @@ Deux amis décident de prendre quelques jours de vacances à Deauville, en compa
 
 [50189]  
 **Oscar**  
-d'Edouard Molinaro  
+d'Édouard Molinaro  
 France / 1967  
 D'après la pièce _Oscar_ de Claude Magnier.  
 Avec Louis de Funès, Claude Rich, Claude Gensac, Agathe Natanson.  

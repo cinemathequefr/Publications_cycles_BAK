@@ -214,6 +214,10 @@
       {
         "typeTexte": 9,
         "texte": "Paul Ernzer, vigneron en faillite, découvre le cadavre de l'homme qui l'a ruiné et qui était la cible de plusieurs personnes aussi."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Film restauré par SND"
       }
     ],
     "generique": [
@@ -314,7 +318,7 @@
     "titre": "Fantômas",
     "titreVo": "",
     "idFilm": 49173,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "André Hunebelle",
     "annee": 1964,
     "pays": "France",
@@ -382,16 +386,6 @@
     ]
   },
   {
-    "titre": "Gendarme en balade",
-    "art": "Le",
-    "titreVo": "",
-    "idFilm": 54004,
-    "ageMinimal": null,
-    "realisateurs": "Jean Girault",
-    "annee": 1970,
-    "pays": "France-Italie"
-  },
-  {
     "titre": "Gendarme et les extra-terrestres",
     "art": "Le",
     "titreVo": "",
@@ -417,7 +411,7 @@
     "art": "Le",
     "titreVo": "",
     "idFilm": 51911,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Jacques Besnard",
     "annee": 1966,
     "pays": "France",
@@ -441,7 +435,7 @@
     "art": "Les",
     "titreVo": "",
     "idFilm": 52112,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Jean Girault",
     "annee": 1967,
     "pays": "France-Italie",
@@ -490,7 +484,7 @@
     "art": "L'",
     "titreVo": "",
     "idFilm": 52146,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Serge Korber",
     "annee": 1969,
     "pays": "France-Italie",
@@ -602,7 +596,7 @@
     "art": "Le",
     "titreVo": "",
     "idFilm": 56162,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Robert Dhéry",
     "annee": 1967,
     "pays": "France-Italie",
@@ -646,7 +640,7 @@
     "titre": "Pouic-Pouic",
     "titreVo": "",
     "idFilm": 48639,
-    "ageMinimal": null,
+    "ageMinimal": 8,
     "realisateurs": "Jean Girault",
     "annee": 1963,
     "pays": "France",
@@ -754,7 +748,7 @@
     "titre": "Taxi, roulotte et corrida",
     "titreVo": "",
     "idFilm": 49268,
-    "ageMinimal": null,
+    "ageMinimal": 8,
     "realisateurs": "André Hunebelle",
     "annee": 1958,
     "pays": "France",
@@ -840,7 +834,7 @@
     "art": "La",
     "titreVo": "",
     "idFilm": 57113,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Claude Zidi",
     "annee": 1977,
     "pays": "France",

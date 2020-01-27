@@ -84,6 +84,8 @@ D'après le roman _La Chair à poissons_ de Marcel G. Prêtre.
 Avec Louis de Funès, Marthe Mercadier, Pierre Dudan.  
 Paul Ernzer, vigneron en faillite, découvre le cadavre de l'homme qui l'a ruiné et qui était la cible de plusieurs personnes aussi.
 
+Film restauré par SND
+
 [49693]  
 **Des pissenlits par la racine**  
 de Georges Lautner  
@@ -140,11 +142,6 @@ Avec Louis de Funès, Geneviève Grad, Michel Galabru, Jean Lefebvre.
 Promu, le gendarme Cruchot quitte son petit village provincial pour prendre ses nouvelles fonctions à Saint-Tropez. Sa fille unique, la charmante Nicole est folle de joie et ne tarde pas à se faire une foule de nouveaux amis « yé-yé » tout en s'attirant de sacrés ennuis, tandis que Cruchot prend activement la direction d'opérations difficiles et délicates...
 
 Film accessible aux enfants
-
-[54004]  
-**Le Gendarme en balade**  
-de Jean Girault  
-France-Italie / 1970
 
 [48793]  
 **Le Gendarme et les extra-terrestres**  
