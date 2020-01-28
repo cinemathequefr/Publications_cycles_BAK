@@ -46,8 +46,8 @@
             "Elizabeth Taylor"
           ],
           "duree": 113,
-          "format": "",
-          "version": "",
+          "format": "16 mm",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -130,7 +130,7 @@
           ],
           "duree": 160,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -449,7 +449,7 @@
           ],
           "duree": 92,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -495,7 +495,7 @@
           ],
           "duree": 98,
           "format": "16 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -596,7 +596,7 @@
               "idSeance": 33777,
               "ordre": 1,
               "idEvenement": 21797,
-              "dateHeure": "2020-05-02T16:45:00",
+              "dateHeure": "2020-05-02T17:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -682,7 +682,7 @@
           ],
           "duree": 125,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -728,8 +728,8 @@
             "Honor Blackman"
           ],
           "duree": 85,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -1098,7 +1098,7 @@
           ],
           "duree": 122,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {

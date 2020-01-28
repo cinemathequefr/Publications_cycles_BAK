@@ -537,6 +537,17 @@
           "tri": 4
         }
       ]
+    },
+    {
+      "idCycleProg": 474,
+      "titreCycle": "Gérardmer à Paris 2020",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2256, 2163],
+          "tri": 4
+        }
+      ]
     }
   ]
 }

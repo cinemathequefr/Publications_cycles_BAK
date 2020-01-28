@@ -1,4 +1,4 @@
-  # Elizabeth Taylor
+# Elizabeth Taylor
 
 ## Les films
 
@@ -6,7 +6,7 @@
 **Ainsi sont les femmes**  
 **(A Date With Judy)**  
 de Richard Thorpe  
-États-Unis / 1948 / 113 min  
+États-Unis / 1948 / 113 min / VOSTF / 16 mm  
 D'après le feuilleton radiophonique _A Date With Judy_ d'Aleen Leslie.  
 Avec Wallace Beery, Jane Powell, Elizabeth Taylor.  
 Les tourments d'une jeune femme trahie par sa meilleure amie, abandonnée par l'homme qu'elle aime, et qui soupçonne son père d'avoir une maîtresse.
@@ -28,7 +28,7 @@ Stanley vit mal son rôle de futur grand-père, tandis que son épouse ne cache 
 **L'Arbre de vie**  
 **(Raintree County)**  
 d'Edward Dmytryk  
-États-Unis / 1956 / 160 min / VO / 35 mm  
+États-Unis / 1956 / 160 min / VOSTF / 35 mm  
 D'après le roman _L'Arbree de vie_ de Ross Lockridge Jr.  
 Avec Elizabeth Taylor, Montgomery Clift, Lee Marvin, Eva Marie Saint.  
 Un jeune idéaliste fraîchement diplômé se rend dans le Sud à la recherche du mythique Arbre de vie. Il y rencontre Susanna, dont il tombe amoureux. Mais la guerre de Sécession éclate.
@@ -110,7 +110,7 @@ Haïti, années 1960. Les péripéties de trois Américains et d'un Britannique,
 **Le Courage de Lassie**  
 **(Courage of Lassie)**  
 de Fred Wilcox  
-États-Unis / 1944 / 92 min / VO / 35 mm  
+États-Unis / 1944 / 92 min / VOSTF / 35 mm  
 Avec Elizabeth Taylor, Frank Morgan, Tom Drake.  
 Entraînée au combat contre les Japonais durant la Seconde Guerre mondiale, la chienne Lassie se montre agressive à son retour. Seul l'amour que lui voue sa maîtresse Kathie peut guérir l'animal.
 
@@ -120,7 +120,7 @@ Entraînée au combat contre les Japonais durant la Seconde Guerre mondiale, la 
 [67421]  
 **Cynthia**  
 de Robert Z. Leonard  
-États-Unis / 1946 / 98 min / VO / 16 mm  
+États-Unis / 1946 / 98 min / VOSTF / 16 mm  
 D'après la pièce _Cynthia_ de Viña Delmar.  
 Avec Elizabeth Taylor, George Murphy, Mary Astor.  
 Cynthia, adolescente à la santé fragile, est couvée par ses parents, un couple modeste de l'Illinois. Elle décide de se rebeller en se rendant au bal de fin d'année de son école.
@@ -149,7 +149,7 @@ D'après le roman _Lassie, chien fidèle_ d'Eric Knight.
 Avec Elizabeth Taylor, Elsa Lanchester, Roddy McDowall.  
 Faute de moyens, une famille de fermiers est contrainte de vendre sa fidèle chienne. Emmenée à des milliers de kilomètres, la brave colley va alors affronter mille dangers pour retrouver son foyer.
 
-- sa 2 mai 16h45 HL  
+- sa 2 mai 17h30 HL  
 - di 10 mai 16h30 HL
 
 [36624]  
@@ -168,7 +168,7 @@ Contre l'avis de sa famille, le propriétaire d'un ranch texan lègue une parcel
 **Le Grand National**  
 **(National Velvet)**  
 de Clarence Brown  
-États-Unis / 1944 / 125 min / VO / 35 mm  
+États-Unis / 1944 / 125 min / VOSTF / 35 mm  
 D'après le roman _National Velvet_ d'Enid Bagnold.  
 Avec Elizabeth Taylor, Mickey Rooney, Donald Crisp.  
 Mi Taylor arpente la campagne anglaise et trouve un toit accueillant chez les Brown. Lorsque la fille cadette de la famille remporte un cheval à la foire du village, elle demande à Mi de l'entraîner pour le Grand National, la plus grande course équestre du pays.
@@ -180,7 +180,7 @@ Mi Taylor arpente la campagne anglaise et trouve un toit accueillant chez les Br
 **Guet-apens**  
 **(The Conspirator)**  
 de Victor Saville  
-Grande-Bretagne / 1948 / 85 min  
+Grande-Bretagne / 1948 / 85 min / VOSTF / 35 mm  
 D'après le roman _The Conspirator_ de Humphrey Slater.  
 Avec Elizabeth Taylor, Robert Taylor, Honor Blackman.  
 À Londres, une jeune Américaine s'éprend d'un officier de la garde britannique. Mais peu après leur mariage, elle découvre que son époux est un espion à la solde de l'Union soviétique.
@@ -274,7 +274,7 @@ Stanley Banks prépare le mariage de sa fille Kay, mais s'angoisse à l'idée qu
 **Les Quatre filles du docteur March**  
 **(Little Women)**  
 de Mervyn LeRoy  
-États-Unis / 1948 / 122 min / VO / 35 mm  
+États-Unis / 1948 / 122 min / VOSTF / 35 mm  
 D'après le roman _Les Quatre filles du docteur March_ de Louisa May Alcott.  
 Avec June Allyson, Elizabeth Taylor, Margaret O'Brien.  
 Aux États-Unis, pendant la guerre de Sécession, quatre jeunes sœurs font face aux difficultés du quotidien en l'absence de leur père, pasteur nordiste engagé dans le conflit.

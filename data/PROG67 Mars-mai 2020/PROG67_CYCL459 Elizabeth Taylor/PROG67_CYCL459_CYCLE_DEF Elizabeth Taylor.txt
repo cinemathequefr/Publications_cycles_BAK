@@ -5,7 +5,7 @@
 <pstyle:TITRE>Ainsi sont les femmes
 <pstyle:TITRE_ANG>(A Date With Judy)
 <pstyle:TECHNIQUE>de Richard Thorpe
-<pstyle:TECHNIQUE>États-Unis/1948/113<0x2019>
+<pstyle:TECHNIQUE>États-Unis/1948/113<0x2019>/VOSTF/16mm
 <pstyle:TECHNIQUE>D<0x2019>après le feuilleton radiophonique <cSkew:9>A Date With Judy<cSkew:> d<0x2019>Aleen Leslie.
 <pstyle:TECHNIQUE>Avec Wallace Beery, Jane Powell, Elizabeth Taylor.
 <pstyle:SYNOPSIS>Les tourments d<0x2019>une jeune femme trahie par sa meilleure amie, abandonnée par l<0x2019>homme qu<0x2019>elle aime, et qui soupçonne son père d<0x2019>avoir une maîtresse.
@@ -13,7 +13,7 @@
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Allons donc, papa<0x00A0>!
-<pstyle:TITRE_ANG>(Father's Little Dividend)
+<pstyle:TITRE_ANG>(Father<0x2019>s Little Dividend)
 <pstyle:TECHNIQUE>de Vincente Minnelli
 <pstyle:TECHNIQUE>États-Unis/1950/81<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Spencer Tracy, Elizabeth Taylor, Joan Bennett.
@@ -23,10 +23,10 @@
 <cstyle:INFOSBLEUES>lu 18 maiXXX14h30XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>L'Arbre de vie
+<pstyle:TITRE>L<0x2019>Arbre de vie
 <pstyle:TITRE_ANG>(Raintree County)
-<pstyle:TECHNIQUE>d'Edward Dmytryk
-<pstyle:TECHNIQUE>États-Unis/1956/160<0x2019>/VO/35mm
+<pstyle:TECHNIQUE>d<0x2019>Edward Dmytryk
+<pstyle:TECHNIQUE>États-Unis/1956/160<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>L<0x2019>Arbree de vie<cSkew:> de Ross Lockridge Jr.
 <pstyle:TECHNIQUE>Avec Elizabeth Taylor, Montgomery Clift, Lee Marvin, Eva Marie Saint.
 <pstyle:SYNOPSIS>Un jeune idéaliste fraîchement diplômé se rend dans le Sud à la recherche du mythique Arbre de vie. Il y rencontre Susanna, dont il tombe amoureux. Mais la guerre de Sécession éclate.
@@ -107,7 +107,7 @@
 <pstyle:TITRE>Le Courage de Lassie
 <pstyle:TITRE_ANG>(Courage of Lassie)
 <pstyle:TECHNIQUE>de Fred Wilcox
-<pstyle:TECHNIQUE>États-Unis/1944/92<0x2019>/VO/35mm
+<pstyle:TECHNIQUE>États-Unis/1944/92<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Elizabeth Taylor, Frank Morgan, Tom Drake.
 <pstyle:SYNOPSIS>Entraînée au combat contre les Japonais durant la Seconde Guerre mondiale, la chienne Lassie se montre agressive à son retour. Seul l<0x2019>amour que lui voue sa maîtresse Kathie peut guérir l<0x2019>animal.
 <pstyle:><cstyle:INFOSBLEUES>ve 15 maiXXX14h00XXX
@@ -117,7 +117,7 @@
 
 <pstyle:TITRE>Cynthia
 <pstyle:TECHNIQUE>de Robert Z. Leonard
-<pstyle:TECHNIQUE>États-Unis/1946/98<0x2019>/VO/16mm
+<pstyle:TECHNIQUE>États-Unis/1946/98<0x2019>/VOSTF/16mm
 <pstyle:TECHNIQUE>D<0x2019>après la pièce <cSkew:9>Cynthia<cSkew:> de Viña Delmar.
 <pstyle:TECHNIQUE>Avec Elizabeth Taylor, George Murphy, Mary Astor.
 <pstyle:SYNOPSIS>Cynthia, adolescente à la santé fragile, est couvée par ses parents, un couple modeste de l<0x2019>Illinois. Elle décide de se rebeller en se rendant au bal de fin d<0x2019>année de son école.
@@ -126,7 +126,7 @@
 <cstyle:INFOSBLEUES>me 20 maiXXX17h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>La Dernière fois que j'ai vu Paris
+<pstyle:TITRE>La Dernière fois que j<0x2019>ai vu Paris
 <pstyle:TITRE_ANG>(The Last Time I Saw Paris)
 <pstyle:TECHNIQUE>de Richard Brooks
 <pstyle:TECHNIQUE>États-Unis/1954/116<0x2019>
@@ -145,7 +145,7 @@
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Lassie, chien fidèle<cSkew:> d<0x2019>Eric Knight.
 <pstyle:TECHNIQUE>Avec Elizabeth Taylor, Elsa Lanchester, Roddy McDowall.
 <pstyle:SYNOPSIS>Faute de moyens, une famille de fermiers est contrainte de vendre sa fidèle chienne. Emmenée à des milliers de kilomètres, la brave colley va alors affronter mille dangers pour retrouver son foyer.
-<pstyle:><cstyle:INFOSBLEUES>sa 02 maiXXX16h45XXX
+<pstyle:><cstyle:INFOSBLEUES>sa 02 maiXXX17h30XXX
 <cstyle:SALLESBLEUES>A
 <cstyle:INFOSBLEUES>di 10 maiXXX16h30XXX
 <cstyle:SALLESBLEUES>A
@@ -165,7 +165,7 @@
 <pstyle:TITRE>Le Grand National
 <pstyle:TITRE_ANG>(National Velvet)
 <pstyle:TECHNIQUE>de Clarence Brown
-<pstyle:TECHNIQUE>États-Unis/1944/125<0x2019>/VO/35mm
+<pstyle:TECHNIQUE>États-Unis/1944/125<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>National Velvet<cSkew:> d<0x2019>Enid Bagnold.
 <pstyle:TECHNIQUE>Avec Elizabeth Taylor, Mickey Rooney, Donald Crisp.
 <pstyle:SYNOPSIS>Mi Taylor arpente la campagne anglaise et trouve un toit accueillant chez les Brown. Lorsque la fille cadette de la famille remporte un cheval à la foire du village, elle demande à Mi de l<0x2019>entraîner pour le Grand National, la plus grande course équestre du pays.
@@ -177,7 +177,7 @@
 <pstyle:TITRE>Guet-apens
 <pstyle:TITRE_ANG>(The Conspirator)
 <pstyle:TECHNIQUE>de Victor Saville
-<pstyle:TECHNIQUE>Grande-Bretagne/1948/85<0x2019>
+<pstyle:TECHNIQUE>Grande-Bretagne/1948/85<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>The Conspirator<cSkew:> de Humphrey Slater.
 <pstyle:TECHNIQUE>Avec Elizabeth Taylor, Robert Taylor, Honor Blackman.
 <pstyle:SYNOPSIS>À Londres, une jeune Américaine s<0x2019>éprend d<0x2019>un officier de la garde britannique. Mais peu après leur mariage, elle découvre que son époux est un espion à la solde de l<0x2019>Union soviétique.
@@ -221,7 +221,7 @@
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Le Miroir se brisa
-<pstyle:TITRE_ANG>(The Mirror Crack'd)
+<pstyle:TITRE_ANG>(The Mirror Crack<0x2019>d)
 <pstyle:TECHNIQUE>de Guy Hamilton
 <pstyle:TECHNIQUE>Grande-Bretagne/1980/105<0x2019>/VOSTF/DCP
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Le Miroir se brisa<cSkew:> d<0x2019>Agatha Christie.
@@ -243,7 +243,7 @@
 <cstyle:INFOSBLEUES>sa 23 maiXXX17h15XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>L'Oiseau bleu
+<pstyle:TITRE>L<0x2019>Oiseau bleu
 <pstyle:TITRE_ANG>(The Blue Bird)
 <pstyle:TECHNIQUE>de George Cukor
 <pstyle:TECHNIQUE>États-Unis-URSS/1975/99<0x2019>/VOSTF/35mm
@@ -270,9 +270,9 @@
 <pstyle:TITRE>Les Quatre filles du docteur March
 <pstyle:TITRE_ANG>(Little Women)
 <pstyle:TECHNIQUE>de Mervyn LeRoy
-<pstyle:TECHNIQUE>États-Unis/1948/122<0x2019>/VO/35mm
+<pstyle:TECHNIQUE>États-Unis/1948/122<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Les Quatre filles du docteur March<cSkew:> de Louisa May Alcott.
-<pstyle:TECHNIQUE>Avec June Allyson, Elizabeth Taylor, Margaret O'Brien.
+<pstyle:TECHNIQUE>Avec June Allyson, Elizabeth Taylor, Margaret O<0x2019>Brien.
 <pstyle:SYNOPSIS>Aux États-Unis, pendant la guerre de Sécession, quatre jeunes s<0x0153>urs font face aux difficultés du quotidien en l<0x2019>absence de leur père, pasteur nordiste engagé dans le conflit.
 <pstyle:><cstyle:INFOSBLEUES>di 17 maiXXX17h30XXX
 <cstyle:SALLESBLEUES>A
@@ -280,7 +280,7 @@
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Qui a peur de Virginia Woolf<0x00A0>?
-<pstyle:TITRE_ANG>(Who's Afraid of Virginia Woolf?)
+<pstyle:TITRE_ANG>(Who<0x2019>s Afraid of Virginia Woolf?)
 <pstyle:TECHNIQUE>de Mike Nichols
 <pstyle:TECHNIQUE>États-Unis/1965/130<0x2019>/VOSTF/DCP
 <pstyle:TECHNIQUE>D<0x2019>après la pièce <cSkew:9>Qui a peur de Virginia Woolf<0x00A0>?<cSkew:> d<0x2019>Edward Albee.
@@ -291,7 +291,7 @@
 <cstyle:INFOSBLEUES>di 24 maiXXX19h45XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>Reflets dans un <0x0153>il d'or
+<pstyle:TITRE>Reflets dans un <0x0153>il d<0x2019>or
 <pstyle:TITRE_ANG>(Reflections in a Golden Eye)
 <pstyle:TECHNIQUE>de John Huston
 <pstyle:TECHNIQUE>États-Unis/1966/107<0x2019>/VOSTF/35mm
@@ -303,7 +303,7 @@
 <cstyle:INFOSBLEUES>ve 15 maiXXX19h00XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>Soudain, l'été dernier
+<pstyle:TITRE>Soudain, l<0x2019>été dernier
 <pstyle:TITRE_ANG>(Suddenly, Last Summer)
 <pstyle:TECHNIQUE>de Joseph L. Mankiewicz
 <pstyle:TECHNIQUE>États-Unis/1959/114<0x2019>/VOSTF/DCP
