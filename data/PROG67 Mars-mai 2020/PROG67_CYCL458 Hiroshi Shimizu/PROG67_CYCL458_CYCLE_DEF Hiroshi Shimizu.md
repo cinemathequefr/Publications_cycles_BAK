@@ -24,7 +24,7 @@ suivi de
 de Hiroshi Shimizu  
 Japon / 1942 / 74 min / VOSTF / 35 mm  
 Avec Shirley Yamaguchi, Toshiaki Konoe, Kenji Oyama.  
-Taïwan, 1938. Une jeune aborigène meurt tragiquement en montagne pour sauver la vie du colon japonais qu'elle accompagne. Film de propagande basé sur une histoire vraie pour inciter les « sujets taïwanais » à s'enrôler dans l'armée impériale.  
+Taïwan, 1938. Une jeune aborigène se noie alors qu'elle accompagne son professeur japonais qui rejoint le front. Film de propagande basé sur une histoire vraie pour inciter les « sujets taïwanais » à s'enrôler dans l'armée impériale.  
 Copie National Film Archive of Japan.
 
 - di 3 mai 16h30 GF
@@ -169,7 +169,8 @@ Avec Mitsugu Fujii, Hiroko Kawasaki, Michiko Kuwano.
 L'expérience douloureuse de deux villageois amoureux, Osaki et sa cousine Nishimura, contraints à quitter leur ville natale pour la métropole de Tokyo.  
 Version musiquée. Copie National Film Archive of Japan.
 
-- di 26 avr 21h30 GF
+- di 26 avr 21h30 GF  
+Séance présentée par Jo Osawa
 
 [142784]  
 **L'École Shiinomi**  
@@ -201,7 +202,7 @@ Des orphelins de guerre se rassemblent dans Nara, ville historique épargnée pa
 Copie National Film Archive of Japan.
 
 - me 22 avr 20h00 HL  
-  Ouverture de la rétrospective
+Ouverture de la rétrospective
 
 [142789]  
 **Les Enfants qui ont besoin d'une mère**  
@@ -297,7 +298,7 @@ Yokohama, 1930. Deux lycéennes, Dora et Sunako, sont amoureuses de Henry, un pl
 Copie National Film Archive of Japan.
 
 - ve 24 avr 19h30 GF  
-  Accompagnement musical par Jean-François Zygel
+Accompagnement musical par Jean-François Zygel
 
 [142761]  
 **Journal d'une famille**  
@@ -383,7 +384,8 @@ Avec Emiko Yagumo, Minoru Takada, Michiko Oikawa.
 Toshie est amoureuse de Narita, qui épouse sa sœur cadette. Mais l'idylle des jeunes mariés est de courte durée.  
 Copie National Film Archive of Japan.
 
-- di 26 avr 19h00 GF
+- di 26 avr 19h00 GF  
+Accompagnement musical par Jean-François Zygel. Séance présentée par Jo Osawa
 
 [91079]  
 **Pour une épingle à cheveux**  
@@ -440,7 +442,8 @@ Avec Hiroko Kawasaki, Ichiro Yuki, Ureo Egawa.
 Mariée malgré elle à Takehiko, la jeune Yumie est bien décidée destinée à se venger en faisant chambre à part. Son comportement dépensier jettera l'opprobre sur son honorable belle-famille.  
 Copie National Film Archive of Japan.
 
-- sa 25 avr 21h00 GF
+- sa 25 avr 21h00 GF  
+Accompagnement musical par Jean-François Zygel. Séance présentée par Jo Osawa
 
 [142780]  
 **Sous les fleurs de pêchers**  
@@ -534,7 +537,7 @@ Michiko tombe enceinte après avoir été violée par le frère de sa sœur de l
 Copie National Film Archive of Japan.
 
 - lu 27 avr 19h00 GF  
-  Accompagnement musical par Jean-François Zygel
+Accompagnement musical par Jean-François Zygel
 
 ## Rencontres et conférences
 
@@ -556,3 +559,4 @@ Longtemps, Hiroshi Shimizu (1903-1966) est resté un inconnu au Japon. C'est gr�
 Fabrice Arduini est directeur adjoint à la programmation à la Maison de la culture du Japon à Paris.
 
 - je 7 mai 19h00 GF
+

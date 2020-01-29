@@ -117,8 +117,8 @@
     "generique": ["Johnny Hallyday"]
   },
   {
-    "titre": "Trees",
-    "titreVo": "",
+    "titre": "Mélodie cocktail",
+    "titreVo": "Melody Time",
     "idFilm": 63700,
     "ageMinimal": null,
     "realisateurs": "Clyde Geronimi, Wilfred Jackson, Jack Kinney, Hamilton Luske",
@@ -127,11 +127,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Hommage aux arbres."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Segment de _Melody Time_, film musical d'animation des studios Disney."
+        "texte": "Film Disney en sept séquences musicales mêlant animation et prises de vues réelles."
       }
     ]
   },
@@ -261,7 +257,7 @@
   },
   {
     "titre": "Un amour de Tchekhov",
-    "titreVo": "Sioujet dlia niébolchogo rasskaza",
+    "titreVo": "Sjuzet dlja nebolsogo rasskaza",
     "titreNx": "Сюжет для небольшого рассказа",
     "idFilm": 58757,
     "ageMinimal": null,
@@ -277,7 +273,8 @@
     "generique": ["Nikolaï Grinko", "Marina Vlady"]
   },
   {
-    "titre": "A Unicorn in the Garden",
+    "titre": "Unicorn in the Garden",
+    "art": "The",
     "titreVo": "",
     "idFilm": 143688,
     "ageMinimal": null,
@@ -287,7 +284,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Alors qu'il prépare son petit déjeuner, un homme aperçoit une licorne dans son jardin. Quand il veut annoncer la nouvelle à sa femme, les ennuis commencent."
+        "texte": "Bande-annonce."
       }
     ]
   }

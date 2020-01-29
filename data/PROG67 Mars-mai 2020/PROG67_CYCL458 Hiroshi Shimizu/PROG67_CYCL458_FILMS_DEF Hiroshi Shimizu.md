@@ -113,7 +113,7 @@ Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et 
 de Hiroshi Shimizu  
 Japon / 1942  
 Avec Shirley Yamaguchi, Toshiaki Konoe, Kenji Oyama.  
-Taïwan, 1938. Une jeune aborigène meurt tragiquement en montagne pour sauver la vie du colon japonais qu'elle accompagne. Film de propagande basé sur une histoire vraie pour inciter les « sujets taïwanais » à s'enrôler dans l'armée impériale.
+Taïwan, 1938. Une jeune aborigène se noie alors qu'elle accompagne son professeur japonais qui rejoint le front. Film de propagande basé sur une histoire vraie pour inciter les « sujets taïwanais » à s'enrôler dans l'armée impériale.
 
 Copie National Film Archive of Japan.
 
@@ -543,3 +543,4 @@ Avec Emiko Yagumo, Minoru Takada, Hiroko Kawasaki.
 Michiko tombe enceinte après avoir été violée par le frère de sa sœur de lait. Pour éviter les commérages et l'opprobre, elle accepte d'épouser un prétendant, le secrétaire de son père.
 
 Copie National Film Archive of Japan.
+

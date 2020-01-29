@@ -21,7 +21,7 @@
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1942/74<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Shirley Yamaguchi, Toshiaki Konoe, Kenji Oyama.
-<pstyle:SYNOPSIS>Taïwan, 1938. Une jeune aborigène meurt tragiquement en montagne pour sauver la vie du colon japonais qu<0x2019>elle accompagne. Film de propagande basé sur une histoire vraie pour inciter les «<0x00A0>sujets taïwanais<0x00A0>» à s<0x2019>enrôler dans l<0x2019>armée impériale.
+<pstyle:SYNOPSIS>Taïwan, 1938. Une jeune aborigène se noie alors qu<0x2019>elle accompagne son professeur japonais qui rejoint le front. Film de propagande basé sur une histoire vraie pour inciter les «<0x00A0>sujets taïwanais<0x00A0>» à s<0x2019>enrôler dans l<0x2019>armée impériale.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
 <pstyle:><cstyle:INFOSBLEUES>di 03 maiXXX16h30XXX
 <cstyle:SALLESBLEUES>B
@@ -154,6 +154,7 @@
 <pstyle:INFOS_UTILES>Version musiquée. Copie National Film Archive of Japan.
 <pstyle:><cstyle:INFOSBLEUES>di 26 avrXXX21h30XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Jo Osawa
 
 <pstyle:TITRE>L<0x2019>École Shiinomi
 <pstyle:TITRE_ANG>(Shiinomi gakuen)
@@ -348,6 +349,7 @@
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
 <pstyle:><cstyle:INFOSBLEUES>di 26 avrXXX19h00XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Accompagnement musical par Jean-François Zygel. Séance présentée par Jo Osawa
 
 <pstyle:TITRE>Pour une épingle à cheveux
 <pstyle:TITRE_ANG>(Kanzashi)
@@ -400,6 +402,7 @@
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
 <pstyle:><cstyle:INFOSBLEUES>sa 25 avrXXX21h00XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Accompagnement musical par Jean-François Zygel. Séance présentée par Jo Osawa
 
 <pstyle:TITRE>Sous les fleurs de pêchers
 <pstyle:TITRE_ANG>(Momo no hana no saku shita de)
