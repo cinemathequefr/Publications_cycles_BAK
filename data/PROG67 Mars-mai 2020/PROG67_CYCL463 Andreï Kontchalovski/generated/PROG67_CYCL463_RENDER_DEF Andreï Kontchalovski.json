@@ -84,6 +84,10 @@
             {
               "typeTexte": 9,
               "texte": "Assia, ouvrière agricole dans un kolkhoze, a deux amants. L'un l'aime et veut l'épouser, l'autre la brutalise et lui fait un enfant. Assia refuse de choisir entre ses deux prétendants."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauration 4K par The Andrei Konchalovsky Studios."
             }
           ],
           "generique": [
@@ -123,8 +127,7 @@
           "idFilm": 33917,
           "titre": "Cercle des intimes",
           "art": "Le",
-          "titreVo": "Blijki kroug",
-          "artVo": "The",
+          "titreVo": "Blijni kroug",
           "realisateurs": "Andreï Kontchalovski",
           "annee": 1990,
           "pays": "Italie-URSS-États-Unis",
@@ -224,12 +227,16 @@
             {
               "typeTexte": 9,
               "texte": "Galia, jeune ouvrière dans une usine de province, rêve de devenir mannequin. Elle quitte ses parents alcooliques et son petit ami violent pour se rendre à Moscou."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauration 2K par The Andrei Konchalovsky Studios."
             }
           ],
           "generique": [
             "Ioulia Vyssotskaïa",
             "Irina Rozanova",
-            "Alexeï Serebryakov"
+            "Alexeï Serebriakov"
           ],
           "duree": 118,
           "format": "DCP",
@@ -270,6 +277,10 @@
             {
               "typeTexte": 9,
               "texte": "En 1996, pendant la première guerre en Tchétchénie, la vie des patients, livrés à eux-mêmes, dans l'hôpital psychiatrique d'Ingouchie, tout près de la frontière."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Restauration 2K par The Andrei Konchalovsky Studios."
             }
           ],
           "generique": [
@@ -545,6 +556,10 @@
             {
               "typeTexte": 9,
               "texte": "Superstitions, exaltations et mysticisme : exploration des pensées et des démons intérieurs de Michel-Ange, génie de la Renaissance."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Inédit en France."
             }
           ],
           "generique": [
@@ -672,6 +687,10 @@
             {
               "typeTexte": 9,
               "texte": "Sergueï et Tania s'aiment. Lorsque Sergueï est porté disparu sur le front, Tania épouse un ami d'enfance. Mais Sergueï revient."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Format sous réserve."
             }
           ],
           "generique": [
@@ -760,6 +779,10 @@
             {
               "typeTexte": 9,
               "texte": "De la révolution d'Octobre à nos jours, en Sibérie occidentale, l'histoire de deux familles, l'une riche et l'autre pauvre, qui se haïssent."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Format sous réserve."
             }
           ],
           "generique": [

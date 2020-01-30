@@ -27,7 +27,7 @@
 <pstyle:TITRE_ANG>(Raintree County)
 <pstyle:TECHNIQUE>d<0x2019>Edward Dmytryk
 <pstyle:TECHNIQUE>États-Unis/1956/160<0x2019>/VOSTF/35mm
-<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>L<0x2019>Arbree de vie<cSkew:> de Ross Lockridge Jr.
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>L<0x2019>Arbre de vie<cSkew:> de Ross Lockridge Jr.
 <pstyle:TECHNIQUE>Avec Elizabeth Taylor, Montgomery Clift, Lee Marvin, Eva Marie Saint.
 <pstyle:SYNOPSIS>Un jeune idéaliste fraîchement diplômé se rend dans le Sud à la recherche du mythique Arbre de vie. Il y rencontre Susanna, dont il tombe amoureux. Mais la guerre de Sécession éclate.
 <pstyle:><cstyle:INFOSBLEUES>je 14 maiXXX19h00XXX
@@ -85,7 +85,7 @@
 <pstyle:TITRE_ANG>(Cleopatra)
 <pstyle:TECHNIQUE>de Joseph L. Mankiewicz
 <pstyle:TECHNIQUE>États-Unis/1960/249<0x2019>/VOSTF/70mm
-<pstyle:TECHNIQUE>D<0x2019>après l<0x2019><0x0153>uvre <cSkew:9> The Life and Times of Cleopatra <cSkew:> de Carlo Maria Franzero.
+<pstyle:TECHNIQUE>D<0x2019>après l<0x2019><0x0153>uvre <cSkew:9>The Life and Times of Cleopatra<cSkew:> de Carlo Maria Franzero.
 <pstyle:TECHNIQUE>Avec Elizabeth Taylor, Richard Burton, Rex Harrison.
 <pstyle:SYNOPSIS>Le destin et l<0x2019>ascension de Cléopâtre, ses amours tumultueuses, avec Jules César, qui lui donne un fils et la hisse sur le trône d<0x2019>Égypte, puis avec Marc Antoine.
 <pstyle:><cstyle:INFOSBLEUES>me 29 avrXXX19h00XXX
@@ -344,7 +344,7 @@
 <pstyle:TECHNIQUE>États-Unis/1949/122<0x2019>/VOSTF/DCP
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Une tragérie américaine<cSkew:> de Theodore Dreiser.
 <pstyle:TECHNIQUE>Avec Montgomery Clift, Elizabeth Taylor, Shelley Winters.
-<pstyle:SYNOPSIS>Un jeune homme pauvre obtient de son oncle fortuné un emploi dans son usine. Il y rencontre une ouvrière avec laquelle il entretient une relation secrète. Il fait aussi la connaissance d<0x2019>une jeune fille de la haute société dont il tombe amoureux. Une adaptation du roman de Theodor Dreiser paru en 1925 <ct:Italic>An American Tragedy,<ct:> après celle de J. von Sternberg en 1931.
+<pstyle:SYNOPSIS>Un jeune homme pauvre obtient de son oncle fortuné un emploi dans son usine. Il y rencontre une ouvrière avec laquelle il entretient une relation secrète. Il fait aussi la connaissance d<0x2019>une jeune fille de la haute société dont il tombe amoureux.
 <pstyle:><cstyle:INFOSBLEUES>je 30 avrXXX19h30XXX
 <cstyle:SALLESBLEUES>A
 <cstyle:INFOSBLEUES>sa 23 maiXXX21h45XXX
@@ -366,7 +366,7 @@
 <pstyle:TITRE>Film + Discussion avec Muriel Joudet
 <pstyle:TECHNIQUE>undefined
 <pstyle:TECHNIQUE>45<0x2019>
-<pstyle:SYNOPSIS>«<0x00A0>Depuis toute petite, je croyais être prédestinée, et si cela est vrai, Richard Burton, assurément, était mon destin.<0x00A0>» Elizabeth Taylor
+<pstyle:SYNOPSIS>«<0x00A0>Depuis toute petite, je croyais être prédestinée, et si cela est vrai, Richard Burton, assurément, était mon destin.<0x00A0>» (Elizabeth Taylor)
 <pstyle:SYNOPSIS>Murielle Joudet est critique de cinéma au <ct:Italic>Monde<ct:> et aux <ct:Italic>Inrockuptibles,<ct:> elle participe à <ct:Italic>La Dispute<ct:> sur France Culture et anime une émission d<0x2019>entretiens sur le site Hors-série. Elle a publié un essai<0x00A0>: <ct:Italic>Isabelle Huppert<0x00A0>: Vivre ne nous regarde pas<ct:> (Capricci, 2018) et a contribué à l<0x2019>ouvrage <ct:Italic>Hitchcock, la totale<ct:> (E/P/A, 2019).
 <pstyle:><cstyle:INFOSBLEUES>me 06 maiXXX19h00XXX
 <cstyle:SALLESBLEUES>A

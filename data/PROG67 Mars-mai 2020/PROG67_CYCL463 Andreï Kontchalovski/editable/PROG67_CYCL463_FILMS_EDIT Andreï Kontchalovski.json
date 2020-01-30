@@ -307,6 +307,10 @@
       {
         "typeTexte": 9,
         "texte": "Superstitions, exaltations et mysticisme : exploration des pensées et des démons intérieurs de Michel-Ange, génie de la Renaissance."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Inédit en France."
       }
     ],
     "generique": [

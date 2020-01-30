@@ -36,9 +36,9 @@ Deux vieux paysans alcooliques, le Glaude et le Bombé, vivent retirés à la ca
 de Luigi Cozzi  
 Italie-Japon / 1976  
 Avec Caroline Munro, Christopher Plummer, Marjoe Gortner.  
-Avant-première de la restauration. Distribué par Splendor Film.
-
 Aux confins de l'univers, le maléfique comte Zarth Arn s'oppose à l'Empire et à son bienveillant empereur. Celui-ci confie à deux aventuriers, Stella Star et Akton, la dangereuse mission de localiser sa base secrète.
+
+Avant-première de la restauration. Distribué par Splendor Film.
 
 [143683]  
 **Thanatomorphose**  

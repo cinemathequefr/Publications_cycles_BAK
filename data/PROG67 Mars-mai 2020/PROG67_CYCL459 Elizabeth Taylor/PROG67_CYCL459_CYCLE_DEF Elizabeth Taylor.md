@@ -29,7 +29,7 @@ Stanley vit mal son rôle de futur grand-père, tandis que son épouse ne cache 
 **(Raintree County)**  
 d'Edward Dmytryk  
 États-Unis / 1956 / 160 min / VOSTF / 35 mm  
-D'après le roman _L'Arbree de vie_ de Ross Lockridge Jr.  
+D'après le roman _L'Arbre de vie_ de Ross Lockridge Jr.  
 Avec Elizabeth Taylor, Montgomery Clift, Lee Marvin, Eva Marie Saint.  
 Un jeune idéaliste fraîchement diplômé se rend dans le Sud à la recherche du mythique Arbre de vie. Il y rencontre Susanna, dont il tombe amoureux. Mais la guerre de Sécession éclate.
 
@@ -87,7 +87,7 @@ Laura Reynolds, peintre anticonformiste, vit sur la côte californienne avec son
 **(Cleopatra)**  
 de Joseph L. Mankiewicz  
 États-Unis / 1960 / 249 min / VOSTF / 70 mm  
-D'après l'œuvre _ The Life and Times of Cleopatra _ de Carlo Maria Franzero.  
+D'après l'œuvre _The Life and Times of Cleopatra_ de Carlo Maria Franzero.  
 Avec Elizabeth Taylor, Richard Burton, Rex Harrison.  
 Le destin et l'ascension de Cléopâtre, ses amours tumultueuses, avec Jules César, qui lui donne un fils et la hisse sur le trône d'Égypte, puis avec Marc Antoine.
 
@@ -348,7 +348,7 @@ de George Stevens
 États-Unis / 1949 / 122 min / VOSTF / DCP  
 D'après le roman _Une tragérie américaine_ de Theodore Dreiser.  
 Avec Montgomery Clift, Elizabeth Taylor, Shelley Winters.  
-Un jeune homme pauvre obtient de son oncle fortuné un emploi dans son usine. Il y rencontre une ouvrière avec laquelle il entretient une relation secrète. Il fait aussi la connaissance d'une jeune fille de la haute société dont il tombe amoureux. Une adaptation du roman de Theodor Dreiser paru en 1925 _An American Tragedy,_ après celle de J. von Sternberg en 1931.
+Un jeune homme pauvre obtient de son oncle fortuné un emploi dans son usine. Il y rencontre une ouvrière avec laquelle il entretient une relation secrète. Il fait aussi la connaissance d'une jeune fille de la haute société dont il tombe amoureux.
 
 - je 30 avr 19h30 HL  
 - sa 23 mai 21h45 HL
@@ -370,7 +370,7 @@ Gloria, la call-girl la plus élégante et la mieux payée de tout New York, tom
 **Film + Discussion avec Muriel Joudet**  
 undefined  
 45 min  
-« Depuis toute petite, je croyais être prédestinée, et si cela est vrai, Richard Burton, assurément, était mon destin. » Elizabeth Taylor  
+« Depuis toute petite, je croyais être prédestinée, et si cela est vrai, Richard Burton, assurément, était mon destin. » (Elizabeth Taylor)  
 Murielle Joudet est critique de cinéma au _Monde_ et aux _Inrockuptibles,_ elle participe à _La Dispute_ sur France Culture et anime une émission d'entretiens sur le site Hors-série. Elle a publié un essai : _Isabelle Huppert : Vivre ne nous regarde pas_ (Capricci, 2018) et a contribué à l'ouvrage _Hitchcock, la totale_ (E/P/A, 2019).
 
 - me 6 mai 19h00 HL

@@ -30,8 +30,8 @@ Séance présentée par Eric Falardeau
 de Luigi Cozzi  
 Italie-Japon / 1976 / 92 min / VOSTF / DCP  
 Avec Caroline Munro, Christopher Plummer, Marjoe Gortner.  
-Avant-première de la restauration. Distribué par Splendor Film.  
-Aux confins de l'univers, le maléfique comte Zarth Arn s'oppose à l'Empire et à son bienveillant empereur. Celui-ci confie à deux aventuriers, Stella Star et Akton, la dangereuse mission de localiser sa base secrète.
+Aux confins de l'univers, le maléfique comte Zarth Arn s'oppose à l'Empire et à son bienveillant empereur. Celui-ci confie à deux aventuriers, Stella Star et Akton, la dangereuse mission de localiser sa base secrète.  
+Avant-première de la restauration. Distribué par Splendor Film.
 
 - ve 20 mar 19h30 GF  
 Séance présentée par Luigi Cozzi
