@@ -81,7 +81,7 @@ Le shérif de Silver City et son adjoint essayent de neutraliser une bande armé
 
 [45130]  
 **L'Enfer est pour les héros**  
-**(Hell is for Heroes)**  
+**(Hell Is for Heroes)**  
 de Don Siegel  
 États-Unis / 1961  
 Avec Steve McQueen, James Coburn, Bobby Darin, Fess Parker.  
