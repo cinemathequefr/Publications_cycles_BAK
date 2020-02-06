@@ -15,12 +15,14 @@ Japon / 1994 / 119 min / VF / 35 mm
 **La Fameuse invasion des ours en Sicile**  
 **(La Famosa invasione degli orsi in Sicilia)**  
 de Lorenzo Mattotti  
-Italie-France / 2018  
+Italie-France / 2018 / 90 min / DCP  
 D'après le roman _La Fameuse invasion de la Sicile par les ours_ de Dino Buzzati.  
 [JP] A la recherche de son fils, le grand ours Léonce envahit la plaine où habitent les hommes. Avec l'aide de son armée et de son incroyable magicien, il parvient à retrouver son fils et devient Roi. Mais bien vite la cohabitation entre les animaux et les hommes se révèle difficile.  
 Séance en présence de l'équipe du film et en partenariat avec la Fondation GAN.
 
 - di 15 mar 15h00 HL
+
+### Marie Bobine : Les Quatre saisons : Le Printemps
 
 [105939]  
 **To Spring**  
@@ -60,40 +62,49 @@ Avec Charles Chaplin, Mack Swain, Tom Murray.
 
 - [6 ans] me 25 mar 15h00 HL
 
+### Séance à remonter le temps
+
 [76899]  
 **Ella Cinders**  
 d'Alfred E. Green  
-États-Unis / 1926  
+États-Unis / 1926 / 60 min / VO  
 D'après la bande dessinée _Ella Cinders_ de Charles Plumb et Bill Conselman.  
 suivi de  
 [128519]  
 **Le Petit chaperon rouge**  
 **(Red Hot Riding Hood)**  
 de Tex Avery  
-États-Unis / 1943
+États-Unis / 1943 / 7 min
 
 - di 29 mar 15h00 GF
 
-[36411]  
-**Charlot fait une cure**  
-**(The Cure)**  
-de Charles Chaplin  
-États-Unis / 1917  
-Avec Charles Chaplin, Edna Purviance.  
-[JP] Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien.  
-suivi de  
-[66592]  
-**Madame Babylas aime les animaux**  
-d'Alfred Machin  
-France / 1911  
-[JP] Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien.  
-suivi de  
+### Programme de courts métrages : Burlesques !
+
 [89961]  
 **Bricolo inventeur**  
 **(Many a Slip)**  
 de Charles R. Bowers, Harold L. Muller  
-États-Unis / 1927  
-[JP] Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien.
+États-Unis / 1927 / 11 min / INT. FR.  
+[JP] Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien.  
+suivi de  
+[44652]  
+**Léontine garde la maison**  
+de Roméo Bosetti  
+France / 1912  
+suivi de  
+[60581]  
+**Charlot danseur**  
+**(Tango Tangles)**  
+de Mack Sennett  
+États-Unis / 1914 / 10 min  
+Avec Charles Chaplin, Ford Sterling.  
+suivi de  
+[86285]  
+**Laurel et Hardy constructeurs**  
+**(The Finishing Touch)**  
+de Clyde Bruckman  
+États-Unis / 1928  
+Avec Stan Laurel, Oliver Hardy, Edgar Kennedy.
 
 - [6 ans] me 1 avr 15h00 GF
 
@@ -147,17 +158,18 @@ Film accessible aux enfants
 Projection suivie d'une discussion avec Danièle Thompson, réalisatrice, fille et scénariste de Gérard Oury.
 
 - lu 6 avr 15h30 HL  
-- di 12 avr 14h30 HL
+- di 12 avr 14h30 HL  
+Séance suivie d'une discussion avec Danièle Thompson
 
-[33623]  
-**Docteur Jerry et Mister Love**  
-**(The Nutty Professor)**  
-de Jerry Lewis  
-États-Unis / 1962 / 118 min / VOSTF / DCP  
-Avec Jerry Lewis, Stella Stevens.  
-[JP] Julius invente un breuvage magique qui lui permet de se transformer, momentanément, en un irrésistible bellâtre, et peut-être séduire Stella. Louis de Funès et Jerry Lewis se vouaient une admiration réciproque. C'est le comique américain qui remis à De Funès son César d'honneur en 1980.
+[41287]  
+**Laurel et Hardy au Far West**  
+**(Way Out West)**  
+de James W. Horne  
+États-Unis / 1936 / 64 min / VF / DCP  
+Avec Stan Laurel, Oliver Hardy, James Finlayson.  
+[JP] Laurel et Hardy sont chargés d'informer une jeune fille pauvre qu'elle vient d'hériter d'une mine d'or se trompent de destinataire. Il va falloir tout remettre en ordre ! Parodie de western où l'on peut admirer les talents de danseurs de ce duo de comédiens vénérés par Louis de Funès.
 
-- [9 ans] me 8 avr 15h00 HL
+- me 8 avr 15h00 HL
 
 [52146]  
 **L'Homme orchestre**  
@@ -233,15 +245,15 @@ Au cours d'un dîner au « Grand restaurant », un chef d'Etat sud-américain di
 
 - di 3 mai 15h00 HL
 
-[41287]  
-**Laurel et Hardy au Far West**  
-**(Way Out West)**  
-de James W. Horne  
-États-Unis / 1936 / 64 min / VF / DCP  
-Avec Stan Laurel, Oliver Hardy, James Finlayson.  
-[JP] Laurel et Hardy sont chargés d'informer une jeune fille pauvre qu'elle vient d'hériter d'une mine d'or se trompent de destinataire. Il va falloir tout remettre en ordre ! Parodie de western où l'on peut admirer les talents de danseurs de ce duo de comédiens vénérés par Louis de Funès.
+[33623]  
+**Docteur Jerry et Mister Love**  
+**(The Nutty Professor)**  
+de Jerry Lewis  
+États-Unis / 1962 / 118 min / VOSTF / DCP  
+Avec Jerry Lewis, Stella Stevens.  
+[JP] Julius invente un breuvage magique qui lui permet de se transformer, momentanément, en un irrésistible bellâtre, et peut-être séduire Stella. Louis de Funès et Jerry Lewis se vouaient une admiration réciproque. C'est le comique américain qui remis à De Funès son César d'honneur en 1980.
 
-- me 6 mai 15h00 HL
+- [9 ans] me 6 mai 15h00 HL
 
 [49173]  
 **Fantômas**  

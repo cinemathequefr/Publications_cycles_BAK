@@ -6,7 +6,7 @@
       "items": [
         {
           "idSeance": 33256,
-          "ordre": 3,
+          "ordre": 1,
           "dateHeure": "2020-04-01T15:00:00",
           "idSalle": [
             "GF",
@@ -15,12 +15,16 @@
           "idCategorie": 2212,
           "idEvenement": 22063,
           "typeEvenement": 13,
+          "titreEvenement": "Programme de courts métrages : Burlesques !",
           "idFilm": 89961,
           "titre": "Bricolo inventeur",
           "titreVo": "Many a Slip",
           "realisateurs": "Charles R. Bowers, Harold L. Muller",
           "annee": 1927,
           "pays": "États-Unis",
+          "duree": 11,
+          "version": "INT. FR.",
+          "format": "",
           "ageMinimal": null,
           "textes": [
             {
@@ -40,6 +44,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 130994,
           "titre": "Champ fleur",
           "titreVo": "",
@@ -65,6 +70,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 130994,
           "titre": "Champ fleur",
           "titreVo": "",
@@ -90,6 +96,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 130994,
           "titre": "Champ fleur",
           "titreVo": "",
@@ -106,7 +113,7 @@
         },
         {
           "idSeance": 33256,
-          "ordre": 1,
+          "ordre": 3,
           "dateHeure": "2020-04-01T15:00:00",
           "idSalle": [
             "GF",
@@ -115,24 +122,22 @@
           "idCategorie": 2212,
           "idEvenement": 22063,
           "typeEvenement": 13,
-          "idFilm": 36411,
-          "titre": "Charlot fait une cure",
-          "artVo": "The",
-          "titreVo": "Cure",
-          "realisateurs": "Charles Chaplin",
-          "annee": 1917,
+          "titreEvenement": "Programme de courts métrages : Burlesques !",
+          "idFilm": 60581,
+          "titre": "Charlot danseur",
+          "titreVo": "Tango Tangles",
+          "realisateurs": "Mack Sennett",
+          "annee": 1914,
           "pays": "États-Unis",
+          "duree": 10,
+          "version": "",
+          "format": "",
           "ageMinimal": 6,
           "generique": [
             "Charles Chaplin",
-            "Edna Purviance"
+            "Ford Sterling"
           ],
-          "textes": [
-            {
-              "typeTexte": 203,
-              "texte": "Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien."
-            }
-          ]
+          "textes": []
         },
         {
           "idSeance": 33294,
@@ -189,6 +194,7 @@
             "HL",
             "Henri Langlois"
           ],
+          "mention": "Séance suivie d'une discussion avec Danièle Thompson",
           "idCategorie": 2212,
           "idEvenement": 20553,
           "typeEvenement": 13,
@@ -228,15 +234,15 @@
           ]
         },
         {
-          "idSeance": 33299,
+          "idSeance": 33471,
           "ordre": 1,
-          "dateHeure": "2020-04-08T15:00:00",
+          "dateHeure": "2020-05-06T15:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "idCategorie": 2212,
-          "idEvenement": 22030,
+          "idEvenement": 22075,
           "typeEvenement": 13,
           "idFilm": 33623,
           "titre": "Docteur Jerry et Mister Love",
@@ -271,12 +277,16 @@
           "idCategorie": 2212,
           "idEvenement": 22062,
           "typeEvenement": 13,
+          "titreEvenement": "Séance à remonter le temps",
           "idFilm": 76899,
           "titre": "Ella Cinders",
           "titreVo": "",
           "realisateurs": "Alfred E. Green",
           "annee": 1926,
           "pays": "États-Unis",
+          "duree": 60,
+          "version": "VO",
+          "format": "",
           "ageMinimal": null,
           "adaptation": "D'après la bande dessinée _Ella Cinders_ de Charles Plumb et Bill Conselman.",
           "textes": []
@@ -300,6 +310,9 @@
           "realisateurs": "Lorenzo Mattotti",
           "annee": 2018,
           "pays": "Italie-France",
+          "duree": 90,
+          "version": "",
+          "format": "DCP",
           "ageMinimal": null,
           "adaptation": "D'après le roman _La Fameuse invasion de la Sicile par les ours_ de Dino Buzzati.",
           "textes": [
@@ -768,15 +781,15 @@
           ]
         },
         {
-          "idSeance": 33471,
+          "idSeance": 33299,
           "ordre": 1,
-          "dateHeure": "2020-05-06T15:00:00",
+          "dateHeure": "2020-04-08T15:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
           "idCategorie": 2212,
-          "idEvenement": 22075,
+          "idEvenement": 22030,
           "typeEvenement": 13,
           "idFilm": 41287,
           "titre": "Laurel et Hardy au Far West",
@@ -802,6 +815,33 @@
         },
         {
           "idSeance": 33256,
+          "ordre": 4,
+          "dateHeure": "2020-04-01T15:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2212,
+          "idEvenement": 22063,
+          "typeEvenement": 13,
+          "titreEvenement": "Programme de courts métrages : Burlesques !",
+          "idFilm": 86285,
+          "titre": "Laurel et Hardy constructeurs",
+          "artVo": "The",
+          "titreVo": "Finishing Touch",
+          "realisateurs": "Clyde Bruckman",
+          "annee": 1928,
+          "pays": "États-Unis",
+          "ageMinimal": null,
+          "generique": [
+            "Stan Laurel",
+            "Oliver Hardy",
+            "Edgar Kennedy"
+          ],
+          "textes": []
+        },
+        {
+          "idSeance": 33256,
           "ordre": 2,
           "dateHeure": "2020-04-01T15:00:00",
           "idSalle": [
@@ -811,19 +851,15 @@
           "idCategorie": 2212,
           "idEvenement": 22063,
           "typeEvenement": 13,
-          "idFilm": 66592,
-          "titre": "Madame Babylas aime les animaux",
+          "titreEvenement": "Programme de courts métrages : Burlesques !",
+          "idFilm": 44652,
+          "titre": "Léontine garde la maison",
           "titreVo": "",
-          "realisateurs": "Alfred Machin",
-          "annee": 1911,
+          "realisateurs": "Roméo Bosetti",
+          "annee": 1912,
           "pays": "France",
           "ageMinimal": null,
-          "textes": [
-            {
-              "typeTexte": 203,
-              "texte": "Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien."
-            }
-          ]
+          "textes": []
         },
         {
           "idSeance": 33342,
@@ -908,6 +944,7 @@
           "idCategorie": 2212,
           "idEvenement": 22062,
           "typeEvenement": 13,
+          "titreEvenement": "Séance à remonter le temps",
           "idFilm": 128519,
           "art": "Le",
           "titre": "Petit chaperon rouge",
@@ -915,6 +952,9 @@
           "realisateurs": "Tex Avery",
           "annee": 1943,
           "pays": "États-Unis",
+          "duree": 7,
+          "version": "",
+          "format": "",
           "ageMinimal": null,
           "textes": []
         },
@@ -1033,6 +1073,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 104501,
           "art": "Les",
           "titre": "Roses magiques",
@@ -1059,6 +1100,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 104501,
           "art": "Les",
           "titre": "Roses magiques",
@@ -1085,6 +1127,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 104501,
           "art": "Les",
           "titre": "Roses magiques",
@@ -1253,6 +1296,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 105939,
           "titre": "To Spring",
           "titreVo": "",
@@ -1278,6 +1322,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 105939,
           "titre": "To Spring",
           "titreVo": "",
@@ -1303,6 +1348,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 105939,
           "titre": "To Spring",
           "titreVo": "",
@@ -1366,6 +1412,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 121457,
           "titre": "Épanouissement de quelques fleurs",
           "titreVo": "",
@@ -1391,6 +1438,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 121457,
           "titre": "Épanouissement de quelques fleurs",
           "titreVo": "",
@@ -1416,6 +1464,7 @@
           "idCategorie": 2212,
           "idEvenement": 22068,
           "typeEvenement": 13,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "idFilm": 121457,
           "titre": "Épanouissement de quelques fleurs",
           "titreVo": "",

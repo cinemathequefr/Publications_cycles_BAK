@@ -1,35 +1,5 @@
 [
   {
-    "titre": "Charlot danseur",
-    "titreVo": "Tango Tangles",
-    "idFilm": 60581,
-    "ageMinimal": 6,
-    "realisateurs": "Mack Sennett",
-    "annee": 1914,
-    "pays": "États-Unis",
-    "generique": ["Charles Chaplin", "Ford Sterling"]
-  },
-  {
-    "titre": "Laurel et Hardy constructeurs",
-    "titreVo": "Finishing Touch",
-    "artVo": "The",
-    "idFilm": 86285,
-    "ageMinimal": null,
-    "realisateurs": "Clyde Bruckman",
-    "annee": 1928,
-    "pays": "États-Unis",
-    "generique": ["Stan Laurel", "Oliver Hardy", "Edgar Kennedy"]
-  },
-  {
-    "titre": "Léontine garde la maison",
-    "titreVo": "",
-    "idFilm": 44652,
-    "ageMinimal": null,
-    "realisateurs": "Roméo Bosetti",
-    "annee": 1912,
-    "pays": "France"
-  },
-  {
     "titre": "Bricolo inventeur",
     "titreVo": "Many a Slip",
     "idFilm": 89961,

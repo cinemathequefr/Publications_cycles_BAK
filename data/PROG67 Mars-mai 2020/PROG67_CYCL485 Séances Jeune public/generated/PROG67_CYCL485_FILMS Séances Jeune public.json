@@ -1,5 +1,21 @@
 [
   {
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien."
+      }
+    ]
+  },
+  {
+    "textes": [
+      {
+        "typeTexte": 203,
+        "texte": "Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien."
+      }
+    ]
+  },
+  {
     "titre": "Bricolo inventeur",
     "titreVo": "Many a Slip",
     "idFilm": 89961,
@@ -30,23 +46,16 @@
     ]
   },
   {
-    "titre": "Charlot fait une cure = La cure",
-    "titreVo": "Cure",
-    "artVo": "The",
-    "idFilm": 36411,
+    "titre": "Charlot danseur",
+    "titreVo": "Tango Tangles",
+    "idFilm": 60581,
     "ageMinimal": 6,
-    "realisateurs": "Charles Chaplin",
-    "annee": 1917,
+    "realisateurs": "Mack Sennett",
+    "annee": 1914,
     "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 203,
-        "texte": "Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien."
-      }
-    ],
     "generique": [
       "Charles Chaplin",
-      "Edna Purviance"
+      "Ford Sterling"
     ]
   },
   {
@@ -54,7 +63,7 @@
     "art": "Le",
     "titreVo": "",
     "idFilm": 56672,
-    "ageMinimal": null,
+    "ageMinimal": 8,
     "realisateurs": "Gérard Oury",
     "annee": 1964,
     "pays": "France-Italie",
@@ -87,7 +96,7 @@
     "titreVo": "Nutty Professor",
     "artVo": "The",
     "idFilm": 33623,
-    "ageMinimal": 9,
+    "ageMinimal": 8,
     "realisateurs": "Jerry Lewis",
     "annee": 1962,
     "pays": "États-Unis",
@@ -133,7 +142,7 @@
     "titreVo": "Famosa invasione degli orsi in Sicilia",
     "artVo": "La",
     "idFilm": 142925,
-    "ageMinimal": null,
+    "ageMinimal": 3,
     "realisateurs": "Lorenzo Mattotti",
     "annee": 2018,
     "pays": "Italie-France",
@@ -153,7 +162,7 @@
     "titre": "Fantômas",
     "titreVo": "",
     "idFilm": 49173,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "André Hunebelle",
     "annee": 1964,
     "pays": "France",
@@ -178,7 +187,7 @@
     "art": "La",
     "titreVo": "",
     "idFilm": 50400,
-    "ageMinimal": null,
+    "ageMinimal": 8,
     "realisateurs": "Gérard Oury",
     "annee": 1971,
     "pays": "France-Espagne-Italie-RFA",
@@ -207,7 +216,7 @@
     "art": "Le",
     "titreVo": "",
     "idFilm": 51911,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Jacques Besnard",
     "annee": 1966,
     "pays": "France",
@@ -231,7 +240,7 @@
     "art": "La",
     "titreVo": "",
     "idFilm": 50401,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Gérard Oury",
     "annee": 1966,
     "pays": "France-Grande-Bretagne",
@@ -255,7 +264,7 @@
     "art": "Les",
     "titreVo": "",
     "idFilm": 52112,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Jean Girault",
     "annee": 1967,
     "pays": "France-Italie",
@@ -280,7 +289,7 @@
     "art": "L'",
     "titreVo": "",
     "idFilm": 52146,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Serge Korber",
     "annee": 1969,
     "pays": "France-Italie",
@@ -308,7 +317,7 @@
     "titre": "Laurel et Hardy au Far West",
     "titreVo": "Way out West",
     "idFilm": 41287,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "James W. Horne",
     "annee": 1936,
     "pays": "États-Unis",
@@ -325,26 +334,35 @@
     ]
   },
   {
-    "titre": "Madame Babylas aime les animaux",
-    "titreVo": "",
-    "idFilm": 66592,
+    "titre": "Laurel et Hardy constructeurs",
+    "titreVo": "Finishing Touch",
+    "artVo": "The",
+    "idFilm": 86285,
     "ageMinimal": null,
-    "realisateurs": "Alfred Machin",
-    "annee": 1911,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 203,
-        "texte": "Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien."
-      }
+    "realisateurs": "Clyde Bruckman",
+    "annee": 1928,
+    "pays": "États-Unis",
+    "generique": [
+      "Stan Laurel",
+      "Oliver Hardy",
+      "Edgar Kennedy"
     ]
+  },
+  {
+    "titre": "Léontine garde la maison",
+    "titreVo": "",
+    "idFilm": 44652,
+    "ageMinimal": null,
+    "realisateurs": "Roméo Bosetti",
+    "annee": 1912,
+    "pays": "France"
   },
   {
     "titre": "Mask",
     "art": "The",
     "titreVo": "",
     "idFilm": 59920,
-    "ageMinimal": null,
+    "ageMinimal": 8,
     "realisateurs": "Charles Russell",
     "annee": 1993,
     "pays": "États-Unis",
@@ -360,7 +378,7 @@
     "art": "Le",
     "titreVo": "",
     "idFilm": 56162,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Robert Dhéry",
     "annee": 1967,
     "pays": "France-Italie",
@@ -385,7 +403,7 @@
     "art": "Le",
     "titreVo": "Red Hot Riding Hood",
     "idFilm": 128519,
-    "ageMinimal": null,
+    "ageMinimal": 8,
     "realisateurs": "Tex Avery",
     "annee": 1943,
     "pays": "États-Unis"
@@ -409,7 +427,7 @@
     "titre": "Pouic-Pouic",
     "titreVo": "",
     "idFilm": 48639,
-    "ageMinimal": null,
+    "ageMinimal": 8,
     "realisateurs": "Jean Girault",
     "annee": 1963,
     "pays": "France",
@@ -492,7 +510,7 @@
     "titre": "Taxi, roulotte et corrida",
     "titreVo": "",
     "idFilm": 49268,
-    "ageMinimal": null,
+    "ageMinimal": 8,
     "realisateurs": "André Hunebelle",
     "annee": 1958,
     "pays": "France",
@@ -532,7 +550,7 @@
     "art": "La",
     "titreVo": "",
     "idFilm": 57113,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Claude Zidi",
     "annee": 1977,
     "pays": "France",

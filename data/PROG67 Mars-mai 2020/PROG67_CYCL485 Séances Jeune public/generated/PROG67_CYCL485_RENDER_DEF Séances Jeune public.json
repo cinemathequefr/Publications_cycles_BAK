@@ -83,6 +83,9 @@
                 }
               ],
               "adaptation": "D'après le roman _La Fameuse invasion de la Sicile par les ours_ de Dino Buzzati.",
+              "duree": 90,
+              "format": "DCP",
+              "version": "",
               "ageMinimal": null,
               "ordre": 1
             }
@@ -100,6 +103,7 @@
         {
           "idCategorie": 2212,
           "idEvenement": 22068,
+          "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
           "films": [
             {
               "idFilm": 105939,
@@ -235,6 +239,7 @@
         {
           "idCategorie": 2212,
           "idEvenement": 22062,
+          "titreEvenement": "Séance à remonter le temps",
           "films": [
             {
               "idFilm": 76899,
@@ -245,6 +250,9 @@
               "pays": "États-Unis",
               "textes": [],
               "adaptation": "D'après la bande dessinée _Ella Cinders_ de Charles Plumb et Bill Conselman.",
+              "duree": 60,
+              "format": "",
+              "version": "VO",
               "ageMinimal": null,
               "ordre": 1
             },
@@ -257,6 +265,9 @@
               "annee": 1943,
               "pays": "États-Unis",
               "textes": [],
+              "duree": 7,
+              "format": "",
+              "version": "",
               "ageMinimal": null,
               "ordre": 2
             }
@@ -274,44 +285,8 @@
         {
           "idCategorie": 2212,
           "idEvenement": 22063,
+          "titreEvenement": "Programme de courts métrages : Burlesques !",
           "films": [
-            {
-              "idFilm": 36411,
-              "titre": "Charlot fait une cure",
-              "titreVo": "Cure",
-              "artVo": "The",
-              "realisateurs": "Charles Chaplin",
-              "annee": 1917,
-              "pays": "États-Unis",
-              "textes": [
-                {
-                  "typeTexte": 203,
-                  "texte": "Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien."
-                }
-              ],
-              "generique": [
-                "Charles Chaplin",
-                "Edna Purviance"
-              ],
-              "ageMinimal": 6,
-              "ordre": 1
-            },
-            {
-              "idFilm": 66592,
-              "titre": "Madame Babylas aime les animaux",
-              "titreVo": "",
-              "realisateurs": "Alfred Machin",
-              "annee": 1911,
-              "pays": "France",
-              "textes": [
-                {
-                  "typeTexte": 203,
-                  "texte": "Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien."
-                }
-              ],
-              "ageMinimal": null,
-              "ordre": 2
-            },
             {
               "idFilm": 89961,
               "titre": "Bricolo inventeur",
@@ -325,8 +300,57 @@
                   "texte": "Vous connaissez Charlot, Laurel et Hardy mais peut-être moins Frigo, Bricolo, Léontine ou Mabel ? En attendant Louis de Funès, une séance pour découvrir certains des personnages burlesques muets qui ont tant inspiré le comédien."
                 }
               ],
+              "duree": 11,
+              "format": "",
+              "version": "INT. FR.",
               "ageMinimal": null,
+              "ordre": 1
+            },
+            {
+              "idFilm": 44652,
+              "titre": "Léontine garde la maison",
+              "titreVo": "",
+              "realisateurs": "Roméo Bosetti",
+              "annee": 1912,
+              "pays": "France",
+              "textes": [],
+              "ageMinimal": null,
+              "ordre": 2
+            },
+            {
+              "idFilm": 60581,
+              "titre": "Charlot danseur",
+              "titreVo": "Tango Tangles",
+              "realisateurs": "Mack Sennett",
+              "annee": 1914,
+              "pays": "États-Unis",
+              "textes": [],
+              "generique": [
+                "Charles Chaplin",
+                "Ford Sterling"
+              ],
+              "duree": 10,
+              "format": "",
+              "version": "",
+              "ageMinimal": 6,
               "ordre": 3
+            },
+            {
+              "idFilm": 86285,
+              "titre": "Laurel et Hardy constructeurs",
+              "titreVo": "Finishing Touch",
+              "artVo": "The",
+              "realisateurs": "Clyde Bruckman",
+              "annee": 1928,
+              "pays": "États-Unis",
+              "textes": [],
+              "generique": [
+                "Stan Laurel",
+                "Oliver Hardy",
+                "Edgar Kennedy"
+              ],
+              "ageMinimal": null,
+              "ordre": 4
             }
           ],
           "seance": [
@@ -565,7 +589,8 @@
               "idSalle": [
                 "HL",
                 "Henri Langlois"
-              ]
+              ],
+              "mention": "Séance suivie d'une discussion avec Danièle Thompson"
             }
           ]
         },
@@ -574,27 +599,27 @@
           "idEvenement": 22030,
           "films": [
             {
-              "idFilm": 33623,
-              "titre": "Docteur Jerry et Mister Love",
-              "titreVo": "Nutty Professor",
-              "artVo": "The",
-              "realisateurs": "Jerry Lewis",
-              "annee": 1962,
+              "idFilm": 41287,
+              "titre": "Laurel et Hardy au Far West",
+              "titreVo": "Way Out West",
+              "realisateurs": "James W. Horne",
+              "annee": 1936,
               "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
-                  "texte": "Julius invente un breuvage magique qui lui permet de se transformer, momentanément, en un irrésistible bellâtre, et peut-être séduire Stella. Louis de Funès et Jerry Lewis se vouaient une admiration réciproque. C'est le comique américain qui remis à De Funès son César d'honneur en 1980."
+                  "texte": "Laurel et Hardy sont chargés d'informer une jeune fille pauvre qu'elle vient d'hériter d'une mine d'or se trompent de destinataire. Il va falloir tout remettre en ordre ! Parodie de western où l'on peut admirer les talents de danseurs de ce duo de comédiens vénérés par Louis de Funès."
                 }
               ],
               "generique": [
-                "Jerry Lewis",
-                "Stella Stevens"
+                "Stan Laurel",
+                "Oliver Hardy",
+                "James Finlayson"
               ],
-              "duree": 118,
+              "duree": 64,
               "format": "DCP",
-              "version": "VOSTF",
-              "ageMinimal": 9,
+              "version": "VF",
+              "ageMinimal": null,
               "ordre": 1
             }
           ],
@@ -942,27 +967,27 @@
           "idEvenement": 22075,
           "films": [
             {
-              "idFilm": 41287,
-              "titre": "Laurel et Hardy au Far West",
-              "titreVo": "Way Out West",
-              "realisateurs": "James W. Horne",
-              "annee": 1936,
+              "idFilm": 33623,
+              "titre": "Docteur Jerry et Mister Love",
+              "titreVo": "Nutty Professor",
+              "artVo": "The",
+              "realisateurs": "Jerry Lewis",
+              "annee": 1962,
               "pays": "États-Unis",
               "textes": [
                 {
                   "typeTexte": 203,
-                  "texte": "Laurel et Hardy sont chargés d'informer une jeune fille pauvre qu'elle vient d'hériter d'une mine d'or se trompent de destinataire. Il va falloir tout remettre en ordre ! Parodie de western où l'on peut admirer les talents de danseurs de ce duo de comédiens vénérés par Louis de Funès."
+                  "texte": "Julius invente un breuvage magique qui lui permet de se transformer, momentanément, en un irrésistible bellâtre, et peut-être séduire Stella. Louis de Funès et Jerry Lewis se vouaient une admiration réciproque. C'est le comique américain qui remis à De Funès son César d'honneur en 1980."
                 }
               ],
               "generique": [
-                "Stan Laurel",
-                "Oliver Hardy",
-                "James Finlayson"
+                "Jerry Lewis",
+                "Stella Stevens"
               ],
-              "duree": 64,
+              "duree": 118,
               "format": "DCP",
-              "version": "VF",
-              "ageMinimal": null,
+              "version": "VOSTF",
+              "ageMinimal": 9,
               "ordre": 1
             }
           ],

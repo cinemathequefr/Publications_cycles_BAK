@@ -1,6 +1,7 @@
 [
   {
     "idSeance": "33124",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-03-09T19:00:00",
     "idSalle": [
       "GF",
@@ -51,6 +52,7 @@
   },
   {
     "idSeance": "33126",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-03-09T21:15:00",
     "idSalle": [
       "GF",
@@ -67,6 +69,7 @@
   },
   {
     "idSeance": "33127",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-03-11T15:00:00",
     "idSalle": [
       "HL",
@@ -83,6 +86,7 @@
   },
   {
     "idSeance": "33128",
+    "cycle": "Cinéma français des années 1950",
     "dateHeure": "2020-03-11T16:30:00",
     "idSalle": [
       "GF",
@@ -99,6 +103,7 @@
   },
   {
     "idSeance": "33132",
+    "cycle": "Philip Kaufman",
     "dateHeure": "2020-03-11T19:00:00",
     "idSalle": [
       "GF",
@@ -115,6 +120,7 @@
   },
   {
     "idSeance": "33642",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-11T20:00:00",
     "idSalle": [
       "HL",
@@ -138,6 +144,7 @@
   },
   {
     "idSeance": "33854",
+    "cycle": "Cinéma français des années 1950",
     "dateHeure": "2020-03-11T20:30:00",
     "idSalle": [
       "JE",
@@ -155,6 +162,7 @@
   },
   {
     "idSeance": "33133",
+    "cycle": "Philip Kaufman",
     "dateHeure": "2020-03-11T21:30:00",
     "idSalle": [
       "GF",
@@ -171,6 +179,7 @@
   },
   {
     "idSeance": "33684",
+    "cycle": "Philip Kaufman",
     "dateHeure": "2020-03-12T19:00:00",
     "idSalle": [
       "HL",
@@ -188,6 +197,7 @@
   },
   {
     "idSeance": "33643",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-12T19:30:00",
     "idSalle": [
       "GF",
@@ -205,6 +215,7 @@
   },
   {
     "idSeance": "33140",
+    "cycle": "Cinéma français des années 1950",
     "dateHeure": "2020-03-12T20:30:00",
     "idSalle": [
       "JE",
@@ -221,6 +232,7 @@
   },
   {
     "idSeance": "33685",
+    "cycle": "Philip Kaufman",
     "dateHeure": "2020-03-12T21:00:00",
     "idSalle": [
       "HL",
@@ -238,6 +250,7 @@
   },
   {
     "idSeance": "33826",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-12T21:30:00",
     "idSalle": [
       "GF",
@@ -260,6 +273,7 @@
   },
   {
     "idSeance": "33700",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-13T16:30:00",
     "idSalle": [
       "GF",
@@ -289,6 +303,7 @@
   },
   {
     "idSeance": "33143",
+    "cycle": "Philip Kaufman",
     "dateHeure": "2020-03-13T17:00:00",
     "idSalle": [
       "HL",
@@ -306,6 +321,7 @@
   },
   {
     "idSeance": "33821",
+    "cycle": "Cinéma d'avant-garde",
     "dateHeure": "2020-03-13T19:00:00",
     "idSalle": [
       "GF",
@@ -328,6 +344,7 @@
   },
   {
     "idSeance": "33823",
+    "cycle": "Fenêtre sur les collections",
     "dateHeure": "2020-03-13T19:00:00",
     "idSalle": [
       "JE",
@@ -351,6 +368,7 @@
   },
   {
     "idSeance": "33692",
+    "cycle": "Cinéma bis",
     "dateHeure": "2020-03-13T20:00:00",
     "idSalle": [
       "HL",
@@ -367,6 +385,7 @@
   },
   {
     "idSeance": "33822",
+    "cycle": "Cinéma d'avant-garde",
     "dateHeure": "2020-03-13T21:30:00",
     "idSalle": [
       "GF",
@@ -383,6 +402,7 @@
   },
   {
     "idSeance": "33824",
+    "cycle": "Fenêtre sur les collections",
     "dateHeure": "2020-03-13T21:30:00",
     "idSalle": [
       "JE",
@@ -433,6 +453,7 @@
   },
   {
     "idSeance": "33899",
+    "cycle": "Cinéma bis",
     "dateHeure": "2020-03-13T22:00:00",
     "idSalle": [
       "HL",
@@ -449,6 +470,7 @@
   },
   {
     "idSeance": "33636",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-14T14:30:00",
     "idSalle": [
       "GF",
@@ -472,6 +494,7 @@
   },
   {
     "idSeance": "33636",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-14T14:30:00",
     "idSalle": [
       "GF",
@@ -485,6 +508,7 @@
   },
   {
     "idSeance": "33694",
+    "cycle": "Philip Kaufman",
     "dateHeure": "2020-03-14T15:30:00",
     "idSalle": [
       "HL",
@@ -502,6 +526,7 @@
   },
   {
     "idSeance": "33695",
+    "cycle": "Philip Kaufman",
     "dateHeure": "2020-03-14T18:00:00",
     "idSalle": [
       "HL",
@@ -518,6 +543,7 @@
   },
   {
     "idSeance": "33816",
+    "cycle": "Séances spéciales",
     "dateHeure": "2020-03-14T18:30:00",
     "idSalle": [
       "JE",
@@ -556,6 +582,7 @@
   },
   {
     "idSeance": "33154",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-14T19:30:00",
     "idSalle": [
       "GF",
@@ -579,6 +606,7 @@
   },
   {
     "idSeance": "33696",
+    "cycle": "Philip Kaufman",
     "dateHeure": "2020-03-14T21:00:00",
     "idSalle": [
       "HL",
@@ -595,6 +623,7 @@
   },
   {
     "idSeance": "33155",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-14T21:45:00",
     "idSalle": [
       "GF",
@@ -619,6 +648,7 @@
   },
   {
     "idSeance": "33825",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-15T14:30:00",
     "idSalle": [
       "JE",
@@ -635,6 +665,7 @@
   },
   {
     "idSeance": "33699",
+    "cycle": "Philip Kaufman",
     "dateHeure": "2020-03-15T14:30:00",
     "idSalle": [
       "GF",
@@ -651,6 +682,7 @@
   },
   {
     "idSeance": "33162",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-03-15T15:00:00",
     "idSalle": [
       "HL",
@@ -668,6 +700,7 @@
   },
   {
     "idSeance": "33697",
+    "cycle": "Philip Kaufman",
     "dateHeure": "2020-03-15T17:30:00",
     "idSalle": [
       "HL",
@@ -684,6 +717,7 @@
   },
   {
     "idSeance": "33653",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-15T18:00:00",
     "idSalle": [
       "GF",
@@ -700,6 +734,7 @@
   },
   {
     "idSeance": "33654",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-15T20:00:00",
     "idSalle": [
       "GF",
@@ -716,6 +751,7 @@
   },
   {
     "idSeance": "33897",
+    "cycle": "Philip Kaufman",
     "dateHeure": "2020-03-15T20:30:00",
     "idSalle": [
       "HL",
@@ -732,6 +768,7 @@
   },
   {
     "idSeance": "33212",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-03-16T19:00:00",
     "idSalle": [
       "GF",
@@ -760,6 +797,7 @@
   },
   {
     "idSeance": "33163",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-16T19:00:00",
     "idSalle": [
       "JE",
@@ -783,6 +821,7 @@
   },
   {
     "idSeance": "33833",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-03-16T21:00:00",
     "idSalle": [
       "GF",
@@ -800,6 +839,7 @@
   },
   {
     "idSeance": "33164",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-16T21:15:00",
     "idSalle": [
       "JE",
@@ -822,6 +862,7 @@
   },
   {
     "idSeance": "33601",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-17T20:00:00",
     "idSalle": [
       "HL",
@@ -839,6 +880,7 @@
   },
   {
     "idSeance": "33902",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-03-18T15:00:00",
     "idSalle": [
       "GF",
@@ -874,6 +916,7 @@
   },
   {
     "idSeance": "33970",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-18T19:00:00",
     "idSalle": [
       "HL",
@@ -890,6 +933,7 @@
   },
   {
     "idSeance": "33970",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-18T19:00:00",
     "idSalle": [
       "HL",
@@ -903,6 +947,7 @@
   },
   {
     "idSeance": "33175",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-18T19:30:00",
     "idSalle": [
       "GF",
@@ -927,6 +972,7 @@
   },
   {
     "idSeance": "33177",
+    "cycle": "Cinéma français des années 1950",
     "dateHeure": "2020-03-18T20:30:00",
     "idSalle": [
       "JE",
@@ -943,6 +989,7 @@
   },
   {
     "idSeance": "33888",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-18T21:45:00",
     "idSalle": [
       "GF",
@@ -959,6 +1006,7 @@
   },
   {
     "idSeance": "33180",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-19T16:30:00",
     "idSalle": [
       "HL",
@@ -975,6 +1023,7 @@
   },
   {
     "idSeance": "33925",
+    "cycle": "Archi Vives",
     "dateHeure": "2020-03-19T17:30:00",
     "idSalle": [
       "JE",
@@ -988,6 +1037,7 @@
   },
   {
     "idSeance": "33184",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-19T19:00:00",
     "idSalle": [
       "GF",
@@ -1001,6 +1051,7 @@
   },
   {
     "idSeance": "33924",
+    "cycle": "Archi Vives",
     "dateHeure": "2020-03-19T19:30:00",
     "idSalle": [
       "JE",
@@ -1017,6 +1068,7 @@
   },
   {
     "idSeance": "33181",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-19T20:00:00",
     "idSalle": [
       "HL",
@@ -1034,6 +1086,7 @@
   },
   {
     "idSeance": "33178",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-19T21:30:00",
     "idSalle": [
       "GF",
@@ -1050,6 +1103,7 @@
   },
   {
     "idSeance": "33187",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-20T19:00:00",
     "idSalle": [
       "HL",
@@ -1066,6 +1120,7 @@
   },
   {
     "idSeance": "33189",
+    "cycle": "Cinéma bis",
     "dateHeure": "2020-03-20T19:30:00",
     "idSalle": [
       "GF",
@@ -1082,6 +1137,7 @@
   },
   {
     "idSeance": "33655",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-20T19:30:00",
     "idSalle": [
       "JE",
@@ -1099,6 +1155,7 @@
   },
   {
     "idSeance": "33188",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-20T21:15:00",
     "idSalle": [
       "HL",
@@ -1115,6 +1172,7 @@
   },
   {
     "idSeance": "33716",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-20T21:45:00",
     "idSalle": [
       "JE",
@@ -1139,6 +1197,7 @@
   },
   {
     "idSeance": "33190",
+    "cycle": "Cinéma bis",
     "dateHeure": "2020-03-20T22:00:00",
     "idSalle": [
       "GF",
@@ -1155,6 +1214,7 @@
   },
   {
     "idSeance": "33805",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-21T14:30:00",
     "idSalle": [
       "HL",
@@ -1171,6 +1231,7 @@
   },
   {
     "idSeance": "33193",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-21T17:00:00",
     "idSalle": [
       "GF",
@@ -1188,6 +1249,7 @@
   },
   {
     "idSeance": "33199",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-21T17:30:00",
     "idSalle": [
       "JE",
@@ -1204,6 +1266,7 @@
   },
   {
     "idSeance": "33194",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-21T19:00:00",
     "idSalle": [
       "HL",
@@ -1220,6 +1283,7 @@
   },
   {
     "idSeance": "33197",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-21T19:30:00",
     "idSalle": [
       "GF",
@@ -1236,6 +1300,7 @@
   },
   {
     "idSeance": "33656",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-21T19:30:00",
     "idSalle": [
       "JE",
@@ -1259,6 +1324,7 @@
   },
   {
     "idSeance": "33195",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-21T21:00:00",
     "idSalle": [
       "HL",
@@ -1275,6 +1341,7 @@
   },
   {
     "idSeance": "33717",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-21T21:30:00",
     "idSalle": [
       "GF",
@@ -1291,6 +1358,7 @@
   },
   {
     "idSeance": "33687",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-21T21:45:00",
     "idSalle": [
       "JE",
@@ -1308,6 +1376,7 @@
   },
   {
     "idSeance": "33806",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-22T14:30:00",
     "idSalle": [
       "HL",
@@ -1324,6 +1393,7 @@
   },
   {
     "idSeance": "33900",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-03-22T15:00:00",
     "idSalle": [
       "GF",
@@ -1359,6 +1429,7 @@
   },
   {
     "idSeance": "33666",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-22T17:00:00",
     "idSalle": [
       "HL",
@@ -1375,6 +1446,7 @@
   },
   {
     "idSeance": "33657",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-22T17:30:00",
     "idSalle": [
       "JE",
@@ -1398,6 +1470,7 @@
   },
   {
     "idSeance": "33652",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-22T18:30:00",
     "idSalle": [
       "GF",
@@ -1415,6 +1488,7 @@
   },
   {
     "idSeance": "33203",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-22T19:00:00",
     "idSalle": [
       "HL",
@@ -1432,6 +1506,7 @@
   },
   {
     "idSeance": "33715",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-22T20:00:00",
     "idSalle": [
       "JE",
@@ -1448,6 +1523,7 @@
   },
   {
     "idSeance": "33202",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-22T21:00:00",
     "idSalle": [
       "HL",
@@ -1465,6 +1541,7 @@
   },
   {
     "idSeance": "33207",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-22T21:30:00",
     "idSalle": [
       "GF",
@@ -1481,6 +1558,7 @@
   },
   {
     "idSeance": "33801",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-23T17:00:00",
     "idSalle": [
       "GF",
@@ -1497,6 +1575,7 @@
   },
   {
     "idSeance": "34000",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-03-23T19:30:00",
     "idSalle": [
       "GF",
@@ -1538,6 +1617,7 @@
   },
   {
     "idSeance": "33210",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-23T19:30:00",
     "idSalle": [
       "JE",
@@ -1555,6 +1635,7 @@
   },
   {
     "idSeance": "33903",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-03-25T15:00:00",
     "idSalle": [
       "HL",
@@ -1572,6 +1653,7 @@
   },
   {
     "idSeance": "33233",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-25T16:30:00",
     "idSalle": [
       "GF",
@@ -1589,6 +1671,7 @@
   },
   {
     "idSeance": "33219",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-25T17:00:00",
     "idSalle": [
       "HL",
@@ -1606,6 +1689,7 @@
   },
   {
     "idSeance": "33718",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-25T19:00:00",
     "idSalle": [
       "GF",
@@ -1622,6 +1706,7 @@
   },
   {
     "idSeance": "33658",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-25T19:00:00",
     "idSalle": [
       "JE",
@@ -1646,6 +1731,7 @@
   },
   {
     "idSeance": "33218",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-25T19:30:00",
     "idSalle": [
       "HL",
@@ -1662,6 +1748,7 @@
   },
   {
     "idSeance": "33214",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-25T21:15:00",
     "idSalle": [
       "HL",
@@ -1679,6 +1766,7 @@
   },
   {
     "idSeance": "33216",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-25T21:45:00",
     "idSalle": [
       "GF",
@@ -1695,6 +1783,7 @@
   },
   {
     "idSeance": "33220",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-25T21:45:00",
     "idSalle": [
       "JE",
@@ -1717,6 +1806,7 @@
   },
   {
     "idSeance": "33796",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-26T16:30:00",
     "idSalle": [
       "GF",
@@ -1733,6 +1823,7 @@
   },
   {
     "idSeance": "33227",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-26T19:00:00",
     "idSalle": [
       "HL",
@@ -1746,6 +1837,7 @@
   },
   {
     "idSeance": "33224",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-26T19:30:00",
     "idSalle": [
       "GF",
@@ -1763,6 +1855,7 @@
   },
   {
     "idSeance": "33660",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-26T19:30:00",
     "idSalle": [
       "JE",
@@ -1792,6 +1885,7 @@
   },
   {
     "idSeance": "33221",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-26T21:30:00",
     "idSalle": [
       "HL",
@@ -1809,6 +1903,7 @@
   },
   {
     "idSeance": "33887",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-26T22:00:00",
     "idSalle": [
       "JE",
@@ -1831,6 +1926,7 @@
   },
   {
     "idSeance": "33225",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-27T14:30:00",
     "idSalle": [
       "GF",
@@ -1847,6 +1943,7 @@
   },
   {
     "idSeance": "33797",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-27T17:00:00",
     "idSalle": [
       "GF",
@@ -1863,6 +1960,7 @@
   },
   {
     "idSeance": "33659",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-27T19:00:00",
     "idSalle": [
       "JE",
@@ -1879,6 +1977,7 @@
   },
   {
     "idSeance": "33230",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-27T19:30:00",
     "idSalle": [
       "HL",
@@ -1902,6 +2001,7 @@
   },
   {
     "idSeance": "33234",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-27T21:00:00",
     "idSalle": [
       "JE",
@@ -1918,6 +2018,7 @@
   },
   {
     "idSeance": "33231",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-27T22:00:00",
     "idSalle": [
       "HL",
@@ -1934,6 +2035,7 @@
   },
   {
     "idSeance": "33239",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-28T14:30:00",
     "idSalle": [
       "GF",
@@ -1951,6 +2053,7 @@
   },
   {
     "idSeance": "33235",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-28T15:00:00",
     "idSalle": [
       "HL",
@@ -1967,6 +2070,7 @@
   },
   {
     "idSeance": "33235",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-28T15:00:00",
     "idSalle": [
       "HL",
@@ -1980,6 +2084,7 @@
   },
   {
     "idSeance": "33240",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-28T17:15:00",
     "idSalle": [
       "GF",
@@ -1996,6 +2101,7 @@
   },
   {
     "idSeance": "33237",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-28T19:00:00",
     "idSalle": [
       "HL",
@@ -2012,6 +2118,7 @@
   },
   {
     "idSeance": "33661",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-28T19:30:00",
     "idSalle": [
       "JE",
@@ -2035,6 +2142,7 @@
   },
   {
     "idSeance": "33969",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-28T20:00:00",
     "idSalle": [
       "GF",
@@ -2052,6 +2160,7 @@
   },
   {
     "idSeance": "33238",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-28T21:00:00",
     "idSalle": [
       "HL",
@@ -2069,6 +2178,7 @@
   },
   {
     "idSeance": "33242",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-28T21:45:00",
     "idSalle": [
       "JE",
@@ -2092,6 +2202,7 @@
   },
   {
     "idSeance": "33243",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-03-29T14:30:00",
     "idSalle": [
       "HL",
@@ -2109,6 +2220,7 @@
   },
   {
     "idSeance": "33901",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-03-29T15:00:00",
     "idSalle": [
       "GF",
@@ -2132,6 +2244,7 @@
   },
   {
     "idSeance": "33672",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-29T17:00:00",
     "idSalle": [
       "GF",
@@ -2149,6 +2262,7 @@
   },
   {
     "idSeance": "33827",
+    "cycle": "Jean-Daniel Pollet",
     "dateHeure": "2020-03-29T18:00:00",
     "idSalle": [
       "JE",
@@ -2166,6 +2280,7 @@
   },
   {
     "idSeance": "33249",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-29T19:30:00",
     "idSalle": [
       "GF",
@@ -2183,6 +2298,7 @@
   },
   {
     "idSeance": "33250",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-03-29T21:45:00",
     "idSalle": [
       "GF",
@@ -2199,6 +2315,7 @@
   },
   {
     "idSeance": "33256",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-01T15:00:00",
     "idSalle": [
       "GF",
@@ -2212,21 +2329,28 @@
         "annee": 1927
       },
       {
-        "idFilm": 36411,
-        "titre": "Charlot fait une cure",
-        "realisateurs": "Charles Chaplin",
-        "annee": 1917
+        "idFilm": 60581,
+        "titre": "Charlot danseur",
+        "realisateurs": "Mack Sennett",
+        "annee": 1914
       },
       {
-        "idFilm": 66592,
-        "titre": "Madame Babylas aime les animaux",
-        "realisateurs": "Alfred Machin",
-        "annee": 1911
+        "idFilm": 86285,
+        "titre": "Laurel et Hardy constructeurs",
+        "realisateurs": "Clyde Bruckman",
+        "annee": 1928
+      },
+      {
+        "idFilm": 44652,
+        "titre": "Léontine garde la maison",
+        "realisateurs": "Roméo Bosetti",
+        "annee": 1912
       }
     ]
   },
   {
     "idSeance": "33257",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-01T17:00:00",
     "idSalle": [
       "GF",
@@ -2244,6 +2368,7 @@
   },
   {
     "idSeance": "33261",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-01T19:00:00",
     "idSalle": [
       "GF",
@@ -2261,6 +2386,7 @@
   },
   {
     "idSeance": "33263",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-01T19:00:00",
     "idSalle": [
       "JE",
@@ -2278,6 +2404,7 @@
   },
   {
     "idSeance": "33259",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-01T20:00:00",
     "idSalle": [
       "HL",
@@ -2295,6 +2422,7 @@
   },
   {
     "idSeance": "33259",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-01T20:00:00",
     "idSalle": [
       "HL",
@@ -2312,6 +2440,7 @@
   },
   {
     "idSeance": "33262",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-01T21:15:00",
     "idSalle": [
       "GF",
@@ -2329,6 +2458,7 @@
   },
   {
     "idSeance": "33673",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-01T21:45:00",
     "idSalle": [
       "JE",
@@ -2345,6 +2475,7 @@
   },
   {
     "idSeance": "33707",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-02T16:30:00",
     "idSalle": [
       "HL",
@@ -2361,6 +2492,7 @@
   },
   {
     "idSeance": "33269",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-02T19:00:00",
     "idSalle": [
       "JE",
@@ -2377,6 +2509,7 @@
   },
   {
     "idSeance": "33270",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-02T19:00:00",
     "idSalle": [
       "GF",
@@ -2390,6 +2523,7 @@
   },
   {
     "idSeance": "33607",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-02T19:30:00",
     "idSalle": [
       "HL",
@@ -2406,6 +2540,7 @@
   },
   {
     "idSeance": "33674",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-02T21:15:00",
     "idSalle": [
       "JE",
@@ -2423,6 +2558,7 @@
   },
   {
     "idSeance": "33264",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-02T21:30:00",
     "idSalle": [
       "GF",
@@ -2439,6 +2575,7 @@
   },
   {
     "idSeance": "33608",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-02T21:45:00",
     "idSalle": [
       "HL",
@@ -2455,6 +2592,7 @@
   },
   {
     "idSeance": "33618",
+    "cycle": "Conservatoire des techniques cinématographiques",
     "dateHeure": "2020-04-03T14:30:00",
     "idSalle": [
       "GF",
@@ -2468,6 +2606,7 @@
   },
   {
     "idSeance": "33272",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-03T17:00:00",
     "idSalle": [
       "HL",
@@ -2485,6 +2624,7 @@
   },
   {
     "idSeance": "33273",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-03T19:00:00",
     "idSalle": [
       "HL",
@@ -2501,6 +2641,7 @@
   },
   {
     "idSeance": "33819",
+    "cycle": "Fenêtre sur les collections",
     "dateHeure": "2020-04-03T19:30:00",
     "idSalle": [
       "JE",
@@ -2518,6 +2659,7 @@
   },
   {
     "idSeance": "33794",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-03T19:30:00",
     "idSalle": [
       "GF",
@@ -2534,6 +2676,7 @@
   },
   {
     "idSeance": "33794",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-03T19:30:00",
     "idSalle": [
       "GF",
@@ -2550,6 +2693,7 @@
   },
   {
     "idSeance": "33274",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-03T21:15:00",
     "idSalle": [
       "HL",
@@ -2567,6 +2711,7 @@
   },
   {
     "idSeance": "33820",
+    "cycle": "Fenêtre sur les collections",
     "dateHeure": "2020-04-03T21:45:00",
     "idSalle": [
       "JE",
@@ -2583,6 +2728,7 @@
   },
   {
     "idSeance": "33804",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-03T21:45:00",
     "idSalle": [
       "GF",
@@ -2600,6 +2746,7 @@
   },
   {
     "idSeance": "33278",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-04T14:30:00",
     "idSalle": [
       "HL",
@@ -2617,6 +2764,7 @@
   },
   {
     "idSeance": "33278",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-04T14:30:00",
     "idSalle": [
       "HL",
@@ -2630,6 +2778,7 @@
   },
   {
     "idSeance": "33287",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-04T15:00:00",
     "idSalle": [
       "GF",
@@ -2646,6 +2795,7 @@
   },
   {
     "idSeance": "33949",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-04T17:30:00",
     "idSalle": [
       "GF",
@@ -2662,6 +2812,7 @@
   },
   {
     "idSeance": "33285",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-04T18:00:00",
     "idSalle": [
       "JE",
@@ -2679,6 +2830,7 @@
   },
   {
     "idSeance": "33280",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-04T19:00:00",
     "idSalle": [
       "HL",
@@ -2695,6 +2847,7 @@
   },
   {
     "idSeance": "33622",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-04T19:30:00",
     "idSalle": [
       "GF",
@@ -2712,6 +2865,7 @@
   },
   {
     "idSeance": "33678",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-04T20:45:00",
     "idSalle": [
       "JE",
@@ -2728,6 +2882,7 @@
   },
   {
     "idSeance": "33281",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-04T21:15:00",
     "idSalle": [
       "HL",
@@ -2745,6 +2900,7 @@
   },
   {
     "idSeance": "33623",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-04T21:45:00",
     "idSalle": [
       "GF",
@@ -2762,6 +2918,7 @@
   },
   {
     "idSeance": "33291",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-05T14:30:00",
     "idSalle": [
       "GF",
@@ -2778,6 +2935,7 @@
   },
   {
     "idSeance": "33621",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-05T15:00:00",
     "idSalle": [
       "HL",
@@ -2795,6 +2953,7 @@
   },
   {
     "idSeance": "33621",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-05T15:00:00",
     "idSalle": [
       "HL",
@@ -2812,6 +2971,7 @@
   },
   {
     "idSeance": "33277",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-05T16:30:00",
     "idSalle": [
       "JE",
@@ -2828,6 +2988,7 @@
   },
   {
     "idSeance": "33677",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-05T17:15:00",
     "idSalle": [
       "GF",
@@ -2844,6 +3005,7 @@
   },
   {
     "idSeance": "33664",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-05T18:00:00",
     "idSalle": [
       "HL",
@@ -2860,6 +3022,7 @@
   },
   {
     "idSeance": "33680",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-05T19:00:00",
     "idSalle": [
       "JE",
@@ -2877,6 +3040,7 @@
   },
   {
     "idSeance": "33288",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-05T19:30:00",
     "idSalle": [
       "GF",
@@ -2893,6 +3057,7 @@
   },
   {
     "idSeance": "33665",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-05T20:00:00",
     "idSalle": [
       "HL",
@@ -2909,6 +3074,7 @@
   },
   {
     "idSeance": "33289",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-05T21:15:00",
     "idSalle": [
       "GF",
@@ -2926,6 +3092,7 @@
   },
   {
     "idSeance": "33630",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-06T14:30:00",
     "idSalle": [
       "HL",
@@ -2943,6 +3110,7 @@
   },
   {
     "idSeance": "33630",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-06T14:30:00",
     "idSalle": [
       "HL",
@@ -2956,6 +3124,7 @@
   },
   {
     "idSeance": "33952",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-06T15:00:00",
     "idSalle": [
       "GF",
@@ -2973,6 +3142,7 @@
   },
   {
     "idSeance": "33294",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-06T15:30:00",
     "idSalle": [
       "HL",
@@ -2990,6 +3160,7 @@
   },
   {
     "idSeance": "33802",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-06T17:00:00",
     "idSalle": [
       "GF",
@@ -3007,6 +3178,7 @@
   },
   {
     "idSeance": "33296",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-06T19:00:00",
     "idSalle": [
       "GF",
@@ -3024,6 +3196,7 @@
   },
   {
     "idSeance": "33298",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-04-06T19:30:00",
     "idSalle": [
       "JE",
@@ -3046,6 +3219,7 @@
   },
   {
     "idSeance": "33297",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-06T21:30:00",
     "idSalle": [
       "GF",
@@ -3063,6 +3237,7 @@
   },
   {
     "idSeance": "33950",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-08T14:30:00",
     "idSalle": [
       "GF",
@@ -3079,6 +3254,7 @@
   },
   {
     "idSeance": "33299",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-08T15:00:00",
     "idSalle": [
       "HL",
@@ -3086,15 +3262,16 @@
     ],
     "items": [
       {
-        "idFilm": 33623,
-        "titre": "Docteur Jerry et Mister Love",
-        "realisateurs": "Jerry Lewis",
-        "annee": 1962
+        "idFilm": 41287,
+        "titre": "Laurel et Hardy au Far West",
+        "realisateurs": "James W. Horne",
+        "annee": 1936
       }
     ]
   },
   {
     "idSeance": "33973",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-08T17:00:00",
     "idSalle": [
       "GF",
@@ -3111,6 +3288,7 @@
   },
   {
     "idSeance": "33681",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-08T19:00:00",
     "idSalle": [
       "JE",
@@ -3127,6 +3305,7 @@
   },
   {
     "idSeance": "33304",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-08T19:00:00",
     "idSalle": [
       "GF",
@@ -3144,6 +3323,7 @@
   },
   {
     "idSeance": "33302",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-08T20:00:00",
     "idSalle": [
       "HL",
@@ -3167,6 +3347,7 @@
   },
   {
     "idSeance": "33676",
+    "cycle": "Andreï Kontchalovski",
     "dateHeure": "2020-04-08T21:45:00",
     "idSalle": [
       "JE",
@@ -3184,6 +3365,7 @@
   },
   {
     "idSeance": "33954",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-09T14:30:00",
     "idSalle": [
       "HL",
@@ -3201,6 +3383,7 @@
   },
   {
     "idSeance": "33904",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-09T15:00:00",
     "idSalle": [
       "GF",
@@ -3236,6 +3419,7 @@
   },
   {
     "idSeance": "33722",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-09T16:45:00",
     "idSalle": [
       "HL",
@@ -3253,6 +3437,7 @@
   },
   {
     "idSeance": "33313",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-09T19:00:00",
     "idSalle": [
       "GF",
@@ -3266,6 +3451,7 @@
   },
   {
     "idSeance": "33735",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-09T19:30:00",
     "idSalle": [
       "HL",
@@ -3283,6 +3469,7 @@
   },
   {
     "idSeance": "33911",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-09T20:30:00",
     "idSalle": [
       "JE",
@@ -3300,6 +3487,7 @@
   },
   {
     "idSeance": "33307",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-09T21:30:00",
     "idSalle": [
       "GF",
@@ -3317,6 +3505,7 @@
   },
   {
     "idSeance": "33311",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-09T22:00:00",
     "idSalle": [
       "HL",
@@ -3333,6 +3522,7 @@
   },
   {
     "idSeance": "33723",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-10T14:00:00",
     "idSalle": [
       "GF",
@@ -3349,6 +3539,7 @@
   },
   {
     "idSeance": "33953",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-10T14:30:00",
     "idSalle": [
       "HL",
@@ -3366,6 +3557,7 @@
   },
   {
     "idSeance": "33702",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-10T16:45:00",
     "idSalle": [
       "GF",
@@ -3382,6 +3574,7 @@
   },
   {
     "idSeance": "33318",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-10T18:45:00",
     "idSalle": [
       "GF",
@@ -3399,6 +3592,7 @@
   },
   {
     "idSeance": "33317",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-10T19:00:00",
     "idSalle": [
       "HL",
@@ -3415,6 +3609,7 @@
   },
   {
     "idSeance": "33668",
+    "cycle": "Cinéma d'avant-garde",
     "dateHeure": "2020-04-10T19:45:00",
     "idSalle": [
       "JE",
@@ -3431,6 +3626,7 @@
   },
   {
     "idSeance": "33316",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-10T21:15:00",
     "idSalle": [
       "HL",
@@ -3447,6 +3643,7 @@
   },
   {
     "idSeance": "33319",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-10T21:45:00",
     "idSalle": [
       "GF",
@@ -3464,6 +3661,7 @@
   },
   {
     "idSeance": "33669",
+    "cycle": "Cinéma d'avant-garde",
     "dateHeure": "2020-04-10T22:30:00",
     "idSalle": [
       "JE",
@@ -3487,6 +3685,7 @@
   },
   {
     "idSeance": "33792",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-11T14:30:00",
     "idSalle": [
       "HL",
@@ -3504,6 +3703,7 @@
   },
   {
     "idSeance": "33792",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-11T14:30:00",
     "idSalle": [
       "HL",
@@ -3521,6 +3721,7 @@
   },
   {
     "idSeance": "33325",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-11T15:00:00",
     "idSalle": [
       "GF",
@@ -3538,6 +3739,7 @@
   },
   {
     "idSeance": "33325",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-11T15:00:00",
     "idSalle": [
       "GF",
@@ -3551,6 +3753,7 @@
   },
   {
     "idSeance": "33793",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-11T17:00:00",
     "idSalle": [
       "HL",
@@ -3567,6 +3770,7 @@
   },
   {
     "idSeance": "33326",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-11T18:30:00",
     "idSalle": [
       "GF",
@@ -3583,6 +3787,7 @@
   },
   {
     "idSeance": "33323",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-11T19:00:00",
     "idSalle": [
       "HL",
@@ -3599,6 +3804,7 @@
   },
   {
     "idSeance": "33328",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-11T20:30:00",
     "idSalle": [
       "JE",
@@ -3615,6 +3821,7 @@
   },
   {
     "idSeance": "33946",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-11T21:00:00",
     "idSalle": [
       "GF",
@@ -3631,6 +3838,7 @@
   },
   {
     "idSeance": "33324",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-11T21:30:00",
     "idSalle": [
       "HL",
@@ -3648,6 +3856,7 @@
   },
   {
     "idSeance": "33330",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-12T14:30:00",
     "idSalle": [
       "GF",
@@ -3665,6 +3874,7 @@
   },
   {
     "idSeance": "33947",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-12T14:30:00",
     "idSalle": [
       "HL",
@@ -3682,6 +3892,7 @@
   },
   {
     "idSeance": "33947",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-12T14:30:00",
     "idSalle": [
       "HL",
@@ -3699,6 +3910,7 @@
   },
   {
     "idSeance": "33338",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-12T16:30:00",
     "idSalle": [
       "JE",
@@ -3716,6 +3928,7 @@
   },
   {
     "idSeance": "33335",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-12T17:30:00",
     "idSalle": [
       "GF",
@@ -3733,6 +3946,7 @@
   },
   {
     "idSeance": "33331",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-12T19:00:00",
     "idSalle": [
       "HL",
@@ -3750,6 +3964,7 @@
   },
   {
     "idSeance": "33340",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-12T19:30:00",
     "idSalle": [
       "JE",
@@ -3766,6 +3981,7 @@
   },
   {
     "idSeance": "33719",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-12T19:45:00",
     "idSalle": [
       "GF",
@@ -3783,6 +3999,7 @@
   },
   {
     "idSeance": "33332",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-12T21:15:00",
     "idSalle": [
       "HL",
@@ -3799,6 +4016,7 @@
   },
   {
     "idSeance": "33880",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-13T14:30:00",
     "idSalle": [
       "HL",
@@ -3816,6 +4034,7 @@
   },
   {
     "idSeance": "33880",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-13T14:30:00",
     "idSalle": [
       "HL",
@@ -3833,6 +4052,7 @@
   },
   {
     "idSeance": "33951",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-13T15:00:00",
     "idSalle": [
       "GF",
@@ -3850,6 +4070,7 @@
   },
   {
     "idSeance": "33244",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-13T17:00:00",
     "idSalle": [
       "HL",
@@ -3866,6 +4087,7 @@
   },
   {
     "idSeance": "33339",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-13T17:30:00",
     "idSalle": [
       "GF",
@@ -3882,6 +4104,7 @@
   },
   {
     "idSeance": "33245",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-13T19:00:00",
     "idSalle": [
       "HL",
@@ -3899,6 +4122,7 @@
   },
   {
     "idSeance": "33967",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-13T19:30:00",
     "idSalle": [
       "GF",
@@ -3916,6 +4140,7 @@
   },
   {
     "idSeance": "33246",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-13T21:00:00",
     "idSalle": [
       "HL",
@@ -3933,6 +4158,7 @@
   },
   {
     "idSeance": "33631",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-15T14:30:00",
     "idSalle": [
       "HL",
@@ -3946,6 +4172,7 @@
   },
   {
     "idSeance": "33342",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-15T15:00:00",
     "idSalle": [
       "GF",
@@ -3963,6 +4190,7 @@
   },
   {
     "idSeance": "33337",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-15T15:30:00",
     "idSalle": [
       "HL",
@@ -3980,6 +4208,7 @@
   },
   {
     "idSeance": "33703",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-15T19:00:00",
     "idSalle": [
       "GF",
@@ -3996,6 +4225,7 @@
   },
   {
     "idSeance": "33832",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-15T19:30:00",
     "idSalle": [
       "JE",
@@ -4019,6 +4249,7 @@
   },
   {
     "idSeance": "33345",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-15T20:00:00",
     "idSalle": [
       "HL",
@@ -4036,6 +4267,7 @@
   },
   {
     "idSeance": "33704",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-15T21:00:00",
     "idSalle": [
       "GF",
@@ -4053,6 +4285,7 @@
   },
   {
     "idSeance": "33724",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-16T14:30:00",
     "idSalle": [
       "GF",
@@ -4070,6 +4303,7 @@
   },
   {
     "idSeance": "33709",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-16T16:30:00",
     "idSalle": [
       "HL",
@@ -4086,6 +4320,7 @@
   },
   {
     "idSeance": "33641",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-16T19:00:00",
     "idSalle": [
       "JE",
@@ -4109,6 +4344,7 @@
   },
   {
     "idSeance": "33356",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-16T19:00:00",
     "idSalle": [
       "GF",
@@ -4122,6 +4358,7 @@
   },
   {
     "idSeance": "33353",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-16T19:30:00",
     "idSalle": [
       "HL",
@@ -4138,6 +4375,7 @@
   },
   {
     "idSeance": "33640",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-16T21:15:00",
     "idSalle": [
       "JE",
@@ -4160,6 +4398,7 @@
   },
   {
     "idSeance": "33828",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-16T21:15:00",
     "idSalle": [
       "GF",
@@ -4177,6 +4416,7 @@
   },
   {
     "idSeance": "33828",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-16T21:15:00",
     "idSalle": [
       "GF",
@@ -4194,6 +4434,7 @@
   },
   {
     "idSeance": "33354",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-16T21:45:00",
     "idSalle": [
       "HL",
@@ -4210,6 +4451,7 @@
   },
   {
     "idSeance": "33881",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-17T14:30:00",
     "idSalle": [
       "GF",
@@ -4226,6 +4468,7 @@
   },
   {
     "idSeance": "33720",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-17T17:00:00",
     "idSalle": [
       "GF",
@@ -4242,6 +4485,7 @@
   },
   {
     "idSeance": "33689",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-17T19:00:00",
     "idSalle": [
       "HL",
@@ -4258,6 +4502,7 @@
   },
   {
     "idSeance": "33689",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-17T19:00:00",
     "idSalle": [
       "HL",
@@ -4271,6 +4516,7 @@
   },
   {
     "idSeance": "33857",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-17T19:30:00",
     "idSalle": [
       "JE",
@@ -4301,6 +4547,7 @@
   },
   {
     "idSeance": "33945",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-17T19:30:00",
     "idSalle": [
       "GF",
@@ -4317,6 +4564,7 @@
   },
   {
     "idSeance": "33831",
+    "cycle": "Hugo Santiago",
     "dateHeure": "2020-04-17T21:45:00",
     "idSalle": [
       "GF",
@@ -4340,6 +4588,7 @@
   },
   {
     "idSeance": "33359",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-18T14:00:00",
     "idSalle": [
       "HL",
@@ -4357,6 +4606,7 @@
   },
   {
     "idSeance": "33611",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-18T15:00:00",
     "idSalle": [
       "GF",
@@ -4374,6 +4624,7 @@
   },
   {
     "idSeance": "33360",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-18T16:30:00",
     "idSalle": [
       "HL",
@@ -4391,6 +4642,7 @@
   },
   {
     "idSeance": "33721",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-18T17:00:00",
     "idSalle": [
       "JE",
@@ -4408,6 +4660,7 @@
   },
   {
     "idSeance": "33803",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-18T17:15:00",
     "idSalle": [
       "GF",
@@ -4424,6 +4677,7 @@
   },
   {
     "idSeance": "33366",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-18T19:00:00",
     "idSalle": [
       "HL",
@@ -4440,6 +4694,7 @@
   },
   {
     "idSeance": "33369",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-18T19:30:00",
     "idSalle": [
       "GF",
@@ -4457,6 +4712,7 @@
   },
   {
     "idSeance": "33371",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-18T20:30:00",
     "idSalle": [
       "JE",
@@ -4473,6 +4729,7 @@
   },
   {
     "idSeance": "33367",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-18T21:00:00",
     "idSalle": [
       "HL",
@@ -4489,6 +4746,7 @@
   },
   {
     "idSeance": "33370",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-18T21:30:00",
     "idSalle": [
       "GF",
@@ -4506,6 +4764,7 @@
   },
   {
     "idSeance": "33734",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-19T14:15:00",
     "idSalle": [
       "GF",
@@ -4522,6 +4781,7 @@
   },
   {
     "idSeance": "33372",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-19T15:00:00",
     "idSalle": [
       "HL",
@@ -4539,6 +4799,7 @@
   },
   {
     "idSeance": "33372",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-19T15:00:00",
     "idSalle": [
       "HL",
@@ -4556,6 +4817,7 @@
   },
   {
     "idSeance": "33731",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-19T16:30:00",
     "idSalle": [
       "GF",
@@ -4573,6 +4835,7 @@
   },
   {
     "idSeance": "33373",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-19T17:00:00",
     "idSalle": [
       "HL",
@@ -4589,6 +4852,7 @@
   },
   {
     "idSeance": "33733",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-19T18:45:00",
     "idSalle": [
       "GF",
@@ -4606,6 +4870,7 @@
   },
   {
     "idSeance": "33374",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-19T19:15:00",
     "idSalle": [
       "HL",
@@ -4622,6 +4887,7 @@
   },
   {
     "idSeance": "33974",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-19T19:45:00",
     "idSalle": [
       "JE",
@@ -4638,6 +4904,7 @@
   },
   {
     "idSeance": "33729",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-19T20:45:00",
     "idSalle": [
       "GF",
@@ -4654,6 +4921,7 @@
   },
   {
     "idSeance": "33375",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-19T21:45:00",
     "idSalle": [
       "HL",
@@ -4670,6 +4938,7 @@
   },
   {
     "idSeance": "33632",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-20T14:30:00",
     "idSalle": [
       "HL",
@@ -4687,6 +4956,7 @@
   },
   {
     "idSeance": "33632",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-04-20T14:30:00",
     "idSalle": [
       "HL",
@@ -4700,6 +4970,7 @@
   },
   {
     "idSeance": "33381",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-20T16:30:00",
     "idSalle": [
       "GF",
@@ -4723,6 +4994,7 @@
   },
   {
     "idSeance": "33384",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-04-20T19:00:00",
     "idSalle": [
       "JE",
@@ -4740,6 +5012,7 @@
   },
   {
     "idSeance": "33382",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-20T19:00:00",
     "idSalle": [
       "GF",
@@ -4756,6 +5029,7 @@
   },
   {
     "idSeance": "33383",
+    "cycle": "Don Siegel",
     "dateHeure": "2020-04-20T21:00:00",
     "idSalle": [
       "GF",
@@ -4772,6 +5046,7 @@
   },
   {
     "idSeance": "34019",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-04-20T21:30:00",
     "idSalle": [
       "JE",
@@ -4788,6 +5063,7 @@
   },
   {
     "idSeance": "33905",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-22T15:00:00",
     "idSalle": [
       "HL",
@@ -4804,6 +5080,7 @@
   },
   {
     "idSeance": "33905",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-22T15:00:00",
     "idSalle": [
       "HL",
@@ -4820,6 +5097,7 @@
   },
   {
     "idSeance": "33959",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-22T16:30:00",
     "idSalle": [
       "GF",
@@ -4836,6 +5114,7 @@
   },
   {
     "idSeance": "33390",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-22T19:00:00",
     "idSalle": [
       "GF",
@@ -4852,6 +5131,7 @@
   },
   {
     "idSeance": "33431",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-04-22T20:00:00",
     "idSalle": [
       "HL",
@@ -4869,6 +5149,7 @@
   },
   {
     "idSeance": "33711",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-22T20:30:00",
     "idSalle": [
       "JE",
@@ -4885,6 +5166,7 @@
   },
   {
     "idSeance": "33391",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-22T21:15:00",
     "idSalle": [
       "GF",
@@ -4902,6 +5184,7 @@
   },
   {
     "idSeance": "33784",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-23T14:15:00",
     "idSalle": [
       "GF",
@@ -4955,6 +5238,7 @@
   },
   {
     "idSeance": "33866",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-23T16:00:00",
     "idSalle": [
       "HL",
@@ -4971,6 +5255,7 @@
   },
   {
     "idSeance": "33926",
+    "cycle": "Archi Vives",
     "dateHeure": "2020-04-23T17:30:00",
     "idSalle": [
       "JE",
@@ -4984,6 +5269,7 @@
   },
   {
     "idSeance": "33688",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-23T19:00:00",
     "idSalle": [
       "HL",
@@ -5000,6 +5286,7 @@
   },
   {
     "idSeance": "33399",
+    "cycle": "Parlons cinéma avec Bertrand Belin",
     "dateHeure": "2020-04-23T19:30:00",
     "idSalle": [
       "GF",
@@ -5016,6 +5303,7 @@
   },
   {
     "idSeance": "33882",
+    "cycle": "Archi Vives",
     "dateHeure": "2020-04-23T19:30:00",
     "idSalle": [
       "JE",
@@ -5032,6 +5320,7 @@
   },
   {
     "idSeance": "33396",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-23T21:30:00",
     "idSalle": [
       "HL",
@@ -5048,6 +5337,7 @@
   },
   {
     "idSeance": "33867",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-24T16:00:00",
     "idSalle": [
       "HL",
@@ -5064,6 +5354,7 @@
   },
   {
     "idSeance": "33403",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-24T19:00:00",
     "idSalle": [
       "HL",
@@ -5080,6 +5371,7 @@
   },
   {
     "idSeance": "33913",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-04-24T19:30:00",
     "idSalle": [
       "GF",
@@ -5096,6 +5388,7 @@
   },
   {
     "idSeance": "33913",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-04-24T19:30:00",
     "idSalle": [
       "GF",
@@ -5109,6 +5402,7 @@
   },
   {
     "idSeance": "33406",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-24T20:30:00",
     "idSalle": [
       "JE",
@@ -5126,6 +5420,7 @@
   },
   {
     "idSeance": "33402",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-24T21:00:00",
     "idSalle": [
       "HL",
@@ -5142,6 +5437,7 @@
   },
   {
     "idSeance": "33667",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-25T14:30:00",
     "idSalle": [
       "HL",
@@ -5158,6 +5454,7 @@
   },
   {
     "idSeance": "33883",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-25T17:00:00",
     "idSalle": [
       "HL",
@@ -5174,6 +5471,7 @@
   },
   {
     "idSeance": "33962",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-25T17:30:00",
     "idSalle": [
       "JE",
@@ -5216,6 +5514,7 @@
   },
   {
     "idSeance": "33412",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-25T19:00:00",
     "idSalle": [
       "GF",
@@ -5229,6 +5528,7 @@
   },
   {
     "idSeance": "33409",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-25T19:30:00",
     "idSalle": [
       "HL",
@@ -5246,6 +5546,7 @@
   },
   {
     "idSeance": "33971",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-04-25T21:00:00",
     "idSalle": [
       "GF",
@@ -5270,6 +5571,7 @@
   },
   {
     "idSeance": "33410",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-25T21:30:00",
     "idSalle": [
       "HL",
@@ -5286,6 +5588,7 @@
   },
   {
     "idSeance": "33690",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-26T14:30:00",
     "idSalle": [
       "HL",
@@ -5302,6 +5605,7 @@
   },
   {
     "idSeance": "33690",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-26T14:30:00",
     "idSalle": [
       "HL",
@@ -5315,6 +5619,7 @@
   },
   {
     "idSeance": "33415",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-26T15:00:00",
     "idSalle": [
       "GF",
@@ -5332,6 +5637,7 @@
   },
   {
     "idSeance": "33415",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-26T15:00:00",
     "idSalle": [
       "GF",
@@ -5349,6 +5655,7 @@
   },
   {
     "idSeance": "33417",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-26T18:30:00",
     "idSalle": [
       "HL",
@@ -5366,6 +5673,7 @@
   },
   {
     "idSeance": "33972",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-04-26T19:00:00",
     "idSalle": [
       "GF",
@@ -5382,6 +5690,7 @@
   },
   {
     "idSeance": "33418",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-26T21:00:00",
     "idSalle": [
       "HL",
@@ -5398,6 +5707,7 @@
   },
   {
     "idSeance": "33842",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-04-26T21:30:00",
     "idSalle": [
       "GF",
@@ -5414,6 +5724,7 @@
   },
   {
     "idSeance": "33424",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-27T17:00:00",
     "idSalle": [
       "HL",
@@ -5436,6 +5747,7 @@
   },
   {
     "idSeance": "33998",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-04-27T19:00:00",
     "idSalle": [
       "JE",
@@ -5464,6 +5776,7 @@
   },
   {
     "idSeance": "33425",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-04-27T19:00:00",
     "idSalle": [
       "GF",
@@ -5481,6 +5794,7 @@
   },
   {
     "idSeance": "33427",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-04-27T21:00:00",
     "idSalle": [
       "JE",
@@ -5510,6 +5824,7 @@
   },
   {
     "idSeance": "33906",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-29T15:00:00",
     "idSalle": [
       "GF",
@@ -5526,6 +5841,7 @@
   },
   {
     "idSeance": "33906",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-04-29T15:00:00",
     "idSalle": [
       "GF",
@@ -5542,6 +5858,7 @@
   },
   {
     "idSeance": "33429",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-29T17:30:00",
     "idSalle": [
       "GF",
@@ -5571,6 +5888,7 @@
   },
   {
     "idSeance": "33638",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-04-29T19:00:00",
     "idSalle": [
       "HL",
@@ -5587,6 +5905,7 @@
   },
   {
     "idSeance": "33916",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-04-29T19:30:00",
     "idSalle": [
       "GF",
@@ -5604,6 +5923,7 @@
   },
   {
     "idSeance": "33435",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-29T20:30:00",
     "idSalle": [
       "JE",
@@ -5620,6 +5940,7 @@
   },
   {
     "idSeance": "33914",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-04-29T21:45:00",
     "idSalle": [
       "GF",
@@ -5637,6 +5958,7 @@
   },
   {
     "idSeance": "33767",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-04-30T16:30:00",
     "idSalle": [
       "GF",
@@ -5653,6 +5975,7 @@
   },
   {
     "idSeance": "33442",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-30T19:00:00",
     "idSalle": [
       "GF",
@@ -5666,6 +5989,7 @@
   },
   {
     "idSeance": "33439",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-04-30T19:30:00",
     "idSalle": [
       "HL",
@@ -5682,6 +6006,7 @@
   },
   {
     "idSeance": "33646",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-04-30T20:30:00",
     "idSalle": [
       "JE",
@@ -5698,6 +6023,7 @@
   },
   {
     "idSeance": "33436",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-04-30T21:30:00",
     "idSalle": [
       "GF",
@@ -5715,6 +6041,7 @@
   },
   {
     "idSeance": "33440",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-04-30T22:00:00",
     "idSalle": [
       "HL",
@@ -5731,6 +6058,7 @@
   },
   {
     "idSeance": "33451",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-02T14:30:00",
     "idSalle": [
       "GF",
@@ -5748,6 +6076,7 @@
   },
   {
     "idSeance": "33451",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-02T14:30:00",
     "idSalle": [
       "GF",
@@ -5761,6 +6090,7 @@
   },
   {
     "idSeance": "33979",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-05-02T15:00:00",
     "idSalle": [
       "HL",
@@ -5778,6 +6108,7 @@
   },
   {
     "idSeance": "33979",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-05-02T15:00:00",
     "idSalle": [
       "HL",
@@ -5795,6 +6126,7 @@
   },
   {
     "idSeance": "33777",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-02T17:30:00",
     "idSalle": [
       "HL",
@@ -5811,6 +6143,7 @@
   },
   {
     "idSeance": "33455",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-02T18:45:00",
     "idSalle": [
       "GF",
@@ -5828,6 +6161,7 @@
   },
   {
     "idSeance": "33452",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-02T20:00:00",
     "idSalle": [
       "HL",
@@ -5844,6 +6178,7 @@
   },
   {
     "idSeance": "33457",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-02T20:30:00",
     "idSalle": [
       "JE",
@@ -5861,6 +6196,7 @@
   },
   {
     "idSeance": "33843",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-02T21:30:00",
     "idSalle": [
       "GF",
@@ -5877,6 +6213,7 @@
   },
   {
     "idSeance": "33768",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-03T14:00:00",
     "idSalle": [
       "GF",
@@ -5893,6 +6230,7 @@
   },
   {
     "idSeance": "33727",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-03T15:00:00",
     "idSalle": [
       "HL",
@@ -5910,6 +6248,7 @@
   },
   {
     "idSeance": "33727",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-05-03T15:00:00",
     "idSalle": [
       "HL",
@@ -5927,6 +6266,7 @@
   },
   {
     "idSeance": "33960",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-03T16:00:00",
     "idSalle": [
       "JE",
@@ -5969,6 +6309,7 @@
   },
   {
     "idSeance": "33919",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-03T16:30:00",
     "idSalle": [
       "GF",
@@ -5999,6 +6340,7 @@
   },
   {
     "idSeance": "33463",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-03T17:15:00",
     "idSalle": [
       "HL",
@@ -6015,6 +6357,7 @@
   },
   {
     "idSeance": "33961",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-03T18:00:00",
     "idSalle": [
       "JE",
@@ -6044,6 +6387,7 @@
   },
   {
     "idSeance": "33844",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-03T19:00:00",
     "idSalle": [
       "GF",
@@ -6061,6 +6405,7 @@
   },
   {
     "idSeance": "33460",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-03T19:30:00",
     "idSalle": [
       "HL",
@@ -6077,6 +6422,7 @@
   },
   {
     "idSeance": "33846",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-03T21:00:00",
     "idSalle": [
       "GF",
@@ -6093,6 +6439,7 @@
   },
   {
     "idSeance": "33467",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-04T16:30:00",
     "idSalle": [
       "GF",
@@ -6109,6 +6456,7 @@
   },
   {
     "idSeance": "33466",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-04T17:00:00",
     "idSalle": [
       "HL",
@@ -6125,6 +6473,7 @@
   },
   {
     "idSeance": "34003",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-05-04T19:00:00",
     "idSalle": [
       "JE",
@@ -6141,6 +6490,7 @@
   },
   {
     "idSeance": "33847",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-04T19:00:00",
     "idSalle": [
       "GF",
@@ -6157,6 +6507,7 @@
   },
   {
     "idSeance": "33891",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-04T21:00:00",
     "idSalle": [
       "GF",
@@ -6174,6 +6525,7 @@
   },
   {
     "idSeance": "33878",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-06T14:30:00",
     "idSalle": [
       "GF",
@@ -6191,6 +6543,7 @@
   },
   {
     "idSeance": "33471",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-05-06T15:00:00",
     "idSalle": [
       "HL",
@@ -6198,15 +6551,16 @@
     ],
     "items": [
       {
-        "idFilm": 41287,
-        "titre": "Laurel et Hardy au Far West",
-        "realisateurs": "James W. Horne",
-        "annee": 1936
+        "idFilm": 33623,
+        "titre": "Docteur Jerry et Mister Love",
+        "realisateurs": "Jerry Lewis",
+        "annee": 1962
       }
     ]
   },
   {
     "idSeance": "33472",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-06T17:00:00",
     "idSalle": [
       "GF",
@@ -6224,6 +6578,7 @@
   },
   {
     "idSeance": "33474",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-06T19:00:00",
     "idSalle": [
       "HL",
@@ -6241,6 +6596,7 @@
   },
   {
     "idSeance": "33474",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-06T19:00:00",
     "idSalle": [
       "HL",
@@ -6254,6 +6610,7 @@
   },
   {
     "idSeance": "33476",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-06T20:00:00",
     "idSalle": [
       "GF",
@@ -6284,6 +6641,7 @@
   },
   {
     "idSeance": "33478",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-06T20:30:00",
     "idSalle": [
       "JE",
@@ -6300,6 +6658,7 @@
   },
   {
     "idSeance": "33481",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-07T16:15:00",
     "idSalle": [
       "GF",
@@ -6317,6 +6676,7 @@
   },
   {
     "idSeance": "33485",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-07T19:00:00",
     "idSalle": [
       "GF",
@@ -6330,6 +6690,7 @@
   },
   {
     "idSeance": "33884",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-07T19:30:00",
     "idSalle": [
       "HL",
@@ -6346,6 +6707,7 @@
   },
   {
     "idSeance": "33484",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-07T20:30:00",
     "idSalle": [
       "JE",
@@ -6362,6 +6724,7 @@
   },
   {
     "idSeance": "33484",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-05-07T20:30:00",
     "idSalle": [
       "JE",
@@ -6378,6 +6741,7 @@
   },
   {
     "idSeance": "33479",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-07T21:30:00",
     "idSalle": [
       "GF",
@@ -6394,6 +6758,7 @@
   },
   {
     "idSeance": "33856",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-07T21:45:00",
     "idSalle": [
       "HL",
@@ -6410,6 +6775,7 @@
   },
   {
     "idSeance": "33875",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-08T14:15:00",
     "idSalle": [
       "GF",
@@ -6426,6 +6792,7 @@
   },
   {
     "idSeance": "33773",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-08T16:30:00",
     "idSalle": [
       "GF",
@@ -6442,6 +6809,7 @@
   },
   {
     "idSeance": "33487",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-08T17:00:00",
     "idSalle": [
       "HL",
@@ -6459,6 +6827,7 @@
   },
   {
     "idSeance": "33488",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-08T19:00:00",
     "idSalle": [
       "HL",
@@ -6475,6 +6844,7 @@
   },
   {
     "idSeance": "33670",
+    "cycle": "Cinéma d'avant-garde",
     "dateHeure": "2020-05-08T19:30:00",
     "idSalle": [
       "JE",
@@ -6492,6 +6862,7 @@
   },
   {
     "idSeance": "33957",
+    "cycle": "Cinéma bis",
     "dateHeure": "2020-05-08T20:00:00",
     "idSalle": [
       "GF",
@@ -6509,6 +6880,7 @@
   },
   {
     "idSeance": "33957",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-08T20:00:00",
     "idSalle": [
       "GF",
@@ -6526,6 +6898,7 @@
   },
   {
     "idSeance": "33489",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-08T21:15:00",
     "idSalle": [
       "HL",
@@ -6542,6 +6915,7 @@
   },
   {
     "idSeance": "33671",
+    "cycle": "Cinéma d'avant-garde",
     "dateHeure": "2020-05-08T21:45:00",
     "idSalle": [
       "JE",
@@ -6558,6 +6932,7 @@
   },
   {
     "idSeance": "33958",
+    "cycle": "Cinéma bis",
     "dateHeure": "2020-05-08T22:00:00",
     "idSalle": [
       "GF",
@@ -6575,6 +6950,7 @@
   },
   {
     "idSeance": "33958",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-08T22:00:00",
     "idSalle": [
       "GF",
@@ -6592,6 +6968,7 @@
   },
   {
     "idSeance": "33497",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-09T14:30:00",
     "idSalle": [
       "HL",
@@ -6608,6 +6985,7 @@
   },
   {
     "idSeance": "33639",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-09T15:00:00",
     "idSalle": [
       "GF",
@@ -6625,6 +7003,7 @@
   },
   {
     "idSeance": "33813",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-09T17:30:00",
     "idSalle": [
       "GF",
@@ -6642,6 +7021,7 @@
   },
   {
     "idSeance": "33494",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-09T18:00:00",
     "idSalle": [
       "HL",
@@ -6658,6 +7038,7 @@
   },
   {
     "idSeance": "33917",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-09T19:45:00",
     "idSalle": [
       "GF",
@@ -6675,6 +7056,7 @@
   },
   {
     "idSeance": "33500",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-09T20:30:00",
     "idSalle": [
       "JE",
@@ -6692,6 +7074,7 @@
   },
   {
     "idSeance": "33855",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-09T21:00:00",
     "idSalle": [
       "HL",
@@ -6709,6 +7092,7 @@
   },
   {
     "idSeance": "33499",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-09T21:45:00",
     "idSalle": [
       "GF",
@@ -6725,6 +7109,7 @@
   },
   {
     "idSeance": "33766",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-10T14:15:00",
     "idSalle": [
       "HL",
@@ -6742,6 +7127,7 @@
   },
   {
     "idSeance": "33501",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-10T15:00:00",
     "idSalle": [
       "GF",
@@ -6759,6 +7145,7 @@
   },
   {
     "idSeance": "33501",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-05-10T15:00:00",
     "idSalle": [
       "GF",
@@ -6776,6 +7163,7 @@
   },
   {
     "idSeance": "33506",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-10T16:30:00",
     "idSalle": [
       "HL",
@@ -6792,6 +7180,7 @@
   },
   {
     "idSeance": "33786",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-10T17:30:00",
     "idSalle": [
       "GF",
@@ -6845,6 +7234,7 @@
   },
   {
     "idSeance": "33503",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-10T18:30:00",
     "idSalle": [
       "HL",
@@ -6862,6 +7252,7 @@
   },
   {
     "idSeance": "33507",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-10T19:30:00",
     "idSalle": [
       "GF",
@@ -6878,6 +7269,7 @@
   },
   {
     "idSeance": "33504",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-10T21:00:00",
     "idSalle": [
       "HL",
@@ -6894,6 +7286,7 @@
   },
   {
     "idSeance": "33508",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-10T21:45:00",
     "idSalle": [
       "GF",
@@ -6910,6 +7303,7 @@
   },
   {
     "idSeance": "33922",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-11T14:30:00",
     "idSalle": [
       "GF",
@@ -6926,6 +7320,7 @@
   },
   {
     "idSeance": "33874",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-11T16:30:00",
     "idSalle": [
       "GF",
@@ -6942,6 +7337,7 @@
   },
   {
     "idSeance": "33920",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-11T19:00:00",
     "idSalle": [
       "GF",
@@ -6958,6 +7354,7 @@
   },
   {
     "idSeance": "33470",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-05-11T19:15:00",
     "idSalle": [
       "JE",
@@ -6987,6 +7384,7 @@
   },
   {
     "idSeance": "34004",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-05-11T21:15:00",
     "idSalle": [
       "JE",
@@ -7035,6 +7433,7 @@
   },
   {
     "idSeance": "33512",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-11T21:30:00",
     "idSalle": [
       "GF",
@@ -7051,6 +7450,7 @@
   },
   {
     "idSeance": "33876",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-13T14:15:00",
     "idSalle": [
       "GF",
@@ -7068,6 +7468,7 @@
   },
   {
     "idSeance": "33978",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-13T15:00:00",
     "idSalle": [
       "HL",
@@ -7085,6 +7486,7 @@
   },
   {
     "idSeance": "33978",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-05-13T15:00:00",
     "idSalle": [
       "HL",
@@ -7102,6 +7504,7 @@
   },
   {
     "idSeance": "33774",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-13T16:30:00",
     "idSalle": [
       "GF",
@@ -7119,6 +7522,7 @@
   },
   {
     "idSeance": "33864",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-13T19:00:00",
     "idSalle": [
       "GF",
@@ -7135,6 +7539,7 @@
   },
   {
     "idSeance": "33811",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-13T19:30:00",
     "idSalle": [
       "HL",
@@ -7152,6 +7557,7 @@
   },
   {
     "idSeance": "33521",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-13T20:30:00",
     "idSalle": [
       "JE",
@@ -7169,6 +7575,7 @@
   },
   {
     "idSeance": "33865",
+    "cycle": "Alain Resnais",
     "dateHeure": "2020-05-13T21:15:00",
     "idSalle": [
       "GF",
@@ -7185,6 +7592,7 @@
   },
   {
     "idSeance": "33812",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-13T21:45:00",
     "idSalle": [
       "HL",
@@ -7202,6 +7610,7 @@
   },
   {
     "idSeance": "33791",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-14T14:30:00",
     "idSalle": [
       "GF",
@@ -7218,6 +7627,7 @@
   },
   {
     "idSeance": "33524",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-14T17:00:00",
     "idSalle": [
       "GF",
@@ -7235,6 +7645,7 @@
   },
   {
     "idSeance": "33525",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-14T19:00:00",
     "idSalle": [
       "HL",
@@ -7252,6 +7663,7 @@
   },
   {
     "idSeance": "33528",
+    "cycle": "Parlons cinéma avec Bertrand Belin",
     "dateHeure": "2020-05-14T19:30:00",
     "idSalle": [
       "GF",
@@ -7269,6 +7681,7 @@
   },
   {
     "idSeance": "33527",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-14T20:30:00",
     "idSalle": [
       "JE",
@@ -7285,6 +7698,7 @@
   },
   {
     "idSeance": "33869",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-15T14:00:00",
     "idSalle": [
       "HL",
@@ -7302,6 +7716,7 @@
   },
   {
     "idSeance": "33619",
+    "cycle": "Conservatoire des techniques cinématographiques",
     "dateHeure": "2020-05-15T14:30:00",
     "idSalle": [
       "GF",
@@ -7315,6 +7730,7 @@
   },
   {
     "idSeance": "33530",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-15T16:00:00",
     "idSalle": [
       "HL",
@@ -7331,6 +7747,7 @@
   },
   {
     "idSeance": "33955",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-15T19:00:00",
     "idSalle": [
       "HL",
@@ -7347,6 +7764,7 @@
   },
   {
     "idSeance": "33533",
+    "cycle": "Fenêtre sur les collections",
     "dateHeure": "2020-05-15T19:30:00",
     "idSalle": [
       "GF",
@@ -7383,6 +7801,7 @@
   },
   {
     "idSeance": "33848",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-15T19:30:00",
     "idSalle": [
       "JE",
@@ -7400,6 +7819,7 @@
   },
   {
     "idSeance": "33956",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-15T21:15:00",
     "idSalle": [
       "HL",
@@ -7417,6 +7837,7 @@
   },
   {
     "idSeance": "33534",
+    "cycle": "Fenêtre sur les collections",
     "dateHeure": "2020-05-15T21:45:00",
     "idSalle": [
       "GF",
@@ -7452,6 +7873,7 @@
   },
   {
     "idSeance": "33980",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-16T15:00:00",
     "idSalle": [
       "GF",
@@ -7469,6 +7891,7 @@
   },
   {
     "idSeance": "33892",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-16T17:00:00",
     "idSalle": [
       "GF",
@@ -7485,6 +7908,7 @@
   },
   {
     "idSeance": "33541",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-16T19:00:00",
     "idSalle": [
       "GF",
@@ -7501,6 +7925,7 @@
   },
   {
     "idSeance": "33543",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-16T20:30:00",
     "idSalle": [
       "JE",
@@ -7517,6 +7942,7 @@
   },
   {
     "idSeance": "33918",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-16T21:00:00",
     "idSalle": [
       "GF",
@@ -7534,6 +7960,7 @@
   },
   {
     "idSeance": "33921",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-17T14:30:00",
     "idSalle": [
       "GF",
@@ -7551,6 +7978,7 @@
   },
   {
     "idSeance": "33948",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-17T15:00:00",
     "idSalle": [
       "HL",
@@ -7567,6 +7995,7 @@
   },
   {
     "idSeance": "33948",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-05-17T15:00:00",
     "idSalle": [
       "HL",
@@ -7583,6 +8012,7 @@
   },
   {
     "idSeance": "33850",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-17T16:30:00",
     "idSalle": [
       "GF",
@@ -7600,6 +8030,7 @@
   },
   {
     "idSeance": "33545",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-17T17:30:00",
     "idSalle": [
       "HL",
@@ -7617,6 +8048,7 @@
   },
   {
     "idSeance": "33550",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-17T19:30:00",
     "idSalle": [
       "GF",
@@ -7633,6 +8065,7 @@
   },
   {
     "idSeance": "33546",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-17T20:00:00",
     "idSalle": [
       "HL",
@@ -7649,6 +8082,7 @@
   },
   {
     "idSeance": "33551",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-17T21:00:00",
     "idSalle": [
       "GF",
@@ -7666,6 +8100,7 @@
   },
   {
     "idSeance": "33873",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-18T14:30:00",
     "idSalle": [
       "GF",
@@ -7682,6 +8117,7 @@
   },
   {
     "idSeance": "33963",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-18T16:30:00",
     "idSalle": [
       "GF",
@@ -7698,6 +8134,7 @@
   },
   {
     "idSeance": "33886",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-18T19:00:00",
     "idSalle": [
       "GF",
@@ -7715,6 +8152,7 @@
   },
   {
     "idSeance": "33889",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-18T19:30:00",
     "idSalle": [
       "HL",
@@ -7732,6 +8170,7 @@
   },
   {
     "idSeance": "33851",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-18T21:00:00",
     "idSalle": [
       "GF",
@@ -7755,6 +8194,7 @@
   },
   {
     "idSeance": "33554",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-18T21:30:00",
     "idSalle": [
       "HL",
@@ -7771,6 +8211,7 @@
   },
   {
     "idSeance": "33872",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-20T14:30:00",
     "idSalle": [
       "GF",
@@ -7788,6 +8229,7 @@
   },
   {
     "idSeance": "33557",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-05-20T15:00:00",
     "idSalle": [
       "HL",
@@ -7804,6 +8246,7 @@
   },
   {
     "idSeance": "33965",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-20T17:00:00",
     "idSalle": [
       "GF",
@@ -7820,6 +8263,7 @@
   },
   {
     "idSeance": "33559",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-20T19:00:00",
     "idSalle": [
       "HL",
@@ -7837,6 +8281,7 @@
   },
   {
     "idSeance": "33562",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-20T19:30:00",
     "idSalle": [
       "GF",
@@ -7853,6 +8298,7 @@
   },
   {
     "idSeance": "33564",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-20T20:30:00",
     "idSalle": [
       "JE",
@@ -7869,6 +8315,7 @@
   },
   {
     "idSeance": "33563",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-20T21:30:00",
     "idSalle": [
       "GF",
@@ -7886,6 +8333,7 @@
   },
   {
     "idSeance": "33560",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-20T22:00:00",
     "idSalle": [
       "HL",
@@ -7902,6 +8350,7 @@
   },
   {
     "idSeance": "33871",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-21T14:30:00",
     "idSalle": [
       "GF",
@@ -7919,6 +8368,7 @@
   },
   {
     "idSeance": "33567",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-21T16:30:00",
     "idSalle": [
       "HL",
@@ -7935,6 +8385,7 @@
   },
   {
     "idSeance": "33779",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-21T19:00:00",
     "idSalle": [
       "HL",
@@ -7951,6 +8402,7 @@
   },
   {
     "idSeance": "33571",
+    "cycle": "Parlons cinéma avec Bertrand Belin",
     "dateHeure": "2020-05-21T19:30:00",
     "idSalle": [
       "GF",
@@ -7968,6 +8420,7 @@
   },
   {
     "idSeance": "33968",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-21T20:30:00",
     "idSalle": [
       "JE",
@@ -7985,6 +8438,7 @@
   },
   {
     "idSeance": "33569",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-21T21:15:00",
     "idSalle": [
       "HL",
@@ -8001,6 +8455,7 @@
   },
   {
     "idSeance": "33870",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-22T14:30:00",
     "idSalle": [
       "HL",
@@ -8018,6 +8473,7 @@
   },
   {
     "idSeance": "33772",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-22T17:00:00",
     "idSalle": [
       "GF",
@@ -8035,6 +8491,7 @@
   },
   {
     "idSeance": "33964",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-22T19:00:00",
     "idSalle": [
       "HL",
@@ -8051,6 +8508,7 @@
   },
   {
     "idSeance": "33576",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-22T19:30:00",
     "idSalle": [
       "GF",
@@ -8074,6 +8532,7 @@
   },
   {
     "idSeance": "33578",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-22T20:30:00",
     "idSalle": [
       "JE",
@@ -8090,6 +8549,7 @@
   },
   {
     "idSeance": "33577",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-22T21:45:00",
     "idSalle": [
       "GF",
@@ -8106,6 +8566,7 @@
   },
   {
     "idSeance": "33583",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-23T14:30:00",
     "idSalle": [
       "GF",
@@ -8123,6 +8584,7 @@
   },
   {
     "idSeance": "33650",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-05-23T15:00:00",
     "idSalle": [
       "HL",
@@ -8140,6 +8602,7 @@
   },
   {
     "idSeance": "33775",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-23T16:45:00",
     "idSalle": [
       "GF",
@@ -8157,6 +8620,7 @@
   },
   {
     "idSeance": "33580",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-23T17:15:00",
     "idSalle": [
       "HL",
@@ -8174,6 +8638,7 @@
   },
   {
     "idSeance": "33584",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-23T19:00:00",
     "idSalle": [
       "GF",
@@ -8191,6 +8656,7 @@
   },
   {
     "idSeance": "33581",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-23T19:30:00",
     "idSalle": [
       "HL",
@@ -8208,6 +8674,7 @@
   },
   {
     "idSeance": "33586",
+    "cycle": "Louis de Funès",
     "dateHeure": "2020-05-23T20:30:00",
     "idSalle": [
       "JE",
@@ -8225,6 +8692,7 @@
   },
   {
     "idSeance": "33585",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-23T21:00:00",
     "idSalle": [
       "GF",
@@ -8242,6 +8710,7 @@
   },
   {
     "idSeance": "33582",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-23T21:45:00",
     "idSalle": [
       "HL",
@@ -8258,6 +8727,7 @@
   },
   {
     "idSeance": "33592",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-24T14:30:00",
     "idSalle": [
       "GF",
@@ -8275,6 +8745,7 @@
   },
   {
     "idSeance": "33649",
+    "cycle": "Gérard Oury",
     "dateHeure": "2020-05-24T15:00:00",
     "idSalle": [
       "HL",
@@ -8292,6 +8763,7 @@
   },
   {
     "idSeance": "33649",
+    "cycle": "Séances Jeune public",
     "dateHeure": "2020-05-24T15:00:00",
     "idSalle": [
       "HL",
@@ -8309,6 +8781,7 @@
   },
   {
     "idSeance": "33776",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-24T17:00:00",
     "idSalle": [
       "GF",
@@ -8331,6 +8804,7 @@
   },
   {
     "idSeance": "33588",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-24T17:30:00",
     "idSalle": [
       "HL",
@@ -8348,6 +8822,7 @@
   },
   {
     "idSeance": "33589",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-24T19:45:00",
     "idSalle": [
       "HL",
@@ -8364,6 +8839,7 @@
   },
   {
     "idSeance": "33593",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-24T20:15:00",
     "idSalle": [
       "GF",
@@ -8380,6 +8856,7 @@
   },
   {
     "idSeance": "33594",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-24T22:00:00",
     "idSalle": [
       "GF",
@@ -8396,6 +8873,7 @@
   },
   {
     "idSeance": "33596",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-25T15:30:00",
     "idSalle": [
       "GF",
@@ -8413,6 +8891,7 @@
   },
   {
     "idSeance": "33599",
+    "cycle": "Aujourd'hui le cinéma",
     "dateHeure": "2020-05-25T19:00:00",
     "idSalle": [
       "JE",
@@ -8447,6 +8926,7 @@
   },
   {
     "idSeance": "33597",
+    "cycle": "Elizabeth Taylor",
     "dateHeure": "2020-05-25T19:00:00",
     "idSalle": [
       "GF",
@@ -8463,6 +8943,7 @@
   },
   {
     "idSeance": "33598",
+    "cycle": "Hiroshi Shimizu",
     "dateHeure": "2020-05-25T21:15:00",
     "idSalle": [
       "GF",

@@ -18,7 +18,7 @@
         "duree": 119,
         "version": "VF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -35,7 +35,13 @@
     "items": [
       {
         "idFilm": 142925,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 33162,
+        "idCopie": 20877,
+        "duree": 90,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -66,7 +72,8 @@
         "idFilm": 130994,
         "ordre": 4
       }
-    ]
+    ],
+    "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps"
   },
   {
     "idCategorie": 2212,
@@ -95,7 +102,8 @@
         "idFilm": 130994,
         "ordre": 4
       }
-    ]
+    ],
+    "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps"
   },
   {
     "idCategorie": 2212,
@@ -133,13 +141,26 @@
     "items": [
       {
         "idFilm": 76899,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 33901,
+        "idCopie": 20782,
+        "duree": 60,
+        "version": "VO",
+        "format": "",
+        "valide": 1
       },
       {
         "idFilm": 128519,
-        "ordre": 2
+        "ordre": 2,
+        "idSeance": 33901,
+        "idCopie": 16174,
+        "duree": 7,
+        "version": "",
+        "format": "",
+        "valide": 1
       }
-    ]
+    ],
+    "titreEvenement": "Séance à remonter le temps"
   },
   {
     "idCategorie": 2212,
@@ -153,18 +174,35 @@
     ],
     "items": [
       {
-        "idFilm": 36411,
-        "ordre": 1
+        "idFilm": 89961,
+        "ordre": 1,
+        "idSeance": 33256,
+        "idCopie": 20874,
+        "duree": 11,
+        "version": "INT. FR.",
+        "format": "",
+        "valide": 0
       },
       {
-        "idFilm": 66592,
+        "idFilm": 44652,
         "ordre": 2
       },
       {
-        "idFilm": 89961,
-        "ordre": 3
+        "idFilm": 60581,
+        "ordre": 3,
+        "idSeance": 33256,
+        "idCopie": 20875,
+        "duree": 10,
+        "version": "",
+        "format": "",
+        "valide": 0
+      },
+      {
+        "idFilm": 86285,
+        "ordre": 4
       }
-    ]
+    ],
+    "titreEvenement": "Programme de courts métrages : Burlesques !"
   },
   {
     "idCategorie": 2212,
@@ -271,14 +309,14 @@
     ],
     "items": [
       {
-        "idFilm": 33623,
+        "idFilm": 41287,
         "ordre": 1,
         "idSeance": 33299,
-        "idCopie": 9424,
-        "duree": 118,
-        "version": "VOSTF",
+        "idCopie": 17717,
+        "duree": 64,
+        "version": "VF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -309,7 +347,8 @@
         "idFilm": 130994,
         "ordre": 4
       }
-    ]
+    ],
+    "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps"
   },
   {
     "idCategorie": 2212,
@@ -356,7 +395,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Danièle Thompson"
   },
   {
     "idCategorie": 2212,
@@ -400,7 +440,7 @@
         "duree": 0,
         "version": "VOSTF",
         "format": "",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -579,14 +619,14 @@
     ],
     "items": [
       {
-        "idFilm": 41287,
+        "idFilm": 33623,
         "ordre": 1,
         "idSeance": 33471,
-        "idCopie": 17717,
-        "duree": 64,
-        "version": "VF",
+        "idCopie": 9424,
+        "duree": 118,
+        "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -701,7 +741,7 @@
         "duree": 71,
         "version": "INT. FR.",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
