@@ -7,6 +7,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Hadrien La Vapeur et Corto Vaclav",
     "items": [
       {
         "idFilm": 143698,
@@ -58,6 +59,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Avant-première. Séance suivie d'une discussion avec Hadrien La Vapeur et Corto Vaclav",
     "items": [
       {
         "idFilm": 143674,
@@ -374,6 +376,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Eric Falardeau",
     "items": [
       {
         "idFilm": 143683,
@@ -459,6 +462,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Eric Falardeau",
     "items": [
       {
         "idFilm": 143746,
@@ -740,6 +744,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Laurent Roth",
     "items": [
       {
         "idFilm": 75433,
@@ -774,6 +779,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Frédéric Farrucci",
     "items": [
       {
         "idFilm": 143676,
@@ -827,6 +833,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Avant-première. Séance présentée par Frédéric Farrucci",
     "items": [
       {
         "idFilm": 143675,
@@ -868,6 +875,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 111098,
@@ -1074,6 +1082,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 77487,
@@ -1126,6 +1135,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Luigi Cozzi",
     "items": [
       {
         "idFilm": 136853,
@@ -1203,6 +1213,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Luigi Cozzi",
     "items": [
       {
         "idFilm": 100128,
@@ -1255,6 +1266,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "mention": "Séance présentée par Damien Bertrand",
     "items": [
       {
         "idFilm": 103858,
@@ -1581,6 +1593,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Morgan Pokée",
     "items": [
       {
         "idFilm": 143268,
@@ -1909,6 +1922,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "mention": "Séance présentée par Damien Bertrand",
     "items": [
       {
         "idFilm": 50719,
@@ -2647,6 +2661,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "mention": "Séance présentée par Paola Palma",
     "items": [
       {
         "idFilm": 47423,
@@ -2717,6 +2732,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "mention": "Séance présentée par Valérie Pozner",
     "items": [
       {
         "idFilm": 58757,
@@ -3202,6 +3218,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "mention": "Séance suivie d'une discussion avec Konstantina Kotzamani. Séance présentée par Konstantina Kotzamani",
     "items": [
       {
         "idFilm": 38919,
@@ -3329,6 +3346,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 43230,
@@ -3493,6 +3511,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Gabriela Trujillo",
     "items": [
       {
         "idFilm": 51061,
@@ -3691,6 +3710,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Serge Korber",
     "items": [
       {
         "idFilm": 52146,
@@ -3709,6 +3729,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Serge Korber",
     "items": [
       {
         "idFilm": 52146,
@@ -3727,6 +3748,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Anna Mouglalis",
     "items": [
       {
         "idFilm": 82158,
@@ -3759,6 +3781,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Serge Korber",
     "items": [
       {
         "idFilm": 52216,
@@ -3898,6 +3921,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance suivie d'une discussion avec Danièle Thompson",
     "items": [
       {
         "idFilm": 56672,
@@ -3934,6 +3958,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Danièle Thompson",
     "items": [
       {
         "idFilm": 36213,
@@ -3987,6 +4012,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Pierre Richard (sous réserve)",
     "items": [
       {
         "idFilm": 50458,
@@ -4255,6 +4281,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 50865,
@@ -4594,6 +4621,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Fanny Ardant (sous réserve)",
     "items": [
       {
         "idFilm": 50895,
@@ -5000,6 +5028,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "mention": "Séance suivie d'une discussion avec Matthieu Bareyre",
     "items": [
       {
         "idFilm": 141518,
@@ -5052,6 +5081,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "mention": "Séance présentée par Matthieu Bareyre",
     "items": [
       {
         "idFilm": 75270,
@@ -5120,6 +5150,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Blutch, Jean-Louis Livi et Caroline Silhol",
     "items": [
       {
         "idFilm": 122610,
@@ -5137,6 +5168,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 142781,
@@ -5190,6 +5222,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Bernard Benoliel",
     "items": [
       {
         "idFilm": 143682,
@@ -5275,6 +5308,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Bruno Pesery",
     "items": [
       {
         "idFilm": 100322,
@@ -5377,6 +5411,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Accompagnement musical par Jean-François Zygel",
     "items": [
       {
         "idFilm": 122752,
@@ -5443,6 +5478,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Bruno Podalydès",
     "items": [
       {
         "idFilm": 115825,
@@ -5552,6 +5588,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Accompagnement musical par Jean-François Zygel. Séance présentée par Jo Osawa",
     "items": [
       {
         "idFilm": 142727,
@@ -5679,6 +5716,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Accompagnement musical par Jean-François Zygel. Séance présentée par Jo Osawa",
     "items": [
       {
         "idFilm": 142718,
@@ -5713,6 +5751,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Jo Osawa",
     "items": [
       {
         "idFilm": 142752,
@@ -5753,6 +5792,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "mention": "Séance suivie d'une discussion avec Alexis Langlois",
     "items": [
       {
         "idFilm": 143685,
@@ -5782,6 +5822,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Accompagnement musical par Jean-François Zygel",
     "items": [
       {
         "idFilm": 142720,
@@ -5800,6 +5841,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "mention": "Séance présentée par Alexis Langlois",
     "items": [
       {
         "idFilm": 125141,
@@ -5894,6 +5936,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Ouverture de la rétrospective",
     "items": [
       {
         "idFilm": 45517,
@@ -6868,6 +6911,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Christine Dejoux",
     "items": [
       {
         "idFilm": 54589,
@@ -6886,6 +6930,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Christine Dejoux",
     "items": [
       {
         "idFilm": 54589,
@@ -6974,6 +7019,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Renato Berta",
     "items": [
       {
         "idFilm": 52306,
@@ -6991,6 +7037,7 @@
       "GF",
       "Georges Franju"
     ],
+    "mention": "Séance présentée par Bernard Menez (sous réserve)",
     "items": [
       {
         "idFilm": 48655,
@@ -7027,6 +7074,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Renato Berta",
     "items": [
       {
         "idFilm": 55379,
@@ -7080,6 +7128,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Laurent Herbiet et Christophe Jeauffroy",
     "items": [
       {
         "idFilm": 108190,
@@ -7360,6 +7409,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "mention": "Séance présentée par Anne Luthaud",
     "items": [
       {
         "idFilm": 143870,
@@ -8751,6 +8801,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Danièle Thompson (sous réserve)",
     "items": [
       {
         "idFilm": 50400,
@@ -8769,6 +8820,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "mention": "Séance présentée par Danièle Thompson (sous réserve)",
     "items": [
       {
         "idFilm": 50400,
@@ -8897,6 +8949,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "mention": "Séance présentée par Miguel Valverde",
     "items": [
       {
         "idFilm": 143869,
