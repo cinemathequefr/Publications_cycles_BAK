@@ -247,7 +247,13 @@
     "items": [
       {
         "idFilm": 42434,
-        "ordre": 1
+        "ordre": 1,
+        "idSeance": 32896,
+        "idCopie": 20689,
+        "duree": 105,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
       }
     ],
     "mention": "Séance présentée par Eric Antoine Lebon"

@@ -53,7 +53,7 @@ Une jeune journaliste anglaise part en Inde pour reconstituer le passé teinté 
 **Chambre avec vue**  
 **(A Room With a View)**  
 de James Ivory  
-Grande-Bretagne / 1985 / 116 min / VOSTF / 35 mm  
+Grande-Bretagne / 1985 / 117 min / VOSTF / DCP  
 D'après le roman _Avec vue sur l'Arno_ d'E. M. Forster.  
 Avec Helena Bonham Carter, Daniel Day-Lewis, Maggie Smith, Julian Sands.  
 Florence, 1905. En vacances avec sa cousine qui lui sert de chaperon, une jeune Anglaise de bonne famille rencontre d'autres sujets britanniques, dont l'un est particulièrement séduisant.
@@ -96,7 +96,7 @@ Film précédé d'_Autobiographie d'une princesse_ de James Ivory
 [86798]  
 **Le Divorce**  
 de James Ivory  
-États-Unis / 2002 / 115 min / VOSTF  
+États-Unis / 2002 / 117 min / VOSTF  
 D'après le roman _Une Américaine à Paris_ de Diane Johnson.  
 Avec Kate Hudson, Naomi Watts, Jean-Marc Barr, Romain Duris.  
 Les aventures et les déboires amoureux de deux sœurs américaines en voyage à Paris, l'une au bord du divorce, l'autre entraînée dans une relation compliquée.
@@ -174,7 +174,7 @@ Dans la réserve d'un palais indien, au cœur du désert du Rajasthan, des colle
 [67384]  
 **Jane Austen in Manhattan**  
 de James Ivory  
-États-Unis / 1980 / 108 min / VOSTF / 16 mm  
+États-Unis / 1980 / 108 min / VOSTF / Vidéo  
 Avec Anne Baxter, Robert Powell, Sean Young.  
 À New York, deux compagnies théâtrales se disputent le droit de monter une pièce écrite par Jane Austen dans sa jeunesse, et récemment découverte.
 
@@ -301,7 +301,7 @@ Shanghaï, années 1930. Les relations entre un diplomate anglais devenu aveugle
 [32886]  
 **The Wild Party**  
 de James Ivory  
-États-Unis / 1974 / 100 min / VOSTF / 35 mm  
+États-Unis / 1974 / 101 min / VOSTF / 35 mm  
 D'après la pièce _The Wild Party_ de Joseph Moncure March.  
 Avec James Coco, Raquel Welch, Perry King.  
 Jolly Grimm, ancienne vedette du cinéma muet, organise chez lui une réception et convie le gotha du cinéma pour retrouver la gloire et reconquérir la femme qu'il aime. Mais la soirée tourne au drame.
@@ -324,14 +324,11 @@ Infirmière dans une bourgade de l'Inde en 1954, Cotton Mary est tiraillée entr
 [67382]  
 **The Courtesans of Bombay**  
 de James Ivory, Ismail Merchant  
-États-Unis / 1982 / 73 min / VO / 35 mm  
-Documentaire tourné au début des années 1980 dans Pavan Pool, à Bombay, où les femmes pauvres chantent et dansent le jour, et offrent leurs charmes la nuit.  
-Film précédé de _Mahatma and the Mad Boy_ d'Ismail Merchant
+États-Unis / 1982 / 73 min / VOSTF / 35 mm  
+Documentaire tourné au début des années 1980 dans Pavan Pool, à Bombay, où les femmes pauvres chantent et dansent le jour, et offrent leurs charmes la nuit.
 
 - je 23 jan 19h00 GF  
-Film précédé de _Mahatma and the Mad Boy_ d'Ismail Merchant  
-- ve 7 fév 17h00 GF  
-Film précédé de _Mahatma and the Mad Boy_ d'Ismail Merchant
+- ve 7 fév 17h00 GF
 
 [59782]  
 **In Custody**  
@@ -341,19 +338,6 @@ Avec Shashi Kapoor, Shabana Azmi, Om Puri, Sushma Seth.
 Deven, professeur de lettres dans un collège, arrive à Bhopal pour interviewer son idole, le grand poète Nur.
 
 - me 12 fév 19h30 JE
-
-[143204]  
-**Mahatma and the Mad Boy**  
-d'Ismail Merchant  
-Grande-Bretagne / 1972 / 26 min / VOSTF / Vidéo  
-Avec Sajid Khan, Sulochanna.  
-À Bombay, un jeune vagabond vit sur la plage avec pour seule compagnie son singe, et la statue du Mahatma Gandhi au pied de laquelle il a pris l'habitude de dormir. Un jour, un groupe de riches visiteurs vient y célébrer une cérémonie.  
-Film suivi de _The Courtesans of Bombay_ de James Ivory, Ismail Merchant
-
-- je 23 jan 19h00 GF  
-Film suivi de _The Courtesans of Bombay_ de James Ivory, Ismail Merchant  
-- ve 7 fév 17h00 GF  
-Film suivi de _The Courtesans of Bombay_ de James Ivory, Ismail Merchant
 
 [78171]  
 **The Mystic Masseur**  
@@ -388,7 +372,7 @@ suivi de
 [101749]  
 **The Sword and the Flute**  
 de James Ivory  
-États-Unis / 1959 / 23 min / VOSTF / 35 mm  
+États-Unis / 1959 / 23 min / VOSTF / Vidéo  
 L'histoire des miniatures indiennes, peintures développées selon deux écoles principales, celle des Moghols et celle des Rajputs.  
 suivi de  
 [67388]  
@@ -401,7 +385,7 @@ suivi de
 [101750]  
 **The Creation of Woman**  
 de Charles F. Schwep  
-États-Unis-Inde / 1960 / 14 min / VOSTF / 16 mm  
+États-Unis-Inde / 1960 / 14 min / VOSTF / 35 mm  
 Avec Bhaskar Roy Chaudhuri, Anjali Devi.  
 Adam appelle Dieu pour qu'il lui donne un partenaire féminin. Ève est créée, mais Adam découvre qu'il ne peut vivre ni avec elle, ni sans elle.  
 Premier film produite par Ismail Merchant.

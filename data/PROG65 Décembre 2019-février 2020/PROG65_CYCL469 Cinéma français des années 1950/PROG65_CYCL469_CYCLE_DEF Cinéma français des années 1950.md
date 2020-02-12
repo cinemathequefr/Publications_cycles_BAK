@@ -71,7 +71,7 @@ Un avocat rayé du barreau organise un hold-up dans le petit port méditerranée
 [50553]  
 **Casabianca**  
 de Georges Péclet  
-France / 1950 / 68 min / VO / 35 mm  
+France / 1950 / 84 min / 35 mm  
 Avec Pierre Dudan, Paulette Andrieux, Jean Vilar.  
 Toulon, 1942. Pour ne pas tomber aux mains des Allemands, la flotte française se saborde, mais le capitaine L'Herminier et son équipage décident de continuer la guerre aux côtés des Alliés.
 
@@ -89,7 +89,7 @@ Un jeune campeur est pris en stop par une femme qu'il a vue en rêve. Lorsqu'ell
 [46545]  
 **Le Dindon**  
 de Claude Barma  
-France / 1951 / 79 min / 35 mm  
+France / 1951 / 80 min / VO / 35 mm  
 D'après la pièce _Le Dindon_ de Georges Feydeau.  
 Avec Nadine Alari, Jacques Charon, Jacqueline Pierreux, Louis de Funès.  
 Monsieur de Pontagnac adore les jolies femmes, mais sa passion lui joue des tours, et il se retrouve entraîné dans une sombre histoire d'adultère.
@@ -157,7 +157,7 @@ En Europe centrale, alors qu'éclate une guerre mondiale, un jeune bourgeois, fi
 [47424]  
 **Maître après Dieu**  
 de Louis Daquin  
-France / 1950 / 92 min / 35 mm  
+France / 1950 / 92 min / Numérique  
 D'après la pièce _Maître après Dieu_ de Jan de Hartog.  
 Avec Pierre Brasseur, Loleh Bellon, Jean-Pierre Grenier.  
 En 1938, le flibustier Joris Knipper marchande le transport de passagers juifs jusqu'en Égypte. Mais lorsqu'il s'aperçoit qu'il ne peut légalement pas les débarquer, sa foi chrétienne le rattrape, et il refuse de les ramener en Allemagne.
@@ -167,7 +167,7 @@ En 1938, le flibustier Joris Knipper marchande le transport de passagers juifs j
 [46387]  
 **Les Miracles n'ont lieu qu'une fois**  
 de Yves Allégret  
-France-Italie / 1950 / 101 min / 35 mm  
+France-Italie / 1950 / 102 min / VO / 35 mm  
 Avec Alida Valli, Jean Marais, Christine Chesnay.  
 En 1939, Claudia et Jérôme tombent éperdument amoureux l'un de l'autre. Mais la guerre va les séparer.
 
@@ -206,7 +206,7 @@ Interprétation moderne du mythe d'Orphée.
 **Peppino et Violetta**  
 **(Peppino e Violetta)**  
 de Maurice Cloche  
-Italie-France / 1950 / 82 min / VF / 35 mm  
+Italie-France / 1950 / 85 min / VF / 35 mm  
 Avec Vittorio Manunta, Denis O'Dea, Guido Celano.  
 Violetta, l'ânesse de Peppino, est malade. Pour l'enfant, seul Saint François d'Assise, patron des animaux, peut la guérir. Il entreprend alors le voyage jusqu'à Rome, pour lui demander son aide.
 
@@ -225,7 +225,7 @@ _Le Masque_ : afin de poursuivre une jeunesse perdue, un vieillard porte un masq
 [46606]  
 **Le Rideau rouge**  
 d'André Barsacq  
-France / 1952 / 83 min / 35 mm  
+France / 1952 / 84 min / VO / 35 mm  
 Avec Michel Simon, Pierre Brasseur, Monelle Valentin.  
 Directeur d'un grand théâtre parisien, le cynique Bertal est assassiné dans sa loge juste avant une représentation de _Macbeth_. Les soupçons se portent sur un des comédiens.
 

@@ -18,10 +18,10 @@
 
 <pstyle:TITRE>Akbar in Cineland
 <pstyle:TECHNIQUE>de Jean-Marie Bénard
-<pstyle:TECHNIQUE>États-Unis/1969/30<0x2019>/VO/16mm
+<pstyle:TECHNIQUE>États-Unis/1969/30<0x2019>/VO/Numérique
 <pstyle:SYNOPSIS>«<0x00A0>Ahmad Akbar, cinéaste, voit grand. Son projet<0x00A0>: créer un lieu de cinéma exclusivement réservé aux cinéastes noirs, quelque part dans le désert, loin de Los Angeles, loin de Hollywood. Cineland. <ct:Italic>That<0x2019>s the name of that place, man. Cineland!<ct:> Akbar, lui aussi, fait le Rêve Américain, la version noire de l<0x2019>American Dream. La version blanche était fragile. La version noire est désespérée.<0x00A0>» (Jean-Marie Bénard)
 <pstyle:SUIVI_DE>Suivi de
-<pstyle:TITRE>Angela Davis, portrait d'une révolutionnaire
+<pstyle:TITRE>Angela Davis, portrait d<0x2019>une révolutionnaire
 <pstyle:TECHNIQUE>de Yolande Du Luart
 <pstyle:TECHNIQUE>France/1970/60<0x2019>/VOSTF/16mm
 <pstyle:TECHNIQUE>Avec Angela Davis.

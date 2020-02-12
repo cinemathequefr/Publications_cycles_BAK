@@ -175,9 +175,9 @@
         "idFilm": 50553,
         "ordre": 1,
         "idSeance": 32150,
-        "idCopie": 19839,
-        "duree": 68,
-        "version": "VO",
+        "idCopie": 20394,
+        "duree": 84,
+        "version": "",
         "format": "35 mm",
         "valide": 1
       }
@@ -244,11 +244,11 @@
         "idFilm": 47424,
         "ordre": 1,
         "idSeance": 32706,
-        "idCopie": 19853,
+        "idCopie": 20408,
         "duree": 92,
         "version": "",
-        "format": "35 mm",
-        "valide": 0
+        "format": "Numérique",
+        "valide": 1
       }
     ]
   },
@@ -383,8 +383,8 @@
         "ordre": 1,
         "idSeance": 32242,
         "idCopie": 4737,
-        "duree": 101,
-        "version": "",
+        "duree": 102,
+        "version": "VO",
         "format": "35 mm",
         "valide": 1
       }
@@ -409,7 +409,7 @@
         "duree": 92,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -429,7 +429,7 @@
         "ordre": 1,
         "idSeance": 32258,
         "idCopie": 19856,
-        "duree": 82,
+        "duree": 85,
         "version": "VF",
         "format": "35 mm",
         "valide": 1
@@ -475,8 +475,8 @@
         "ordre": 1,
         "idSeance": 32293,
         "idCopie": 702,
-        "duree": 79,
-        "version": "",
+        "duree": 80,
+        "version": "VO",
         "format": "35 mm",
         "valide": 1
       }
@@ -547,7 +547,7 @@
         "duree": 90,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -589,11 +589,11 @@
         "idFilm": 37690,
         "ordre": 1,
         "idSeance": 32473,
-        "idCopie": 19832,
+        "idCopie": 20011,
         "duree": 90,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -613,8 +613,8 @@
         "ordre": 1,
         "idSeance": 32537,
         "idCopie": 20014,
-        "duree": 83,
-        "version": "",
+        "duree": 84,
+        "version": "VO",
         "format": "35 mm",
         "valide": 1
       }

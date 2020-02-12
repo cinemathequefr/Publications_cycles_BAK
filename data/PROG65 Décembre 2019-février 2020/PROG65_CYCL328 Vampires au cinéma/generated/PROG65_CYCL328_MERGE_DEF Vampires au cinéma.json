@@ -540,7 +540,7 @@
           "realisateurs": "Franz Josef Gottlieb",
           "annee": 1975,
           "pays": "RFA",
-          "duree": 85,
+          "duree": 86,
           "version": "VF",
           "format": "35 mm",
           "ageMinimal": null,
@@ -878,9 +878,9 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 33616,
+          "idSeance": 33894,
           "ordre": 1,
-          "dateHeure": "2020-01-12T00:30:00",
+          "dateHeure": "2020-01-11T22:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -912,9 +912,9 @@
           ]
         },
         {
-          "idSeance": 32789,
+          "idSeance": 33895,
           "ordre": 1,
-          "dateHeure": "2020-01-11T22:00:00",
+          "dateHeure": "2020-01-12T00:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -929,7 +929,7 @@
           "annee": 1970,
           "pays": "États-Unis",
           "duree": 74,
-          "version": "VFSTF",
+          "version": "VF",
           "format": "35 mm",
           "ageMinimal": 0,
           "generique": [

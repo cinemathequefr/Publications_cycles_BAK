@@ -18,7 +18,7 @@ Grande-Bretagne / 2019 / 83 min / VOSTF / DCP
 Avec Morfydd Clark, Jennifer Ehle, Lily Frazer.  
 Maud, infirmière à domicile, s'installe chez Amanda, une célèbre danseuse fragilisée par la maladie qui la maintient cloîtrée dans son immense maison. Amanda est d'abord intriguée par cette étrange jeune femme très croyante, qui la distrait. Maud, elle, est fascinée par sa patiente. Mais les apparences sont trompeuses. Maud, tourmentée par un terrible secret et par les messages qu'elle pense recevoir directement de Dieu, se persuade qu'elle doit accomplir une mission : sauver l'âme d'Amanda.
 
-- je 6 fév 21h45 HL
+- je 6 fév 21h45 GF
 
 [143717]  
 **Sea Fever**  

@@ -96,7 +96,7 @@ Le shérif de Silver City et son adjoint essayent de neutraliser une bande armé
 
 [45130]  
 **L'Enfer est pour les héros**  
-**(Hell is for Heroes)**  
+**(Hell Is for Heroes)**  
 de Don Siegel  
 États-Unis / 1961 / 90 min / VOSTF / 35 mm  
 Avec Steve McQueen, James Coburn, Bobby Darin, Fess Parker.  
@@ -442,7 +442,7 @@ Après s'être cassé la main, Salvadore, un jeune homme désargenté et agressi
 **L'Inspecteur Harry ou le mystère de l'incarnation**  
 undefined  
 90 min  
-Le cinéma de Don Siegel, particulièrement depuis _L'Invasion des profanateurs de sépultures,_ que le cinéaste réalise en 1956, semble être une perpétuelle exploration des différents états de la figure humaine. À quel moment l'individu perd-il son humanité ? L'inhumanité est-elle le contraire de l'humanité ou l'une de ses expressions possibles et ultimes ? Silhouettes mécaniques et aveugles, marionnettes glaciales en proie à une déperdition des sentiments, les personnages siegéliens ne cessent d'être confrontés à l'ambiguïté de leur être et à l'anéantissement de leur nature. Mais la menace de la perte de ce qui fonde l'humain ne renvoie-t-elle pas aussi à son contraire : la quête de l'incarnation ? « En Jésus-Christ, Dieu a pris chair, s'est incarné. Il est devenu un homme dans notre histoire : le Verbe s'est fait chair, il a habité parmi nous et nous avons vu sa gloire. » (Évangile selon Jean, 1:14) Une question éminemment cinématographique que pose encore en 1971 _L'Inspecteur Harry._  
+Le cinéma de Don Siegel, particulièrement depuis _L'Invasion des profanateurs de sépultures,_ que le cinéaste réalise en 1956, semble être une perpétuelle exploration des différents états de la figure humaine. À quel moment l'individu perd-il son humanité ? L'inhumanité est-elle le contraire de l'humanité ou l'une de ses expressions possibles et ultimes ? Silhouettes mécaniques et aveugles, marionnettes glaciales en proie à une déperdition des sentiments, les personnages siegéliens ne cessent d'être confrontés à l'ambiguïté de leur être et à l'anéantissement de leur nature. Mais la menace de la perte de ce qui fonde l'humain ne renvoie-t-elle pas aussi à son contraire : la quête de l'incarnation ? « En Jésus-Christ, Dieu a pris chair, s'est incarné. Il est devenu un homme dans notre histoire : le Verbe s'est fait chair, il a habité parmi nous et nous avons vu sa gloire. » (L'Évangile selon Jean, 1:14) Une question éminemment cinématographique que pose encore en 1971 _L'Inspecteur Harry._  
 Jean-François Rauger est directeur de la programmation de la Cinémathèque française.
 
 - je 26 mar 19h00 HL

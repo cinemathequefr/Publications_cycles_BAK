@@ -40,7 +40,7 @@
 <pstyle:TITRE>China Venture
 <pstyle:TECHNIQUE>de Don Siegel
 <pstyle:TECHNIQUE>États-Unis/1953/82<0x2019>/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Edmond O'Brien, Barry Sullivan, Jocelyn Brando.
+<pstyle:TECHNIQUE>Avec Edmond O<0x2019>Brien, Barry Sullivan, Jocelyn Brando.
 <pstyle:SYNOPSIS>Pendant la Seconde Guerre mondiale, une troupe de soldats américains part en mission dans le Sud de la Chine pour délivrer un prisonnier important.
 <pstyle:><cstyle:INFOSBLEUES>me 08 avrXXX14h30XXX
 <cstyle:SALLESBLEUES>B
@@ -94,8 +94,8 @@
 <cstyle:INFOSBLEUES>di 05 avrXXX19h30XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>L'Enfer est pour les héros
-<pstyle:TITRE_ANG>(Hell is for Heroes)
+<pstyle:TITRE>L<0x2019>Enfer est pour les héros
+<pstyle:TITRE_ANG>(Hell Is for Heroes)
 <pstyle:TECHNIQUE>de Don Siegel
 <pstyle:TECHNIQUE>États-Unis/1961/90<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Steve McQueen, James Coburn, Bobby Darin, Fess Parker.
@@ -105,7 +105,7 @@
 <cstyle:INFOSBLEUES>sa 18 avrXXX21h30XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>L'Ennemi public
+<pstyle:TITRE>L<0x2019>Ennemi public
 <pstyle:TITRE_ANG>(Baby Face Nelson)
 <pstyle:TECHNIQUE>de Don Siegel
 <pstyle:TECHNIQUE>États-Unis/1957/85<0x2019>/VOSTF/35mm
@@ -116,7 +116,7 @@
 <cstyle:INFOSBLEUES>di 19 avrXXX18h45XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>L'Évadé d'Alcatraz
+<pstyle:TITRE>L<0x2019>Évadé d<0x2019>Alcatraz
 <pstyle:TITRE_ANG>(Escape from Alcatraz)
 <pstyle:TECHNIQUE>de Don Siegel
 <pstyle:TECHNIQUE>États-Unis/1979/112<0x2019>/VOSTF/35mm
@@ -175,7 +175,7 @@
 <cstyle:SALLESBLEUES>B
 <pstyle:EVENEMENT>Film suivi de <cSkew:9>Le Verdict<cSkew:> de Don Siegel
 
-<pstyle:TITRE>L'Homme en fuite
+<pstyle:TITRE>L<0x2019>Homme en fuite
 <pstyle:TITRE_ANG>(Stranger on the Run)
 <pstyle:TECHNIQUE>de Don Siegel
 <pstyle:TECHNIQUE>États-Unis/1967/97<0x2019>/VOSTF/35mm
@@ -197,7 +197,7 @@
 <cstyle:INFOSBLEUES>me 15 avrXXX19h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>L'Inspecteur Harry
+<pstyle:TITRE>L<0x2019>Inspecteur Harry
 <pstyle:TITRE_ANG>(Dirty Harry)
 <pstyle:TECHNIQUE>de Don Siegel
 <pstyle:TECHNIQUE>États-Unis/1971/102<0x2019>/VOSTF/DCP
@@ -208,7 +208,7 @@
 <cstyle:INFOSBLEUES>di 12 avrXXX19h00XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>L'Invasion des profanateurs de sépultures
+<pstyle:TITRE>L<0x2019>Invasion des profanateurs de sépultures
 <pstyle:TITRE_ANG>(Invasion of the Body Snatchers)
 <pstyle:TECHNIQUE>de Don Siegel
 <pstyle:TECHNIQUE>États-Unis/1955/80<0x2019>/VOSTF/DCP
@@ -265,12 +265,12 @@
 <cstyle:INFOSBLEUES>ve 10 avrXXX21h15XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>Le Prix d'un meurtre
+<pstyle:TITRE>Le Prix d<0x2019>un meurtre
 <pstyle:TITRE_ANG>(The Hanged Man)
 <pstyle:TECHNIQUE>de Don Siegel
 <pstyle:TECHNIQUE>États-Unis/1964/87<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Ride the Pink Horse<cSkew:> de Dorothy B. Hughes.
-<pstyle:TECHNIQUE>Avec Robert Culp, Edmond O'Brien, Vera Miles.
+<pstyle:TECHNIQUE>Avec Robert Culp, Edmond O<0x2019>Brien, Vera Miles.
 <pstyle:SYNOPSIS>À la Nouvelle-Orléans, en plein carnaval, un homme recherche le meurtrier de son ami.
 <pstyle:><cstyle:INFOSBLEUES>lu 06 avrXXX17h00XXX
 <cstyle:SALLESBLEUES>B
@@ -359,7 +359,7 @@
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Un shérif à New York
-<pstyle:TITRE_ANG>(Coogan's Bluff)
+<pstyle:TITRE_ANG>(Coogan<0x2019>s Bluff)
 <pstyle:TECHNIQUE>de Don Siegel
 <pstyle:TECHNIQUE>États-Unis/1967/95<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Clint Eastwood, Lee J. Cobb, Susan Clark, Tisha Sterling.
@@ -371,9 +371,9 @@
 
 <pstyle:TITRE>Une poignée de plombs
 <pstyle:TITRE_ANG>(Death of a Gunfighter)
-<pstyle:TECHNIQUE>d'Alan Smithee
+<pstyle:TECHNIQUE>d<0x2019>Alan Smithee
 <pstyle:TECHNIQUE>États-Unis/1968/94<0x2019>/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Richard Widmark, Lena Horne, Carroll O'Connor.
+<pstyle:TECHNIQUE>Avec Richard Widmark, Lena Horne, Carroll O<0x2019>Connor.
 <pstyle:SYNOPSIS>Une petite ville du Texas, à la fin du XIX<cPosition:Superscript>e<cPosition:> siècle. Le shérif Frank Patch, autrefois apprécié pour sa brutalité, se voit désormais reprocher ses méthodes par les habitants de la petite ville où il fait régner la loi depuis des années.
 <pstyle:INFOS_UTILES>Allan Smithee est le pseudonyme utilisé par les réalisateurs mécontents de leur film, généralement à la suite de différends avec la production. Pour <cSkew:9>Une poignée de plombs<cSkew:>, il s<0x2019>agit de Don Siegel et Robert Totten.
 <pstyle:><cstyle:INFOSBLEUES>ve 10 avrXXX16h45XXX
@@ -432,10 +432,10 @@
 
 <pstyle:CATEGORIE>Rencontres et conférences
 
-<pstyle:TITRE>L'Inspecteur Harry ou le mystère de l'incarnation
+<pstyle:TITRE>L<0x2019>Inspecteur Harry ou le mystère de l<0x2019>incarnation
 <pstyle:TECHNIQUE>undefined
 <pstyle:TECHNIQUE>90<0x2019>
-<pstyle:SYNOPSIS>Le cinéma de Don Siegel, particulièrement depuis <ct:Italic>L<0x2019>Invasion des profanateurs de sépultures,<ct:> que le cinéaste réalise en 1956, semble être une perpétuelle exploration des différents états de la figure humaine. À quel moment l<0x2019>individu perd-il son humanité<0x00A0>? L<0x2019>inhumanité est-elle le contraire de l<0x2019>humanité ou l<0x2019>une de ses expressions possibles et ultimes<0x00A0>? Silhouettes mécaniques et aveugles, marionnettes glaciales en proie à une déperdition des sentiments, les personnages siegéliens ne cessent d<0x2019>être confrontés à l<0x2019>ambiguïté de leur être et à l<0x2019>anéantissement de leur nature. Mais la menace de la perte de ce qui fonde l<0x2019>humain ne renvoie-t-elle pas aussi à son contraire<0x00A0>: la quête de l<0x2019>incarnation<0x00A0>? «<0x00A0>En Jésus-Christ, Dieu a pris chair, s<0x2019>est incarné. Il est devenu un homme dans notre histoire<0x00A0>: le Verbe s<0x2019>est fait chair, il a habité parmi nous et nous avons vu sa gloire.<0x00A0>» (Évangile selon Jean, 1:14) Une question éminemment cinématographique que pose encore en 1971 <ct:Italic>L<0x2019>Inspecteur Harry.<ct:>
+<pstyle:SYNOPSIS>Le cinéma de Don Siegel, particulièrement depuis <ct:Italic>L<0x2019>Invasion des profanateurs de sépultures,<ct:> que le cinéaste réalise en 1956, semble être une perpétuelle exploration des différents états de la figure humaine. À quel moment l<0x2019>individu perd-il son humanité<0x00A0>? L<0x2019>inhumanité est-elle le contraire de l<0x2019>humanité ou l<0x2019>une de ses expressions possibles et ultimes<0x00A0>? Silhouettes mécaniques et aveugles, marionnettes glaciales en proie à une déperdition des sentiments, les personnages siegéliens ne cessent d<0x2019>être confrontés à l<0x2019>ambiguïté de leur être et à l<0x2019>anéantissement de leur nature. Mais la menace de la perte de ce qui fonde l<0x2019>humain ne renvoie-t-elle pas aussi à son contraire<0x00A0>: la quête de l<0x2019>incarnation<0x00A0>? «<0x00A0>En Jésus-Christ, Dieu a pris chair, s<0x2019>est incarné. Il est devenu un homme dans notre histoire<0x00A0>: le Verbe s<0x2019>est fait chair, il a habité parmi nous et nous avons vu sa gloire.<0x00A0>» (L<0x2019>Évangile selon Jean, 1:14) Une question éminemment cinématographique que pose encore en 1971 <ct:Italic>L<0x2019>Inspecteur Harry.<ct:>
 <pstyle:SYNOPSIS>Jean-François Rauger est directeur de la programmation de la Cinémathèque française.
 <pstyle:><cstyle:INFOSBLEUES>je 26 marXXX19h00XXX
 <cstyle:SALLESBLEUES>A

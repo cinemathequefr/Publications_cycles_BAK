@@ -260,9 +260,9 @@
           "realisateurs": "James Ivory",
           "annee": 1985,
           "pays": "Grande-Bretagne",
-          "duree": 116,
+          "duree": 117,
           "version": "VOSTF",
-          "format": "35 mm",
+          "format": "DCP",
           "ageMinimal": null,
           "generique": [
             "Helena Bonham Carter",
@@ -469,7 +469,7 @@
           "realisateurs": "James Ivory",
           "annee": 2002,
           "pays": "États-Unis",
-          "duree": 115,
+          "duree": 117,
           "version": "VOSTF",
           "format": "",
           "ageMinimal": null,
@@ -505,7 +505,7 @@
           "realisateurs": "James Ivory",
           "annee": 2002,
           "pays": "États-Unis",
-          "duree": 115,
+          "duree": 117,
           "version": "VOSTF",
           "format": "",
           "ageMinimal": null,
@@ -960,7 +960,7 @@
           "pays": "États-Unis",
           "duree": 108,
           "version": "VOSTF",
-          "format": "16 mm",
+          "format": "Vidéo",
           "ageMinimal": null,
           "generique": [
             "Anne Baxter",
@@ -993,7 +993,7 @@
           "pays": "États-Unis",
           "duree": 108,
           "version": "VOSTF",
-          "format": "16 mm",
+          "format": "Vidéo",
           "ageMinimal": null,
           "generique": [
             "Anne Baxter",
@@ -1708,7 +1708,7 @@
           "realisateurs": "James Ivory",
           "annee": 1974,
           "pays": "États-Unis",
-          "duree": 100,
+          "duree": 101,
           "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
@@ -1743,7 +1743,7 @@
           "realisateurs": "James Ivory",
           "annee": 1974,
           "pays": "États-Unis",
-          "duree": 100,
+          "duree": 101,
           "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
@@ -1835,14 +1835,14 @@
         },
         {
           "idSeance": 32458,
-          "ordre": 2,
+          "ordre": 1,
           "dateHeure": "2020-01-23T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "idCategorie": 2184,
-          "idEvenement": 20584,
+          "idEvenement": 22205,
           "typeEvenement": 13,
           "idFilm": 67382,
           "art": "The",
@@ -1852,7 +1852,7 @@
           "annee": 1982,
           "pays": "États-Unis",
           "duree": 73,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -1864,14 +1864,14 @@
         },
         {
           "idSeance": 32830,
-          "ordre": 2,
+          "ordre": 1,
           "dateHeure": "2020-02-07T17:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "idCategorie": 2184,
-          "idEvenement": 20584,
+          "idEvenement": 22205,
           "typeEvenement": 13,
           "idFilm": 67382,
           "art": "The",
@@ -1881,7 +1881,7 @@
           "annee": 1982,
           "pays": "États-Unis",
           "duree": 73,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -1922,70 +1922,6 @@
             {
               "typeTexte": 9,
               "texte": "Deven, professeur de lettres dans un collège, arrive à Bhopal pour interviewer son idole, le grand poète Nur."
-            }
-          ]
-        },
-        {
-          "idSeance": 32458,
-          "ordre": 1,
-          "dateHeure": "2020-01-23T19:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2184,
-          "idEvenement": 20584,
-          "typeEvenement": 13,
-          "idFilm": 143204,
-          "titre": "Mahatma and the Mad Boy",
-          "titreVo": "",
-          "realisateurs": "Ismail Merchant",
-          "annee": 1972,
-          "pays": "Grande-Bretagne",
-          "duree": 26,
-          "version": "VOSTF",
-          "format": "Vidéo",
-          "ageMinimal": null,
-          "generique": [
-            "Sajid Khan",
-            "Sulochanna"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "À Bombay, un jeune vagabond vit sur la plage avec pour seule compagnie son singe, et la statue du Mahatma Gandhi au pied de laquelle il a pris l'habitude de dormir. Un jour, un groupe de riches visiteurs vient y célébrer une cérémonie."
-            }
-          ]
-        },
-        {
-          "idSeance": 32830,
-          "ordre": 1,
-          "dateHeure": "2020-02-07T17:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2184,
-          "idEvenement": 20584,
-          "typeEvenement": 13,
-          "idFilm": 143204,
-          "titre": "Mahatma and the Mad Boy",
-          "titreVo": "",
-          "realisateurs": "Ismail Merchant",
-          "annee": 1972,
-          "pays": "Grande-Bretagne",
-          "duree": 26,
-          "version": "VOSTF",
-          "format": "Vidéo",
-          "ageMinimal": null,
-          "generique": [
-            "Sajid Khan",
-            "Sulochanna"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "À Bombay, un jeune vagabond vit sur la plage avec pour seule compagnie son singe, et la statue du Mahatma Gandhi au pied de laquelle il a pris l'habitude de dormir. Un jour, un groupe de riches visiteurs vient y célébrer une cérémonie."
             }
           ]
         },
@@ -2153,7 +2089,7 @@
           "pays": "États-Unis-Inde",
           "duree": 14,
           "version": "VOSTF",
-          "format": "16 mm",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Bhaskar Roy Chaudhuri",
@@ -2190,7 +2126,7 @@
           "pays": "États-Unis",
           "duree": 23,
           "version": "VOSTF",
-          "format": "35 mm",
+          "format": "Vidéo",
           "ageMinimal": null,
           "textes": [
             {

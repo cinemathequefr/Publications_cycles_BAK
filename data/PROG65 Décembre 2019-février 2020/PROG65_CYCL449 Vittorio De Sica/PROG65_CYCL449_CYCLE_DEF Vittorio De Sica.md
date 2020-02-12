@@ -157,7 +157,7 @@ D'après le roman _Totò il buono_ de Cesare Zavattini.
 Avec Emma Gramatica, Francesco Golisano, Brunella Bovo.  
 À peine sorti de l'orphelinat, Totò rejoint les clochards d'un bidonville, qu'il essaie d'aménager au mieux, dans la bonne humeur. Mais un homme d'affaires, ayant découvert du pétrole sur leur terrain, les menace d'expulsion.
 
-- je 6 fév 21h30 GF  
+- je 6 fév 21h30 HL  
 - di 1 mar 15h00 GF
 
 [65401]  
@@ -298,7 +298,7 @@ Italie / 1951 / 85 min / VOSTF / DCP
 Avec Carlo Battisti, Maria Pia Casilio, Lina Gennari.  
 Fonctionnaire à la retraite, Umberto D. ne parvient plus à subvenir à ses besoins. Ayant pour seul refuge une pension en piteux état, il occupe ses journées à chercher de l'argent, accompagné par son fidèle chien Flike.
 
-- ve 31 jan 19h30 HL  
+- ve 31 jan 19h30 GF  
 - me 26 fév 19h00 GF
 
 [61715]  
@@ -532,11 +532,11 @@ Un noble désargenté, dont la nièce est fiancée à un jeune homme pauvre, vou
 ## Rencontres et conférences
 
 []  
-**Qui êtes-vous Vittorio de Sica ?**  
+**Qui êtes-vous Vittorio De Sica ?**  
 undefined  
 90 min  
 Maître reconnu du néoréalisme italien avec Roberto Rossellini, Vittorio De Sica a été beaucoup d'autres choses. Il a commencé sa carrière comme acteur, au théâtre avec Mario Mattoli et au cinéma avec Mario Camerini, a traversé l'époque des « téléphones blancs » (les comédies du fascisme) en devenant metteur en scène. La rencontre avec Cesare Zavattini est à l'origine des chefs-d'œuvre néoréalistes, mais le signe le plus caractéristique de sa longue carrière est l'exploitation dans toutes ses formes d'un cinéma populaire « haut de gamme ». Encore une fois comme metteur en scène, mais aussi comme acteur.  
-**Paolo Mereghetti** est critique de cinéma au quotidien _Corriere della Sera_ et auteur du plus populaire dictionnaire italien des films (qui a pris son nom : « il Mereghetti »). En France, il a publié pour les _Cahiers du cinéma_ un ouvrage sur Orson Welles et le livre illustré _Movie: Box_ (éditions Contrasto).
+Paolo Mereghetti est critique de cinéma au quotidien _Corriere della sera_ et auteur du plus populaire dictionnaire italien des films (qui a pris son nom : _« Il Mereghetti »_). En France, il a publié pour les _Cahiers du cinéma_ un ouvrage sur Orson Welles et le livre illustré _Movie : Box_ (éditions Contrasto).
 
 - je 6 fév 19h00 GF
 

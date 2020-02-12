@@ -6,7 +6,7 @@
 **Énergies danoises**  
 **(Dansk energi)**  
 de Per Mannstaedt  
-Danemark / 1979 / 48 min / 16 mm  
+Danemark / 1979 / 48 min / VF / 16 mm  
 Dans un contexte de crise pétrolière, certains Danois ont décidé de produire leur propre énergie. De l'énergie éolienne au méthane émanant du purin, en passant par l'énergie solaire, différentes solutions sont envisagées alors que le gouvernement mise sur l'énergie nucléaire.  
 suivi de  
 [129948]  
@@ -18,7 +18,7 @@ suivi de
 [142953]  
 **Méfaits d'un sac de charbon**  
 d'anonyme  
-France / 1908 / 3 min / INT. FR. / 35 mm  
+France / 1908 / 3 min / 35 mm  
 C'est un sac plein d'énergie que transporte à son insu un charbonnier. L'énergie d'un jeune espiègle cherchant à échapper à la punition après sa dernière farce.  
 suivi de  
 [142938]  
@@ -30,13 +30,13 @@ suivi de
 [120798]  
 **The Solar Film**  
 d'Elaine Bass, Saul Bass  
-États-Unis / 1980 / 9 min / 35 mm  
+États-Unis / 1980 / 10 min / VF / 35 mm  
 Éloge de l'énergie solaire commandité par Robert Redford et réalisé par Saul et Elaine Bass dans une esthétique New Age des années 80.  
 suivi de  
 [142936]  
 **Soleil, atome et Cie**  
 d'anonyme  
-France / 1974 / 9 min / 35 mm  
+France / 1974 / 10 min / VF / 35 mm  
 Zoom sur le sud de la France : qui aurait pu penser que dans les Pyrénées se trouvait un des plus grands fours solaire au monde ? À Montastruc, le terrain de la Marcelle regorge de surprises.  
 suivi de  
 [142937]  
@@ -50,7 +50,7 @@ Quand l'industrie cosmétique et l'industrie nucléaire se rencontrent le temps 
 [142974]  
 **Cent ans de charbon**  
 de Henri Fabiani  
-France / 1952 / 15 min / VO / 35 mm  
+France / 1952 / 15 min / VF / 35 mm  
 En 1952, les houillères du Nord fêtaient leur centenaire. Pour célébrer cet anniversaire, le plus vieux mineur encore vivant était invité à passer la journée avec la nouvelle génération de mineurs.  
 suivi de  
 [61145]  

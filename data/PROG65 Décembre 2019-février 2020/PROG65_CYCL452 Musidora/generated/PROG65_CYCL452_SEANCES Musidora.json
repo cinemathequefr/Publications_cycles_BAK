@@ -25,10 +25,10 @@
         "idFilm": 50204,
         "ordre": 2,
         "idSeance": 32726,
-        "idCopie": 19408,
+        "idCopie": 20415,
         "duree": 49,
         "version": "INT. FR.",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 1
       }
     ],
@@ -53,7 +53,7 @@
         "idCopie": 19427,
         "duree": 59,
         "version": "INT. FR.",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 1
       }
     ],
@@ -368,10 +368,10 @@
         "idFilm": 48543,
         "ordre": 1,
         "idSeance": 32812,
-        "idCopie": 19413,
+        "idCopie": 19414,
         "duree": 60,
         "version": "",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 1
       }
     ]
@@ -607,6 +607,82 @@
         "duree": 90,
         "version": "INT. FR.",
         "format": "Numérique",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2046,
+    "typeEvenement": 13,
+    "idEvenement": 20772,
+    "idSeance": 33927,
+    "dateHeure": "2020-01-19T17:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 48543,
+        "ordre": 1,
+        "idSeance": 33927,
+        "idCopie": 19414,
+        "duree": 60,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2168,
+    "typeEvenement": 13,
+    "idEvenement": 21365,
+    "idSeance": 33928,
+    "dateHeure": "2020-01-19T19:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 78128,
+        "ordre": 1,
+        "idSeance": 33928,
+        "idCopie": 19417,
+        "duree": 21,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 99201,
+        "ordre": 2,
+        "idSeance": 33928,
+        "idCopie": 19416,
+        "duree": 26,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 99251,
+        "ordre": 3,
+        "idSeance": 33928,
+        "idCopie": 19418,
+        "duree": 35,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 78040,
+        "ordre": 4,
+        "idSeance": 33928,
+        "idCopie": 19423,
+        "duree": 10,
+        "version": "INT. FR.",
+        "format": "DCP",
         "valide": 1
       }
     ]

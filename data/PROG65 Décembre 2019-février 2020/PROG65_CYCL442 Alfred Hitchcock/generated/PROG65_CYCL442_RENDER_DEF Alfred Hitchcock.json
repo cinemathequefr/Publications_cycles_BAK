@@ -5,30 +5,22 @@
     "sousCycles": [
       {
         "titre": "Séance d'ouverture",
-        "cats": [
-          2189
-        ],
+        "cats": [2189],
         "tri": 4
       },
       {
         "titre": "Les films",
-        "cats": [
-          2024
-        ],
+        "cats": [2024],
         "tri": 1
       },
       {
         "titre": "Hitchcock et la télévision",
-        "cats": [
-          2121
-        ],
+        "cats": [2121],
         "tri": 4
       },
       {
         "titre": "Rencontres et conférences",
-        "cats": [
-          2137
-        ],
+        "cats": [2137],
         "tri": 4
       }
     ],
@@ -64,10 +56,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _The Crystal Trench_ d'A. E. W. Mason.",
-              "generique": [
-                "James Donald",
-                "Patricia Owens"
-              ],
+              "generique": ["James Donald", "Patricia Owens"],
               "duree": 26,
               "format": "35 mm",
               "version": "VOSTF",
@@ -88,11 +77,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _It Had to Be a Murder_ de Cornell Woolrich.",
-              "generique": [
-                "James Stewart",
-                "Grace Kelly",
-                "Wendell Corey"
-              ],
+              "generique": ["James Stewart", "Grace Kelly", "Wendell Corey"],
               "duree": 112,
               "format": "35 mm",
               "version": "VOSTF",
@@ -103,10 +88,7 @@
           "seance": [
             {
               "dateHeure": "2019-11-29T20:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
+              "idSalle": ["HL", "Henri Langlois"],
               "mention": "Ouverture de la rétrospective"
             }
           ]
@@ -129,14 +111,10 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _It Had to Be a Murder_ de Cornell Woolrich.",
-              "generique": [
-                "James Stewart",
-                "Grace Kelly",
-                "Wendell Corey"
-              ],
+              "generique": ["James Stewart", "Grace Kelly", "Wendell Corey"],
               "duree": 112,
               "format": "DCP",
-              "version": "VOSTF",
+              "version": "VO",
               "ageMinimal": 8,
               "ordre": 1
             }
@@ -144,17 +122,11 @@
           "seance": [
             {
               "dateHeure": "2019-12-30T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "dateHeure": "2020-01-19T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         }
@@ -186,11 +158,7 @@
             }
           ],
           "adaptation": "D'après le roman _Les Trente-neuf marches_ de John Buchan.",
-          "generique": [
-            "Robert Donat",
-            "Madeleine Carroll",
-            "Lucie Mannheim"
-          ],
+          "generique": ["Robert Donat", "Madeleine Carroll", "Lucie Mannheim"],
           "duree": 81,
           "format": "35 mm",
           "version": "VOSTF",
@@ -201,20 +169,14 @@
               "ordre": 1,
               "idEvenement": 19841,
               "dateHeure": "2019-12-04T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32289,
               "ordre": 1,
               "idEvenement": 19841,
               "dateHeure": "2019-12-27T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -231,11 +193,7 @@
               "texte": "Une jeune et jolie héritière américaine rejoint par défi l'homme qu'elle aime. Mais son père voit ce départ d'un mauvais œil et fait suivre le couple."
             }
           ],
-          "generique": [
-            "Betty Balfour",
-            "Jean Bradin",
-            "Gordon Harker"
-          ],
+          "generique": ["Betty Balfour", "Jean Bradin", "Gordon Harker"],
           "duree": 68,
           "format": "DCP",
           "version": "INT. FR.",
@@ -246,20 +204,14 @@
               "ordre": 1,
               "idEvenement": 19784,
               "dateHeure": "2019-12-08T17:15:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32394,
               "ordre": 1,
               "idEvenement": 19784,
               "dateHeure": "2020-01-12T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -277,11 +229,7 @@
             }
           ],
           "adaptation": "D'après le roman _Rich and Strange_ de Dale Collins.",
-          "generique": [
-            "Henry Kendall",
-            "Joan Barry",
-            "Percy Marmont"
-          ],
+          "generique": ["Henry Kendall", "Joan Barry", "Percy Marmont"],
           "duree": 83,
           "format": "35 mm",
           "version": "VOSTF",
@@ -292,20 +240,14 @@
               "ordre": 1,
               "idEvenement": 19785,
               "dateHeure": "2019-11-30T19:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32245,
               "ordre": 1,
               "idEvenement": 19785,
               "dateHeure": "2019-12-20T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -323,11 +265,7 @@
             }
           ],
           "adaptation": "D'après le roman _The Secret Agent_ de Joseph Conrad.",
-          "generique": [
-            "Sylvia Sidney",
-            "Oskar Homolka",
-            "Desmond Tester"
-          ],
+          "generique": ["Sylvia Sidney", "Oskar Homolka", "Desmond Tester"],
           "duree": 76,
           "format": "35 mm",
           "version": "VOSTF",
@@ -338,20 +276,14 @@
               "ordre": 1,
               "idEvenement": 19786,
               "dateHeure": "2019-12-21T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32294,
               "ordre": 1,
               "idEvenement": 19786,
               "dateHeure": "2019-12-28T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -370,11 +302,7 @@
             }
           ],
           "adaptation": "D'après le roman _Under Capricorn_ de Helen Simpson.",
-          "generique": [
-            "Joseph Cotten",
-            "Ingrid Bergman",
-            "Michael Wilding"
-          ],
+          "generique": ["Joseph Cotten", "Ingrid Bergman", "Michael Wilding"],
           "duree": 117,
           "format": "DCP",
           "version": "VOSTF",
@@ -385,20 +313,14 @@
               "ordre": 1,
               "idEvenement": 19788,
               "dateHeure": "2019-12-15T17:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32746,
               "ordre": 1,
               "idEvenement": 19788,
               "dateHeure": "2020-01-03T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -415,12 +337,10 @@
               "texte": "Un comédien, qui peine à entrer dans la peau de son personnage d'officier allemand, est aidé par un collègue, qui lui dresse le portrait du directeur de la sûreté de Madagascar sous le régime de Vichy."
             }
           ],
-          "generique": [
-            "The Molière Players"
-          ],
+          "generique": ["The Molière Players"],
           "duree": 31,
           "format": "35 mm",
-          "version": "VOSTF",
+          "version": "VO",
           "ageMinimal": null,
           "seance": [
             {
@@ -428,20 +348,14 @@
               "ordre": 1,
               "idEvenement": 19789,
               "dateHeure": "2019-12-14T21:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32356,
               "ordre": 1,
               "idEvenement": 19789,
               "dateHeure": "2020-01-06T21:15:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ],
           "precedeSuivi": "Film suivi de _Bon Voyage_ d'Alfred Hitchcock"
@@ -459,10 +373,7 @@
               "texte": "Londres, 1943. Un officier français interroge un pilote de la RAF évadé d'un camp de concentration allemand, qui ignore que son compagnon d'échappée est en réalité un agent de la Gestapo."
             }
           ],
-          "generique": [
-            "John Blythe",
-            "The Molière Players"
-          ],
+          "generique": ["John Blythe", "The Molière Players"],
           "duree": 26,
           "format": "16 mm",
           "version": "VF",
@@ -473,20 +384,14 @@
               "ordre": 2,
               "idEvenement": 19789,
               "dateHeure": "2019-12-14T21:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32356,
               "ordre": 2,
               "idEvenement": 19789,
               "dateHeure": "2020-01-06T21:15:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ],
           "precedeSuivi": "Film précédé d'_Aventure malgache_ d'Alfred Hitchcock"
@@ -522,20 +427,14 @@
               "ordre": 1,
               "idEvenement": 19791,
               "dateHeure": "2019-12-19T16:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32384,
               "ordre": 1,
               "idEvenement": 19791,
               "dateHeure": "2020-01-11T15:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -553,11 +452,7 @@
             }
           ],
           "adaptation": "D'après la pièce _Blackmail_ de Charles Bennett.",
-          "generique": [
-            "Anny Ondra",
-            "John Longden",
-            "Sara Allgood"
-          ],
+          "generique": ["Anny Ondra", "John Longden", "Sara Allgood"],
           "duree": 84,
           "format": "DCP",
           "version": "INT. FR.",
@@ -568,10 +463,7 @@
               "ordre": 1,
               "idEvenement": 19792,
               "dateHeure": "2019-12-06T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
+              "idSalle": ["HL", "Henri Langlois"],
               "mention": "Accompagnement musical par Neil Brand"
             },
             {
@@ -579,10 +471,7 @@
               "ordre": 1,
               "idEvenement": 19792,
               "dateHeure": "2020-01-15T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -606,12 +495,7 @@
             }
           ],
           "adaptation": "D'après le roman _The Lodger_ de Marie Belloc Lowndes.",
-          "generique": [
-            "Ivor Novello",
-            "June",
-            "Marie Ault",
-            "Arthur Chesney"
-          ],
+          "generique": ["Ivor Novello", "June", "Marie Ault", "Arthur Chesney"],
           "duree": 89,
           "format": "DCP",
           "version": "INT. FR.",
@@ -622,10 +506,7 @@
               "ordre": 1,
               "idEvenement": 19802,
               "dateHeure": "2019-12-07T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
+              "idSalle": ["HL", "Henri Langlois"],
               "mention": "Accompagnement musical par Christopher Bjurström, Agnès Vesterman et Nicolas Pointard"
             }
           ]
@@ -643,11 +524,7 @@
               "texte": "Barry Kane est accusé d'avoir provoqué l'incendie qui a ravagé son usine. Il parvient à échapper à la police et se lance à la recherche du véritable coupable."
             }
           ],
-          "generique": [
-            "Priscilla Lane",
-            "Robert Cummings",
-            "Otto Kruger"
-          ],
+          "generique": ["Priscilla Lane", "Robert Cummings", "Otto Kruger"],
           "duree": 108,
           "format": "35 mm",
           "version": "VOSTF",
@@ -658,20 +535,14 @@
               "ordre": 1,
               "idEvenement": 19793,
               "dateHeure": "2019-12-13T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32354,
               "ordre": 1,
               "idEvenement": 19793,
               "dateHeure": "2020-01-06T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -689,11 +560,7 @@
             }
           ],
           "adaptation": "D'après le roman _The Rainbird Pattern_ de Victor Canning.",
-          "generique": [
-            "Karen Black",
-            "Bruce Dern",
-            "Barbara Harris"
-          ],
+          "generique": ["Karen Black", "Bruce Dern", "Barbara Harris"],
           "duree": 120,
           "format": "DCP",
           "version": "VOSTF",
@@ -704,20 +571,14 @@
               "ordre": 1,
               "idEvenement": 19794,
               "dateHeure": "2019-12-26T21:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32931,
               "ordre": 1,
               "idEvenement": 19794,
               "dateHeure": "2020-01-09T19:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -736,11 +597,7 @@
             }
           ],
           "adaptation": "D'après la pièce _Rope's End_ de Patrick Hamilton.",
-          "generique": [
-            "James Stewart",
-            "John Dall",
-            "Farley Granger"
-          ],
+          "generique": ["James Stewart", "John Dall", "Farley Granger"],
           "duree": 83,
           "format": "DCP",
           "version": "VOSTF",
@@ -751,20 +608,14 @@
               "ordre": 1,
               "idEvenement": 19795,
               "dateHeure": "2019-12-16T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32337,
               "ordre": 1,
               "idEvenement": 19795,
               "dateHeure": "2020-01-04T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -781,11 +632,7 @@
               "texte": "Envoyé en Europe sous une fausse identité, un reporter se lance à la poursuite d'un diplomate hollandais censé détenir le secret d'un traité de paix entre son pays et les Alliés."
             }
           ],
-          "generique": [
-            "Joel McCrea",
-            "Laraine Day",
-            "Herbert Marshall"
-          ],
+          "generique": ["Joel McCrea", "Laraine Day", "Herbert Marshall"],
           "duree": 119,
           "format": "35 mm",
           "version": "VOSTF",
@@ -795,21 +642,15 @@
               "idSeance": 32176,
               "ordre": 1,
               "idEvenement": 19796,
-              "dateHeure": "2019-12-07T18:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "dateHeure": "2019-12-07T19:00:00",
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32303,
               "ordre": 1,
               "idEvenement": 19796,
               "dateHeure": "2019-12-29T16:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -828,11 +669,7 @@
             }
           ],
           "adaptation": "D'après la pièce _Dial M for Murder_ de Frederick Knott.",
-          "generique": [
-            "Ray Milland",
-            "Grace Kelly",
-            "Robert Cummings"
-          ],
+          "generique": ["Ray Milland", "Grace Kelly", "Robert Cummings"],
           "duree": 88,
           "format": "DCP",
           "version": "VOSTF",
@@ -843,20 +680,14 @@
               "ordre": 1,
               "idEvenement": 19797,
               "dateHeure": "2019-12-19T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32345,
               "ordre": 1,
               "idEvenement": 19797,
               "dateHeure": "2020-01-05T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -874,11 +705,7 @@
             }
           ],
           "adaptation": "D'après la pièce _Downhill_ de Constance Collier et Ivor Novello.",
-          "generique": [
-            "Ivor Novello",
-            "Robin Irvine",
-            "Isabel Jeans"
-          ],
+          "generique": ["Ivor Novello", "Robin Irvine", "Isabel Jeans"],
           "duree": 80,
           "format": "DCP",
           "version": "INT. FR.",
@@ -889,20 +716,14 @@
               "ordre": 1,
               "idEvenement": 19798,
               "dateHeure": "2019-12-09T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32772,
               "ordre": 1,
               "idEvenement": 19798,
               "dateHeure": "2020-01-11T19:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -923,11 +744,7 @@
               "texte": "La BBC diffuse une revue animée par des artistes en tous genres. L'un des comédiens trouve un moyen détourné de jouer Shakespeare, bien qu'il le lui ait été interdit. Un couple souhaite suivre la revue, mais leur poste de télévision est capricieux."
             }
           ],
-          "generique": [
-            "Tommy Handley",
-            "Will Fyffe",
-            "Lily Morris"
-          ],
+          "generique": ["Tommy Handley", "Will Fyffe", "Lily Morris"],
           "duree": 86,
           "format": "35 mm",
           "version": "INT. FR.",
@@ -938,20 +755,14 @@
               "ordre": 1,
               "idEvenement": 19799,
               "dateHeure": "2019-12-26T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32399,
               "ordre": 1,
               "idEvenement": 19799,
               "dateHeure": "2020-01-13T21:15:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -970,11 +781,7 @@
             }
           ],
           "adaptation": "D'après la nouvelle _The Song of the Dragon_ de John Taintor Foote.",
-          "generique": [
-            "Cary Grant",
-            "Ingrid Bergman",
-            "Claude Rains"
-          ],
+          "generique": ["Cary Grant", "Ingrid Bergman", "Claude Rains"],
           "duree": 103,
           "format": "35 mm",
           "version": "VOSTF",
@@ -985,20 +792,14 @@
               "ordre": 1,
               "idEvenement": 19800,
               "dateHeure": "2019-12-16T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32326,
               "ordre": 1,
               "idEvenement": 19800,
               "dateHeure": "2020-01-02T19:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1033,20 +834,14 @@
               "ordre": 1,
               "idEvenement": 19801,
               "dateHeure": "2019-12-23T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32283,
               "ordre": 1,
               "idEvenement": 19801,
               "dateHeure": "2019-12-26T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1082,20 +877,14 @@
               "ordre": 1,
               "idEvenement": 19803,
               "dateHeure": "2019-12-21T16:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32431,
               "ordre": 1,
               "idEvenement": 19803,
               "dateHeure": "2020-01-19T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1113,11 +902,7 @@
             }
           ],
           "adaptation": "D'après le roman _Goodbye Piccadilly, Farewell Leicester Square_ d'Arthur La Bern.",
-          "generique": [
-            "Jon Finch",
-            "Barry Foster",
-            "Barbara Leigh-Hunt"
-          ],
+          "generique": ["Jon Finch", "Barry Foster", "Barbara Leigh-Hunt"],
           "duree": 110,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1128,20 +913,14 @@
               "ordre": 1,
               "idEvenement": 19806,
               "dateHeure": "2019-12-11T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32780,
               "ordre": 1,
               "idEvenement": 19806,
               "dateHeure": "2019-12-30T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1168,10 +947,7 @@
               "ordre": 1,
               "idEvenement": 21031,
               "dateHeure": "2020-01-06T19:15:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ],
+              "idSalle": ["GF", "Georges Franju"],
               "mention": "Séance présentée par Bernard Benoliel"
             }
           ]
@@ -1191,11 +967,7 @@
             }
           ],
           "adaptation": "D'après le roman _Man Running_ de Selwyn Jepson.",
-          "generique": [
-            "Marlene Dietrich",
-            "Jane Wyman",
-            "Michael Wilding"
-          ],
+          "generique": ["Marlene Dietrich", "Jane Wyman", "Michael Wilding"],
           "duree": 113,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1206,20 +978,14 @@
               "ordre": 1,
               "idEvenement": 19807,
               "dateHeure": "2019-12-27T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32338,
               "ordre": 1,
               "idEvenement": 19807,
               "dateHeure": "2020-01-04T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1238,11 +1004,7 @@
               "texte": "En vacances en Suisse, Bob et Jill se lient d'amitié avec un Français qui, avant de mourir assassiné sous leurs yeux, leur confie un message secret."
             }
           ],
-          "generique": [
-            "Leslie Banks",
-            "Edna Best",
-            "Peter Lorre"
-          ],
+          "generique": ["Leslie Banks", "Edna Best", "Peter Lorre"],
           "duree": 84,
           "format": "DCP",
           "version": "VOSTF",
@@ -1253,20 +1015,14 @@
               "ordre": 1,
               "idEvenement": 19808,
               "dateHeure": "2019-12-05T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32127,
               "ordre": 1,
               "idEvenement": 19808,
-              "dateHeure": "2019-12-07T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "dateHeure": "2019-12-07T21:30:00",
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1289,11 +1045,7 @@
               "texte": "Remake de la version de 1934."
             }
           ],
-          "generique": [
-            "James Stewart",
-            "Doris Day",
-            "Daniel Gélin"
-          ],
+          "generique": ["James Stewart", "Doris Day", "Daniel Gélin"],
           "duree": 120,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1304,20 +1056,14 @@
               "ordre": 1,
               "idEvenement": 19809,
               "dateHeure": "2019-12-15T15:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32929,
               "ordre": 1,
               "idEvenement": 21252,
               "dateHeure": "2020-01-05T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1336,11 +1082,7 @@
             }
           ],
           "adaptation": "D'après le roman _L'Inconnu du Nord-Express_ de Patricia Highsmith.",
-          "generique": [
-            "Farley Granger",
-            "Ruth Roman",
-            "Robert Walker"
-          ],
+          "generique": ["Farley Granger", "Ruth Roman", "Robert Walker"],
           "duree": 101,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1351,20 +1093,14 @@
               "ordre": 1,
               "idEvenement": 19810,
               "dateHeure": "2019-12-18T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32339,
               "ordre": 1,
               "idEvenement": 19810,
               "dateHeure": "2020-01-04T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1382,11 +1118,7 @@
             }
           ],
           "adaptation": "D'après le roman _A Shilling for Candles_ de Josephine Tey.",
-          "generique": [
-            "Nova Pilbeam",
-            "Derrick De Marney",
-            "Edward Rigby"
-          ],
+          "generique": ["Nova Pilbeam", "Derrick De Marney", "Edward Rigby"],
           "duree": 80,
           "format": "DCP",
           "version": "VOSTF",
@@ -1397,30 +1129,21 @@
               "ordre": 1,
               "idEvenement": 19811,
               "dateHeure": "2019-12-01T21:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32972,
               "ordre": 1,
               "idEvenement": 19811,
               "dateHeure": "2019-12-11T15:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32295,
               "ordre": 1,
               "idEvenement": 19811,
               "dateHeure": "2019-12-28T16:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1437,11 +1160,7 @@
               "texte": "Un couple heureux apprend que son mariage n'a aucune valeur légale et s'interroge sur l'opportunité de tout recommencer à zéro."
             }
           ],
-          "generique": [
-            "Carole Lombard",
-            "Robert Montgomery",
-            "Gene Raymond"
-          ],
+          "generique": ["Carole Lombard", "Robert Montgomery", "Gene Raymond"],
           "duree": 90,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1452,20 +1171,14 @@
               "ordre": 1,
               "idEvenement": 19812,
               "dateHeure": "2019-12-23T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32311,
               "ordre": 1,
               "idEvenement": 19812,
               "dateHeure": "2019-12-30T16:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -1483,11 +1196,7 @@
             }
           ],
           "adaptation": "D'après la pièce _Juno and the Paycock_ de Sean O'Casey.",
-          "generique": [
-            "Sara Allgood",
-            "Edward Chapman",
-            "John Laurie"
-          ],
+          "generique": ["Sara Allgood", "Edward Chapman", "John Laurie"],
           "duree": 85,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1498,20 +1207,14 @@
               "ordre": 1,
               "idEvenement": 19813,
               "dateHeure": "2019-12-27T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32398,
               "ordre": 1,
               "idEvenement": 19813,
               "dateHeure": "2020-01-13T19:15:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -1549,20 +1252,14 @@
               "ordre": 1,
               "idEvenement": 19805,
               "dateHeure": "2019-12-23T16:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32386,
               "ordre": 1,
               "idEvenement": 19805,
               "dateHeure": "2020-01-11T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -1579,11 +1276,7 @@
               "texte": "Après le naufrage d'un navire torpillé par un sous-marin allemand, quelques rescapés partagent une chaloupe. Mais l'un d'eux est un marin allemand, et la cohabitation sur l'embarcation devient compliquée."
             }
           ],
-          "generique": [
-            "Tallulah Bankhead",
-            "William Bendix",
-            "Hume Cronyn"
-          ],
+          "generique": ["Tallulah Bankhead", "William Bendix", "Hume Cronyn"],
           "duree": 80,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1594,20 +1287,14 @@
               "ordre": 1,
               "idEvenement": 19814,
               "dateHeure": "2019-12-13T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32318,
               "ordre": 1,
               "idEvenement": 19814,
               "dateHeure": "2020-01-06T14:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -1626,11 +1313,7 @@
             }
           ],
           "adaptation": "D'après la pièce _Nos deux consciences_ de Paul Anthelme.",
-          "generique": [
-            "Montgomery Clift",
-            "Anne Baxter",
-            "Karl Malden"
-          ],
+          "generique": ["Montgomery Clift", "Anne Baxter", "Karl Malden"],
           "duree": 95,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1641,20 +1324,14 @@
               "ordre": 1,
               "idEvenement": 19815,
               "dateHeure": "2019-12-18T21:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32340,
               "ordre": 1,
               "idEvenement": 19815,
               "dateHeure": "2020-01-04T21:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1673,11 +1350,7 @@
             }
           ],
           "adaptation": "D'après le roman _La Main au collet_ de David Dodge.",
-          "generique": [
-            "Cary Grant",
-            "Grace Kelly",
-            "Charles Vanel"
-          ],
+          "generique": ["Cary Grant", "Grace Kelly", "Charles Vanel"],
           "duree": 97,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1688,30 +1361,21 @@
               "ordre": 1,
               "idEvenement": 19816,
               "dateHeure": "2019-12-08T15:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32281,
               "ordre": 1,
               "idEvenement": 19816,
               "dateHeure": "2019-12-26T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32347,
               "ordre": 1,
               "idEvenement": 19816,
               "dateHeure": "2020-01-05T19:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1730,11 +1394,7 @@
             }
           ],
           "adaptation": "D'après le roman _Mais qui a tué Harry ?_ de Jack Trevor Story.",
-          "generique": [
-            "Edmund Gwenn",
-            "John Forsythe",
-            "Shirley MacLaine"
-          ],
+          "generique": ["Edmund Gwenn", "John Forsythe", "Shirley MacLaine"],
           "duree": 99,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1745,20 +1405,14 @@
               "ordre": 1,
               "idEvenement": 19817,
               "dateHeure": "2019-12-19T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32346,
               "ordre": 1,
               "idEvenement": 19817,
               "dateHeure": "2020-01-05T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1777,11 +1431,7 @@
             }
           ],
           "adaptation": "D'après le roman _La Maison du docteur Edwardes_ de Francis Beeding.",
-          "generique": [
-            "Gregory Peck",
-            "Ingrid Bergman",
-            "Michael Chekhov"
-          ],
+          "generique": ["Gregory Peck", "Ingrid Bergman", "Michael Chekhov"],
           "duree": 116,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1792,20 +1442,14 @@
               "ordre": 1,
               "idEvenement": 19818,
               "dateHeure": "2019-12-14T16:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32325,
               "ordre": 1,
               "idEvenement": 19818,
               "dateHeure": "2020-01-02T16:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1824,13 +1468,9 @@
             }
           ],
           "adaptation": "D'après le roman _The Manxman_ de Hall Caine.",
-          "generique": [
-            "Carl Brisson",
-            "Malcolm Keen",
-            "Anny Ondra"
-          ],
+          "generique": ["Carl Brisson", "Malcolm Keen", "Anny Ondra"],
           "duree": 104,
-          "format": "DCP",
+          "format": "35 mm",
           "version": "INT. FR.",
           "ageMinimal": null,
           "seance": [
@@ -1839,20 +1479,14 @@
               "ordre": 1,
               "idEvenement": 19819,
               "dateHeure": "2019-12-13T16:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32397,
               "ordre": 1,
               "idEvenement": 19819,
               "dateHeure": "2020-01-13T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -1874,11 +1508,7 @@
             }
           ],
           "adaptation": "D'après la pièce _Enter Sir John_ de Helen Simpson et Clemence Dane.",
-          "generique": [
-            "Alfred Abel",
-            "Olga Tschechowa",
-            "Paul Graetz"
-          ],
+          "generique": ["Alfred Abel", "Olga Tschechowa", "Paul Graetz"],
           "duree": 92,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1889,10 +1519,7 @@
               "ordre": 1,
               "idEvenement": 19836,
               "dateHeure": "2020-01-25T15:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -1911,11 +1538,7 @@
               "texte": "Jack, boxeur dans une foire, propose aux badauds de se mesurer à lui, tandis que sa fiancée vend les billets. Un jour, un homme fait des avances à la jeune femme. Jack le défie alors de l'affronter."
             }
           ],
-          "generique": [
-            "Carl Brisson",
-            "Lillian Hall-Davis",
-            "Ian Hunter"
-          ],
+          "generique": ["Carl Brisson", "Lillian Hall-Davis", "Ian Hunter"],
           "duree": 110,
           "format": "DCP",
           "version": "INT. FR.",
@@ -1926,20 +1549,14 @@
               "ordre": 1,
               "idEvenement": 19820,
               "dateHeure": "2019-12-06T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32771,
               "ordre": 1,
               "idEvenement": 19820,
               "dateHeure": "2020-01-11T17:15:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -1957,11 +1574,7 @@
             }
           ],
           "adaptation": "D'après la pièce _Enter Sir John_ de Helen Simpson et Clemence Dane.",
-          "generique": [
-            "Herbert Marshall",
-            "Norah Baring",
-            "Phyllis Konstam"
-          ],
+          "generique": ["Herbert Marshall", "Norah Baring", "Phyllis Konstam"],
           "duree": 92,
           "format": "35 mm",
           "version": "VOSTF",
@@ -1972,20 +1585,14 @@
               "ordre": 1,
               "idEvenement": 19821,
               "dateHeure": "2019-12-14T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32920,
               "ordre": 1,
               "idEvenement": 19821,
               "dateHeure": "2020-01-12T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -2003,11 +1610,7 @@
               "texte": "Confondu avec un membre du contre-espionnage américain, le publicitaire Roger O. Thornhill se retrouve impliqué dans une conspiration et, accusé de meurtre, est poursuivi par la police."
             }
           ],
-          "generique": [
-            "Cary Grant",
-            "Eva Marie Saint",
-            "James Mason"
-          ],
+          "generique": ["Cary Grant", "Eva Marie Saint", "James Mason"],
           "duree": 136,
           "format": "DCP",
           "version": "VOSTF",
@@ -2018,30 +1621,21 @@
               "ordre": 1,
               "idEvenement": 19822,
               "dateHeure": "2019-12-01T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32254,
               "ordre": 1,
               "idEvenement": 19822,
               "dateHeure": "2019-12-21T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32938,
               "ordre": 1,
               "idEvenement": 19822,
               "dateHeure": "2020-01-12T15:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2059,11 +1653,7 @@
             }
           ],
           "adaptation": "D'après le roman _Le Numéro 17_ de Jefferson Farjeon.",
-          "generique": [
-            "Leon M. Lion",
-            "Anne Grey",
-            "John Stuart"
-          ],
+          "generique": ["Leon M. Lion", "Anne Grey", "John Stuart"],
           "duree": 63,
           "format": "35 mm",
           "version": "VOSTF",
@@ -2074,20 +1664,14 @@
               "ordre": 1,
               "idEvenement": 19825,
               "dateHeure": "2019-11-30T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32776,
               "ordre": 1,
               "idEvenement": 19825,
               "dateHeure": "2019-12-18T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -2106,11 +1690,7 @@
               "texte": "À San Francisco, Melanie fait la connaissance du séduisant Mitch chez un marchand d'oiseaux. Apprenant qu'il se rend à Bodega Bay pour l'anniversaire de sa jeune sœur, elle achète un couple d'« inséparables », et décide de le rejoindre."
             }
           ],
-          "generique": [
-            "Rod Taylor",
-            "Tippi Hedren",
-            "Jessica Tandy"
-          ],
+          "generique": ["Rod Taylor", "Tippi Hedren", "Jessica Tandy"],
           "duree": 119,
           "format": "DCP",
           "version": "VOSTF",
@@ -2121,20 +1701,14 @@
               "ordre": 1,
               "idEvenement": 19826,
               "dateHeure": "2019-12-22T19:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32748,
               "ordre": 1,
               "idEvenement": 19826,
               "dateHeure": "2020-01-03T21:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2152,11 +1726,7 @@
               "texte": "Recherché pour meurtre par la police, Charlie se réfugie chez sa sœur où il est chaleureusement accueilli, en particulier par sa nièce. Mais la jeune fille commence peu à peu à avoir des soupçons le concernant."
             }
           ],
-          "generique": [
-            "Teresa Wright",
-            "Joseph Cotten",
-            "Macdonald Carey"
-          ],
+          "generique": ["Teresa Wright", "Joseph Cotten", "Macdonald Carey"],
           "duree": 108,
           "format": "DCP",
           "version": "VOSTF",
@@ -2167,30 +1737,21 @@
               "ordre": 1,
               "idEvenement": 19827,
               "dateHeure": "2019-12-06T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32745,
               "ordre": 1,
               "idEvenement": 19827,
               "dateHeure": "2019-12-29T19:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32358,
               "ordre": 1,
               "idEvenement": 19827,
               "dateHeure": "2020-01-08T15:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2208,11 +1769,7 @@
             }
           ],
           "adaptation": "D'après le roman _Marnie_ de Winston Graham.",
-          "generique": [
-            "Sean Connery",
-            "Tippi Hedren",
-            "Diane Baker"
-          ],
+          "generique": ["Sean Connery", "Tippi Hedren", "Diane Baker"],
           "duree": 130,
           "format": "DCP",
           "version": "VOSTF",
@@ -2223,20 +1780,14 @@
               "ordre": 1,
               "idEvenement": 19828,
               "dateHeure": "2019-12-20T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32324,
               "ordre": 1,
               "idEvenement": 19828,
               "dateHeure": "2020-01-02T14:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2255,11 +1806,7 @@
             }
           ],
           "adaptation": "D'après la pièce _Easy Virtue_ de Noël Coward.",
-          "generique": [
-            "Isabel Jeans",
-            "Robin Irvine",
-            "Franklin Dyall"
-          ],
+          "generique": ["Isabel Jeans", "Robin Irvine", "Franklin Dyall"],
           "duree": 70,
           "format": "DCP",
           "version": "INT. FR.",
@@ -2270,20 +1817,14 @@
               "ordre": 1,
               "idEvenement": 19829,
               "dateHeure": "2019-12-04T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
-              "idSeance": 32770,
+              "idSeance": 33759,
               "ordre": 1,
               "idEvenement": 19829,
-              "dateHeure": "2020-01-08T21:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "dateHeure": "2020-01-18T21:45:00",
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -2302,11 +1843,7 @@
             }
           ],
           "adaptation": "D'après le roman _The Pleasure Garden_ d'Oliver Sandys.",
-          "generique": [
-            "Virginia Valli",
-            "Carmelita Geraghty",
-            "Miles Mander"
-          ],
+          "generique": ["Virginia Valli", "Carmelita Geraghty", "Miles Mander"],
           "duree": 90,
           "format": "DCP",
           "version": "INT. FR.",
@@ -2317,20 +1854,14 @@
               "ordre": 1,
               "idEvenement": 19830,
               "dateHeure": "2019-11-30T15:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
-              "idSeance": 32769,
+              "idSeance": 33758,
               "ordre": 1,
               "idEvenement": 19830,
-              "dateHeure": "2020-01-08T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "dateHeure": "2020-01-20T21:15:00",
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -2366,20 +1897,14 @@
               "ordre": 1,
               "idEvenement": 19831,
               "dateHeure": "2019-12-15T20:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32327,
               "ordre": 1,
               "idEvenement": 19831,
               "dateHeure": "2020-01-02T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2413,20 +1938,14 @@
               "ordre": 1,
               "idEvenement": 19832,
               "dateHeure": "2019-12-12T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32261,
               "ordre": 1,
               "idEvenement": 19832,
               "dateHeure": "2019-12-22T17:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2461,20 +1980,14 @@
               "ordre": 1,
               "idEvenement": 19833,
               "dateHeure": "2019-12-01T19:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32290,
               "ordre": 1,
               "idEvenement": 19833,
               "dateHeure": "2019-12-27T21:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2492,11 +2005,7 @@
             }
           ],
           "adaptation": "D'après le roman _Rebecca_ de Daphné Du Maurier.",
-          "generique": [
-            "Laurence Olivier",
-            "Joan Fontaine",
-            "George Sanders"
-          ],
+          "generique": ["Laurence Olivier", "Joan Fontaine", "George Sanders"],
           "duree": 130,
           "format": "35 mm",
           "version": "VOSTF",
@@ -2507,30 +2016,21 @@
               "ordre": 1,
               "idEvenement": 19834,
               "dateHeure": "2019-12-11T16:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32259,
               "ordre": 1,
               "idEvenement": 19834,
               "dateHeure": "2019-12-22T14:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32297,
               "ordre": 1,
               "idEvenement": 19834,
               "dateHeure": "2019-12-28T20:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2548,11 +2048,7 @@
               "texte": "En pleine guerre froide, un physicien américain annonce qu'il passe à l'Est. Il compte en réalité y dérober des secrets scientifiques."
             }
           ],
-          "generique": [
-            "Paul Newman",
-            "Julie Andrews",
-            "Lila Kedrova"
-          ],
+          "generique": ["Paul Newman", "Julie Andrews", "Lila Kedrova"],
           "duree": 128,
           "format": "DCP",
           "version": "VOSTF",
@@ -2563,20 +2059,14 @@
               "ordre": 1,
               "idEvenement": 19835,
               "dateHeure": "2019-12-22T21:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32330,
               "ordre": 1,
               "idEvenement": 19835,
               "dateHeure": "2020-01-03T14:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2595,11 +2085,7 @@
             }
           ],
           "adaptation": "D'après la pièce _The Skin Game_ de John Galsworthy.",
-          "generique": [
-            "Edmund Gwenn",
-            "Jill Esmond",
-            "John Longden"
-          ],
+          "generique": ["Edmund Gwenn", "Jill Esmond", "John Longden"],
           "duree": 85,
           "format": "35 mm",
           "version": "VOSTF",
@@ -2609,21 +2095,15 @@
               "idSeance": 32179,
               "ordre": 1,
               "idEvenement": 19837,
-              "dateHeure": "2019-12-08T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "dateHeure": "2019-12-08T19:30:00",
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32768,
               "ordre": 1,
               "idEvenement": 19837,
               "dateHeure": "2019-12-12T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -2641,13 +2121,9 @@
             }
           ],
           "adaptation": "D'après le roman _Préméditation_ de Francis Iles.",
-          "generique": [
-            "Cary Grant",
-            "Joan Fontaine",
-            "Nigel Bruce"
-          ],
+          "generique": ["Cary Grant", "Joan Fontaine", "Nigel Bruce"],
           "duree": 102,
-          "format": "DCP",
+          "format": "35 mm",
           "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
@@ -2656,20 +2132,14 @@
               "ordre": 1,
               "idEvenement": 19838,
               "dateHeure": "2019-12-29T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32747,
               "ordre": 1,
               "idEvenement": 19838,
               "dateHeure": "2020-01-03T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2687,11 +2157,7 @@
             }
           ],
           "adaptation": "D'après le roman _D'entre les morts_ de Boileau-Narcejac",
-          "generique": [
-            "Kim Novak",
-            "James Stewart",
-            "Barbara Bel Geddes"
-          ],
+          "generique": ["Kim Novak", "James Stewart", "Barbara Bel Geddes"],
           "duree": 123,
           "format": "35 mm",
           "version": "VOSTF",
@@ -2702,20 +2168,14 @@
               "ordre": 1,
               "idEvenement": 21253,
               "dateHeure": "2019-12-01T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32253,
               "ordre": 1,
               "idEvenement": 19839,
               "dateHeure": "2019-12-21T18:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2734,11 +2194,7 @@
             }
           ],
           "adaptation": "D'après le roman _L'Auberge de la Jamaïque_ de Daphné Du Maurier.",
-          "generique": [
-            "Charles Laughton",
-            "Maureen O'Hara",
-            "Leslie Banks"
-          ],
+          "generique": ["Charles Laughton", "Maureen O'Hara", "Leslie Banks"],
           "duree": 108,
           "format": "DCP",
           "version": "VOSTF",
@@ -2748,21 +2204,15 @@
               "idSeance": 32170,
               "ordre": 1,
               "idEvenement": 19840,
-              "dateHeure": "2019-12-08T21:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "dateHeure": "2019-12-08T21:15:00",
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 32302,
               "ordre": 1,
               "idEvenement": 19840,
               "dateHeure": "2019-12-29T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -2796,21 +2246,15 @@
               "idSeance": 32168,
               "ordre": 1,
               "idEvenement": 19842,
-              "dateHeure": "2019-12-07T16:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "dateHeure": "2019-12-07T16:45:00",
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 32296,
               "ordre": 1,
               "idEvenement": 19842,
               "dateHeure": "2019-12-28T18:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         }
@@ -2843,10 +2287,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _Back for Christmas_ de John Collier.",
-              "generique": [
-                "John Williams",
-                "Isobel Elsom"
-              ],
+              "generique": ["John Williams", "Isobel Elsom"],
               "duree": 25,
               "format": "Vidéo",
               "version": "VOSTF",
@@ -2872,10 +2313,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _En plein jus_ de Roald Dahl.",
-              "generique": [
-                "Keenan Wynn",
-                "Fay Wray"
-              ],
+              "generique": ["Keenan Wynn", "Fay Wray"],
               "duree": 25,
               "format": "Vidéo",
               "version": "VOSTF",
@@ -2915,10 +2353,7 @@
           "seance": [
             {
               "dateHeure": "2020-01-15T19:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -2943,12 +2378,8 @@
                   "texte": "Quand son épouse est agressée par un inconnu, Carl la conduit en ville dans l'espoir d'identifier le coupable pour le tuer."
                 }
               ],
-              "generique": [
-                "Ralph Meeker",
-                "Vera Miles",
-                "Frances Bavier"
-              ],
-              "duree": 25,
+              "generique": ["Ralph Meeker", "Vera Miles", "Frances Bavier"],
+              "duree": 26,
               "format": "35 mm",
               "version": "VOSTF",
               "ageMinimal": null,
@@ -2972,11 +2403,7 @@
                   "texte": "Babs Fenton, auteure de romans policiers à l'imagination débordante, est convaincue que son voisin a tué son épouse, qu'elle n'a jamais vue, et qu'il a dissimulé le cadavre."
                 }
               ],
-              "generique": [
-                "Mary Scotts",
-                "Robert Horton",
-                "Dayton Lummis"
-              ],
+              "generique": ["Mary Scotts", "Robert Horton", "Dayton Lummis"],
               "duree": 25,
               "format": "Vidéo",
               "version": "VOSTF",
@@ -2999,11 +2426,7 @@
                   "texte": "Trompé par sa fiancée, un éleveur de poulets décide de se venger en l'éliminant d'une étrange et atroce façon."
                 }
               ],
-              "generique": [
-                "Laurence Harvey",
-                "Hazel Court",
-                "Robert Douglas"
-              ],
+              "generique": ["Laurence Harvey", "Hazel Court", "Robert Douglas"],
               "duree": 25,
               "format": "Vidéo",
               "version": "VOSTF",
@@ -3029,11 +2452,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _Mme Bixby et le manteau du colonel_ de Roald Dahl.",
-              "generique": [
-                "Audrey Meadows",
-                "Les Tremayne",
-                "Stephen Chase"
-              ],
+              "generique": ["Audrey Meadows", "Les Tremayne", "Stephen Chase"],
               "duree": 25,
               "format": "Vidéo",
               "version": "VOSTF",
@@ -3044,10 +2463,7 @@
           "seance": [
             {
               "dateHeure": "2020-01-15T21:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -3074,10 +2490,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _Banquo's Chair_ de Rupert Croft-Cooke.",
-              "generique": [
-                "John Williams",
-                "Kenneth Haigh"
-              ],
+              "generique": ["John Williams", "Kenneth Haigh"],
               "duree": 25,
               "format": "Vidéo",
               "version": "VOSTF",
@@ -3102,11 +2515,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _I Saw the Whole Thing_ de Henry Cecil.",
-              "generique": [
-                "John Forsythe",
-                "Kent Smith",
-                "Evans Evans"
-              ],
+              "generique": ["John Forsythe", "Kent Smith", "Evans Evans"],
               "duree": 50,
               "format": "35 mm",
               "version": "VOSTF",
@@ -3117,10 +2526,7 @@
           "seance": [
             {
               "dateHeure": "2020-01-16T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -3146,11 +2552,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _Incident at a Corner_ de Charlotte Armstrong.",
-              "generique": [
-                "Vera Miles",
-                "Paul Hartman",
-                "George Peppard"
-              ],
+              "generique": ["Vera Miles", "Paul Hartman", "George Peppard"],
               "duree": 50,
               "format": "35 mm",
               "version": "VOSTF",
@@ -3176,11 +2578,7 @@
                   "texte": "Un détective renommé et mégalomane apprend qu'il a aidé à faire condamner un innocent."
                 }
               ],
-              "generique": [
-                "Vincent Price",
-                "James Gregory",
-                "John Zaremba"
-              ],
+              "generique": ["Vincent Price", "James Gregory", "John Zaremba"],
               "duree": 25,
               "format": "Vidéo",
               "version": "VOSTF",
@@ -3191,10 +2589,7 @@
           "seance": [
             {
               "dateHeure": "2020-01-16T21:15:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -3247,11 +2642,7 @@
                   "texte": "Sam tue sa femme et dissimule le cadavre dans le coffre de sa voiture. Mais il est arrêté sur la route par un policier en raison d'un phare défectueux."
                 }
               ],
-              "generique": [
-                "David Wayne",
-                "Louise Larrabee",
-                "Steve Brodie"
-              ],
+              "generique": ["David Wayne", "Louise Larrabee", "Steve Brodie"],
               "duree": 25,
               "format": "35 mm",
               "version": "VOSTF",
@@ -3275,10 +2666,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _Poison_ de Roald Dahl.",
-              "generique": [
-                "James Donald",
-                "Wendell Corey"
-              ],
+              "generique": ["James Donald", "Wendell Corey"],
               "duree": 26,
               "format": "35 mm",
               "version": "VOSTF",
@@ -3289,10 +2677,7 @@
           "seance": [
             {
               "dateHeure": "2020-01-17T19:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -3317,11 +2702,7 @@
                   "texte": "Un garçonnet de 5 ans joue au cow-boy avec le revolver de son oncle sans se rendre compte qu'il est chargé."
                 }
               ],
-              "generique": [
-                "Stephen Dunne",
-                "Biff Elliot",
-                "Lucy Prentis"
-              ],
+              "generique": ["Stephen Dunne", "Biff Elliot", "Lucy Prentis"],
               "duree": 25,
               "format": "35 mm",
               "version": "VOSTF",
@@ -3346,11 +2727,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _Meurtres à la seconde_ de William Irish.",
-              "generique": [
-                "E. G. Marshall",
-                "Nancy Kelly",
-                "Richard Long"
-              ],
+              "generique": ["E. G. Marshall", "Nancy Kelly", "Richard Long"],
               "duree": 48,
               "format": "Vidéo",
               "version": "VOSTF",
@@ -3361,10 +2738,7 @@
           "seance": [
             {
               "dateHeure": "2020-01-17T22:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -3392,11 +2766,7 @@
                 }
               ],
               "adaptation": "D'après le roman _The Strange Case of Mr Pelham_ d'Anthony Armstrong.",
-              "generique": [
-                "Tom Ewell",
-                "Raymond Bailey",
-                "Kirby Smith"
-              ],
+              "generique": ["Tom Ewell", "Raymond Bailey", "Kirby Smith"],
               "duree": 25,
               "format": "Vidéo",
               "version": "VOSTF",
@@ -3421,11 +2791,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _Wet Saturday_ de John Collier.",
-              "generique": [
-                "Cedric Hardwicke",
-                "John Williams",
-                "Tita Purdom"
-              ],
+              "generique": ["Cedric Hardwicke", "John Williams", "Tita Purdom"],
               "duree": 25,
               "format": "Vidéo",
               "version": "VOSTF",
@@ -3450,11 +2816,7 @@
                 }
               ],
               "adaptation": "D'après la nouvelle _The Horse Player_ de Henry Slesar.",
-              "generique": [
-                "Claude Rains",
-                "Ed Gardner",
-                "Percy Helton"
-              ],
+              "generique": ["Claude Rains", "Ed Gardner", "Percy Helton"],
               "duree": 26,
               "format": "Vidéo",
               "version": "VOSTF",
@@ -3465,10 +2827,7 @@
           "seance": [
             {
               "dateHeure": "2020-01-18T19:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         }
@@ -3485,6 +2844,7 @@
           "films": [
             {
               "titre": "Hitchcock, Anglais",
+              "sousTitre": "Conférence de Bernard Benoliel",
               "textes": [
                 {
                   "typeTexte": 8,
@@ -3501,10 +2861,7 @@
           "seance": [
             {
               "dateHeure": "2019-12-05T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -3514,6 +2871,7 @@
           "films": [
             {
               "titre": "« Quel meilleur ami pour un garçon que sa mère ? »",
+              "sousTitre": "Conférence de Jean-François Rauger",
               "textes": [
                 {
                   "typeTexte": 8,
@@ -3530,10 +2888,7 @@
           "seance": [
             {
               "dateHeure": "2019-12-12T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -3559,10 +2914,7 @@
           "seance": [
             {
               "dateHeure": "2019-12-20T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         }

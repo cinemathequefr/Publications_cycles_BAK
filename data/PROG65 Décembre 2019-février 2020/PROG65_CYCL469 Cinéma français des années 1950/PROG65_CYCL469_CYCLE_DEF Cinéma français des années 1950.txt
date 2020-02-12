@@ -52,7 +52,7 @@
 <pstyle:><cstyle:INFOSBLEUES>me 11 décXXX20h30XXX
 <cstyle:SALLESBLEUES>C
 
-<pstyle:TITRE>Le Cap de l'espérance
+<pstyle:TITRE>Le Cap de l<0x2019>espérance
 <pstyle:TECHNIQUE>de Raymond Bernard
 <pstyle:TECHNIQUE>France-Italie/1951/90<0x2019>/35mm
 <pstyle:TECHNIQUE>D<0x2019>après la pièce <cSkew:9>Notre peau<cSkew:> de José-André Lacour.
@@ -63,7 +63,7 @@
 
 <pstyle:TITRE>Casabianca
 <pstyle:TECHNIQUE>de Georges Péclet
-<pstyle:TECHNIQUE>France/1950/68<0x2019>/VO/35mm
+<pstyle:TECHNIQUE>France/1950/84<0x2019>/35mm
 <pstyle:TECHNIQUE>Avec Pierre Dudan, Paulette Andrieux, Jean Vilar.
 <pstyle:SYNOPSIS>Toulon, 1942. Pour ne pas tomber aux mains des Allemands, la flotte française se saborde, mais le capitaine L<0x2019>Herminier et son équipage décident de continuer la guerre aux côtés des Alliés.
 <pstyle:><cstyle:INFOSBLEUES>me 04 décXXX20h30XXX
@@ -79,7 +79,7 @@
 
 <pstyle:TITRE>Le Dindon
 <pstyle:TECHNIQUE>de Claude Barma
-<pstyle:TECHNIQUE>France/1951/79<0x2019>/35mm
+<pstyle:TECHNIQUE>France/1951/80<0x2019>/VO/35mm
 <pstyle:TECHNIQUE>D<0x2019>après la pièce <cSkew:9>Le Dindon<cSkew:> de Georges Feydeau.
 <pstyle:TECHNIQUE>Avec Nadine Alari, Jacques Charon, Jacqueline Pierreux, Louis de Funès.
 <pstyle:SYNOPSIS>Monsieur de Pontagnac adore les jolies femmes, mais sa passion lui joue des tours, et il se retrouve entraîné dans une sombre histoire d<0x2019>adultère.
@@ -103,7 +103,7 @@
 <pstyle:><cstyle:INFOSBLEUES>je 12 décXXX20h30XXX
 <cstyle:SALLESBLEUES>C
 
-<pstyle:TITRE>Journal d'un curé de campagne
+<pstyle:TITRE>Journal d<0x2019>un curé de campagne
 <pstyle:TECHNIQUE>de Robert Bresson
 <pstyle:TECHNIQUE>France/1950/115<0x2019>/DCP
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Journal d<0x2019>un curé de campagne<cSkew:> de Georges Bernanos.
@@ -113,7 +113,7 @@
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Ma femme est formidable
-<pstyle:TECHNIQUE>d'André Hunebelle
+<pstyle:TECHNIQUE>d<0x2019>André Hunebelle
 <pstyle:TECHNIQUE>France/1951/92<0x2019>/VO/16mm
 <pstyle:TECHNIQUE>Avec Sophie Desmarets, Fernand Gravey, Simone Valère.
 <pstyle:SYNOPSIS>Raymond pense que sa femme, Sylvia, le trompe. Pour se venger, il simule un amour pour Marguerite, l<0x2019>épouse infidèle de son ami Gaston. Quiproquos et péripéties s<0x2019>enchaînent alors pour le quatuor.
@@ -121,7 +121,7 @@
 <cstyle:SALLESBLEUES>C
 
 <pstyle:TITRE>Mademoiselle Josette, ma femme
-<pstyle:TECHNIQUE>d'André Berthomieu
+<pstyle:TECHNIQUE>d<0x2019>André Berthomieu
 <pstyle:TECHNIQUE>France/1950/92<0x2019>/35mm
 <pstyle:TECHNIQUE>D<0x2019>après la pièce <cSkew:9>Mademoiselle Josette, ma femme<cSkew:> de Robert Charvay et Paul Gavault.
 <pstyle:TECHNIQUE>Avec Odile Versois, Fernand Gravey, Lysiane Rey.
@@ -140,16 +140,16 @@
 
 <pstyle:TITRE>Maître après Dieu
 <pstyle:TECHNIQUE>de Louis Daquin
-<pstyle:TECHNIQUE>France/1950/92<0x2019>/35mm
+<pstyle:TECHNIQUE>France/1950/92<0x2019>/Numérique
 <pstyle:TECHNIQUE>D<0x2019>après la pièce <cSkew:9>Maître après Dieu<cSkew:> de Jan de Hartog.
 <pstyle:TECHNIQUE>Avec Pierre Brasseur, Loleh Bellon, Jean-Pierre Grenier.
 <pstyle:SYNOPSIS>En 1938, le flibustier Joris Knipper marchande le transport de passagers juifs jusqu<0x2019>en Égypte. Mais lorsqu<0x2019>il s<0x2019>aperçoit qu<0x2019>il ne peut légalement pas les débarquer, sa foi chrétienne le rattrape, et il refuse de les ramener en Allemagne.
 <pstyle:><cstyle:INFOSBLEUES>di 08 décXXX20h30XXX
 <cstyle:SALLESBLEUES>C
 
-<pstyle:TITRE>Les Miracles n'ont lieu qu'une fois
+<pstyle:TITRE>Les Miracles n<0x2019>ont lieu qu<0x2019>une fois
 <pstyle:TECHNIQUE>de Yves Allégret
-<pstyle:TECHNIQUE>France-Italie/1950/101<0x2019>/35mm
+<pstyle:TECHNIQUE>France-Italie/1950/102<0x2019>/VO/35mm
 <pstyle:TECHNIQUE>Avec Alida Valli, Jean Marais, Christine Chesnay.
 <pstyle:SYNOPSIS>En 1939, Claudia et Jérôme tombent éperdument amoureux l<0x2019>un de l<0x2019>autre. Mais la guerre va les séparer.
 <pstyle:><cstyle:INFOSBLEUES>je 19 décXXX20h30XXX
@@ -184,8 +184,8 @@
 <pstyle:TITRE>Peppino et Violetta
 <pstyle:TITRE_ANG>(Peppino e Violetta)
 <pstyle:TECHNIQUE>de Maurice Cloche
-<pstyle:TECHNIQUE>Italie-France/1950/82<0x2019>/VF/35mm
-<pstyle:TECHNIQUE>Avec Vittorio Manunta, Denis O'Dea, Guido Celano.
+<pstyle:TECHNIQUE>Italie-France/1950/85<0x2019>/VF/35mm
+<pstyle:TECHNIQUE>Avec Vittorio Manunta, Denis O<0x2019>Dea, Guido Celano.
 <pstyle:SYNOPSIS>Violetta, l<0x2019>ânesse de Peppino, est malade. Pour l<0x2019>enfant, seul Saint François d<0x2019>Assise, patron des animaux, peut la guérir. Il entreprend alors le voyage jusqu<0x2019>à Rome, pour lui demander son aide.
 <pstyle:><cstyle:INFOSBLEUES>sa 21 décXXX20h30XXX
 <cstyle:SALLESBLEUES>C
@@ -200,8 +200,8 @@
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Le Rideau rouge
-<pstyle:TECHNIQUE>d'André Barsacq
-<pstyle:TECHNIQUE>France/1952/83<0x2019>/35mm
+<pstyle:TECHNIQUE>d<0x2019>André Barsacq
+<pstyle:TECHNIQUE>France/1952/84<0x2019>/VO/35mm
 <pstyle:TECHNIQUE>Avec Michel Simon, Pierre Brasseur, Monelle Valentin.
 <pstyle:SYNOPSIS>Directeur d<0x2019>un grand théâtre parisien, le cynique Bertal est assassiné dans sa loge juste avant une représentation de <ct:Italic>Macbeth<ct:>. Les soupçons se portent sur un des comédiens.
 <pstyle:><cstyle:INFOSBLEUES>me 05 févXXX20h30XXX
@@ -225,7 +225,7 @@
 <pstyle:><cstyle:INFOSBLEUES>me 27 novXXX17h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Tu m'as sauvé la vie
+<pstyle:TITRE>Tu m<0x2019>as sauvé la vie
 <pstyle:TECHNIQUE>de Sacha Guitry
 <pstyle:TECHNIQUE>France/1950/90<0x2019>/VO/35mm
 <pstyle:TECHNIQUE>D<0x2019>après la pièce <cSkew:9>Tu m<0x2019>as sauvé la vie<cSkew:> de Sacha Guitry.

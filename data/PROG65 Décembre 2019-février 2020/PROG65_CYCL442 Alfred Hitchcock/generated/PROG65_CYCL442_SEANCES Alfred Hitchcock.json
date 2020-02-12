@@ -381,7 +381,7 @@
     "typeEvenement": 13,
     "idEvenement": 19842,
     "idSeance": 32168,
-    "dateHeure": "2019-12-07T16:30:00",
+    "dateHeure": "2019-12-07T16:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -404,7 +404,7 @@
     "typeEvenement": 13,
     "idEvenement": 19796,
     "idSeance": 32176,
-    "dateHeure": "2019-12-07T18:45:00",
+    "dateHeure": "2019-12-07T19:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -427,7 +427,7 @@
     "typeEvenement": 13,
     "idEvenement": 19808,
     "idSeance": 32127,
-    "dateHeure": "2019-12-07T21:15:00",
+    "dateHeure": "2019-12-07T21:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -496,7 +496,7 @@
     "typeEvenement": 13,
     "idEvenement": 19837,
     "idSeance": 32179,
-    "dateHeure": "2019-12-08T19:00:00",
+    "dateHeure": "2019-12-08T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -519,7 +519,7 @@
     "typeEvenement": 13,
     "idEvenement": 19840,
     "idSeance": 32170,
-    "dateHeure": "2019-12-08T21:00:00",
+    "dateHeure": "2019-12-08T21:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -711,7 +711,7 @@
         "idCopie": 19716,
         "duree": 104,
         "version": "INT. FR.",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 1
       }
     ]
@@ -731,7 +731,7 @@
         "idFilm": 41620,
         "ordre": 1,
         "idSeance": 32203,
-        "idCopie": 57,
+        "idCopie": 20452,
         "duree": 108,
         "version": "VOSTF",
         "format": "35 mm",
@@ -825,7 +825,7 @@
         "idSeance": 33600,
         "idCopie": 19460,
         "duree": 31,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm",
         "valide": 1
       },
@@ -994,11 +994,11 @@
         "idFilm": 41554,
         "ordre": 1,
         "idSeance": 32231,
-        "idCopie": 19951,
+        "idCopie": 8734,
         "duree": 101,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -1134,7 +1134,7 @@
         "idFilm": 45342,
         "ordre": 1,
         "idSeance": 32739,
-        "idCopie": 19950,
+        "idCopie": 20550,
         "duree": 130,
         "version": "VOSTF",
         "format": "DCP",
@@ -1220,7 +1220,7 @@
         "ordre": 1,
         "idSeance": 32253,
         "idCopie": 19474,
-        "duree": 123,
+        "duree": 129,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
@@ -1771,11 +1771,11 @@
         "idFilm": 41593,
         "ordre": 1,
         "idSeance": 32305,
-        "idCopie": 20284,
+        "idCopie": 20552,
         "duree": 102,
         "version": "VOSTF",
-        "format": "DCP",
-        "valide": 0
+        "format": "35 mm",
+        "valide": 1
       }
     ]
   },
@@ -1842,7 +1842,7 @@
         "idSeance": 32978,
         "idCopie": 14906,
         "duree": 112,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "DCP",
         "valide": 1
       }
@@ -1863,7 +1863,7 @@
         "idFilm": 45342,
         "ordre": 1,
         "idSeance": 32324,
-        "idCopie": 19950,
+        "idCopie": 20550,
         "duree": 130,
         "version": "VOSTF",
         "format": "DCP",
@@ -2001,11 +2001,11 @@
         "idFilm": 41593,
         "ordre": 1,
         "idSeance": 32747,
-        "idCopie": 20284,
+        "idCopie": 20552,
         "duree": 102,
         "version": "VOSTF",
-        "format": "DCP",
-        "valide": 0
+        "format": "35 mm",
+        "valide": 1
       }
     ]
   },
@@ -2093,11 +2093,11 @@
         "idFilm": 41554,
         "ordre": 1,
         "idSeance": 32339,
-        "idCopie": 19951,
+        "idCopie": 8734,
         "duree": 101,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -2209,7 +2209,7 @@
         "ordre": 1,
         "idSeance": 32929,
         "idCopie": 14817,
-        "duree": 120,
+        "duree": 119,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
@@ -2254,7 +2254,7 @@
         "idFilm": 41620,
         "ordre": 1,
         "idSeance": 32354,
-        "idCopie": 57,
+        "idCopie": 20452,
         "duree": 108,
         "version": "VOSTF",
         "format": "35 mm",
@@ -2303,7 +2303,7 @@
         "idSeance": 32356,
         "idCopie": 19460,
         "duree": 31,
-        "version": "VOSTF",
+        "version": "VO",
         "format": "35 mm",
         "valide": 1
       },
@@ -2337,52 +2337,6 @@
         "idCopie": 19518,
         "duree": 108,
         "version": "VOSTF",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2024,
-    "typeEvenement": 13,
-    "idEvenement": 19830,
-    "idSeance": 32769,
-    "dateHeure": "2020-01-08T19:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "items": [
-      {
-        "idFilm": 55794,
-        "ordre": 1,
-        "idSeance": 32769,
-        "idCopie": 19437,
-        "duree": 90,
-        "version": "INT. FR.",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2024,
-    "typeEvenement": 13,
-    "idEvenement": 19829,
-    "idSeance": 32770,
-    "dateHeure": "2020-01-08T21:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "items": [
-      {
-        "idFilm": 39568,
-        "ordre": 1,
-        "idSeance": 32770,
-        "idCopie": 19719,
-        "duree": 70,
-        "version": "INT. FR.",
         "format": "DCP",
         "valide": 1
       }
@@ -2590,7 +2544,7 @@
         "idCopie": 19716,
         "duree": 104,
         "version": "INT. FR.",
-        "format": "DCP",
+        "format": "35 mm",
         "valide": 1
       }
     ]
@@ -2723,7 +2677,7 @@
         "ordre": 1,
         "idSeance": 32773,
         "idCopie": 19516,
-        "duree": 25,
+        "duree": 26,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
@@ -2948,6 +2902,29 @@
   {
     "idCategorie": 2024,
     "typeEvenement": 13,
+    "idEvenement": 19829,
+    "idSeance": 33759,
+    "dateHeure": "2020-01-18T21:45:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 39568,
+        "ordre": 1,
+        "idSeance": 33759,
+        "idCopie": 19719,
+        "duree": 70,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2024,
+    "typeEvenement": 13,
     "idEvenement": 19803,
     "idSeance": 32431,
     "dateHeure": "2020-01-19T14:30:00",
@@ -2985,7 +2962,30 @@
         "idSeance": 32432,
         "idCopie": 14906,
         "duree": 112,
-        "version": "VOSTF",
+        "version": "VO",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2024,
+    "typeEvenement": 13,
+    "idEvenement": 19830,
+    "idSeance": 33758,
+    "dateHeure": "2020-01-20T21:15:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 55794,
+        "ordre": 1,
+        "idSeance": 33758,
+        "idCopie": 19437,
+        "duree": 90,
+        "version": "INT. FR.",
         "format": "DCP",
         "valide": 1
       }

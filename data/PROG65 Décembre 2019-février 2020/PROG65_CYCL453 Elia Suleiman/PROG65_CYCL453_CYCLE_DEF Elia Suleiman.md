@@ -24,7 +24,7 @@ suivi de
 **Le Temps qu'il reste**  
 **(The Time That Remains)**  
 d'Elia Suleiman  
-Grande-Bretagne-Italie-Belgique-France-États-Unis / 2008 / 105 min / VOSTF / DCP  
+Grande-Bretagne-Italie-Belgique-France-États-Unis / 2008 / 105 min / VOSTF / 35 mm  
 Avec Elia Suleiman, Ali Suliman, Fuad Suleiman.  
 « C'est un film en partie autobiographique, construit en quatre épisodes marquants de la vie d'une famille, ma famille, de 1948 au temps récent. Il s'inspire des carnets personnels de mon père, et commence lorsque celui-ci était un combattant résistant en 1948, et aussi des lettres de ma mère aux membres de sa famille qui furent forcés de quitter le pays. » (Elia Suleiman)  
 La vie d'une famille palestinienne, de la création de l'État d'Israël en 1948 à aujourd'hui.
@@ -66,8 +66,8 @@ Séance présentée par Elia Suleiman
 **Elia Suleiman par Elia Suleiman**  
 undefined  
 80 min  
-« Le point de départ d'une image, pour moi, c'est un chatouillement, une sensualité, un plaisir potentiel, un trait d'humour. L'image est d'abord mal définie. Puis, je l'explore. Mais je ne commence jamais par la compréhension. Parfois, au contraire, je la garde parce que je ne la comprends pas, et que je la trouve drôle ou insolite. Mais je sais qu'il y a aussi quelque chose d'intellectuel, sous-jacent, dont je ne me rendrai compte qu'après coup. » (Elia Suleiman, octobre 2002)  
-**Bernard Benoliel** est directeur de l'Action culturelle et éducative à La Cinémathèque française.
+« Le point de départ d'une image, pour moi, c'est un chatouillement, une sensualité, un plaisir potentiel, un trait d'humour. L'image est d'abord mal définie. Puis, je l'explore. Mais je ne commence jamais par la compréhension. Parfois, au contraire, je la garde parce que je ne la comprends pas, et que je la trouve drôle ou insolite. Mais je sais qu'il y a aussi quelque chose d'intellectuel, sous-jacent, dont je ne me rendrai compte qu'après coup. » (Elia Suleiman)  
+Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.
 
 - di 8 déc 16h00 HL
 

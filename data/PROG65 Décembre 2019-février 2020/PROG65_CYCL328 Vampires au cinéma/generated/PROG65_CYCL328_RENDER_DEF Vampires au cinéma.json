@@ -821,7 +821,7 @@
                 "Brad Harris",
                 "Stephen Boyd"
               ],
-              "duree": 85,
+              "duree": 86,
               "format": "35 mm",
               "version": "VF",
               "ageMinimal": null,
@@ -1052,46 +1052,6 @@
       "items": [
         {
           "idCategorie": 2161,
-          "idEvenement": 19723,
-          "films": [
-            {
-              "idFilm": 142013,
-              "titre": "Dracula, vampire sexuel",
-              "titreVo": "Guess What Happened to Count Dracula?",
-              "realisateurs": "Laurence Merrick",
-              "annee": 1970,
-              "pays": "États-Unis",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Au XX<sup>e</sup> siècle, à Hollywood, le comte Adrian est propriétaire d'un night-club branché au décor gothique. Il jette son dévolu sur une jolie rouquine, mais elle est déjà fiancée."
-                }
-              ],
-              "generique": [
-                "Desmond Roberts",
-                "Claudia Barron",
-                "John Landon",
-                "Robert Branche"
-              ],
-              "duree": 74,
-              "format": "35 mm",
-              "version": "VFSTF",
-              "ageMinimal": 0,
-              "ordre": 1
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-01-11T22:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2161,
           "idEvenement": 21599,
           "films": [
             {
@@ -1117,6 +1077,46 @@
               "format": "35 mm",
               "version": "",
               "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-01-11T22:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2161,
+          "idEvenement": 19723,
+          "films": [
+            {
+              "idFilm": 142013,
+              "titre": "Dracula, vampire sexuel",
+              "titreVo": "Guess What Happened to Count Dracula?",
+              "realisateurs": "Laurence Merrick",
+              "annee": 1970,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Au XX<sup>e</sup> siècle, à Hollywood, le comte Adrian est propriétaire d'un night-club branché au décor gothique. Il jette son dévolu sur une jolie rouquine, mais elle est déjà fiancée."
+                }
+              ],
+              "generique": [
+                "Desmond Roberts",
+                "Claudia Barron",
+                "John Landon",
+                "Robert Branche"
+              ],
+              "duree": 74,
+              "format": "35 mm",
+              "version": "VF",
+              "ageMinimal": 0,
               "ordre": 1
             }
           ],

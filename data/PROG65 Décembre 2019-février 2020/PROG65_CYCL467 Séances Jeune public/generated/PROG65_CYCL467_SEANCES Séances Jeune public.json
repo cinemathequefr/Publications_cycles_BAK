@@ -560,7 +560,13 @@
       },
       {
         "idFilm": 77574,
-        "ordre": 5
+        "ordre": 5,
+        "idSeance": 32487,
+        "idCopie": 6325,
+        "duree": 17,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -593,7 +599,13 @@
       },
       {
         "idFilm": 77574,
-        "ordre": 5
+        "ordre": 5,
+        "idSeance": 32522,
+        "idCopie": 6325,
+        "duree": 17,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -627,11 +639,9 @@
     "idSeance": 32538,
     "dateHeure": "2020-02-06T21:30:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
-    "idSeanceAssoc": 32544,
-    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 41860,
@@ -664,7 +674,7 @@
         "duree": 105,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -720,7 +730,13 @@
       },
       {
         "idFilm": 77574,
-        "ordre": 5
+        "ordre": 5,
+        "idSeance": 33010,
+        "idCopie": 6325,
+        "duree": 17,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 0
       }
     ]
   },
@@ -759,18 +775,28 @@
     ],
     "items": [
       {
-        "idFilm": 143065,
+        "idFilm": 87870,
         "ordre": 1,
+        "idSeance": 32980,
+        "idCopie": 20857,
+        "duree": 7,
+        "version": "",
+        "format": "",
+        "valide": 1
+      },
+      {
+        "idFilm": 143065,
+        "ordre": 2,
         "idSeance": 32980,
         "idCopie": 20176,
         "duree": 8,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 119671,
-        "ordre": 2,
+        "ordre": 3,
         "idSeance": 32980,
         "idCopie": 10909,
         "duree": 13,
@@ -779,14 +805,34 @@
         "valide": 1
       },
       {
-        "idFilm": 47696,
-        "ordre": 3,
+        "idFilm": 73457,
+        "ordre": 4,
         "idSeance": 32980,
-        "idCopie": 17557,
-        "duree": 0,
+        "idCopie": 20876,
+        "duree": 5,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 129510,
+        "ordre": 5,
+        "idSeance": 32980,
+        "idCopie": 20888,
+        "duree": 8,
+        "version": "",
+        "format": "16 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 32958,
+        "ordre": 6,
+        "idSeance": 32980,
+        "idCopie": 20856,
+        "duree": 23,
         "version": "INT. FR.",
-        "format": "35 mm",
-        "valide": 0
+        "format": "",
+        "valide": 1
       }
     ]
   },
@@ -809,7 +855,7 @@
         "duree": 80,
         "version": "VOSTF",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },

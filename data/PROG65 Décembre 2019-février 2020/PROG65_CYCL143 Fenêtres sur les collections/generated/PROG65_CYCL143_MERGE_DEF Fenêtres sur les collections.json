@@ -22,7 +22,7 @@
           "annee": 1952,
           "pays": "France",
           "duree": 15,
-          "version": "VO",
+          "version": "VF",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -79,7 +79,7 @@
           "annee": 1908,
           "pays": "France",
           "duree": 3,
-          "version": "INT. FR.",
+          "version": "",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -135,8 +135,8 @@
           "realisateurs": "Elaine Bass, Saul Bass",
           "annee": 1980,
           "pays": "États-Unis",
-          "duree": 9,
-          "version": "",
+          "duree": 10,
+          "version": "VF",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -163,8 +163,8 @@
           "realisateurs": "anonyme",
           "annee": 1974,
           "pays": "France",
-          "duree": 9,
-          "version": "",
+          "duree": 10,
+          "version": "VF",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -254,7 +254,7 @@
           "annee": 1979,
           "pays": "Danemark",
           "duree": 48,
-          "version": "",
+          "version": "VF",
           "format": "16 mm",
           "ageMinimal": null,
           "textes": [

@@ -505,7 +505,7 @@
               "texte": "Programme de courts métrages qui représentent les pays du sommet BRICS de 2017, une conférence annuelle sur les relations internationales tenue entre le Brésil, la Russie, l'Inde, la Chine et l'Afrique du Sud. "
             }
           ],
-          "duree": 151,
+          "duree": 111,
           "format": "DCP",
           "version": "VOSTF",
           "ageMinimal": 0,
@@ -1125,7 +1125,7 @@
             "Song Fang"
           ],
           "duree": 87,
-          "format": "DCP",
+          "format": "Numérique",
           "version": "VOSTF",
           "ageMinimal": 0,
           "seance": [
@@ -1267,15 +1267,15 @@
               "textes": [
                 {
                   "typeTexte": 8,
-                  "texte": "« L'urbanisation sauvage, les campagnes désolées, l'absence de dialogue social, la précarisation absolue des ouvriers, le mépris dont ils sont l'objet de la part des patrons, l'indifférence de l'État... Comment voulez-vous, dans ces conditions, ne pas voir renaître ces héros des temps anciens que sont les justiciers errants ? » (Jia Zhangke, 2013)"
+                  "texte": "« L'urbanisation sauvage, les campagnes désolées, l'absence de dialogue social, la précarisation absolue des ouvriers, le mépris dont ils sont l'objet de la part des patrons, l'indifférence de l'État... Comment voulez-vous, dans ces conditions, ne pas voir renaître ces héros des temps anciens que sont les justiciers errants ? » (Jia Zhangke)"
                 },
                 {
                   "typeTexte": 156,
-                  "texte": "**Jean-François Rauger** est directeur de la programmation à La Cinémathèque française."
+                  "texte": "Jean-François Rauger est directeur de la programmation à La Cinémathèque française."
                 },
                 {
                   "typeTexte": 156,
-                  "texte": "**Wafa Ghermani** est docteure en études cinématographiques, spécialiste du cinéma taïwanais, et chargée d'événements culturels à La Cinémathèque française."
+                  "texte": "Wafa Ghermani est docteure en études cinématographiques, spécialiste des cinémas d'Asie, et chargée d'événements culturels à La Cinémathèque française."
                 }
               ],
               "duree": 60

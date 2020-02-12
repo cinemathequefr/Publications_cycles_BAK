@@ -650,8 +650,8 @@
               "idEvenement": 20158,
               "dateHeure": "2020-02-06T21:30:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "HL",
+                "Henri Langlois"
               ]
             },
             {
@@ -1230,8 +1230,8 @@
               "idEvenement": 20149,
               "dateHeure": "2020-01-31T19:30:00",
               "idSalle": [
-                "HL",
-                "Henri Langlois"
+                "GF",
+                "Georges Franju"
               ]
             },
             {
@@ -2108,7 +2108,7 @@
           "idEvenement": 21014,
           "films": [
             {
-              "titre": "Qui êtes-vous Vittorio de Sica ?",
+              "titre": "Qui êtes-vous Vittorio De Sica ?",
               "textes": [
                 {
                   "typeTexte": 8,
@@ -2116,7 +2116,7 @@
                 },
                 {
                   "typeTexte": 156,
-                  "texte": "**Paolo Mereghetti** est critique de cinéma au quotidien _Corriere della Sera_ et auteur du plus populaire dictionnaire italien des films (qui a pris son nom : « il Mereghetti »). En France, il a publié pour les _Cahiers du cinéma_ un ouvrage sur Orson Welles et le livre illustré _Movie: Box_ (éditions Contrasto)."
+                  "texte": "Paolo Mereghetti est critique de cinéma au quotidien _Corriere della sera_ et auteur du plus populaire dictionnaire italien des films (qui a pris son nom : _« Il Mereghetti »_). En France, il a publié pour les _Cahiers du cinéma_ un ouvrage sur Orson Welles et le livre illustré _Movie : Box_ (éditions Contrasto)."
                 }
               ],
               "duree": 90

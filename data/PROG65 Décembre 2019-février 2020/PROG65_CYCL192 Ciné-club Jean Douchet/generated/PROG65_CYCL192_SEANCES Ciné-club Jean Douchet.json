@@ -25,29 +25,6 @@
   {
     "idCategorie": 2142,
     "typeEvenement": 13,
-    "idEvenement": 19806,
-    "idSeance": 32188,
-    "dateHeure": "2019-12-11T19:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 53982,
-        "ordre": 1,
-        "idSeance": 32188,
-        "idCopie": 88,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2142,
-    "typeEvenement": 13,
     "idEvenement": 19841,
     "idSeance": 32289,
     "dateHeure": "2019-12-27T19:00:00",
@@ -63,52 +40,6 @@
         "idCopie": 11616,
         "duree": 81,
         "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2142,
-    "typeEvenement": 13,
-    "idEvenement": 19806,
-    "idSeance": 32780,
-    "dateHeure": "2019-12-30T19:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 53982,
-        "ordre": 1,
-        "idSeance": 32780,
-        "idCopie": 88,
-        "duree": 110,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2142,
-    "typeEvenement": 13,
-    "idEvenement": 21643,
-    "idSeance": 32794,
-    "dateHeure": "2020-01-22T19:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 48813,
-        "ordre": 1,
-        "idSeance": 32794,
-        "idCopie": 10560,
-        "duree": 110,
-        "version": "",
         "format": "35 mm",
         "valide": 1
       }
@@ -136,52 +67,5 @@
         "valide": 1
       }
     ]
-  },
-  {
-    "idCategorie": 2142,
-    "typeEvenement": 13,
-    "idEvenement": 21643,
-    "idSeance": 32861,
-    "dateHeure": "2020-02-21T16:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 48813,
-        "ordre": 1,
-        "idSeance": 32861,
-        "idCopie": 10560,
-        "duree": 110,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2142,
-    "typeEvenement": 13,
-    "idEvenement": 21621,
-    "idSeance": 32661,
-    "dateHeure": "2020-02-26T19:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 52163,
-        "ordre": 1,
-        "idSeance": 32661,
-        "idCopie": 20221,
-        "duree": 95,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ],
-    "mention": "Séance présentée par Caroline Champetier"
   }
 ]

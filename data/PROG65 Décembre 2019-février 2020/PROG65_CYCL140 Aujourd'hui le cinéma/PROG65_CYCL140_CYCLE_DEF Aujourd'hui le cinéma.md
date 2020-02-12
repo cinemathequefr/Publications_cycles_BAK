@@ -17,6 +17,21 @@ Avant-première. Séance suivie d'une discussion avec Gabriel Martins et Mauríl
 
 ## Palmarès du festival Entrevues Belfort 2019
 
+**Créé par Janine Bazin en 1986, Entrevues Belfort est un festival dédié à la jeune création contemporaine et à l'histoire du cinéma. La compétition internationale est consacrée aux premiers, deuxièmes et troisièmes films. Les deux Grands prix 2019 – long et court métrage – de la 34<sup>e</sup> édition (18-25 novembre) seront présentés en avant-première et en présence des réalisateurs (sous réserve).**
+
+[143592]  
+****  
+undefined  
+85 min / VOSTF / DCP  
+suivi de  
+[143593]  
+****  
+undefined  
+30 min / DCP
+
+- lu 9 déc 19h30 JE  
+Avant-première. Séance présentée par Elsa Charbit
+
 ## Suhaib Gasmelbari
 
 **Premier long métrage du Soudanais Suhaib Gasmelbari, sélectionné à Berlin dans la section Panorama et lauréat du Prix du meilleur documentaire du festival, le film retrace avec humour et poésie l'aventure émouvante et héroïque de cinéphiles déterminés à ramener le cinéma au Soudan, où il n'y a plus aucune salle en activité.**
@@ -79,14 +94,14 @@ suivi de
 [104738]  
 **Il fait beau dans la plus belle ville du monde**  
 de Valérie Donzelli  
-France / 2007 / 12 min / 35 mm  
+France / 2007 / 12 min / DCP  
 Avec Valérie Donzelli, Serge Bozon.  
 Adèle, trente ans, se décide à rentrer en contact avec Vidal, un chanteur qu'elle admire. Après quelques échanges, il lui donne rendez-vous. Mais il ignore qu'Adèle est enceinte.  
 suivi de  
 [63701]  
 **L'Arche de Noé**  
 de Jean-François Laguionie  
-France / 1966 / 11 min / 35 mm  
+France / 1966 / 11 min / DCP  
 Au début du XX<sup>e</sup> siècle, une équipe d'explorateurs part à la recherche de l'Arche de Noé biblique.  
 suivi de  
 [131549]  
@@ -99,7 +114,7 @@ suivi de
 [143184]  
 **Poupée**  
 de Jessica Palud  
-France / 2016  
+France / 2016 / 13 min / DCP  
 Avec Jeanne Rosa, Virgile Bramly.  
 Chaque soir, « Poupée » écume les sites de rencontres pour enfin trouver l'amour. Après une discussion virtuelle avec un inconnu, elle accepte de se rendre chez lui en pleine nuit.  
 suivi de  
@@ -113,6 +128,15 @@ _Le Secret de Brokeback Mountain_ est passé hier soir à la télé. Boulervers�
 - lu 10 fév 19h00 JE
 
 ## Prix du film singulier 2020
+
+**Projection du film lauréat du Prix du film singulier 2020. Ce prix, créé par le Syndicat français de la critique de cinéma, a pour objectif de récompenser un film en coproduction et en langue française dont les critiques tiennent à souligner le travail « singulier ». Projection en présence de l'équipe et précédé de la projection du prix du court métrage SFCC 2020.**
+
+[142482]  
+****  
+undefined  
+93 min / DCP
+
+- lu 20 jan 21h30 JE
 
 ## Louise Narboni
 

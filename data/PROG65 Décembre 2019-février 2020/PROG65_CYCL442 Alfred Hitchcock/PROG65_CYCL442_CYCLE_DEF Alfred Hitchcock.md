@@ -28,7 +28,7 @@ Ouverture de la rétrospective
 **Fenêtre sur cour**  
 **(Rear Window)**  
 d'Alfred Hitchcock  
-États-Unis / 1953 / 112 min / VOSTF / DCP  
+États-Unis / 1953 / 112 min / VO / DCP  
 D'après la nouvelle _It Had to Be a Murder_ de Cornell Woolrich.  
 Avec James Stewart, Grace Kelly, Wendell Corey.  
 Un photographe, immobilisé avec une jambe plâtrée, n'a d'autre occupation que d'observer la cour de son immeuble et ses voisins. Bientôt, il soupçonne l'un d'entre eux d'avoir assassiné sa femme.
@@ -102,7 +102,7 @@ Sydney, 1831. Le cousin du gouverneur anglais retrouve son amie d'enfance Henrie
 [60683]  
 **Aventure malgache**  
 d'Alfred Hitchcock  
-Grande-Bretagne / 1944 / 31 min / VOSTF / 35 mm  
+Grande-Bretagne / 1944 / 31 min / VO / 35 mm  
 Avec The Molière Players.  
 Un comédien, qui peine à entrer dans la peau de son personnage d'officier allemand, est aidé par un collègue, qui lui dresse le portrait du directeur de la sûreté de Madagascar sous le régime de Vichy.  
 Film suivi de _Bon Voyage_ d'Alfred Hitchcock
@@ -206,7 +206,7 @@ d'Alfred Hitchcock
 Avec Joel McCrea, Laraine Day, Herbert Marshall.  
 Envoyé en Europe sous une fausse identité, un reporter se lance à la poursuite d'un diplomate hollandais censé détenir le secret d'un traité de paix entre son pays et les Alliés.
 
-- sa 7 déc 18h45 HL  
+- sa 7 déc 19h00 HL  
 - di 29 déc 16h45 HL
 
 [46295]  
@@ -320,7 +320,7 @@ Avec Leslie Banks, Edna Best, Peter Lorre.
 En vacances en Suisse, Bob et Jill se lient d'amitié avec un Français qui, avant de mourir assassiné sous leurs yeux, leur confie un message secret.
 
 - je 5 déc 21h15 HL  
-- sa 7 déc 21h15 HL
+- sa 7 déc 21h30 HL
 
 [45885]  
 **L'Homme qui en savait trop**  
@@ -457,7 +457,7 @@ Dans une clinique psychiatrique, une jeune doctoresse découvre que le nouveau e
 [38793]  
 **The Manxman**  
 d'Alfred Hitchcock  
-Grande-Bretagne / 1929 / 104 min / INT. FR. / DCP  
+Grande-Bretagne / 1929 / 104 min / INT. FR. / 35 mm  
 D'après le roman _The Manxman_ de Hall Caine.  
 Avec Carl Brisson, Malcolm Keen, Anny Ondra.  
 Caesar Creegen oblige le pêcheur Pet Quillian à faire fortune avant d'épouser sa fille. Pet part alors pour l'Afrique du Sud, mais, en son absence, la jeune fille tombe amoureuse de son meilleur ami.
@@ -568,7 +568,7 @@ Avec Isabel Jeans, Robin Irvine, Franklin Dyall.
 Larita Filton divorce de son mari alcoolique et violent, et part sur la Côte d'Azur pour fuir le scandale d'un procès médiatisé. Elle y rencontre John Whittaker, dont la famille désapprouve les mœurs.
 
 - me 4 déc 17h00 GF  
-- me 8 jan 21h00 GF
+- sa 18 jan 21h45 JE
 
 [55794]  
 **The Pleasure Garden**  
@@ -579,7 +579,7 @@ Avec Virginia Valli, Carmelita Geraghty, Miles Mander.
 Jill Cheyne arrive à Londres avec l'espoir de devenir danseur. Patsy Brand, qui fait déjà partie d'une revue, décide de l'aider et le présente au metteur en scène.
 
 - sa 30 nov 15h00 GF  
-- me 8 jan 19h00 GF
+- lu 20 jan 21h15 GF
 
 [40472]  
 **Le Procès Paradine**  
@@ -648,14 +648,14 @@ D'après la pièce _The Skin Game_ de John Galsworthy.
 Avec Edmund Gwenn, Jill Esmond, John Longden.  
 Les membres d'une prestigieuse famille britannique font chanter un industriel pour l'obliger à leur revendre un terrain sur lequel il prévoit d'implanter une nouvelle usine.
 
-- di 8 déc 19h00 GF  
+- di 8 déc 19h30 GF  
 - je 12 déc 17h00 GF
 
 [41593]  
 **Soupçons**  
 **(Suspicion)**  
 d'Alfred Hitchcock  
-États-Unis / 1941 / 102 min / VOSTF / DCP  
+États-Unis / 1941 / 102 min / VOSTF / 35 mm  
 D'après le roman _Préméditation_ de Francis Iles.  
 Avec Cary Grant, Joan Fontaine, Nigel Bruce.  
 Lina McLaidlaw épouse Johnnie Aysgarth, séducteur et joueur invétéré. Découvrant l'ampleur de ses dettes, elle craint qu'il ne s'en prenne à elle pour s'approprier sa fortune.
@@ -684,7 +684,7 @@ D'après le roman _L'Auberge de la Jamaïque_ de Daphné Du Maurier.
 Avec Charles Laughton, Maureen O'Hara, Leslie Banks.  
 Orpheline, Mary Yelland se rend en Cornouailles chez son oncle et sa tante, les tenanciers de l'Auberge de la Jamaïque. Elle s'aperçoit rapidement qu'ils sont à la tête d'une bande de naufrageurs.
 
-- di 8 déc 21h00 GF  
+- di 8 déc 21h15 GF  
 - di 29 déc 14h30 HL
 
 [41072]  
@@ -696,7 +696,7 @@ D'après le roman _Une femme disparaît_ d'Ethel Lina White.
 Avec Margaret Lockwood, Michael Redgrave, Paul Lukas, May Whitty.  
 Dans un train quittant l'Europe centrale, Iris fait la connaissance d'une vieille dame, qui disparaît mystérieusement. Mais les autres passagers nient l'avoir jamais vue et refusent de la croire.
 
-- sa 7 déc 16h30 HL  
+- sa 7 déc 16h45 HL  
 - sa 28 déc 18h30 HL
 
 ## Hitchcock et la télévision
@@ -736,7 +736,7 @@ Le chef de la police est assassiné par sa femme, mais lorsque commence l'enquê
 **C'est lui**  
 **(Revenge)**  
 d'Alfred Hitchcock  
-États-Unis / 1955 / 25 min / VOSTF / 35 mm  
+États-Unis / 1955 / 26 min / VOSTF / 35 mm  
 Avec Ralph Meeker, Vera Miles, Frances Bavier.  
 Épisode de la série télévisée _Alfred Hitchock présente_.  
 Quand son épouse est agressée par un inconnu, Carl la conduit en ville dans l'espoir d'identifier le coupable pour le tuer.  

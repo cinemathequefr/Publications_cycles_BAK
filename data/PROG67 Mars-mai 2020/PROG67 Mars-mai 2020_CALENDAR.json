@@ -329,6 +329,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Programme 1",
     "items": [
       {
         "idFilm": 54716,
@@ -394,6 +395,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Programme 2",
     "items": [
       {
         "idFilm": 53305,
@@ -894,6 +896,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
     "items": [
       {
         "idFilm": 130994,
@@ -1411,6 +1414,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
     "items": [
       {
         "idFilm": 130994,
@@ -2240,6 +2244,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Séance à remonter le temps",
     "items": [
       {
         "idFilm": 76899,
@@ -2335,6 +2340,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Programme de courts métrages : Burlesques !",
     "items": [
       {
         "idFilm": 89961,
@@ -3407,6 +3413,7 @@
       "GF",
       "Georges Franju"
     ],
+    "titreEvenement": "Marie Bobine : Les Quatre saisons : Le Printemps",
     "items": [
       {
         "idFilm": 130994,
@@ -3634,6 +3641,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "titreEvenement": "Programme 3",
     "items": [
       {
         "idFilm": 57112,
@@ -3686,6 +3694,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "titreEvenement": "Programme 4",
     "items": [
       {
         "idFilm": 48211,
@@ -6893,6 +6902,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "titreEvenement": "Programme 5",
     "items": [
       {
         "idFilm": 57415,
@@ -6966,6 +6976,7 @@
       "JE",
       "Jean Epstein"
     ],
+    "titreEvenement": "Programme 6",
     "items": [
       {
         "idFilm": 48593,

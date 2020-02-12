@@ -54,7 +54,7 @@ La vie d'un couple, tout juste séparé. Lui en souffre, au point de renoncer à
 [50132]  
 **Mon cher sujet**  
 d'Anne-Marie Miéville  
-France-Suisse / 1988 / 96 min / 35 mm  
+France-Suisse / 1988 / 96 min / VF / 35 mm  
 Avec Gaële Le Roi, Anny Romand, Hélène Roussel, Yves Neff.  
 Trois femmes de 20, 40 et 60 ans. Elles sont fille, mère, et grand-mère, elles sont demain, aujourd'hui et hier. Demain est comme la mémoire d'hier, et aujourd'hui, le pivot entre les deux.
 

@@ -33,7 +33,7 @@
 <pstyle:TITRE>Demain il sera trop tard
 <pstyle:TITRE_ANG>(Domani è troppo tardi)
 <pstyle:TECHNIQUE>de Léonide Moguy
-<pstyle:TECHNIQUE>Italie/1949
+<pstyle:TECHNIQUE>Italie/1949/105<0x2019>/16mm
 <pstyle:TECHNIQUE>Avec Anna Maria Pierangeli, Gino Leurini, Vittorio De Sica.
 <pstyle:SYNOPSIS>Dans son école, Mirella se lie d<0x2019>une tendre amitié avec Franco. Lorsque la directrice aux idées rétrogrades les punit, une enseignante tente de prendre leur défense, mais elle se fait renvoyer.
 <pstyle:><cstyle:INFOSBLEUES>me 26 févXXX21h00XXX
@@ -49,7 +49,7 @@
 <cstyle:SALLESBLEUES>C
 <pstyle:EVENEMENT>Séance présentée par Carole Wrona
 
-<pstyle:TITRE>Documents d'époque
+<pstyle:TITRE>Documents d<0x2019>époque
 <pstyle:TITRE_ANG>(Dokumenti epokhi)
 <pstyle:TECHNIQUE>de Léonide Moguy
 <pstyle:TECHNIQUE>URSS/1928/68<0x2019>/INT. FR./DCP
@@ -67,7 +67,7 @@
 <pstyle:><cstyle:INFOSBLEUES>sa 29 févXXX19h30XXX
 <cstyle:SALLESBLEUES>C
 
-<pstyle:TITRE>L'Empreinte du dieu
+<pstyle:TITRE>L<0x2019>Empreinte du dieu
 <pstyle:TECHNIQUE>de Léonide Moguy
 <pstyle:TECHNIQUE>France/1939/126<0x2019>/35mm
 <pstyle:TECHNIQUE>Avec Annie Ducaux, Pierre Blanchar, Blanchette Brunoy, Ginette Leclerc.
@@ -75,7 +75,7 @@
 <pstyle:><cstyle:INFOSBLEUES>sa 22 févXXX19h00XXX
 <cstyle:SALLESBLEUES>C
 
-<pstyle:TITRE>Les Enfants de l'amour
+<pstyle:TITRE>Les Enfants de l<0x2019>amour
 <pstyle:TECHNIQUE>de Léonide Moguy
 <pstyle:TECHNIQUE>France/1953/111<0x2019>/35mm
 <pstyle:TECHNIQUE>D<0x2019>après l<0x2019>essai <cSkew:9>Les Ventres maudits<cSkew:> de Maryse Querlin.

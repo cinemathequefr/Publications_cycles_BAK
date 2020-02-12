@@ -115,7 +115,7 @@ Regards croisés sur une usine de textile à Canton, une créatrice de mode chin
 [142527]  
 **Where Has the Time Gone?**  
 de Madhur Bhandarkar, Alekseï Fedorchenko, Jia Zhangke, Jahmil X.T. Qubeka, Walter Salles  
-Chine-Brésil-Russie-Inde-Afrique du Sud / 2017 / 151 min / VOSTF / DCP  
+Chine-Brésil-Russie-Inde-Afrique du Sud / 2017 / 111 min / VOSTF / DCP  
 Programme de courts métrages qui représentent les pays du sommet BRICS de 2017, une conférence annuelle sur les relations internationales tenue entre le Brésil, la Russie, l'Inde, la Chine et l'Afrique du Sud. 
 
 - je 12 déc 19h30 GF  
@@ -288,7 +288,7 @@ L'esprit d'une mère décédée s'empare du corps de son jeune fils pour l'aider
 **Memories Look at Me**  
 **(Ji yi wang zhe wo)**  
 de Song Fang  
-Chine / 2011 / 87 min / VOSTF / DCP  
+Chine / 2011 / 87 min / VOSTF / Numérique  
 Avec Ye Yu-zhu, Song Di-jin, Song Fang.  
 La réalisatrice Song Fang, qui travaille à Pékin, vient passer quelques jours en province chez ses parents.
 
@@ -332,9 +332,9 @@ La vie d'un gang de jeunes dans la province de Shanxi, en Chine du Nord, au déb
 **Jia Zhangke par Jia Zhangke**  
 undefined  
 60 min  
-« L'urbanisation sauvage, les campagnes désolées, l'absence de dialogue social, la précarisation absolue des ouvriers, le mépris dont ils sont l'objet de la part des patrons, l'indifférence de l'État... Comment voulez-vous, dans ces conditions, ne pas voir renaître ces héros des temps anciens que sont les justiciers errants ? » (Jia Zhangke, 2013)  
-**Jean-François Rauger** est directeur de la programmation à La Cinémathèque française.  
-**Wafa Ghermani** est docteure en études cinématographiques, spécialiste du cinéma taïwanais, et chargée d'événements culturels à La Cinémathèque française.
+« L'urbanisation sauvage, les campagnes désolées, l'absence de dialogue social, la précarisation absolue des ouvriers, le mépris dont ils sont l'objet de la part des patrons, l'indifférence de l'État... Comment voulez-vous, dans ces conditions, ne pas voir renaître ces héros des temps anciens que sont les justiciers errants ? » (Jia Zhangke)  
+Jean-François Rauger est directeur de la programmation à La Cinémathèque française.  
+Wafa Ghermani est docteure en études cinématographiques, spécialiste des cinémas d'Asie, et chargée d'événements culturels à La Cinémathèque française.
 
 - sa 30 nov 16h45 HL
 

@@ -21,7 +21,7 @@ Avec Al Stevenson, Judith Elliotte, Tyrone Fulton.
 [142843]  
 **Akbar in Cineland**  
 de Jean-Marie Bénard  
-États-Unis / 1969 / 30 min / VO / 16 mm  
+États-Unis / 1969 / 30 min / VO / Numérique  
 « Ahmad Akbar, cinéaste, voit grand. Son projet : créer un lieu de cinéma exclusivement réservé aux cinéastes noirs, quelque part dans le désert, loin de Los Angeles, loin de Hollywood. Cineland. _That's the name of that place, man. Cineland!_ Akbar, lui aussi, fait le Rêve Américain, la version noire de l'American Dream. La version blanche était fragile. La version noire est désespérée. » (Jean-Marie Bénard)  
 suivi de  
 [58490]  

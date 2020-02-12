@@ -2,8 +2,248 @@
 
 ## Nouvelle Vague (1954-1965)
 
-### Programme 1
+### Programme 2
 
+[142851]  
+**Le Petit soldat (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1960 / 1 min / 35 mm  
+suivi de  
+[48837]  
+**À bout de souffle**  
+de Jean-Luc Godard  
+France / 1959 / 90 min / 35 mm  
+Avec Jean-Paul Belmondo, Jean Seberg, Henri-Jacques Huet, Jean-Pierre Melville.  
+« – Que pensez-vous de la phrase de Rilke selon laquelle la vie moderne séparera de plus en plus l'homme et la femme ? – Rilke était un grand poète, il a donc certainement raison. » (JLG, 1960)  
+Prix Jean Vigo 1960.
+
+- ve 10 jan 19h00 HL  
+- me 19 fév 17h30 HL
+
+### Programme 3
+
+[142850]  
+**Une femme est une femme (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1960 / 2 min / 35 mm  
+suivi de  
+[48859]  
+**Le Petit soldat**  
+de Jean-Luc Godard  
+France / 1960 / 88 min / 35 mm  
+Avec Michel Subor, Anna Karina, Henri-Jacques Huet.  
+« J'ai la nostalgie d'une certaine époque, où Malraux écrivait _L'Espoir,_ l'époque d'Hemingway. J'ai voulu lui rendre hommage. Ils avaient un idéal. » (JLG, 1960)
+
+- ve 10 jan 21h00 HL  
+Séance présentée par Jean Narboni  
+- je 20 fév 14h30 HL
+
+### Programme 8
+
+[63574]  
+**Paparazzi**  
+de Jacques Rozier  
+France / 1963 / 22 min / DCP  
+Avec Brigitte Bardot, Jean-Luc Godard, Michel Piccoli.  
+« Pourquoi cet article dans le journal ? » (Brigitte Bardot, 1963)  
+Restauré en 2017 en 2K par Jacques Rozier et la Cinémathèque française, au laboratoire Hiventy, avec le soutien du CNC, de la Cinémathèque suisse, des Archives audiovisuelles de Monaco et d'Extérieur nuit.  
+suivi de  
+[71267]  
+**Le Parti des choses : Bardot et Godard**  
+de Jacques Rozier  
+France / 1963 / 8 min / DCP  
+Avec Brigitte Bardot, Jean-Luc Godard, Fritz Lang, Jack Palance.  
+« Avec Michel Piccoli, Brigitte Bardot a joué. Mais on ne verra jamais ce plan. » (Jacques Rozier)  
+suivi de  
+[143029]  
+**Il Disprezzo**  
+de Jean-Luc Godard  
+Italie / 1963 / 84 min / VOSTF / Numérique  
+La version du _Mépris_ sortie en Italie par Carlo Ponti, entièrement doublée, privée de plusieurs séquences et de la musique d'Antoine Duhamel, à elle seule justifie la politique des auteurs.
+
+- me 15 jan 19h00 GF  
+Séance présentée par Jean-François Rauger
+
+### Programme 9
+
+[142854]  
+**Une femme mariée (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1964 / 2 min / Numérique  
+suivi de  
+[48861]  
+**Les Plus belles escroqueries du monde : Le Grand escroc**  
+de Jean-Luc Godard  
+France-Italie-Japon-Pays-Bas / 1963 / 25 min / 35 mm  
+Avec Jean Seberg, Charles Denner, Laszlo Szabo.  
+« Pourquoi est-ce que l'argent que vous fabriquez, vous le donnez aux mendiants ? » (JLG, 1963)  
+suivi de  
+[48838]  
+**Bande à part**  
+de Jean-Luc Godard  
+France / 1964 / 95 min / STA / DCP  
+Avec Sami Frey, Claude Brasseur, Anna Karina.  
+« Ce sont des gens réels, et c'est le monde qui fait bande à part, c'est le monde qui se fait du cinéma, qui n'est pas synchrone. » (JLG, 1964)
+
+- sa 11 jan 19h00 HL  
+- di 23 fév 20h30 HL
+
+### Programme 10
+
+[143005]  
+**Cinéastes de notre temps : La Nouvelle Vague par elle-même, parties 1 et 2**  
+d'André S. Labarthe, Robert Valey  
+France / 1964 / 133 min  
+« Il fallait montrer que tout est permis, dans un cinéma français où régnait un régime d'Inquisition. » (JLG, 1964)
+
+- me 15 jan 21h30 GF
+
+### Programme 12
+
+[142852]  
+**Vivre sa vie (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1962 / 2 min / 35 mm  
+suivi de  
+[48840]  
+**Alphaville, une étrange aventure de Lemmy Caution**  
+de Jean-Luc Godard  
+France-Italie / 1965 / 98 min / DCP  
+Avec Eddie Constantine, Anna Karina, Akim Tamiroff, Howard Vernon.  
+« Mon film est un peu comme _Nadja_ d'André Breton. On se promène dans Paris et le surréel apparaît. » (JLG, 1965)
+
+- di 12 jan 21h00 HL  
+- lu 24 fév 17h00 HL
+
+[142855]  
+**Le Mépris (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1963 / 2 min / Numérique  
+suivi de  
+[53436]  
+**RoGoPaG : Le Nouveau monde**  
+**(RoGoPaG : Il Nuovo mondo)**  
+de Jean-Luc Godard  
+Italie-France / 1962 / 20 min / 35 mm  
+Avec Jean-Marc Bory, Alexandra Stewart.  
+« J'aurais dû comprendre que tout cela n'était que la conséquence de la fin du monde. » (JLG, 1962)  
+suivi de  
+[48841]  
+**Les Carabiniers**  
+de Jean-Luc Godard  
+France-Italie / 1962 / 80 min / 35 mm  
+Avec Marino Masé, Geneviève Galéa, Catherine Ribeiro.  
+« C'est l'histoire de deux paysans qui voient arriver les carabiniers. Ils ne viennent pas les arrêter, mais leur apporter une lettre du roi. En fait, c'est un ordre de mobilisation. Ils sont ennuyés, mais les carabiniers leur disent : c'est formidable la guerre, on peut tout faire, on peut tout faire. » (JLG, 1963)
+
+- sa 11 jan 16h45 HL  
+- ve 21 fév 14h15 HL
+
+[142868]  
+**Masculin féminin (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1965 / 2 min / 35 mm  
+suivi de  
+[48860]  
+**Pierrot le fou**  
+de Jean-Luc Godard  
+France-Italie / 1965 / 111 min / 35 mm  
+Avec Jean-Paul Belmondo, Anna Karina, Raymond Devos, Dirk Sanders.  
+« _Pierrot le fou_ c'est : – Stuart Heisler revu par Raymond Queneau, – Le dernier film romantique, – Le Techniscope héritier de Renoir et Sisley – Le premier film moderne d'avant Griffith. » (JLG, 1965)
+
+- je 9 jan 19h00 HL  
+- me 26 fév 17h00 HL
+
+[142861]  
+**Pierrot le fou (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1965 / 1 min / 35 mm  
+suivi de  
+[48863]  
+**Le Plus vieux métier du monde : Anticipation, ou l'amour en l'an 2000**  
+de Jean-Luc Godard  
+France-Italie-RFA / 1966 / 20 min / DCP  
+Avec Jacques Charrier, Jean-Pierre Léaud, Anna Karina.  
+« Pourcentage radioactif, normal. Couleurs, soviétiques. Affirmatif. Deux passagers galaxiques. Styles, masculin. Féminin » (JLG, 1967)  
+suivi de  
+[48873]  
+**Vivre sa vie**  
+de Jean-Luc Godard  
+France / 1962 / 90 min / DCP  
+Avec Anna Karina, Sady Rebbot, André S. Labarthe.  
+« Un - Une / Film - Série / Sur - D'Aventures / La - Qui / Prostitution - Lui / Qui - Font / Raconte - Connaître / Comment - Tous / Une - Les / Jeune - Sentiments / Et - Humains / Jolie - Profonds / Vendeuse - Possibles » (JLG, 1962)  
+Prix spécial du jury, Venise, 1962.
+
+- me 8 jan 20h00 HL  
+Ouverture de la rétrospective  
+- ve 24 jan 15h00 HL  
+- je 20 fév 19h30 HL
+
+[142857]  
+**Alphaville, une étrange aventure de Lemmy Caution (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1965 / 1 min / 35 mm  
+suivi de  
+[48849]  
+**Paris vu par : Montparnasse-Levallois**  
+de Jean-Luc Godard  
+France / 1964 / 18 min / DCP  
+Avec Joanna Shimkus, Philippe Hiquily, Serge Davri.  
+« C'est l'histoire que raconte Belmondo dans _Une femme est une femme_. » (JLG, 1965)  
+suivi de  
+[48871]  
+**Une femme mariée**  
+de Jean-Luc Godard  
+France / 1964 / 95 min / 35 mm  
+Avec Macha Méril, Bernard Noël, Philippe Leroy.  
+« Ceci est l'histoire d'une femme, son histoire très particulière pendant un temps très court, 24 heures exactement. Ce film commence par un baiser : celui qu'échangent, un après-midi, Charlotte et un homme dans un meublé d'un quartier anonyme. Lui est acteur. Elle, rédactrice féminine dans une revue de mode. » (JLG, 1964)
+
+- di 12 jan 18h30 HL  
+Séance présentée par Macha Méril  
+- lu 24 fév 14h30 HL
+
+[142856]  
+**Bande à part (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1964 / 2 min / Numérique  
+suivi de  
+[48813]  
+**Le Mépris**  
+de Jean-Luc Godard  
+France-Italie / 1963 / 110 min / 35 mm  
+Avec Brigitte Bardot, Michel Piccoli, Jack Palance, Fritz Lang.  
+« Le sujet du _Mépris_, ce sont des gens qui se regardent et se jugent, puis sont à leur tour regardés et jugés par le cinéma, lequel est représenté par Fritz Lang, en somme la conscience du film. » (JLG, 1963)
+
+- me 22 jan 19h30 HL  
+- ve 21 fév 16h30 HL
+
+[142853]  
+**Les Carabiniers (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1962 / 2 min / 35 mm  
+suivi de  
+[48866]  
+**Les Sept péchés capitaux : La Paresse**  
+de Jean-Luc Godard  
+France-Italie / 1961 / 15 min / 35 mm  
+Avec Eddie Constantine, Nicole Mirel.  
+« soudain au loin le pas la voix rien puis soudain quelque chose quelque chose puis soudain rien soudain au loin le silence » (Samuel Beckett / JLG, 1961)  
+suivi de  
+[48870]  
+**Une femme est une femme**  
+de Jean-Luc Godard  
+France / 1960 / 88 min / 35 mm  
+Avec Anna Karina, Jean-Paul Belmondo, Jean-Claude Brialy.  
+« C'est un regret que la vie ne soit pas en musique... Voilà le sentiment qu'on éprouvait en tournant le film. » (JLG, 1965)  
+Prix spécial du jury, Berlin, 1961.
+
+- sa 11 jan 14h30 HL  
+- je 20 fév 17h00 HL
+
+[143004]  
+**À bout de souffle (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1959 / 1 min  
+suivi de  
 [48847]  
 **Opération béton**  
 de Jean-Luc Godard  
@@ -44,249 +284,7 @@ Avec Jean-Paul Belmondo, Anne Colette, Gérard Blain.
 - ve 10 jan 17h00 HL  
 - di 23 fév 14h30 HL
 
-### Programme 2
-
-[48837]  
-**À bout de souffle**  
-de Jean-Luc Godard  
-France / 1959 / 90 min / DCP  
-Avec Jean-Paul Belmondo, Jean Seberg, Henri-Jacques Huet, Jean-Pierre Melville.  
-« – Que pensez-vous de la phrase de Rilke selon laquelle la vie moderne séparera de plus en plus l'homme et la femme ? – Rilke était un grand poète, il a donc certainement raison. » (JLG, 1960)  
-Prix Jean Vigo 1960.
-
-- ve 10 jan 19h00 HL  
-- me 19 fév 17h30 HL
-
-### Programme 3
-
-[48859]  
-**Le Petit soldat**  
-de Jean-Luc Godard  
-France / 1960 / 88 min / 35 mm  
-Avec Michel Subor, Anna Karina, Henri-Jacques Huet.  
-« J'ai la nostalgie d'une certaine époque, où Malraux écrivait _L'Espoir,_ l'époque d'Hemingway. J'ai voulu lui rendre hommage. Ils avaient un idéal. » (JLG, 1960)
-
-- ve 10 jan 21h00 HL  
-Séance présentée par Jean Narboni  
-- je 20 fév 14h30 HL
-
-### Programme 4
-
-[48866]  
-**Les Sept péchés capitaux : La Paresse**  
-de Jean-Luc Godard  
-France-Italie / 1961 / 15 min / 35 mm  
-Avec Eddie Constantine, Nicole Mirel.  
-« soudain au loin le pas la voix rien puis soudain quelque chose quelque chose puis soudain rien soudain au loin le silence » (Samuel Beckett / JLG, 1961)  
-suivi de  
-[48870]  
-**Une femme est une femme**  
-de Jean-Luc Godard  
-France / 1960 / 88 min / 35 mm  
-Avec Anna Karina, Jean-Paul Belmondo, Jean-Claude Brialy.  
-« C'est un regret que la vie ne soit pas en musique... Voilà le sentiment qu'on éprouvait en tournant le film. » (JLG, 1965)  
-Prix spécial du jury, Berlin, 1961.
-
-- sa 11 jan 14h30 HL  
-- je 20 fév 17h00 HL
-
-### Programme 5
-
-[48863]  
-**Le Plus vieux métier du monde : Anticipation, ou l'amour en l'an 2000**  
-de Jean-Luc Godard  
-France-Italie-RFA / 1966 / 20 min / DCP  
-Avec Jacques Charrier, Jean-Pierre Léaud, Anna Karina.  
-« Pourcentage radioactif, normal. Couleurs, soviétiques. Affirmatif. Deux passagers galaxiques. Styles, masculin. Féminin » (JLG, 1967)  
-suivi de  
-[48873]  
-**Vivre sa vie**  
-de Jean-Luc Godard  
-France / 1962 / 90 min / DCP  
-Avec Anna Karina, Sady Rebbot, André S. Labarthe.  
-« Un - Une / Film - Série / Sur - D'Aventures / La - Qui / Prostitution - Lui / Qui - Font / Raconte - Connaître / Comment - Tous / Une - Les / Jeune - Sentiments / Et - Humains / Jolie - Profonds / Vendeuse - Possibles » (JLG, 1962)  
-Prix spécial du jury, Venise, 1962.
-
-- me 8 jan 20h00 HL  
-Ouverture de la rétrospective  
-- ve 24 jan 15h00 HL  
-- je 20 fév 19h30 HL
-
-### Programme 6
-
-[53436]  
-**RoGoPaG : Le Nouveau monde**  
-**(RoGoPaG : Il Nuovo mondo)**  
-de Jean-Luc Godard  
-Italie-France / 1962 / 20 min / 35 mm  
-Avec Jean-Marc Bory, Alexandra Stewart.  
-« J'aurais dû comprendre que tout cela n'était que la conséquence de la fin du monde. » (JLG, 1962)  
-suivi de  
-[48841]  
-**Les Carabiniers**  
-de Jean-Luc Godard  
-France-Italie / 1962 / 80 min / 35 mm  
-Avec Marino Masé, Geneviève Galéa, Catherine Ribeiro.  
-« C'est l'histoire de deux paysans qui voient arriver les carabiniers. Ils ne viennent pas les arrêter, mais leur apporter une lettre du roi. En fait, c'est un ordre de mobilisation. Ils sont ennuyés, mais les carabiniers leur disent : c'est formidable la guerre, on peut tout faire, on peut tout faire. » (JLG, 1963)
-
-- sa 11 jan 16h45 HL  
-- ve 21 fév 14h15 HL
-
-### Programme 7
-
-[48813]  
-**Le Mépris**  
-de Jean-Luc Godard  
-France-Italie / 1963 / 110 min / 35 mm  
-Avec Brigitte Bardot, Michel Piccoli, Jack Palance, Fritz Lang.  
-« Le sujet du _Mépris_, ce sont des gens qui se regardent et se jugent, puis sont à leur tour regardés et jugés par le cinéma, lequel est représenté par Fritz Lang, en somme la conscience du film. » (JLG, 1963)
-
-- me 22 jan 19h30 HL  
-- ve 21 fév 16h30 HL
-
-### Programme 8
-
-[63574]  
-**Paparazzi**  
-de Jacques Rozier  
-France / 1963 / 22 min / VO / 35 mm  
-Avec Brigitte Bardot, Jean-Luc Godard, Michel Piccoli.  
-« Pourquoi cet article dans le journal ? » (Brigitte Bardot, 1963)  
-Restauré en 2017 en 2K par Jacques Rozier et la Cinémathèque française, au laboratoire Hiventy, avec le soutien du CNC, de la Cinémathèque suisse, des Archives audiovisuelles de Monaco et d'Extérieur nuit.  
-suivi de  
-[71267]  
-**Le Parti des choses : Bardot et Godard**  
-de Jacques Rozier  
-France / 1963 / 9 min / VO / 35 mm  
-Avec Brigitte Bardot, Jean-Luc Godard, Fritz Lang, Jack Palance.  
-« Avec Michel Piccoli, Brigitte Bardot a joué. Mais on ne verra jamais ce plan. » (Jacques Rozier)  
-suivi de  
-[143029]  
-**Il Disprezzo**  
-de Jean-Luc Godard  
-Italie / 1963 / 84 min / VOSTF / Numérique  
-La version du _Mépris_ sortie en Italie par Carlo Ponti, entièrement doublée, privée de plusieurs séquences et de la musique d'Antoine Duhamel, à elle seule justifie la politique des auteurs.
-
-- me 15 jan 19h00 GF  
-Séance présentée par Jean-François Rauger
-
-### Programme 9
-
-[48861]  
-**Les Plus belles escroqueries du monde : Le Grand escroc**  
-de Jean-Luc Godard  
-France-Italie-Japon-Pays-Bas / 1963 / 25 min / 35 mm  
-Avec Jean Seberg, Charles Denner, Laszlo Szabo.  
-« Pourquoi est-ce que l'argent que vous fabriquez, vous le donnez aux mendiants ? » (JLG, 1963)  
-suivi de  
-[48838]  
-**Bande à part**  
-de Jean-Luc Godard  
-France / 1964 / 95 min / STA / DCP  
-Avec Sami Frey, Claude Brasseur, Anna Karina.  
-« Ce sont des gens réels, et c'est le monde qui fait bande à part, c'est le monde qui se fait du cinéma, qui n'est pas synchrone. » (JLG, 1964)
-
-- sa 11 jan 19h00 HL  
-- di 23 fév 20h30 HL
-
-### Programme 10
-
-[143005]  
-**Cinéastes de notre temps : La Nouvelle Vague par elle-même, parties 1 et 2**  
-d'André S. Labarthe, Robert Valey  
-France / 1964 / 133 min  
-« Il fallait montrer que tout est permis, dans un cinéma français où régnait un régime d'Inquisition. » (JLG, 1964)
-
-- me 15 jan 21h30 GF
-
-### Programme 11
-
-[48849]  
-**Paris vu par : Montparnasse-Levallois**  
-de Jean-Luc Godard  
-France / 1964 / 18 min / 35 mm  
-Avec Joanna Shimkus, Philippe Hiquily, Serge Davri.  
-« C'est l'histoire que raconte Belmondo dans _Une femme est une femme_. » (JLG, 1965)  
-suivi de  
-[48871]  
-**Une femme mariée**  
-de Jean-Luc Godard  
-France / 1964 / 95 min / 35 mm  
-Avec Macha Méril, Bernard Noël, Philippe Leroy.  
-« Ceci est l'histoire d'une femme, son histoire très particulière pendant un temps très court, 24 heures exactement. Ce film commence par un baiser : celui qu'échangent, un après-midi, Charlotte et un homme dans un meublé d'un quartier anonyme. Lui est acteur. Elle, rédactrice féminine dans une revue de mode. » (JLG, 1964)
-
-- di 12 jan 18h30 HL  
-Séance présentée par Macha Méril  
-- lu 24 fév 14h30 HL
-
-### Programme 12
-
-[48840]  
-**Alphaville, une étrange aventure de Lemmy Caution**  
-de Jean-Luc Godard  
-France-Italie / 1965 / 98 min / DCP  
-Avec Eddie Constantine, Anna Karina, Akim Tamiroff, Howard Vernon.  
-« Mon film est un peu comme _Nadja_ d'André Breton. On se promène dans Paris et le surréel apparaît. » (JLG, 1965)
-
-- di 12 jan 21h00 HL  
-- lu 24 fév 17h00 HL
-
-### Programme 13
-
-[48860]  
-**Pierrot le fou**  
-de Jean-Luc Godard  
-France-Italie / 1965 / 111 min / 35 mm  
-Avec Jean-Paul Belmondo, Anna Karina, Raymond Devos, Dirk Sanders.  
-« _Pierrot le fou_ c'est : – Stuart Heisler revu par Raymond Queneau, – Le dernier film romantique, – Le Techniscope héritier de Renoir et Sisley – Le premier film moderne d'avant Griffith. » (JLG, 1965)
-
-- je 9 jan 19h00 HL  
-- me 26 fév 17h00 HL
-
 ## Fables sociologiques (1965-1966)
-
-### Programme 14
-
-[48812]  
-**Masculin féminin**  
-de Jean-Luc Godard  
-France-Suède / 1965 / 110 min / DCP  
-D'après les nouvelles _La Femme de Paul_ et _Le Signe_ de Guy de Maupassant.  
-Avec Jean-Pierre Léaud, Chantal Goya, Marlène Jobert, Françoise Hardy.  
-« Bien sûr un film interdit aux moins de 18 ans puisqu'il parle d'eux. » (JLG, 1966)
-
-- ve 17 jan 19h00 HL  
-Séance présentée par Jean-Pierre Léaud  
-- je 27 fév 14h30 HL
-
-### Programme 15
-
-[48845]  
-**Made in U.S.A.**  
-de Jean-Luc Godard  
-France / 1966 / 90 min / 35 mm  
-Avec Jean-Pierre Léaud, Anna Karina, Laszlo Szabo.  
-« Ça se passe en France, à Atlantic City. L'histoire ressemble étrangement à une ténébreuse affaire autour d'un nommé Ben Barka. » (JLG, 1966)
-
-- ve 17 jan 21h30 HL  
-- je 27 fév 17h00 HL
-
-### Programme 16
-
-[48844]  
-**Deux ou trois choses que je sais d'elle**  
-de Jean-Luc Godard  
-France / 1966 / 90 min / DCP  
-Avec Marina Vlady, Anny Duperey, Roger Montsoret.  
-« ELLE, la cruauté du néo-capitalisme. ELLE, la mort de la beauté moderne. ELLE, la Gestapo des structures. » (JLG, 1966)  
-Restauré par Argos Films avec le soutien du CNC aux Laboratoire Eclair et L.E. Diapason.
-
-- sa 18 jan 19h00 HL  
-Séance présentée par Marina Vlady  
-- je 27 fév 19h00 HL  
-Séance présentée par Jean Narboni
-
-### Programme 17
 
 [143006]  
 **L'Homme et les images**  
@@ -302,10 +300,65 @@ France / 1967 / 60 min / Numérique
 
 - sa 25 jan 16h30 GF
 
+[142863]  
+**Made in U.S.A. (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1966 / 2 min / DCP  
+suivi de  
+[48812]  
+**Masculin féminin**  
+de Jean-Luc Godard  
+France-Suède / 1965 / 110 min / DCP  
+D'après les nouvelles _La Femme de Paul_ et _Le Signe_ de Guy de Maupassant.  
+Avec Jean-Pierre Léaud, Chantal Goya, Marlène Jobert, Françoise Hardy.  
+« Bien sûr un film interdit aux moins de 18 ans puisqu'il parle d'eux. » (JLG, 1966)
+
+- ve 17 jan 19h00 HL  
+Séance présentée par Jean-Pierre Léaud  
+- je 27 fév 14h30 HL
+
+[142858]  
+**La Chinoise (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1967 / 2 min / Vidéo  
+suivi de  
+[48844]  
+**Deux ou trois choses que je sais d'elle**  
+de Jean-Luc Godard  
+France / 1966 / 90 min / DCP  
+Avec Marina Vlady, Anny Duperey, Roger Montsoret.  
+« ELLE, la cruauté du néo-capitalisme. ELLE, la mort de la beauté moderne. ELLE, la Gestapo des structures. » (JLG, 1966)  
+Restauré par Argos Films avec le soutien du CNC aux Laboratoire Eclair et L.E. Diapason.
+
+- sa 18 jan 19h00 HL  
+Séance présentée par Marina Vlady  
+- je 27 fév 19h00 HL  
+Séance présentée par Jean Narboni
+
+[142869]  
+**Deux ou trois choses que je sais d'elle (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1966 / 1 min / Numérique  
+suivi de  
+[48845]  
+**Made in U.S.A.**  
+de Jean-Luc Godard  
+France / 1966 / 90 min / 35 mm  
+Avec Jean-Pierre Léaud, Anna Karina, Laszlo Szabo.  
+« Ça se passe en France, à Atlantic City. L'histoire ressemble étrangement à une ténébreuse affaire autour d'un nommé Ben Barka. » (JLG, 1966)
+
+- ve 17 jan 21h30 HL  
+- je 27 fév 17h00 HL
+
 ## Travaux révolutionnaires (1967-1972)
 
 ### Programme 18
 
+[142862]  
+**Week-end (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1967 / 1 min / DCP  
+suivi de  
 [79602]  
 **Loin du Vietnam : Caméra-œil**  
 de Jean-Luc Godard  
@@ -316,7 +369,7 @@ suivi de
 [143007]  
 **Mouchette (bande-annonce)**  
 de Jean-Luc Godard  
-France / 1966 / 2 min  
+France / 1966 / 2 min / Numérique  
 suivi de  
 [48842]  
 **La Chinoise**  
@@ -330,6 +383,11 @@ Avec Anne Wiazemsky, Jean-Pierre Léaud, Juliet Berto, Michel Semeniako.
 
 ### Programme 19
 
+[142865]  
+**Tout va bien (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1972 / 5 min  
+suivi de  
 [71006]  
 **La Contestation : L'Amour**  
 **(Amore e rabbia : L'Amore)**  
@@ -353,7 +411,7 @@ Avec Jean Yanne, Mireille Darc, Jean-Pierre Kalfon.
 [143008]  
 **Film-Tract n° 1968**  
 de Gérard Fromanger  
-France / 1968 / 2 min / 16 mm  
+France / 1968 / 2 min / DCP  
 suivi de  
 [79605]  
 **Ciné-tracts**  
@@ -394,7 +452,7 @@ suivi de
 [143010]  
 **One P.M.**  
 de Jean-Luc Godard, Don Alan Pennebaker, Richard Leacock  
-France / 1968 / 90 min / 16 mm  
+France / 1968 / 75 min / VOSTF / 16 mm  
 Avec Ami Baraka, Rip Torn, Jefferson Airplane, Anne Wiazemsky.  
 « Ce n'est pas le film que Jean-Luc Godard voulait réaliser, sous le titre de _One American Movie_ (1 AM). Il le nommait plutôt _A Parallel Movie_ (1 PM). » (D. A. Pennebaker)
 
@@ -472,6 +530,11 @@ Avec Jean-Luc Godard, Jean-Pierre Gorin, Anne Wiazemsky, Juliet Berto.
 
 ### Programme 28
 
+[142870]  
+**Sauve qui peut (la vie) (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1979 / 3 min / 35 mm  
+suivi de  
 [143011]  
 **Le Giornate del Cinema di Venezia 1972**  
 d'Anonyme  
@@ -494,7 +557,7 @@ Avec Jane Fonda, Yves Montand.
 [71016]  
 **Letter to Jane**  
 de Jean-Luc Godard, Jean-Pierre Gorin  
-France / 1972 / 52 min / VO / 16 mm  
+France / 1972 / 52 min / VOSTF / 16 mm  
 Avec Jane Fonda, Jean-Luc Godard, Jean-Pierre Gorin.  
 « Nous ne pouvions pas nous empêcher de remarquer que le texte sous la photo mentait en prétendant que Jane Fonda s'adressait aux habitants de Hanoï. » (JLG, Jean-Pierre Gorin)  
 suivi de  
@@ -526,7 +589,7 @@ Avec Sandrine Battistella, Pierre Oudrey, Alexandre Rignault, Rachel Stefanopoli
 [57303]  
 **Comment ça va**  
 de Jean-Luc Godard, Anne-Marie Miéville  
-France / 1975 / 78 min / 16 mm  
+France / 1975 / 78 min / DCP  
 Avec Anne-Marie Miéville.  
 « Le langage est le moyen par lequel le bourreau transforme l'Histoire en un autre bourreau. » (JLG, 1976)
 
@@ -723,51 +786,6 @@ Avec Camille Virolleaud, Arnaud Martin.
 
 ## Dialogue entre les arts (1979-1992)
 
-### Programme 41
-
-[48865]  
-**Sauve qui peut (la vie)**  
-de Jean-Luc Godard  
-France-Suisse-RFA-Autriche / 1979 / 87 min / DCP  
-Avec Isabelle Huppert, Jacques Dutronc, Nathalie Baye.  
-« Qu'un plan ne suive pas un autre plan (un cadre, disaient Eisenstein et Dovjenko) parce que c'est écrit (_mektoub_) mais parce que le plan qui précède doit se changer dans un autre pour poursuivre son mouvement, comme dans un jeu ou dans une société les gens s'accordent ou pas pour stopper ou continuer un mouvement social. » (JLG, lettre n° 2 à l'avance sur recettes, 1979)  
-suivi de  
-[79609]  
-**Scénario de Sauve qui peut (la vie). Quelques remarques sur la réalisation et la production du film**  
-de Jean-Luc Godard  
-France / 1979 / 21 min / STF / Numérique  
-« Je voudrais ralentir, filmer ce qu'on ne voit pas ordinairement, je vais essayer de vous montrer ça sur une vidéo cassette, pas ralentir exactement, un peu décomposer ce passé dans l'instant où il compose le présent des personnages. » (JLG, lettre n° 1 à l'avance sur recettes, 1979)
-
-- me 29 jan 21h30 GF  
-Séance présentée par Nathalie Baye  
-- sa 29 fév 17h00 HL
-
-### Programme 42
-
-[142346]  
-**Une bonne à tout faire**  
-de Jean-Luc Godard  
-France / 1981 / 35 mm  
-Avec Andreï Kontchalovski, Vittorio Storaro.  
-« Paul Cézanne, le premier peintre qui face à une toile blanche ne savait pas encore ce qu'il allait peindre. » (JLG, 1981)  
-suivi de  
-[53158]  
-**Lettre à Freddy Buache. À propos d'un court métrage sur la ville de Lausanne**  
-de Jean-Luc Godard  
-France / 1984 / 11 min / Numérique  
-« On a donné de l'argent pour un film sur, et ça, c'est un film de. Il n'arrive pas encore à la sur-face. » (JLG, 1981)  
-suivi de  
-[48850]  
-**Passion**  
-de Jean-Luc Godard  
-France-Suisse / 1981 / 87 min / 35 mm  
-Avec Isabelle Huppert, Hanna Schygulla, Michel Piccoli.  
-« J'ai essayé de montrer la peinture dans sa forme métaphorique. Les chevaliers sont les métaphores des patrons, les fusillés de Goya les métaphores des filles qui vont à l'usine. » (JLG, 1982)
-
-- ve 31 jan 19h00 GF  
-Séance présentée par Isabelle Huppert (sous réserve)  
-- sa 29 fév 19h00 HL
-
 ### Programme 43
 
 [143014]  
@@ -800,20 +818,6 @@ France / 1982 / 54 min / Numérique
 
 - ve 7 fév 19h30 GF
 
-### Programme 44
-
-[48864]  
-**Prénom Carmen**  
-de Jean-Luc Godard  
-France / 1983 / 83 min / VO / 35 mm  
-Avec Maruschka Detmers, Jacques Bonnaffé, Jean-Luc Godard.  
-« Je vous prête ma nouvelle caméra si vous voulez. Elle fait de la musique, je l'ai fabriqué ici avec les ouvriers de la cuisine. » (JLG)  
-Lion d'or, Venise, 1983.
-
-- ve 31 jan 21h30 GF  
-Séance présentée par Maruschka Detmers (sous réserve) et Jacques Bonnaffé  
-- sa 29 fév 21h15 HL
-
 ### Programme 45
 
 [79612]  
@@ -837,7 +841,7 @@ Avec Myriem Roussel, Thierry Rode, Philippe Lacoste, Juliette Binoche.
 [141457]  
 **Godard-Sollers : l'entretien**  
 de Jean-Paul Fargier  
-France / 1984 / 75 min / Numérique  
+France / 1984 / 75 min / DCP  
 « On est le 21 novembre 1984. Le 21, c'est le jour de la Présentation de Marie au Temple ». (Philippe Sollers, 1984)  
 suivi de  
 [143099]  
@@ -850,6 +854,11 @@ France / 1987 / 62 min / Numérique
 
 ### Programme 47
 
+[142872]  
+**Soigne ta droite (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1987 / 3 min / 35 mm  
+suivi de  
 [143013]  
 **Publicité BBNY**  
 de Jean-Luc Godard  
@@ -859,7 +868,7 @@ suivi de
 [48843]  
 **Détective**  
 de Jean-Luc Godard  
-France / 1984 / 98 min / VF / 35 mm  
+France / 1984 / 98 min / 35 mm  
 Avec Nathalie Baye, Claude Brasseur, Johnny Hallyday.  
 « C'est pas mieux que du Alan Parker, peut-être un peu, mais pas vraiment. » (JLG, _Hard & Soft_, 1985)
 
@@ -889,7 +898,7 @@ Avec Jean-Luc Godard, Anne-Marie Miéville.
 [123593]  
 **Grandeur et décadence d'un petit commerce de cinéma**  
 de Jean-Luc Godard  
-France-Suisse / 1985 / 91 min / Numérique  
+France-Suisse / 1985 / 91 min / DCP  
 Avec Jean-Pierre Léaud, Marie Valera, Jean-Pierre Mocky.  
 _Grandeur et décadence d'un petit commerce de cinéma révélées par la recherche des acteurs dans un film de télévision publique d'après un vieux roman de J. H. Chase_. « Est-ce que vous croyez qu'on cessera enfin de dire les choses et qu'on pourra enfin les voir, ces pauvres choses ? » (Jean-Pierre Mocky / Jean Almareyda)
 
@@ -917,6 +926,11 @@ Prix Louis-Delluc 1987.
 
 ### Programme 51
 
+[142871]  
+**Nouvelle vague (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1989 / 1 min / Numérique  
+suivi de  
 [56813]  
 **King Lear**  
 de Jean-Luc Godard  
@@ -932,7 +946,7 @@ Avec Leos Carax, Julie Delpy.
 [56813]  
 **King Lear**  
 de Jean-Luc Godard  
-France / 1987 / 90 min  
+France / 1987 / 90 min / DCP  
 D'après la pièce _Le Roi Lear_ de William Shakespeare.  
 Avec Leos Carax, Julie Delpy.  
 « King Lear. An Approach. A Clearing. Virtue vs Power. » (JLG, 1987)
@@ -956,7 +970,7 @@ suivi de
 [79621]  
 **Puissance de la parole**  
 de Jean-Luc Godard  
-France / 1988 / 25 min / Numérique  
+France / 1988 / 25 min / DCP  
 Avec Lydia Andréï, Jean Bouise, Laurence Côte.  
 « Il est démontrable que chaque mouvement imprimé à l'air doit à la fin agir sur chaque être individuel. » (Edgar Allan Poe / JLG, 1986)  
 suivi de  
@@ -969,7 +983,7 @@ suivi de
 [142345]  
 **Le Rapport Darty**  
 de Jean-Luc Godard, Anne-Marie Miéville  
-France / 1989 / 50 min / Numérique  
+France / 1989 / 50 min / DCP  
 « Ils nous ont demandé un regard sur eux, levons les yeux, comme Ptolémée et Kepler. Et baissons-les, comme Pasteur. » (Anne-Marie Miéville, 1989)
 
 - me 19 fév 16h45 GF
@@ -984,29 +998,6 @@ Alors que Jean-Luc Godard entame ses _Histoire(s) du cinéma,_ il s'entretient d
 
 - lu 17 fév 21h15 GF
 
-### Programme 55
-
-[142342]  
-**Publicités Métamorphojean**  
-de Jean-Luc Godard  
-France / 1990 / 2 min  
-Cinq clips de 20 à 30 secondes chacun pour Marithé et François Girbaud.  
-suivi de  
-[142341]  
-**Publicité Pue Lulla**  
-de Jean-Luc Godard  
-France / 1990 / 1 min / Numérique  
-Réclame pour Nike.  
-suivi de  
-[39240]  
-**Nouvelle vague**  
-de Jean-Luc Godard  
-France-Suisse / 1989 / 89 min / 35 mm  
-Avec Alain Delon, Domiziana Giordano.  
-« Dans un premier temps – l'Ancien Testament – un être humain (un homme) est sauvé de la chute par un autre être humain (une femme). Dans un deuxième temps – le Nouveau Testament – un être humain (une femme) (la même) est sauvée de la chute par un autre être humain (un autre homme). Mais la femme découvre que l'autre homme est aussi le même que le premier, que le deuxième est (encore et toujours) le même que le premier. C'est donc une révélation, et si l'homme a dit le mystère, la femme a révélé le secret. » (JLG, 1990)
-
-- je 30 jan 19h30 HL
-
 ### Programme 56
 
 [79624]  
@@ -1018,14 +1009,14 @@ suivi de
 [67946]  
 **Contre l'oubli : Pour Thomas Wainggai**  
 de Jean-Luc Godard, Anne-Marie Miéville  
-France / 1991 / Numérique  
+France / 1991 / 3 min / Numérique  
 Avec André Rousselet.  
 « J'ai pourtant appris qu'un homme, qui n'est pas un criminel, se trouve chez vous, condamné pour ses idées à vingt ans d'emprisonnement – toute une vie. »  
 suivi de  
 [142343]  
 **Parisienne**  
 de Jean-Luc Godard, Anne-Marie Miéville  
-France / 1992 / 1 min / 35 mm  
+France / 1992 / 1 min / DCP  
 Réclame de la série « Parisienne People by Famous Directors » (Parisienne People est une marque de cigarettes).  
 suivi de  
 [57068]  
@@ -1039,6 +1030,11 @@ Avec Eddie Constantine, Hanns Zischler, Claudia Michelsen.
 
 ### Programme 57
 
+[142875]  
+**JLG/JLG, autoportrait de décembre (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1994 / 1 min / Numérique  
+suivi de  
 [52163]  
 **Hélas pour moi**  
 de Jean-Luc Godard  
@@ -1049,32 +1045,101 @@ Avec Gérard Depardieu, Laurence Masliah, Bernard Verley.
 - me 26 fév 19h30 HL  
 Séance présentée par Caroline Champetier
 
+[142866]  
+**Passion (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1981 / 2 min / Numérique  
+suivi de  
+[48865]  
+**Sauve qui peut (la vie)**  
+de Jean-Luc Godard  
+France-Suisse-RFA-Autriche / 1979 / 87 min / DCP  
+Avec Isabelle Huppert, Jacques Dutronc, Nathalie Baye.  
+« Qu'un plan ne suive pas un autre plan (un cadre, disaient Eisenstein et Dovjenko) parce que c'est écrit (_mektoub_) mais parce que le plan qui précède doit se changer dans un autre pour poursuivre son mouvement, comme dans un jeu ou dans une société les gens s'accordent ou pas pour stopper ou continuer un mouvement social. » (JLG, lettre n° 2 à l'avance sur recettes, 1979)  
+suivi de  
+[79609]  
+**Scénario de Sauve qui peut (la vie). Quelques remarques sur la réalisation et la production du film**  
+de Jean-Luc Godard  
+France / 1979 / 21 min / STF / Numérique  
+« Je voudrais ralentir, filmer ce qu'on ne voit pas ordinairement, je vais essayer de vous montrer ça sur une vidéo cassette, pas ralentir exactement, un peu décomposer ce passé dans l'instant où il compose le présent des personnages. » (JLG, lettre n° 1 à l'avance sur recettes, 1979)
+
+- me 29 jan 21h30 GF  
+Séance présentée par Nathalie Baye  
+- sa 29 fév 17h00 HL
+
+[142876]  
+**Hélas pour moi (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1992 / 1 min / 35 mm  
+suivi de  
+[142342]  
+**Publicités Métamorphojean**  
+de Jean-Luc Godard  
+France / 1990 / 2 min / Numérique  
+Cinq clips de 20 à 30 secondes chacun pour Marithé et François Girbaud.  
+suivi de  
+[142341]  
+**Publicité Pue Lulla**  
+de Jean-Luc Godard  
+France / 1990  
+Réclame pour Nike.  
+suivi de  
+[39240]  
+**Nouvelle vague**  
+de Jean-Luc Godard  
+France-Suisse / 1989 / 89 min / 35 mm  
+Avec Alain Delon, Domiziana Giordano.  
+« Dans un premier temps – l'Ancien Testament – un être humain (un homme) est sauvé de la chute par un autre être humain (une femme). Dans un deuxième temps – le Nouveau Testament – un être humain (une femme) (la même) est sauvée de la chute par un autre être humain (un autre homme). Mais la femme découvre que l'autre homme est aussi le même que le premier, que le deuxième est (encore et toujours) le même que le premier. C'est donc une révélation, et si l'homme a dit le mystère, la femme a révélé le secret. » (JLG, 1990)
+
+- je 30 jan 19h30 HL
+
+[142873]  
+**Prénom Carmen (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1983 / 2 min / Numérique  
+suivi de  
+[142346]  
+**Une bonne à tout faire**  
+de Jean-Luc Godard  
+France / 1981 / 5 min / DCP  
+Avec Andreï Kontchalovski, Vittorio Storaro.  
+« Paul Cézanne, le premier peintre qui face à une toile blanche ne savait pas encore ce qu'il allait peindre. » (JLG, 1981)  
+suivi de  
+[53158]  
+**Lettre à Freddy Buache. À propos d'un court métrage sur la ville de Lausanne**  
+de Jean-Luc Godard  
+France / 1984 / 11 min / Numérique  
+« On a donné de l'argent pour un film sur, et ça, c'est un film de. Il n'arrive pas encore à la sur-face. » (JLG, 1981)  
+suivi de  
+[48850]  
+**Passion**  
+de Jean-Luc Godard  
+France-Suisse / 1981 / 87 min / 35 mm  
+Avec Isabelle Huppert, Hanna Schygulla, Michel Piccoli.  
+« J'ai essayé de montrer la peinture dans sa forme métaphorique. Les chevaliers sont les métaphores des patrons, les fusillés de Goya les métaphores des filles qui vont à l'usine. » (JLG, 1982)
+
+- ve 31 jan 19h00 HL  
+Séance présentée par Isabelle Huppert (sous réserve)  
+- sa 29 fév 19h00 HL
+
+[142874]  
+**Je vous salue, Marie (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1984 / 2 min / Numérique  
+suivi de  
+[48864]  
+**Prénom Carmen**  
+de Jean-Luc Godard  
+France / 1983 / 83 min / 35 mm  
+Avec Maruschka Detmers, Jacques Bonnaffé, Jean-Luc Godard.  
+« Je vous prête ma nouvelle caméra si vous voulez. Elle fait de la musique, je l'ai fabriqué ici avec les ouvriers de la cuisine. » (JLG)  
+Lion d'or, Venise, 1983.
+
+- ve 31 jan 21h30 GF  
+Séance présentée par Maruschka Detmers (sous réserve) et Jacques Bonnaffé  
+- sa 29 fév 21h15 HL
+
 ## Méditations historiques (1993-2019)
-
-### Programme 58
-
-[103422]  
-**Je vous salue, Sarajevo**  
-de Jean-Luc Godard  
-France / 1993 / 2 min / Vidéo  
-Avec Jean-Luc Godard.  
-« Il y a la culture, qui est de la règle, il y a l'exception, qui est de l'art. » (JLG)  
-suivi de  
-[76849]  
-**Les Enfants jouent à la Russie**  
-de Jean-Luc Godard  
-France / 1993 / 58 min / Vidéo  
-Avec László Szabó, Jean-Luc Godard, Bernard Eisenschitz, André S. Labarthe.  
-« bienvenue / camarade Medvedkin / camarade Paradjanov / entrez / camarade Tarkovsky /bienvenue, entrez / les icônes / la métamorphose / la fiction » (JLG, 1993)  
-suivi de  
-[59818]  
-**JLG/JLG, autoportrait de décembre**  
-de Jean-Luc Godard  
-France-Suisse / 1994 / 55 min / 35 mm  
-Avec Jean-Luc Godard.  
-« _JLG/JLG_ est un autoportrait, chose qui me semble impensable à faire au cinéma, mais le cinéma est fait pour penser l'impensable, donc je me suis dévoué. » (JLG, 1995)
-
-- sa 8 fév 14h30 HL
 
 ### Programme 59
 
@@ -1087,24 +1152,29 @@ suivi de
 [142336]  
 **Plus oh !**  
 de Jean-Luc Godard  
-France / 1996 / 4 min / Numérique  
+France / 1996 / 4 min / DCP  
 Avec France Gall.  
 Clip pour la chanson _Plus haut_ de France Gall.  
 suivi de  
 [102572]  
 **Deux fois cinquante ans de cinéma français**  
 d'Anne-Marie Miéville, Jean-Luc Godard  
-France / 1994 / 49 min / Vidéo  
+France / 1994 / 49 min / DCP  
 « Aujourd'hui / on dit un vieux film / on ne dit pas un vieux livre / si tu dis un vieux livre / ça veut dire livre / en mauvais état » (JLG, 1995)
 
 - di 23 fév 19h00 HL
 
 ### Programme 60
 
+[142867]  
+**Éloge de l'amour (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1999 / 1 min / Numérique  
+suivi de  
 [143012]  
 **Adieu au TNS**  
 de Jean-Luc Godard  
-France / 1996 / 7 min / Numérique  
+France / 1996 / 7 min / DCP  
 Avec Jean-Luc Godard.  
 « Acceptez la complainte d'un voyageur / Qui poursuivit une princesse / Dans un théâtre / Ah quel malheur » (JLG, 1996)  
 suivi de  
@@ -1174,17 +1244,22 @@ suivi de
 [94592]  
 **The Old Place**  
 de Jean-Luc Godard, Anne-Marie Miéville  
-France-États-Unis / 1998 / 47 min / Numérique  
+France-États-Unis / 1998 / 47 min / DCP  
 « L'image aujourd'hui n'est pas ce qu'on voit, mais ce qu'on lit, c'est la légende. » (JLG, 1998)
 
 - sa 22 fév 20h00 HL
 
 ### Programme 64
 
+[142860]  
+**Notre musique (bande-annonce)**  
+de Jean-Luc Godard  
+France / 2003 / 1 min / 35 mm  
+suivi de  
 [77379]  
 **De l'origine du XXIe siècle**  
 de Jean-Luc Godard  
-Suisse / 2000 / 13 min / Numérique  
+Suisse / 2000 / 13 min / DCP  
 Avec Pierre Guyotat, Ronald Chammah.  
 « À la recherche du siècle perdu. Quelle horreur. Quelle horreur. Qu'est-ce que c'est, dégueulasse ? » (JLG, 2000)  
 suivi de  
@@ -1208,7 +1283,7 @@ Avec Bruno Putzulu, Cécile Camp, Jean Davy.
 [103421]  
 **Liberté et patrie**  
 de Jean-Luc Godard, Anne-Marie Miéville  
-Suisse / 2002 / 22 min / Numérique  
+Suisse / 2002 / 22 min / DCP  
 Avec Jean-Pierre Gos, Geneviève Pasquier.  
 « En tant qu'ancien révolutionnaire, le père ne croyait pas au pouvoir des images, mais à celui des mots. » (JLG, Anne-Marie Miéville, 2002)  
 suivi de  
@@ -1227,7 +1302,7 @@ Séance présentée par Julien Hirsch
 [142339]  
 **Prières pour refusniks**  
 de Jean-Luc Godard  
-France / 2004 / 10 min / STF / Vidéo  
+France / 2004 / 10 min / STF / DCP  
 _Prière pour refusniks_ : Carabiniers à la rescousse des soldats israéliens refusant de bombarder les civils palestiniens. _Prière (2) pour refusniks_ : Collage pour les soldats israéliens refusant de bombarder les civils palestiniens.  
 suivi de  
 [94696]  
@@ -1243,55 +1318,109 @@ France / 2000 / 80 min / 35 mm
 [143018]  
 **Ecce homo**  
 de Jean-Luc Godard  
-France / 2006 / 2 min / Numérique  
+France / 2006 / 2 min / DCP  
 Iconographie comparée des bourreaux et des victimes.  
 suivi de  
 [143017]  
 **Reportage amateur (maquette expo)**  
 de Jean-Luc Godard, Anne-Marie Miéville  
-France-Suisse / 2006 / 47 min / Numérique  
+France-Suisse / 2006 / 47 min / DCP  
 « il y aura un vrai tableau de Delacroix, _Femmes d'Alger_, avec son cadre j'imagine doré, et il introduira un peu de réalité. Le mythe, c'est la projection. » (JLG)  
 suivi de  
 [142347]  
 **Vrai faux passeport. Fiction documentaire sur des occasions de porter un jugement à propos de la façon de faire des films**  
 de Jean-Luc Godard  
-France / 2006 / 55 min / Numérique  
+France / 2006 / 55 min / DCP  
 Le titre n'apparaît pas dans le film, où l'on peut lire : « Passeport pour le réel ».
 
 - lu 3 fév 19h00 GF  
 Séance présentée par Dominique Païni
 
-### Programme 68
+### Programme 70
 
-[143019]  
-**Une catastrophe**  
+[136269]  
+**3x3D : Les Trois désastres**  
 de Jean-Luc Godard  
-Suisse / 2008 / 1 min / Numérique  
-Avec André S. Labarthe.  
-Bande-annonce pour la Viennale 2008.  
+France / 2012 / 17 min / DCP  
+« Le numérique sera une dictature. » (JLG, 2013)  
 suivi de  
-[143020]  
-**Journal des réalisateurs**  
-de Jean-Luc Godard  
-Suisse / 2008 / 3 min / Numérique  
-De l'Histoire, le cinéma a-t-il vu quelque chose ?  
+[136270]  
+**Travaux préparatoires**  
+de Jean-Luc Godard, Fabrice Aragno  
+Suisse / 2012 / 16 min / DCP  
+Essais 3D pour _Adieu au langage_.  
 suivi de  
-[143021]  
-**Il y avait quoi (pour Éric Rohmer)**  
+[123290]  
+**Adieu au langage**  
 de Jean-Luc Godard  
-Suisse / 2010 / 4 min  
-« Ah, c'est ce qu'on a eu de meilleur, dit Frédéric, oui. » (Gustave Flaubert, 1869 / JLG, 2010)  
-suivi de  
-[110985]  
-**Film socialisme**  
-de Jean-Luc Godard  
-France-Suisse / 2008 / 102 min / DCP  
-Avec Catherine Tanvier, Christian Sinniger, Jean-Marc Stehlé.  
-« Nous travaillons dans la nuit / Nous faisons ce que nous pouvons / Nous donnons ce que nous avons » (JLG, 2010)
+France / 2012 / 70 min / DCP  
+Avec Héloïse Godet, Kamel Abdelli, Richard Chevallier.  
+« Un deuxième film commence / le même que le premier / et pourtant pas / de l'espèce humaine on passe à la métaphore. » (JLG, 2014)
 
-- je 20 fév 21h45 HL
+- ve 21 fév 19h00 HL  
+Séance présentée par Fabrice Aragno
 
-### Programme 69
+### Programme 71 + Dialogue avec Jean-Luc Godard
+
+[143026]  
+**Remerciements de Jean-Luc Godard à son Prix d'honneur du cinéma suisse**  
+de Jean-Luc Godard  
+Suisse / 2015 / 5 min / DCP  
+« On donne des écus dorés, il s'empresse de partager, chien perdu sans collier. » (JLG, 2015)  
+suivi de  
+[143027]  
+**Poussières**  
+de Fabrice Aragno  
+Suisse / 2018 / 1 min / DCP  
+Capturées au vol dans une salle de cinéma à Lausanne.  
+suivi de  
+[142878]  
+**Bande-annonce pour le festival de Jihlava**  
+de Jean-Luc Godard  
+Suisse / 2018 / 1 min  
+suivi de  
+[143028]  
+**Sang titre**  
+de Jean-Luc Godard  
+Suisse / 2019 / 10 min / DCP  
+Une version spéciale de _Dans le noir du temps_ pour les spectateurs de Ramallah et de la bande de Gaza.  
+suivi de  
+[139247]  
+**Le Livre d'image**  
+de Jean-Luc Godard  
+Suisse-France / 2017 / 85 min / DCP  
+« Un film, c'est un échafaudage. C'est un empilement informe dont les pièces finalement s'imbriquent. Mais c'est aussi un échafaud. Un échafaud des idées. On en coupe tout le temps, beaucoup tombent au montage... » (JLG, 2019)  
+Palme d'or spéciale, Cannes 2018.
+
+- di 1 mar 14h30 HL
+
+[142877]  
+**For Ever Mozart (bande-annonce)**  
+de Jean-Luc Godard  
+France / 1995 / 5 min / 35 mm  
+suivi de  
+[103422]  
+**Je vous salue, Sarajevo**  
+de Jean-Luc Godard  
+France / 1993 / 2 min / DCP  
+Avec Jean-Luc Godard.  
+« Il y a la culture, qui est de la règle, il y a l'exception, qui est de l'art. » (JLG)  
+suivi de  
+[76849]  
+**Les Enfants jouent à la Russie**  
+de Jean-Luc Godard  
+France / 1993 / 58 min / DCP  
+Avec László Szabó, Jean-Luc Godard, Bernard Eisenschitz, André S. Labarthe.  
+« bienvenue / camarade Medvedkin / camarade Paradjanov / entrez / camarade Tarkovsky /bienvenue, entrez / les icônes / la métamorphose / la fiction » (JLG, 1993)  
+suivi de  
+[59818]  
+**JLG/JLG, autoportrait de décembre**  
+de Jean-Luc Godard  
+France-Suisse / 1994 / 55 min / 35 mm  
+Avec Jean-Luc Godard.  
+« _JLG/JLG_ est un autoportrait, chose qui me semble impensable à faire au cinéma, mais le cinéma est fait pour penser l'impensable, donc je me suis dévoué. » (JLG, 1995)
+
+- sa 8 fév 14h30 HL
 
 [142879]  
 **Film socialisme (film-annonce 1)**  
@@ -1326,7 +1455,7 @@ suivi de
 [143022]  
 **Quod erat demonstrandum**  
 de Fabrice Aragno  
-Suisse / 2012 / 26 min / Numérique  
+Suisse / 2012 / 26 min / DCP  
 « Deux ou trois voyages dans l'univers selon JLG. »  
 suivi de  
 [143042]  
@@ -1338,7 +1467,7 @@ suivi de
 [143023]  
 **Khan Khanne, sélection naturelle**  
 de Jean-Luc Godard  
-Suisse / 2014 / 9 min  
+Suisse / 2014 / 9 min / DCP  
 « D'ailleurs ceci n'est plus un film, bien que ce soit mon meilleur. » (JLG, 2014)  
 suivi de  
 [143024]  
@@ -1355,73 +1484,48 @@ Début 2010, Jean-Luc Godard tourne _Film socialisme_ incognito à bord du _Conc
 
 - ve 21 fév 21h45 GF
 
-### Programme 70
+[142859]  
+**Le Livre d'image (bande-annonce)**  
+de Jean-Luc Godard  
+France / 2017 / 1 min / DCP  
+suivi de  
+[143019]  
+**Une catastrophe**  
+de Jean-Luc Godard  
+Suisse / 2008 / 1 min / DCP  
+Avec André S. Labarthe.  
+Bande-annonce pour la Viennale 2008.  
+suivi de  
+[143020]  
+**Journal des réalisateurs**  
+de Jean-Luc Godard  
+Suisse / 2008 / 3 min / Numérique  
+De l'Histoire, le cinéma a-t-il vu quelque chose ?  
+suivi de  
+[143021]  
+**Il y avait quoi (pour Éric Rohmer)**  
+de Jean-Luc Godard  
+Suisse / 2010 / 4 min / DCP  
+« Ah, c'est ce qu'on a eu de meilleur, dit Frédéric, oui. » (Gustave Flaubert, 1869 / JLG, 2010)  
+suivi de  
+[110985]  
+**Film socialisme**  
+de Jean-Luc Godard  
+France-Suisse / 2008 / 102 min / DCP  
+Avec Catherine Tanvier, Christian Sinniger, Jean-Marc Stehlé.  
+« Nous travaillons dans la nuit / Nous faisons ce que nous pouvons / Nous donnons ce que nous avons » (JLG, 2010)
 
-[136269]  
-**3x3D : Les Trois désastres**  
-de Jean-Luc Godard  
-France / 2012 / 17 min / DCP  
-« Le numérique sera une dictature. » (JLG, 2013)  
-suivi de  
-[136270]  
-**Travaux préparatoires**  
-de Jean-Luc Godard, Fabrice Aragno  
-Suisse / 2012 / 16 min / DCP  
-Essais 3D pour _Adieu au langage_.  
-suivi de  
-[123290]  
-**Adieu au langage**  
-de Jean-Luc Godard  
-France / 2012 / 70 min / DCP  
-Avec Héloïse Godet, Kamel Abdelli, Richard Chevallier.  
-« Un deuxième film commence / le même que le premier / et pourtant pas / de l'espèce humaine on passe à la métaphore. » (JLG, 2014)
-
-- ve 21 fév 19h00 HL  
-Séance présentée par Fabrice Aragno
-
-### Programme 71 + Dialogue avec Jean-Luc Godard
-
-[143026]  
-**Remerciements de Jean-Luc Godard à son Prix d'honneur du cinéma suisse**  
-de Jean-Luc Godard  
-Suisse / 2015 / 5 min / Numérique  
-« On donne des écus dorés, il s'empresse de partager, chien perdu sans collier. » (JLG, 2015)  
-suivi de  
-[143027]  
-**Poussières**  
-de Fabrice Aragno  
-Suisse / 2018 / 1 min / Numérique  
-Capturées au vol dans une salle de cinéma à Lausanne.  
-suivi de  
-[142878]  
-**Bande-annonce pour le festival de Jihlava**  
-de Jean-Luc Godard  
-Suisse / 2018 / 1 min  
-suivi de  
-[143028]  
-**Sang titre**  
-de Jean-Luc Godard  
-Suisse / 2019 / 10 min / Numérique  
-Une version spéciale de _Dans le noir du temps_ pour les spectateurs de Ramallah et de la bande de Gaza.  
-suivi de  
-[139247]  
-**Le Livre d'image**  
-de Jean-Luc Godard  
-Suisse-France / 2017 / 85 min / DCP  
-« Un film, c'est un échafaudage. C'est un empilement informe dont les pièces finalement s'imbriquent. Mais c'est aussi un échafaud. Un échafaud des idées. On en coupe tout le temps, beaucoup tombent au montage... » (JLG, 2019)  
-Palme d'or spéciale, Cannes 2018.
-
-- di 1 mar 14h30 HL
+- je 20 fév 21h45 HL
 
 ## Rencontres et conférences
 
 []  
-**Film+Discussion avec Alain Bergala**  
+**Film + Discussion avec Alain Bergala**  
 undefined  
 60 min  
-« _Pierrot le fou_, c'est : un petit soldat qui découvre avec mépris qu'il faut vivre sa vie, qu'une femme est une femme, et que dans un monde nouveau, il faut faire bande à part pour ne pas se retrouver à bout de souffle. » Extrait d'un poème écrit par Jean-Luc Godard pour le dossier de presse du film  
-**Bernard Benoliel** est directeur de l'Action culturelle et éducative à La Cinémathèque française.  
-**Alain Bergala** est réalisateur, critique et essayiste, auteur de nombreux ouvrages sur le cinéma. Ancien rédacteur en chef des _Cahiers du cinéma_, il est aussi commissaire d'expositions de cinéma (« Victor Erice/Abbas Kiarostami : correspondances » au Centre Pompidou, « Brune/Blonde » et « Pasolini Roma » à La Cinémathèque française). Il a consacré plusieurs ouvrages au cinéma de Jean-Luc Godard, dont : _Jean-Luc Godard par Jean-Luc Godard_ (2 volumes, 1998), _Nul mieux que Godard_ (1999) et _Godard au travail – les années 60_ (éditions Cahiers du cinéma, 2006).
+« _Pierrot le fou_, c'est : un petit soldat qui découvre avec mépris qu'il faut vivre sa vie, qu'une femme est une femme, et que dans un monde nouveau, il faut faire bande à part pour ne pas se retrouver à bout de souffle. » (extrait d'un poème écrit par Jean-Luc Godard pour le dossier de presse du film)  
+Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
+Alain Bergala est réalisateur, critique et essayiste, auteur de nombreux ouvrages sur le cinéma. Ancien rédacteur en chef des _Cahiers du cinéma_, il est aussi commissaire d'expositions de cinéma (« Victor Erice / Abbas Kiarostami : correspondances » au Centre Pompidou, « Brune/Blonde » et « Pasolini Roma » à la Cinémathèque française). Il a consacré plusieurs ouvrages au cinéma de Jean-Luc Godard, dont : _Jean-Luc Godard par Jean-Luc Godard_ (2 volumes, 1998), _Nul mieux que Godard_ (1999) et _Godard au travail : les années 60_ (éditions Cahiers du cinéma, 2006).
 
 - je 9 jan 19h30 HL
 
@@ -1429,9 +1533,9 @@ undefined
 **Film + Discussion avec David Faroult**  
 undefined  
 60 min  
-« Un supermarché : 700 millions par jour de chiffre d'affaires. Une « grande surface » : oui. Un « grand théâtre social » : oui, mais tout le monde gueule dans ce théâtre. Sauf le public. Il paye. Et fait semblant de se taire. Personne ne lui parle encore... » Extrait du monologue de Jane Fonda dans _Tout va bien_  
-**Jean-François Rauger** est directeur de la programmation à La Cinémathèque française.  
-**David Faroult** est maître de conférences en cinéma à l'École nationale supérieure Louis-Lumière. Une part importante de ses recherches et publications concerne les cinémas politiques issus de 1968 et le « groupe » Dziga Vertov, dont il a présenté les films en bonus de leur première édition en DVD (_Jean-Luc Godard y el grupo Dziga Vertov_, _Intermedio_, 2008). Il a codirigé l'ouvrage _Jean-Luc Godard : Documents_ (Centre Pompidou, 2006) et, a publié _Godard, Inventions d'un cinéma politique_ (Les prairies ordinaires, 2018).
+« Un supermarché : 700 millions par jour de chiffre d'affaires. Une « grande surface » : oui. Un « grand théâtre social » : oui, mais tout le monde gueule dans ce théâtre. Sauf le public. Il paye. Et fait semblant de se taire. Personne ne lui parle encore... » (extrait du monologue de Jane Fonda dans _Tout va bien_)  
+Jean-François Rauger est directeur de la programmation de la Cinémathèque française.  
+David Faroult est maître de conférences en cinéma à l'École nationale supérieure Louis-Lumière. Une part importante de ses recherches et publications concerne les cinémas politiques issus de 1968 et le « groupe » Dziga Vertov, dont il a présenté les films en bonus de leur première édition en DVD (_Jean-Luc Godard y el grupo Dziga Vertov_, Intermedio, 2008). Il a codirigé l'ouvrage _Jean-Luc Godard : Documents_ (Centre Pompidou, 2006) et a publié _Godard, Inventions d'un cinéma politique_ (Les prairies ordinaires, 2018).
 
 - je 16 jan 21h00 HL
 
@@ -1439,9 +1543,9 @@ undefined
 **Film + Discussion avec Dominique Païni**  
 undefined  
 60 min  
-« La grande histoire, c'est l'histoire du cinéma. C'est l'affaire du XIXème siècle résolue par le XXème. Elle est plus grande que les autres parce qu'elle se projette et que les autres se réduisent. » Jean-Luc Godard  
-**Frédéric Bonnaud** est directeur général de La Cinémathèque française.  
-**Dominique Païni** a dirigé La Cinémathèque française de 1991 à 2000. Il a publié plusieurs livres sur le cinéma (en particulier, _Le Temps exposé_. _Le cinéma, de la salle au musée_, 2002) et il est commissaire d'expositions : « Hitchcock et les arts », « Jean Cocteau sur le fil du siècle », « Le noir est une couleur », « Walt Disney », « Henri Langlois », « Godard-Picasso : collage(s) »... Il a imaginé, avec Jean-Luc Godard, une exposition : « Collage(s) de France », devenue au Centre Pompidou Voyage(s) en utopie, réalisée par le cinéaste (2006).
+« La grande histoire, c'est l'histoire du cinéma. C'est l'affaire du XIX<sup>e</sup> siècle résolue par le XX<sup>e</sup>. Elle est plus grande que les autres parce qu'elle se projette et que les autres se réduisent. » (Jean-Luc Godard)  
+Frédéric Bonnaud est directeur général de la Cinémathèque française.  
+Dominique Païni a dirigé la Cinémathèque française de 1991 à 2000. Il a publié plusieurs livres sur le cinéma (en particulier, _Le Temps exposé : Le cinéma, de la salle au musée_, 2002) et il est commissaire d'expositions : « Hitchcock et les arts », « Jean Cocteau sur le fil du siècle », « Le noir est une couleur », « Walt Disney », « Henri Langlois », « Godard-Picasso : collage(s) ». Il a imaginé, avec Jean-Luc Godard, une exposition : « Collage(s) de France », devenue au Centre Pompidou « Voyage(s) en utopie », réalisée par le cinéaste (2006).
 
 - je 23 jan 21h00 HL
 
@@ -1449,9 +1553,8 @@ undefined
 **Film+Discussion avec Jacques Aumont**  
 undefined  
 60 min  
-« S'il n'y avait pas eu Delon, il n'y aurait pas pu avoir du temps pour filmer un ruisseau à égalité, et vous ne l'auriez pas remarqué. Il faut l'étoile, mais l'étoile (les scientifiques le savent), c'est quelque chose qui vient de loin, dont nous ne percevons la lumière qu'en retard. Quelquefois même la lumière de la Lune, nous la recevons avec cinq minutes de retard. Les stars de cinéma, c'est pareil. » Jean-Luc Godard, conférence de presse de _Nouvelle Vague_, Festival de Cannes, 1990  
-**Bernard Benoliel** est directeur de l'Action culturelle et éducative à La Cinémathèque française.  
-Naguère enseignant d'esthétique et de cinéma à l'université et aux Beaux-Arts, **Jacques Aumon**t est l'auteur de nombreux ouvrages, notamment _Montage Eisenstein_ ; _L'Œil interminable_ ; _Du visage au cinéma_ ; _Ingmar Bergman_ ; _Amnésies – Fictions du cinéma d'après Jean-Luc Godard_ et, récemment, _2x2 : Nouvelle Vagu_e, _Godard, Hélas pour moi_ (202 éditions).
+« S'il n'y avait pas eu Delon, il n'y aurait pas pu avoir du temps pour filmer un ruisseau à égalité, et vous ne l'auriez pas remarqué. Il faut l'étoile, mais l'étoile (les scientifiques le savent), c'est quelque chose qui vient de loin, dont nous ne percevons la lumière qu'en retard. Quelquefois même la lumière de la Lune, nous la recevons avec cinq minutes de retard. Les stars de cinéma, c'est pareil. » (Jean-Luc Godard, conférence de presse de _Nouvelle Vague_, Festival de Cannes, 1990)  
+Texte à saisir
 
 - je 30 jan 21h00 HL
 
@@ -1459,8 +1562,8 @@ Naguère enseignant d'esthétique et de cinéma à l'université et aux Beaux-Ar
 **Film + discussion avec Antoine de Baecque**  
 undefined  
 60 min  
-« _JLG/JLG_ est un autoportrait, chose qui me semble impensable à faire au cinéma, mais le cinéma est fait pour penser l'impensable, donc je me suis dévoué. » Jean-Luc Godard, 1995  
-**Antoine de Baecque** est historien, spécialiste de la culture des Lumières et de la Révolution française, et professeur d'histoire du cinéma à l'École Normale Supérieure (Ulm). Il a été rédacteur en chef des _Cahiers du cinéma_, puis des pages culture de _Libération_. Spécialiste de la Nouvelle Vague, il a écrit et co-écrit trois biographies : _François Truffaut_ (1996, avec Serge Toubiana), _Éric Rohmer_ (2014, avec Noël Herpe) et _Jean-Luc Godard_ (Grasset, 2010).
+« _JLG/JLG_ est un autoportrait, chose qui me semble impensable à faire au cinéma, mais le cinéma est fait pour penser l'impensable, donc je me suis dévoué. » (Jean-Luc Godard, 1995)  
+Antoine de Baecque est historien, spécialiste de la culture des Lumières et de la Révolution française, et professeur d'histoire du cinéma à l'École normale supérieure (Ulm). Il a été rédacteur en chef des _Cahiers du cinéma_, puis des pages culture de _Libération_. Spécialiste de la Nouvelle Vague, il a écrit et co-écrit trois biographies : _François Truffaut_ (1996, avec Serge Toubiana), _Éric Rohmer_ (2014, avec Noël Herpe) et _Jean-Luc Godard_ (Grasset, 2010).
 
 - sa 8 fév 14h30 HL
 
@@ -1468,9 +1571,8 @@ undefined
 **Film+Discussion avec Nicole Brenez**  
 undefined  
 60 min  
-« Un film, c'est un échafaudage. C'est un empilement informe dont les pièces finalement s'imbriquent. Mais c'est aussi un échafaud. Un échafaud des idées. On en coupe tout le temps, beaucoup tombent au montage... » Jean-Luc Godard, 2019  
-**Bernard Benoliel** est directeur de l'Action culturelle et éducative à La Cinémathèque française.  
-**Nicole Brenez** est professeur à l'Université Sorbonne nouvelle, directrice du Département Analyse & Culture à la Fémis, et programme les séances d'avant-garde de La Cinémathèque française. Parmi ses livres : _De la Figure en général et du Corps en particulier_. _L'invention figurative au cinéma_ ; _Cinémas d'avant-garde, mode d'emploi_ ; _Jean-Luc Godard, théoricien des images_. Elle a codirigé l'ouvrage _Jean-Luc Godard : Documents_ et a contribué au _Livre d'image_.
+« Un film, c'est un échafaudage. C'est un empilement informe dont les pièces finalement s'imbriquent. Mais c'est aussi un échafaud. Un échafaud des idées. On en coupe tout le temps, beaucoup tombent au montage... » (Jean-Luc Godard, 2019)  
+Nicole Brenez est professeur à l'université Sorbonne-Nouvelle, directrice du Département analyse et culture à la Fémis, et programme les séances d'avant-garde de la Cinémathèque française. Parmi ses livres : _De la Figure en général et du corps en particulier : l'invention figurative au cinéma_, _Cinémas d'avant-garde, mode d'emploi_, _Jean-Luc Godard, théoricien des images_. Elle a codirigé l'ouvrage _Jean-Luc Godard : Documents_ et a contribué au _Livre d'image_.
 
 - di 1 mar 14h30 HL
 

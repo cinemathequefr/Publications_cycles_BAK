@@ -844,11 +844,9 @@
           "ordre": 1,
           "dateHeure": "2020-02-06T21:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
-          "typeAssoc": 117,
-          "idSeanceAssoc": 32544,
           "idCategorie": 2057,
           "idEvenement": 20158,
           "typeEvenement": 13,
@@ -1667,8 +1665,8 @@
           "ordre": 1,
           "dateHeure": "2020-01-31T19:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "idCategorie": 2057,
           "idEvenement": 20149,
@@ -2650,14 +2648,12 @@
             "GF",
             "Georges Franju"
           ],
-          "typeAssoc": 117,
-          "idSeanceAssoc": 32538,
           "idCategorie": 2140,
           "idEvenement": 21014,
           "typeEvenement": 14,
           "idTypeConference": 55,
           "typeConference": "Conférence",
-          "titre": "Qui êtes-vous Vittorio de Sica ?",
+          "titre": "Qui êtes-vous Vittorio De Sica ?",
           "sousTitre": "Conférence de Paolo Mereghetti",
           "duree": 90,
           "textes": [
@@ -2667,7 +2663,7 @@
             },
             {
               "typeTexte": 156,
-              "texte": "**Paolo Mereghetti** est critique de cinéma au quotidien _Corriere della Sera_ et auteur du plus populaire dictionnaire italien des films (qui a pris son nom : « il Mereghetti »). En France, il a publié pour les _Cahiers du cinéma_ un ouvrage sur Orson Welles et le livre illustré _Movie: Box_ (éditions Contrasto)."
+              "texte": "Paolo Mereghetti est critique de cinéma au quotidien _Corriere della sera_ et auteur du plus populaire dictionnaire italien des films (qui a pris son nom : _« Il Mereghetti »_). En France, il a publié pour les _Cahiers du cinéma_ un ouvrage sur Orson Welles et le livre illustré _Movie : Box_ (éditions Contrasto)."
             }
           ],
           "intervenants": [

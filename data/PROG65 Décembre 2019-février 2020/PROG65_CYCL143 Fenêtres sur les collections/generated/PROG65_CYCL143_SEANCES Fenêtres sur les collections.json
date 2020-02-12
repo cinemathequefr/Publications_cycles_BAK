@@ -16,7 +16,7 @@
         "idSeance": 32943,
         "idCopie": 19910,
         "duree": 48,
-        "version": "",
+        "version": "VF",
         "format": "16 mm",
         "valide": 1
       },
@@ -36,7 +36,7 @@
         "idSeance": 32943,
         "idCopie": 19909,
         "duree": 3,
-        "version": "INT. FR.",
+        "version": "",
         "format": "35 mm",
         "valide": 0
       },
@@ -55,8 +55,8 @@
         "ordre": 5,
         "idSeance": 32943,
         "idCopie": 19905,
-        "duree": 9,
-        "version": "",
+        "duree": 10,
+        "version": "VF",
         "format": "35 mm",
         "valide": 1
       },
@@ -65,8 +65,8 @@
         "ordre": 6,
         "idSeance": 32943,
         "idCopie": 19906,
-        "duree": 9,
-        "version": "",
+        "duree": 10,
+        "version": "VF",
         "format": "35 mm",
         "valide": 1
       },
@@ -99,7 +99,7 @@
         "idSeance": 32944,
         "idCopie": 19911,
         "duree": 15,
-        "version": "VO",
+        "version": "VF",
         "format": "35 mm",
         "valide": 1
       },
@@ -134,7 +134,7 @@
         "duree": 12,
         "version": "",
         "format": "16 mm",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 66179,
@@ -144,7 +144,7 @@
         "duree": 12,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 143171,
@@ -154,7 +154,7 @@
         "duree": 4,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 143177,
@@ -164,7 +164,7 @@
         "duree": 9,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 143172,
@@ -174,7 +174,7 @@
         "duree": 15,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 140176,
@@ -184,7 +184,7 @@
         "duree": 8,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 121379,
@@ -194,7 +194,7 @@
         "duree": 13,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 143173,
@@ -204,7 +204,7 @@
         "duree": 2,
         "version": "",
         "format": "Numérique",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -227,7 +227,7 @@
         "duree": 5,
         "version": "",
         "format": "16 mm",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 130909,
@@ -237,7 +237,7 @@
         "duree": 5,
         "version": "",
         "format": "16 mm",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 143174,
@@ -247,7 +247,7 @@
         "duree": 13,
         "version": "",
         "format": "Numérique",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 125679,
@@ -257,7 +257,7 @@
         "duree": 2,
         "version": "",
         "format": "Numérique",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 143214,
@@ -267,7 +267,7 @@
         "duree": 3,
         "version": "",
         "format": "Numérique",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 112395,
@@ -277,7 +277,7 @@
         "duree": 10,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ],
     "mention": "Accompagnement musical par Olivier Mellano"

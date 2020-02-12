@@ -242,8 +242,8 @@
             "Maggie Smith",
             "Julian Sands"
           ],
-          "duree": 116,
-          "format": "35 mm",
+          "duree": 117,
+          "format": "DCP",
           "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
@@ -408,7 +408,7 @@
             "Jean-Marc Barr",
             "Romain Duris"
           ],
-          "duree": 115,
+          "duree": 117,
           "format": "",
           "version": "VOSTF",
           "ageMinimal": null,
@@ -735,7 +735,7 @@
             "Sean Young"
           ],
           "duree": 108,
-          "format": "16 mm",
+          "format": "Vidéo",
           "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
@@ -1267,7 +1267,7 @@
             "Raquel Welch",
             "Perry King"
           ],
-          "duree": 100,
+          "duree": 101,
           "format": "35 mm",
           "version": "VOSTF",
           "ageMinimal": null,
@@ -1362,13 +1362,13 @@
           ],
           "duree": 73,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
               "idSeance": 32458,
-              "ordre": 2,
-              "idEvenement": 20584,
+              "ordre": 1,
+              "idEvenement": 22205,
               "dateHeure": "2020-01-23T19:00:00",
               "idSalle": [
                 "GF",
@@ -1377,16 +1377,15 @@
             },
             {
               "idSeance": 32830,
-              "ordre": 2,
-              "idEvenement": 20584,
+              "ordre": 1,
+              "idEvenement": 22205,
               "dateHeure": "2020-02-07T17:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
               ]
             }
-          ],
-          "precedeSuivi": "Film précédé de _Mahatma and the Mad Boy_ d'Ismail Merchant"
+          ]
         },
         {
           "idFilm": 59782,
@@ -1423,51 +1422,6 @@
               ]
             }
           ]
-        },
-        {
-          "idFilm": 143204,
-          "titre": "Mahatma and the Mad Boy",
-          "titreVo": "",
-          "realisateurs": "Ismail Merchant",
-          "annee": 1972,
-          "pays": "Grande-Bretagne",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "À Bombay, un jeune vagabond vit sur la plage avec pour seule compagnie son singe, et la statue du Mahatma Gandhi au pied de laquelle il a pris l'habitude de dormir. Un jour, un groupe de riches visiteurs vient y célébrer une cérémonie."
-            }
-          ],
-          "generique": [
-            "Sajid Khan",
-            "Sulochanna"
-          ],
-          "duree": 26,
-          "format": "Vidéo",
-          "version": "VOSTF",
-          "ageMinimal": null,
-          "seance": [
-            {
-              "idSeance": 32458,
-              "ordre": 1,
-              "idEvenement": 20584,
-              "dateHeure": "2020-01-23T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            },
-            {
-              "idSeance": 32830,
-              "ordre": 1,
-              "idEvenement": 20584,
-              "dateHeure": "2020-02-07T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film suivi de _The Courtesans of Bombay_ de James Ivory, Ismail Merchant"
         },
         {
           "idFilm": 78171,
@@ -1602,7 +1556,7 @@
                 }
               ],
               "duree": 23,
-              "format": "35 mm",
+              "format": "Vidéo",
               "version": "VOSTF",
               "ageMinimal": null,
               "ordre": 2
@@ -1653,7 +1607,7 @@
                 "Anjali Devi"
               ],
               "duree": 14,
-              "format": "16 mm",
+              "format": "35 mm",
               "version": "VOSTF",
               "ageMinimal": null,
               "ordre": 4

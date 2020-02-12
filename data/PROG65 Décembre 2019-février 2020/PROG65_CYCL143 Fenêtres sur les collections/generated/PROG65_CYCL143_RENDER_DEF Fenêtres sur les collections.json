@@ -52,7 +52,7 @@
               ],
               "duree": 48,
               "format": "16 mm",
-              "version": "",
+              "version": "VF",
               "ageMinimal": null,
               "ordre": 1
             },
@@ -91,7 +91,7 @@
               ],
               "duree": 3,
               "format": "35 mm",
-              "version": "INT. FR.",
+              "version": "",
               "ageMinimal": null,
               "ordre": 3
             },
@@ -128,9 +128,9 @@
                   "texte": "Éloge de l'énergie solaire commandité par Robert Redford et réalisé par Saul et Elaine Bass dans une esthétique New Age des années 80."
                 }
               ],
-              "duree": 9,
+              "duree": 10,
               "format": "35 mm",
-              "version": "",
+              "version": "VF",
               "ageMinimal": null,
               "ordre": 5
             },
@@ -147,9 +147,9 @@
                   "texte": "Zoom sur le sud de la France : qui aurait pu penser que dans les Pyrénées se trouvait un des plus grands fours solaire au monde ? À Montastruc, le terrain de la Marcelle regorge de surprises."
                 }
               ],
-              "duree": 9,
+              "duree": 10,
               "format": "35 mm",
-              "version": "",
+              "version": "VF",
               "ageMinimal": null,
               "ordre": 6
             },
@@ -202,7 +202,7 @@
               ],
               "duree": 15,
               "format": "35 mm",
-              "version": "VO",
+              "version": "VF",
               "ageMinimal": null,
               "ordre": 1
             },

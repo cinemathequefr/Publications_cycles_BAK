@@ -292,9 +292,9 @@
             "Paulette Andrieux",
             "Jean Vilar"
           ],
-          "duree": 68,
+          "duree": 84,
           "format": "35 mm",
-          "version": "VO",
+          "version": "",
           "ageMinimal": null,
           "seance": [
             {
@@ -365,9 +365,9 @@
             "Jacqueline Pierreux",
             "Louis de Funès"
           ],
-          "duree": 79,
+          "duree": 80,
           "format": "35 mm",
-          "version": "",
+          "version": "VO",
           "ageMinimal": null,
           "seance": [
             {
@@ -619,7 +619,7 @@
             "Jean-Pierre Grenier"
           ],
           "duree": 92,
-          "format": "35 mm",
+          "format": "Numérique",
           "version": "",
           "ageMinimal": null,
           "seance": [
@@ -654,9 +654,9 @@
             "Jean Marais",
             "Christine Chesnay"
           ],
-          "duree": 101,
+          "duree": 102,
           "format": "35 mm",
-          "version": "",
+          "version": "VO",
           "ageMinimal": null,
           "seance": [
             {
@@ -797,7 +797,7 @@
             "Denis O'Dea",
             "Guido Celano"
           ],
-          "duree": 82,
+          "duree": 85,
           "format": "35 mm",
           "version": "VF",
           "ageMinimal": null,
@@ -871,9 +871,9 @@
             "Pierre Brasseur",
             "Monelle Valentin"
           ],
-          "duree": 83,
+          "duree": 84,
           "format": "35 mm",
-          "version": "",
+          "version": "VO",
           "ageMinimal": null,
           "seance": [
             {

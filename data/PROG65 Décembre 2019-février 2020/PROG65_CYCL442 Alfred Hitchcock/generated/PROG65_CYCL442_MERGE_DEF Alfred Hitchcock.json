@@ -57,7 +57,7 @@
           "annee": 1953,
           "pays": "États-Unis",
           "duree": 112,
-          "version": "VOSTF",
+          "version": "VO",
           "format": "DCP",
           "ageMinimal": 8,
           "generique": [
@@ -91,7 +91,7 @@
           "annee": 1953,
           "pays": "États-Unis",
           "duree": 112,
-          "version": "VOSTF",
+          "version": "VO",
           "format": "DCP",
           "ageMinimal": 8,
           "generique": [
@@ -382,7 +382,7 @@
           "annee": 1944,
           "pays": "Grande-Bretagne",
           "duree": 31,
-          "version": "VOSTF",
+          "version": "VO",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -413,7 +413,7 @@
           "annee": 1944,
           "pays": "Grande-Bretagne",
           "duree": 31,
-          "version": "VOSTF",
+          "version": "VO",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -880,7 +880,7 @@
         {
           "idSeance": 32176,
           "ordre": 1,
-          "dateHeure": "2019-12-07T18:45:00",
+          "dateHeure": "2019-12-07T19:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1506,7 +1506,7 @@
         {
           "idSeance": 32127,
           "ordre": 1,
-          "dateHeure": "2019-12-07T21:15:00",
+          "dateHeure": "2019-12-07T21:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1596,7 +1596,7 @@
           "realisateurs": "Alfred Hitchcock",
           "annee": 1955,
           "pays": "États-Unis",
-          "duree": 120,
+          "duree": 119,
           "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
@@ -2401,7 +2401,7 @@
           "pays": "Grande-Bretagne",
           "duree": 104,
           "version": "INT. FR.",
-          "format": "DCP",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Carl Brisson",
@@ -2436,7 +2436,7 @@
           "pays": "Grande-Bretagne",
           "duree": 104,
           "version": "INT. FR.",
-          "format": "DCP",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Carl Brisson",
@@ -3075,12 +3075,12 @@
           ]
         },
         {
-          "idSeance": 32770,
+          "idSeance": 33759,
           "ordre": 1,
-          "dateHeure": "2020-01-08T21:00:00",
+          "dateHeure": "2020-01-18T21:45:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 2024,
           "idEvenement": 19829,
@@ -3145,9 +3145,9 @@
           ]
         },
         {
-          "idSeance": 32769,
+          "idSeance": 33758,
           "ordre": 1,
-          "dateHeure": "2020-01-08T19:00:00",
+          "dateHeure": "2020-01-20T21:15:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -3570,7 +3570,7 @@
         {
           "idSeance": 32179,
           "ordre": 1,
-          "dateHeure": "2019-12-08T19:00:00",
+          "dateHeure": "2019-12-08T19:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -3656,7 +3656,7 @@
           "pays": "États-Unis",
           "duree": 102,
           "version": "VOSTF",
-          "format": "DCP",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Cary Grant",
@@ -3690,7 +3690,7 @@
           "pays": "États-Unis",
           "duree": 102,
           "version": "VOSTF",
-          "format": "DCP",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Cary Grant",
@@ -3756,7 +3756,7 @@
           "realisateurs": "Alfred Hitchcock",
           "annee": 1957,
           "pays": "États-Unis",
-          "duree": 123,
+          "duree": 129,
           "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
@@ -3776,7 +3776,7 @@
         {
           "idSeance": 32170,
           "ordre": 1,
-          "dateHeure": "2019-12-08T21:00:00",
+          "dateHeure": "2019-12-08T21:15:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -3846,7 +3846,7 @@
         {
           "idSeance": 32168,
           "ordre": 1,
-          "dateHeure": "2019-12-07T16:30:00",
+          "dateHeure": "2019-12-07T16:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -4223,7 +4223,7 @@
           "realisateurs": "Alfred Hitchcock",
           "annee": 1955,
           "pays": "États-Unis",
-          "duree": 25,
+          "duree": 26,
           "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,

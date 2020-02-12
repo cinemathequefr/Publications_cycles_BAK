@@ -120,7 +120,7 @@
                 "Fuad Suleiman"
               ],
               "duree": 105,
-              "format": "DCP",
+              "format": "35 mm",
               "version": "VOSTF",
               "ageMinimal": null,
               "ordre": 2
@@ -256,11 +256,11 @@
               "textes": [
                 {
                   "typeTexte": 8,
-                  "texte": "« Le point de départ d'une image, pour moi, c'est un chatouillement, une sensualité, un plaisir potentiel, un trait d'humour. L'image est d'abord mal définie. Puis, je l'explore. Mais je ne commence jamais par la compréhension. Parfois, au contraire, je la garde parce que je ne la comprends pas, et que je la trouve drôle ou insolite. Mais je sais qu'il y a aussi quelque chose d'intellectuel, sous-jacent, dont je ne me rendrai compte qu'après coup. » (Elia Suleiman, octobre 2002)"
+                  "texte": "« Le point de départ d'une image, pour moi, c'est un chatouillement, une sensualité, un plaisir potentiel, un trait d'humour. L'image est d'abord mal définie. Puis, je l'explore. Mais je ne commence jamais par la compréhension. Parfois, au contraire, je la garde parce que je ne la comprends pas, et que je la trouve drôle ou insolite. Mais je sais qu'il y a aussi quelque chose d'intellectuel, sous-jacent, dont je ne me rendrai compte qu'après coup. » (Elia Suleiman)"
                 },
                 {
                   "typeTexte": 156,
-                  "texte": "**Bernard Benoliel** est directeur de l'Action culturelle et éducative à La Cinémathèque française."
+                  "texte": "Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française."
                 }
               ],
               "duree": 80

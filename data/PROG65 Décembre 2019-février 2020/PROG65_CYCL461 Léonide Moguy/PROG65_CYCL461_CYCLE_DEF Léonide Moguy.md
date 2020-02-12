@@ -37,7 +37,7 @@ Une jeune femme, sur le point de se jeter à l'eau, est secourue par un médecin
 **Demain il sera trop tard**  
 **(Domani è troppo tardi)**  
 de Léonide Moguy  
-Italie / 1949  
+Italie / 1949 / 105 min / 16 mm  
 Avec Anna Maria Pierangeli, Gino Leurini, Vittorio De Sica.  
 Dans son école, Mirella se lie d'une tendre amitié avec Franco. Lorsque la directrice aux idées rétrogrades les punit, une enseignante tente de prendre leur défense, mais elle se fait renvoyer.
 

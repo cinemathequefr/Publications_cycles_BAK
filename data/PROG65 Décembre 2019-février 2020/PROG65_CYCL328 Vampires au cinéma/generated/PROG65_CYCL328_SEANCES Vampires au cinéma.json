@@ -508,32 +508,9 @@
   {
     "idCategorie": 2161,
     "typeEvenement": 13,
-    "idEvenement": 19723,
-    "idSeance": 32789,
-    "dateHeure": "2020-01-11T22:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 142013,
-        "ordre": 1,
-        "idSeance": 32789,
-        "idCopie": 18941,
-        "duree": 74,
-        "version": "VFSTF",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2161,
-    "typeEvenement": 13,
     "idEvenement": 21599,
-    "idSeance": 33616,
-    "dateHeure": "2020-01-12T00:30:00",
+    "idSeance": 33894,
+    "dateHeure": "2020-01-11T22:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -542,10 +519,33 @@
       {
         "idFilm": 52155,
         "ordre": 1,
-        "idSeance": 33616,
+        "idSeance": 33894,
         "idCopie": 20178,
         "duree": 99,
         "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2161,
+    "typeEvenement": 13,
+    "idEvenement": 19723,
+    "idSeance": 33895,
+    "dateHeure": "2020-01-12T00:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 142013,
+        "ordre": 1,
+        "idSeance": 33895,
+        "idCopie": 18941,
+        "duree": 74,
+        "version": "VF",
         "format": "35 mm",
         "valide": 1
       }
@@ -659,7 +659,7 @@
         "ordre": 1,
         "idSeance": 32822,
         "idCopie": 20045,
-        "duree": 85,
+        "duree": 86,
         "version": "VF",
         "format": "35 mm",
         "valide": 1

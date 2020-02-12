@@ -25,6 +25,41 @@
     "mention": "Avant-première. Séance suivie d'une discussion avec Gabriel Martins et Maurílio Martins"
   },
   {
+    "idCategorie": 2157,
+    "typeEvenement": 13,
+    "idEvenement": 21423,
+    "idSeance": 32185,
+    "dateHeure": "2019-12-09T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "typeSeance": 43,
+    "items": [
+      {
+        "idFilm": 143592,
+        "ordre": 1,
+        "idSeance": 32185,
+        "idCopie": 20431,
+        "duree": 85,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 143593,
+        "ordre": 2,
+        "idSeance": 32185,
+        "idCopie": 20430,
+        "duree": 30,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ],
+    "mention": "Avant-première. Séance présentée par Elsa Charbit"
+  },
+  {
     "idCategorie": 2156,
     "typeEvenement": 13,
     "idEvenement": 21418,
@@ -128,6 +163,29 @@
         "version": "VF",
         "format": "DCP",
         "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2190,
+    "typeEvenement": 13,
+    "idEvenement": 21517,
+    "idSeance": 33003,
+    "dateHeure": "2020-01-20T21:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 142482,
+        "ordre": 1,
+        "idSeance": 33003,
+        "idCopie": 20389,
+        "duree": 93,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   },
@@ -255,7 +313,7 @@
         "idCopie": 20106,
         "duree": 12,
         "version": "",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 1
       },
       {
@@ -265,7 +323,7 @@
         "idCopie": 9966,
         "duree": 11,
         "version": "",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 1
       },
       {
@@ -280,7 +338,13 @@
       },
       {
         "idFilm": 143184,
-        "ordre": 5
+        "ordre": 5,
+        "idSeance": 33029,
+        "idCopie": 20587,
+        "duree": 13,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
       },
       {
         "idFilm": 116774,
@@ -323,7 +387,7 @@
         "duree": 5,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 143182,
@@ -485,7 +549,7 @@
         "duree": 7,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 143200,
@@ -505,7 +569,7 @@
         "duree": 14,
         "version": "",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -541,8 +605,5 @@
         "valide": 1
       }
     ]
-  },
-  {
-    "mention": "Séance présentée par Elsa Charbit"
   }
 ]

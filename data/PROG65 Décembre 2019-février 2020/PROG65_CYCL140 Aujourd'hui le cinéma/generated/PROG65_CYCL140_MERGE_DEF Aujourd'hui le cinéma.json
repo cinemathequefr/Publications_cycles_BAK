@@ -49,8 +49,50 @@
     {
       "titreSousCycle": "Palmarès du festival Entrevues Belfort 2019",
       "tri": 4,
-      "items": [],
-      "textes": []
+      "items": [
+        {
+          "idSeance": 32185,
+          "ordre": 1,
+          "dateHeure": "2019-12-09T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "mention": "Avant-première. Séance présentée par Elsa Charbit",
+          "idCategorie": 2157,
+          "idEvenement": 21423,
+          "typeEvenement": 13,
+          "idFilm": 143592,
+          "duree": 85,
+          "version": "VOSTF",
+          "format": "DCP",
+          "textes": []
+        },
+        {
+          "idSeance": 32185,
+          "ordre": 2,
+          "dateHeure": "2019-12-09T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "mention": "Avant-première. Séance présentée par Elsa Charbit",
+          "idCategorie": 2157,
+          "idEvenement": 21423,
+          "typeEvenement": 13,
+          "idFilm": 143593,
+          "duree": 30,
+          "version": "",
+          "format": "DCP",
+          "textes": []
+        }
+      ],
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Créé par Janine Bazin en 1986, Entrevues Belfort est un festival dédié à la jeune création contemporaine et à l'histoire du cinéma. La compétition internationale est consacrée aux premiers, deuxièmes et troisièmes films. Les deux Grands prix 2019 – long et court métrage – de la 34<sup>e</sup> édition (18-25 novembre) seront présentés en avant-première et en présence des réalisateurs (sous réserve)."
+        }
+      ]
     },
     {
       "titreSousCycle": "Suhaib Gasmelbari",
@@ -244,7 +286,7 @@
           "pays": "France",
           "duree": 11,
           "version": "",
-          "format": "35 mm",
+          "format": "DCP",
           "ageMinimal": null,
           "textes": [
             {
@@ -369,7 +411,7 @@
           "pays": "France",
           "duree": 12,
           "version": "",
-          "format": "35 mm",
+          "format": "DCP",
           "ageMinimal": null,
           "generique": [
             "Valérie Donzelli",
@@ -399,6 +441,9 @@
           "realisateurs": "Jessica Palud",
           "annee": 2016,
           "pays": "France",
+          "duree": 13,
+          "version": "",
+          "format": "DCP",
           "ageMinimal": null,
           "generique": [
             "Jeanne Rosa",
@@ -422,8 +467,31 @@
     {
       "titreSousCycle": "Prix du film singulier 2020",
       "tri": 4,
-      "items": [],
-      "textes": []
+      "items": [
+        {
+          "idSeance": 33003,
+          "ordre": 1,
+          "dateHeure": "2020-01-20T21:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2190,
+          "idEvenement": 21517,
+          "typeEvenement": 13,
+          "idFilm": 142482,
+          "duree": 93,
+          "version": "",
+          "format": "DCP",
+          "textes": []
+        }
+      ],
+      "textes": [
+        {
+          "typeTexte": 8,
+          "texte": "Projection du film lauréat du Prix du film singulier 2020. Ce prix, créé par le Syndicat français de la critique de cinéma, a pour objectif de récompenser un film en coproduction et en langue française dont les critiques tiennent à souligner le travail « singulier ». Projection en présence de l'équipe et précédé de la projection du prix du court métrage SFCC 2020."
+        }
+      ]
     },
     {
       "titreSousCycle": "Louise Narboni",

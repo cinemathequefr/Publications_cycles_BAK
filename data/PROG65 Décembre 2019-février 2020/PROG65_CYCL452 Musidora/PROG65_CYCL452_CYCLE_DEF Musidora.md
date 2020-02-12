@@ -53,17 +53,18 @@ Accompagnement musical par Günter A. Buchwald et Frank Bockius
 [48543]  
 **Severo Torelli**  
 de Louis Feuillade  
-France / 1914 / 60 min / 35 mm  
+France / 1914 / 60 min / DCP  
 D'après la pièce _Severo Torelli_ de François Coppée.  
 Avec Fernand Herrmann, Renée Carl, Jehan Le Gall, Musidora.  
 Pise, 1494. Le jeune Severo, qui a juré de poignarder le tyran de sa ville, apprend qu'il s'agit de son propre père.
 
-- je 9 jan 21h45 JE
+- je 9 jan 21h45 JE  
+- di 19 jan 17h30 JE
 
 [60335]  
 **La Tierra de los toros**  
 de Musidora  
-France / 1924 / 59 min / INT. FR. / DCP  
+France / 1924 / 59 min / INT. FR. / 35 mm  
 Avec Musidora, Antonio Canero.  
 Documentaire-fiction qui décrit la vie des élevages de taureaux de corrida en Andalousie à travers les yeux d'une journaliste-enquêtrice.  
 Restauré par le CNC.
@@ -172,7 +173,7 @@ suivi de
 [50204]  
 **Soleil et ombre**  
 de Jacques Lasseyne, Musidora  
-France / 1922 / 49 min / INT. FR. / 35 mm  
+France / 1922 / 49 min / INT. FR. / DCP  
 D'après la nouvelle _L'Espagnole_ de Maria Star.  
 Avec Musidora, Antonio Canero, Simone Cynthia.  
 Une servante d'auberge, Juana, est courtisée par Jarana, un torero qui se laisse ensuite séduire par une étrangère. Juana se confie alors à un antiquaire bossu qui l'aime désespérément.  
@@ -294,7 +295,8 @@ Avec Musidora, Marthe Vinot.
 À cause de la guerre, les jeunes femmes se consacrent à leurs familles et leurs enfants, en priant pour les maris envoyés au front.  
 Restauré par Gaumont chez Gaumont Pathé Archives à partir du scan 4K du négatif original nitrate.
 
-- je 9 jan 19h30 JE
+- je 9 jan 19h30 JE  
+- di 19 jan 19h00 JE
 
 ## Autour de Musidora
 
@@ -340,8 +342,8 @@ Portrait de Musidora, avec de nombreux documents inédits (extraits de films, ph
 **Musidora : séance avec attractions**  
 undefined  
 60 min  
-**Interruptions de séance...** Nous avons inventé une séance ponctuée de trois interruptions, sur le modèle du spectacle conçu par Musidora entre 1922 et 1924. Si aucune source directe ne subsiste (pas d'enregistrement, pas de découpage précis du spectacle, improvisé en fonction des lieux), nous savons que les interventions « en chair et en os » de Musidora et Antonio Cañero, d'après le scénario original, sont indiquées sur la copie du film par les apparitions du régisseur. **Librement inspirés...** Notre ambition est de recréer une ambiance, de retracer un amour fou géographique et de fantasmer la présence d'une Musidora fantasque, libre, cinéaste et amoureuse. Le caractère fantomatique est tout à fait assumé. Il n'est pas question d'interpréter ou d'imiter Musidora mais plutôt de la faire apparaître par divers moyens, avec toute la précision et la maladresse d'archivistes-chercheurs s'inventant saltimbanques. Cette fantasmagorie est réalisée d'après des documents intimes (lettres), archivistiques (scénario original, notes d'intention), officiels (publications, articles de presse, enregistrements radiophoniques) ou totalement inventés (cartes à jouer, ponctuations de flamenco, dentelles, éventails, mantilles et polyphon). Des mots, des sons, des projections qui font battre le cœur.  
-**« Los Musidoros »** est un collectif de 5 archivistes artistes : Marién Gomez Rodriguez, Élodie Tamayo, Clément Lafite, Frédéric Tabet, Émilie Cauquy.
+Interruptions de séance... Nous avons inventé une séance ponctuée de trois interruptions, sur le modèle du spectacle conçu par Musidora entre 1922 et 1924. Si aucune source directe ne subsiste (pas d'enregistrement, pas de découpage précis du spectacle, improvisé en fonction des lieux), nous savons que les interventions « en chair et en os » de Musidora et Antonio Cañero, d'après le scénario original, sont indiquées sur la copie du film par les apparitions du régisseur. Librement inspirés... Notre ambition est de recréer une ambiance, de retracer un amour fou géographique et de fantasmer la présence d'une Musidora fantasque, libre, cinéaste et amoureuse. Le caractère fantomatique est tout à fait assumé. Il n'est pas question d'interpréter ou d'imiter Musidora mais plutôt de la faire apparaître par divers moyens, avec toute la précision et la maladresse d'archivistes-chercheurs s'inventant saltimbanques. Cette fantasmagorie est réalisée d'après des documents intimes (lettres), archivistiques (scénario original, notes d'intention), officiels (publications, articles de presse, enregistrements radiophoniques) ou totalement inventés (cartes à jouer, ponctuations de flamenco, dentelles, éventails, mantilles et polyphon). Des mots, des sons, des projections qui font battre le cœur.  
+Los Musidoros est un collectif de 5 archivistes artistes : Marién Gomez Rodriguez, Élodie Tamayo, Clément Lafite, Frédéric Tabet, Émilie Cauquy.
 
 - sa 4 jan 15h00 GF
 

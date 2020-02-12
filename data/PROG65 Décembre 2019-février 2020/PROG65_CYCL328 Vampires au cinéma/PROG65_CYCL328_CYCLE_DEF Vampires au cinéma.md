@@ -194,7 +194,7 @@ Un médecin, qui enquête sur des meurtres dont on retrouve les victimes près d
 [55508]  
 **Lady Dracula**  
 de Franz Josef Gottlieb  
-RFA / 1975 / 85 min / VF / 35 mm  
+RFA / 1975 / 86 min / VF / 35 mm  
 Avec Evelyne Kraft, Brad Harris, Stephen Boyd.  
 Relecture parodique et contemporaine du personnage de la comtesse Báthory.
 
@@ -251,16 +251,6 @@ Au XIV<sup>e</sup> siècle, un alchimiste enferme le secret de l'éternité dans
 
 ## Nuit Vampires excentriques
 
-[142013]  
-**Dracula, vampire sexuel**  
-**(Guess What Happened to Count Dracula?)**  
-de Laurence Merrick  
-États-Unis / 1970 / 74 min / VFSTF / 35 mm  
-Avec Desmond Roberts, Claudia Barron, John Landon, Robert Branche.  
-Au XX<sup>e</sup> siècle, à Hollywood, le comte Adrian est propriétaire d'un night-club branché au décor gothique. Il jette son dévolu sur une jolie rouquine, mais elle est déjà fiancée.
-
-- sa 11 jan 22h00 HL
-
 [52155]  
 **Dracula père et fils**  
 d'Edouard Molinaro  
@@ -268,6 +258,16 @@ France / 1976 / 99 min / 35 mm
 D'après le roman _Paris-Vampire_ de Claude Klotz.  
 Avec Christopher Lee, Bernard Menez, Catherine Breillat.  
 Dracula père et fils ont dû s'exiler pour raisons politiques. Séparés lors du trajet, le père s'établit en Grande-Bretagne, où il devient une vedette du cinéma d'épouvante, alors que son fils échoue en France où il décroche un emploi de veilleur de nuit.
+
+- sa 11 jan 22h00 HL
+
+[142013]  
+**Dracula, vampire sexuel**  
+**(Guess What Happened to Count Dracula?)**  
+de Laurence Merrick  
+États-Unis / 1970 / 74 min / VF / 35 mm  
+Avec Desmond Roberts, Claudia Barron, John Landon, Robert Branche.  
+Au XX<sup>e</sup> siècle, à Hollywood, le comte Adrian est propriétaire d'un night-club branché au décor gothique. Il jette son dévolu sur une jolie rouquine, mais elle est déjà fiancée.
 
 - di 12 jan 00h30 HL
 

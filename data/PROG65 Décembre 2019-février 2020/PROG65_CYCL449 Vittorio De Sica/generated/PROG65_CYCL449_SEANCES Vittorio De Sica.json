@@ -77,8 +77,8 @@
     "idSeance": 32547,
     "dateHeure": "2020-01-31T19:30:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
@@ -195,8 +195,6 @@
       "GF",
       "Georges Franju"
     ],
-    "idSeanceAssoc": 32538,
-    "typeAssoc": 117,
     "items": [
       {}
     ]
@@ -208,11 +206,9 @@
     "idSeance": 32538,
     "dateHeure": "2020-02-06T21:30:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
-    "idSeanceAssoc": 32544,
-    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 41860,

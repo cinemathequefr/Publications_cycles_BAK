@@ -496,7 +496,7 @@
         "ordre": 1,
         "idSeance": 32200,
         "idCopie": 19543,
-        "duree": 151,
+        "duree": 111,
         "version": "VOSTF",
         "format": "DCP",
         "valide": 1
@@ -821,7 +821,7 @@
         "idCopie": 10314,
         "duree": 87,
         "version": "VOSTF",
-        "format": "DCP",
+        "format": "Numérique",
         "valide": 1
       }
     ]
@@ -1049,7 +1049,7 @@
         "ordre": 1,
         "idSeance": 32995,
         "idCopie": 19543,
-        "duree": 151,
+        "duree": 111,
         "version": "VOSTF",
         "format": "DCP",
         "valide": 1

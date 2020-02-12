@@ -196,7 +196,7 @@
         "ordre": 1,
         "idSeance": 32437,
         "idCopie": 19815,
-        "duree": 100,
+        "duree": 101,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
@@ -290,7 +290,7 @@
         "idCopie": 19864,
         "duree": 108,
         "version": "VOSTF",
-        "format": "16 mm",
+        "format": "Vidéo",
         "valide": 1
       }
     ]
@@ -344,7 +344,7 @@
   {
     "idCategorie": 2184,
     "typeEvenement": 13,
-    "idEvenement": 20584,
+    "idEvenement": 22205,
     "idSeance": 32458,
     "dateHeure": "2020-01-23T19:00:00",
     "idSalle": [
@@ -353,22 +353,12 @@
     ],
     "items": [
       {
-        "idFilm": 143204,
-        "ordre": 1,
-        "idSeance": 32458,
-        "idCopie": 20121,
-        "duree": 26,
-        "version": "VOSTF",
-        "format": "Vidéo",
-        "valide": 1
-      },
-      {
         "idFilm": 67382,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32458,
         "idCopie": 19865,
         "duree": 73,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
       }
@@ -413,7 +403,7 @@
         "ordre": 1,
         "idSeance": 32935,
         "idCopie": 19786,
-        "duree": 115,
+        "duree": 117,
         "version": "VOSTF",
         "format": "",
         "valide": 1
@@ -504,10 +494,10 @@
         "idFilm": 41093,
         "ordre": 1,
         "idSeance": 32468,
-        "idCopie": 20188,
-        "duree": 116,
+        "idCopie": 20766,
+        "duree": 117,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 1
       }
     ]
@@ -758,7 +748,7 @@
         "ordre": 1,
         "idSeance": 32506,
         "idCopie": 19786,
-        "duree": 115,
+        "duree": 117,
         "version": "VOSTF",
         "format": "",
         "valide": 1
@@ -793,7 +783,7 @@
         "idCopie": 19776,
         "duree": 23,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "Vidéo",
         "valide": 0
       },
       {
@@ -804,7 +794,7 @@
         "duree": 28,
         "version": "VOSTF",
         "format": "16 mm",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 101750,
@@ -813,8 +803,8 @@
         "idCopie": 19801,
         "duree": 14,
         "version": "VOSTF",
-        "format": "16 mm",
-        "valide": 0
+        "format": "35 mm",
+        "valide": 1
       }
     ]
   },
@@ -834,7 +824,7 @@
         "ordre": 1,
         "idSeance": 32906,
         "idCopie": 19815,
-        "duree": 100,
+        "duree": 101,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
@@ -997,7 +987,7 @@
         "idCopie": 19864,
         "duree": 108,
         "version": "VOSTF",
-        "format": "16 mm",
+        "format": "Vidéo",
         "valide": 1
       }
     ]
@@ -1153,7 +1143,7 @@
   {
     "idCategorie": 2184,
     "typeEvenement": 13,
-    "idEvenement": 20584,
+    "idEvenement": 22205,
     "idSeance": 32830,
     "dateHeure": "2020-02-07T17:00:00",
     "idSalle": [
@@ -1162,22 +1152,12 @@
     ],
     "items": [
       {
-        "idFilm": 143204,
-        "ordre": 1,
-        "idSeance": 32830,
-        "idCopie": 20121,
-        "duree": 26,
-        "version": "VOSTF",
-        "format": "Vidéo",
-        "valide": 1
-      },
-      {
         "idFilm": 67382,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 32830,
         "idCopie": 19865,
         "duree": 73,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
       }
