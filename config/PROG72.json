@@ -1,0 +1,24 @@
+{
+  "idProg": 72,
+  "titre": "Juin-juillet 2020",
+  "dateFrom": "",
+  "dateTo": "",
+  "cycles": [
+    {
+      "idCycleProg": 491,
+      "titreCycle": "Larry Cohen",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2234],
+          "tri": 1
+        },
+        {
+          "titre": "Larry Cohen scénariste",
+          "cats": [2271],
+          "tri": 1
+        }
+      ]
+    }
+  ]
+}
