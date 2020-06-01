@@ -1,0 +1,29 @@
+{
+  "idProg": 75,
+  "titre": "Septembre-novembre 2020",
+  "dateFrom": "",
+  "dateTo": "",
+  "cycles": [
+    {
+      "idCycleProg": 409,
+      "titreCycle": "Don Siegel",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [1840],
+          "tri": 1
+        },
+        {
+          "titre": "Courts métrages",
+          "cats": [2125],
+          "tri": 4
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2214],
+          "tri": 4
+        }
+      ]
+    }
+  ]
+}
