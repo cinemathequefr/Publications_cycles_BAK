@@ -8,15 +8,6 @@ D'après la roman _La 317ème section_ de Pierre Schoendoerffer.
 Avec Jacques Perrin, Bruno Cremer, Pierre Fabre.  
 En mai 1954, en Indochine, la 317ème section, cantonnée dans le Nord-Laos, reçoit l'ordre de se replier vers le sud, afin de rejoindre une colonne de renfort en route vers Diên Biên Phu.
 
-[36783]*  
-**Les Ailes**  
-**(Wings)**  
-de William A. Wellman  
-États-Unis / 1927  
-Avec Clara Bow, Charles « Buddy » Rogers, Richard Arlen.
-
-> (Site) Jack Powell et David Armstrong sont amoureux de la même femme, Sylvia Lewis. Lorsque les États-Unis entrent en guerre, ils s'engagent dans l'armée de l'air. Rivaux puis amis, leur vie bascule lors de la bataille de St.-Mihiel en 1918.
-
 [43273]*  
 **Amarcord**  
 de Federico Fellini  
@@ -74,7 +65,7 @@ D'après le roman _Belle de jour_ de Joseph Kessel.
 Avec Catherine Deneuve, Jean Sorel, Michel Piccoli, Pierre Clémenti.  
 Séverine est une femme au foyer mariée à un riche chirurgien. Un jour, elle entreprend de tuer l'ennui et explore sa vie sexuelle en se prostituant régulièrement dans un une maison de rendez-vous
 
-> (Site) Séverine, femme au foyer mariée à un riche chirurgien, entreprend un jour de tuer l'ennui et explore sa vie sexuelle en se prostituant régulièrement dans une maison de rendez-vous.
+> (Site) Séverine est une femme au foyer mariée à un riche chirurgien. Un jour, elle entreprend de tuer l'ennui et explore sa vie sexuelle en se prostituant régulièrement dans une maison de rendez-vous.
 
 [30926]*  
 **Bessie à Broadway**  
@@ -126,6 +117,14 @@ Le Japon au XVIe siècle. Deux couples de paysans sont pris dans la guerre civil
 
 > (Site) Le Japon au XVIe siècle. Deux couples de paysans sont pris dans la guerre civile et partent pour la ville. Kenjuro le potier rencontre la princesse Wakasa au marché et en tombe éperdument amoureux. Elle l'entraîne dans son manoir. Mais Kenjuro apprendra à ses dépens à ne pas se fier aux apparences.
 
+[47387]*  
+**Les Cousins**  
+de Claude Chabrol  
+France / 1958  
+Avec Gérard Blain, Jean-Claude Brialy, Juliette Mayniel.
+
+> (Site) Un étudiant sérieux et travailleur débarque de la province chez son cousin, cynique et jouisseur.
+
 [47121]*  
 **Les Dames du Bois de Boulogne**  
 de Robert Bresson  
@@ -145,6 +144,17 @@ Un sculpteur de renom rencontre au Salon où il expose une jeune fille. Ils se m
 
 > (Site) Un célèbre sculpteur, qui vient d'épouser sa jeune modèle, se montre étrangement distant avec elle. Mais elle comprend rapidement qu'il cherche à l'éloigner pour lui dissimuler qu'il est en train de perdre la vue.
 
+[40600]*  
+**Faubourg**  
+**(Okraïna)**  
+de Boris Barnet  
+URSS / 1933  
+D'après la nouvelle _Okraïna_ de Konstantin Finn.  
+Avec Elena Kouzmina, Sergeï Komarov, Aleksandr Chistyakov.  
+L' Allemagne a déclaré la guerre à la Russie. Un vent patriotique souffle sur le faubourg d'une petite ville frontalière de l'empire tsariste. Les hommes partent au front et découvrent l'horreur des tranchées.
+
+> (Site) L' Allemagne a déclaré la guerre à la Russie. Un vent patriotique souffle sur le faubourg d'une petite ville frontalière de l'empire tsariste. Les hommes partent au front et découvrent l'horreur des tranchées.
+
 [33719]*  
 **La Folle ingénue**  
 **(Cluny Brown)**  
@@ -155,14 +165,6 @@ Avec Jennifer Jones, Charles Boyer, Peter Lawford.
 La jeune et pétulante Cluny Brown remplace son oncle plombier pour une intervention chez Hilary Ames. Elle y fait la connaissance d'un séduisant réfugié tchèque, pique-assiette et philosophe.
 
 > (Site) Une jeune fille passionnée de plomberie et un réfugié tchèque dérangent la sérénité d'un manoir anglais.
-
-[59810]*  
-**Le Garçu**  
-de Maurice Pialat  
-France / 1994  
-Avec Gérard Depardieu, Géraldine Pailhas, Antoine Pialat.
-
-> (Site) Un homme infidèle tente de quitter sa femme mais n'y parvient pas car ils partagent un fils de quatre ans, qu'il aime tant voir grandir.
 
 [36814]  
 **La Grande évasion**  
@@ -336,13 +338,15 @@ Avec Catherine Mouchet, Aurore Prieto, Sylvie Habault.
 
 > (Site) Évocation de la vie de Thérèse de Lisieux, carmélite qui mourut de la tuberculose en 1897.
 
-[46660]*  
-**Le Trou**  
+[46628]*  
+**Touchez pas au grisbi**  
 de Jacques Becker  
-France-Italie / 1959  
-Avec Jean Kéraudy, Marc Michel, Raymond Meunier.
+France-Italie / 1953  
+D'après le roman _Touchez pas au grisbi_ d'Albert Simonin.  
+Avec Jean Gabin, René Dary, Jeanne Moreau.  
+Max et Riton, deux truands amis de longue date, organisent un hold-up qui réussit parfaitement. Mais Riton commet l'imprudence d'en parler à sa jeune maîtresse.
 
-> (Site) Un jeune homme est incarcéré à la prison de la Santé. Il est adopté par ses quatre compagnons de cellule qui l'informent de leur projet d'évasion.
+> (Site) Max et Riton, deux truands amis de longue date, organisent un hold-up qui réussit parfaitement. Mais Riton commet l'imprudence d'en parler à sa jeune maîtresse.
 
 [50874]*  
 **Une partie de campagne**  
@@ -352,7 +356,7 @@ D'après la nouvelle _Une partie de campagne_ de Guy de Maupassant.
 Avec Sylvia Bataille, Jane Marken, André Gabriello, Georges Darnoux.  
 Été 1860, Monsieur Dufour, accompagné de sa famille, décide de passer une journée à la campagne.
 
-> (Site) Été 1860. Monsieur Dufour, un commerçant parisien, décide de passer une journée à la campagne accompagné de sa famille.
+> (Site) Été 1860. Monsieur Dufour, accompagné de sa famille, décide de passer une journée à la campagne.
 
 [51386]*  
 **Les Vacances de Monsieur Hulot**  

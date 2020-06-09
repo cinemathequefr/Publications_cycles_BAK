@@ -22,6 +22,21 @@
     "adaptation": "D'après la roman _La 317ème section_ de Pierre Schoendoerffer."
   },
   {
+    "titre": "Ailes",
+    "art": "Les",
+    "titreVo": "Wings",
+    "idFilm": 36783,
+    "ageMinimal": null,
+    "realisateurs": "William A. Wellman",
+    "annee": 1927,
+    "pays": "États-Unis",
+    "generique": [
+      "Clara Bow",
+      "Charles \" Buddy \" Rogers",
+      "Richard Arlen"
+    ]
+  },
+  {
     "titre": "Amarcord",
     "titreVo": "",
     "idFilm": 43273,
@@ -258,21 +273,6 @@
     "adaptation": "D'après les deux contes _La Lubricité du serpent_ et \"La Maison dans les roseaux d'Akinari Ueda."
   },
   {
-    "titre": "Cousins",
-    "art": "Les",
-    "titreVo": "",
-    "idFilm": 47387,
-    "ageMinimal": null,
-    "realisateurs": "Claude Chabrol",
-    "annee": 1958,
-    "pays": "France",
-    "generique": [
-      "Gérard Blain",
-      "Jean-Claude Brialy",
-      "Juliette Mayniel"
-    ]
-  },
-  {
     "titre": "Dames du Bois de Boulogne",
     "art": "Les",
     "titreVo": "",
@@ -317,27 +317,6 @@
     ]
   },
   {
-    "titre": "Faubourg",
-    "titreVo": "Okraïna",
-    "idFilm": 40600,
-    "ageMinimal": null,
-    "realisateurs": "Boris Barnet",
-    "annee": 1933,
-    "pays": "URSS",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "L' Allemagne a déclaré la guerre à la Russie. Un vent patriotique souffle sur le faubourg d'une petite ville frontalière de l'empire tsariste. Les hommes partent au front et découvrent l'horreur des tranchées."
-      }
-    ],
-    "generique": [
-      "Elena Kouzmina",
-      "Sergeï Komarov",
-      "Aleksandr Chistyakov"
-    ],
-    "adaptation": "D'après la nouvelle _Okraïna_ de Konstantin Finn."
-  },
-  {
     "titre": "Folle ingénue",
     "art": "La",
     "titreVo": "Cluny Brown",
@@ -358,6 +337,21 @@
       "Peter Lawford"
     ],
     "adaptation": "D'après le roman _Cluny Brown_ de Margery Sharp."
+  },
+  {
+    "titre": "Garçu",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 59810,
+    "ageMinimal": null,
+    "realisateurs": "Maurice Pialat",
+    "annee": 1994,
+    "pays": "France",
+    "generique": [
+      "Gérard Depardieu",
+      "Géraldine Pailhas",
+      "Antoine Pialat"
+    ]
   },
   {
     "titre": "Grande évasion",
@@ -727,25 +721,19 @@
     ]
   },
   {
-    "titre": "Touchez pas au grisbi",
+    "titre": "Trou",
+    "art": "Le",
     "titreVo": "",
-    "idFilm": 46628,
+    "idFilm": 46660,
     "ageMinimal": 0,
     "realisateurs": "Jacques Becker",
-    "annee": 1953,
+    "annee": 1959,
     "pays": "France-Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Max et Riton, deux truands amis de longue date, organisent un hold-up qui réussit parfaitement. Mais Riton commet l'imprudence d'en parler à sa jeune maîtresse."
-      }
-    ],
     "generique": [
-      "Jean Gabin",
-      "René Dary",
-      "Jeanne Moreau"
-    ],
-    "adaptation": "D'après le roman _Touchez pas au grisbi_ d'Albert Simonin."
+      "Jean Kéraudy",
+      "Marc Michel",
+      "Raymond Meunier"
+    ]
   },
   {
     "titre": "Une partie de campagne",
