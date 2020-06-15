@@ -1,0 +1,50 @@
+[
+  {
+    "idCategorie": 2052,
+    "typeEvenement": 13,
+    "idEvenement": 22162,
+    "idSeance": 35565,
+    "dateHeure": "2020-10-28T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeSeance": 44,
+    "items": [
+      {
+        "idFilm": 142781,
+        "ordre": 1,
+        "idSeance": 35565,
+        "idCopie": 19627,
+        "duree": 102,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCategorie": 2052,
+    "typeEvenement": 13,
+    "idEvenement": 20895,
+    "idSeance": 35588,
+    "dateHeure": "2020-11-05T21:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 91079,
+        "ordre": 1,
+        "idSeance": 35588,
+        "idCopie": 19734,
+        "duree": 70,
+        "version": "VOSTF",
+        "format": "16 mm",
+        "valide": 1
+      }
+    ]
+  }
+]

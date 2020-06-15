@@ -1,0 +1,73 @@
+[
+  {
+    "idCategorie": 2283,
+    "typeEvenement": 13,
+    "idEvenement": 22480,
+    "idSeance": 35564,
+    "dateHeure": "2020-10-14T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeSeance": 44,
+    "items": [
+      {
+        "idFilm": 94161,
+        "ordre": 1,
+        "idSeance": 35564,
+        "idCopie": 4866,
+        "duree": 100,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCategorie": 2283,
+    "typeEvenement": 13,
+    "idEvenement": 22447,
+    "idSeance": 35584,
+    "dateHeure": "2020-10-17T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 47186,
+        "ordre": 1,
+        "idSeance": 35584,
+        "idCopie": 13821,
+        "duree": 104,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2283,
+    "typeEvenement": 13,
+    "idEvenement": 22493,
+    "idSeance": 35586,
+    "dateHeure": "2020-10-24T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 48067,
+        "ordre": 1,
+        "idSeance": 35586,
+        "idCopie": 10252,
+        "duree": 119,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  }
+]

@@ -1,0 +1,160 @@
+[
+  {
+    "idCategorie": 2282,
+    "typeEvenement": 13,
+    "idEvenement": 22455,
+    "idSeance": 35753,
+    "dateHeure": "2020-09-30T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeSeance": 44,
+    "items": [
+      {
+        "idFilm": 47197,
+        "ordre": 1,
+        "idSeance": 35753,
+        "idCopie": 1031,
+        "duree": 17,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 47140,
+        "ordre": 2,
+        "idSeance": 35753,
+        "idCopie": 18864,
+        "duree": 63,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 43672,
+        "ordre": 3,
+        "idSeance": 35753,
+        "idCopie": 4934,
+        "duree": 27,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 0
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCategorie": 2282,
+    "typeEvenement": 13,
+    "idEvenement": 22455,
+    "idSeance": 35754,
+    "dateHeure": "2020-09-30T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeSeance": 44,
+    "items": [
+      {
+        "idFilm": 47197,
+        "ordre": 1,
+        "idSeance": 35754,
+        "idCopie": 1031,
+        "duree": 17,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 47140,
+        "ordre": 2,
+        "idSeance": 35754,
+        "idCopie": 18864,
+        "duree": 63,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 43672,
+        "ordre": 3,
+        "idSeance": 35754,
+        "idCopie": 4934,
+        "duree": 27,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 0
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCategorie": 2282,
+    "typeEvenement": 13,
+    "idEvenement": 22455,
+    "idSeance": 35755,
+    "dateHeure": "2020-09-30T20:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeSeance": 44,
+    "items": [
+      {
+        "idFilm": 47197,
+        "ordre": 1,
+        "idSeance": 35755,
+        "idCopie": 1031,
+        "duree": 17,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 47140,
+        "ordre": 2,
+        "idSeance": 35755,
+        "idCopie": 18864,
+        "duree": 63,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      },
+      {
+        "idFilm": 43672,
+        "ordre": 3,
+        "idSeance": 35755,
+        "idCopie": 4934,
+        "duree": 27,
+        "version": "VOSTF",
+        "format": "Vidéo",
+        "valide": 0
+      }
+    ],
+    "mention": "Ouverture de la rétrospective"
+  },
+  {
+    "idCategorie": 2282,
+    "typeEvenement": 13,
+    "idEvenement": 22447,
+    "idSeance": 35584,
+    "dateHeure": "2020-10-17T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 47186,
+        "ordre": 1,
+        "idSeance": 35584,
+        "idCopie": 13821,
+        "duree": 104,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  }
+]
