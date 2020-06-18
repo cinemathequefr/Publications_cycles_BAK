@@ -38,11 +38,11 @@
     },
     {
       "idCycleProg": 152,
-      "titreCycle": "Parlons cinéma avec Bertrand Belin",
+      "titreCycle": "Parlons cinéma avec Nicolas Pariser",
       "sousCycles": [
         {
           "titre": "Les films",
-          "cats": [2238],
+          "cats": [2312],
           "tri": 4
         }
       ]
@@ -156,6 +156,11 @@
           "titre": "Les films",
           "cats": [2306],
           "tri": 1
+        },
+        {
+          "titre": "Cinéma bis",
+          "cats": [2315],
+          "tri": 4
         }
       ]
     },
