@@ -42,7 +42,7 @@
         {
           "idSeance": 35481,
           "ordre": 1,
-          "dateHeure": "2020-08-22T17:00:00",
+          "dateHeure": "2020-08-22T16:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -77,9 +77,9 @@
           ]
         },
         {
-          "idSeance": 35458,
+          "idSeance": 35710,
           "ordre": 1,
-          "dateHeure": "2020-08-19T16:00:00",
+          "dateHeure": "2020-07-17T16:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -365,7 +365,7 @@
         {
           "idSeance": 35468,
           "ordre": 1,
-          "dateHeure": "2020-08-20T17:00:00",
+          "dateHeure": "2020-08-20T16:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -557,9 +557,19 @@
           "pays": "France-Italie",
           "duree": 105,
           "version": "",
-          "format": "DCP",
+          "format": "35 mm",
           "ageMinimal": null,
-          "textes": []
+          "generique": [
+            "Jean Marais",
+            "Louis de Funès",
+            "Mylène Demongeot"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Fantômas revient avec une nouvelle idée : imposer aux riches (nobles comme gangsters) un impôt sur le droit de vivre. Débarqués en Ecosse, le commissaire Juve, Fandor et sa fiancée ont pour mission d'attraper le célèbre bandit."
+            }
+          ]
         },
         {
           "idSeance": 35501,
@@ -587,12 +597,17 @@
             "Louis de Funès",
             "Mylène Demongeot"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Aussi, lorsque le professeur Marchand disparaît mystérieusement, Fantômas est immédiatement soupçonné. Mais Juve et ses acolytes sont pris à leur propre piège. Juve ne parvient pas à mettre la main sur l'homme masqué, qui s'enfuit dans sa DS volante, traçant un « F » dans un ciel bleu azur."
+            }
+          ]
         },
         {
-          "idSeance": 35259,
+          "idSeance": 35711,
           "ordre": 1,
-          "dateHeure": "2020-07-17T16:00:00",
+          "dateHeure": "2020-08-19T16:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -665,7 +680,7 @@
         {
           "idSeance": 35517,
           "ordre": 1,
-          "dateHeure": "2020-08-28T17:00:00",
+          "dateHeure": "2020-08-28T16:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -684,12 +699,23 @@
           "version": "",
           "format": "",
           "ageMinimal": null,
-          "textes": []
+          "generique": [
+            "Louis de Funès",
+            "Michel Galabru",
+            "Claude Gensac",
+            "Geneviève Grad"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Suite à un accident, Cruchot rencontre Josépha, la veuve d'un colonel de gendarmerie"
+            }
+          ]
         },
         {
-          "idSeance": 35568,
+          "idSeance": 35707,
           "ordre": 1,
-          "dateHeure": "2020-07-29T16:00:00",
+          "dateHeure": "2020-08-30T16:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -708,7 +734,18 @@
           "version": "",
           "format": "35 mm",
           "ageMinimal": null,
-          "textes": []
+          "generique": [
+            "Louis de Funès",
+            "Michel Galabru",
+            "Christian Marin",
+            "Jean Lefebvre"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les célèbres gendarmes de Saint-Tropez partent pour représenter la France au Congrès International de Gendarmerie à New-York."
+            }
+          ]
         },
         {
           "idSeance": 35403,
@@ -960,7 +997,7 @@
         {
           "idSeance": 35489,
           "ordre": 1,
-          "dateHeure": "2020-08-23T17:00:00",
+          "dateHeure": "2020-08-23T16:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1068,9 +1105,9 @@
           ]
         },
         {
-          "idSeance": 35532,
+          "idSeance": 35706,
           "ordre": 1,
-          "dateHeure": "2020-08-30T16:00:00",
+          "dateHeure": "2020-07-29T16:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"

@@ -20,7 +20,7 @@ Avec Louis de Funès, Coluche.
 Charles Duchemin, le directeur d'un guide gastronomique très réputé, vient d'être élu à l'Académie Française et a pour adversaire Tricatel, le roi de la restauration industrielle. Il espère que son fils Gérard lui succède un jour, mais ce dernier ne rêve que d'être clown.  
 Film accessible aux enfants
 
-- sa 22 aoû 17h00 HL
+- sa 22 aoû 16h00 HL
 
 [48655]  
 **L'Avare**  
@@ -31,7 +31,7 @@ Avec Louis de Funès, Franck David, Claire Dupray, Michel Galabru.
 Bourgeois avare, Harpagon a un fils, Cléante, et une fille, Elise. Cette dernière est amoureuse de Valère, qui ne trouve d'autre solution pour se rapprocher de sa bien aimée que de se faire embaucher chez son père comme intendant. Cléante, lui, aime Marianne, une jeune femme sans aucune fortune que Harpagon veut aussi épouser.  
 Film accessible aux enfants
 
-- me 19 aoû 16h00 HL
+- ve 17 juil 16h00 HL
 
 [52049]  
 **La Belle américaine**  
@@ -111,7 +111,7 @@ Avec Michel Serrault, Maurice Biraud, Louis de Funès.
 Plusieurs personnes recherchent désespérément un ticket de courses. Mais ce dernier est dans la poche d'un cadavre, lui même caché dans un étui de contrebasse. Louis de Funès y est « Jockey Jack ». Pour ce dernier rôle où il n'est pas au centre de l'attention, il livre une scène d'anthologie sur un lit d'hôpital.  
 Film accessible aux enfants
 
-- je 20 aoû 17h00 HL
+- je 20 aoû 16h00 HL
 
 [48323]  
 **Le Diable et les dix commandements**  
@@ -153,7 +153,9 @@ Le mystérieux Fantômas terrorise la France entière. Le commissaire Juve, aid�
 [53934]  
 **Fantômas contre Scotland Yard**  
 d'André Hunebelle  
-France-Italie / 1966 / 105 min / DCP
+France-Italie / 1966 / 105 min / 35 mm  
+Avec Jean Marais, Louis de Funès, Mylène Demongeot.  
+Fantômas revient avec une nouvelle idée : imposer aux riches (nobles comme gangsters) un impôt sur le droit de vivre. Débarqués en Ecosse, le commissaire Juve, Fandor et sa fiancée ont pour mission d'attraper le célèbre bandit.
 
 - je 27 aoû 16h00 HL
 
@@ -161,7 +163,8 @@ France-Italie / 1966 / 105 min / DCP
 **Fantômas se déchaîne**  
 d'André Hunebelle  
 France-Italie / 1965 / 94 min / DCP  
-Avec Jean Marais, Louis de Funès, Mylène Demongeot.
+Avec Jean Marais, Louis de Funès, Mylène Demongeot.  
+Aussi, lorsque le professeur Marchand disparaît mystérieusement, Fantômas est immédiatement soupçonné. Mais Juve et ses acolytes sont pris à leur propre piège. Juve ne parvient pas à mettre la main sur l'homme masqué, qui s'enfuit dans sa DS volante, traçant un « F » dans un ciel bleu azur.
 
 - me 26 aoû 16h00 HL
 
@@ -173,14 +176,16 @@ D'après le roman _Frou-Frou_ de Cécil Saint-Laurent.
 Avec Dany Robin, Gino Cervi, Louis de Funès.  
 Paris de 1912 à 1954. Quelques messieurs d'un certain âge prennent sous leur protection une jolie bouquetière de seize ans: Antoinette Dubois dite « Frou-Frou ». Elle devient bientôt une chanteuse en vogue.
 
-- ve 17 juil 16h00 HL
+- me 19 aoû 16h00 HL
 
 [48777]  
 **Le Gendarme à New York**  
 de Jean Girault  
-France-Italie / 1965 / 100 min / 35 mm
+France-Italie / 1965 / 100 min / 35 mm  
+Avec Louis de Funès, Michel Galabru, Christian Marin, Jean Lefebvre.  
+Les célèbres gendarmes de Saint-Tropez partent pour représenter la France au Congrès International de Gendarmerie à New-York.
 
-- me 29 juil 16h00 HL
+- di 30 aoû 16h00 HL
 
 [48792]  
 **Le Gendarme de Saint-Tropez**  
@@ -195,9 +200,11 @@ Film accessible aux enfants
 [52319]  
 **Le Gendarme se marie**  
 de Jean Girault  
-France-Italie / 1968 / 90 min
+France-Italie / 1968 / 90 min  
+Avec Louis de Funès, Michel Galabru, Claude Gensac, Geneviève Grad.  
+Suite à un accident, Cruchot rencontre Josépha, la veuve d'un colonel de gendarmerie
 
-- ve 28 aoû 17h00 HL
+- ve 28 aoû 16h00 HL
 
 [51911]  
 **Le Grand restaurant**  
@@ -275,7 +282,7 @@ Avec Robert Dhéry, Louis de Funès, Colette Brosset.
 [JP] André Castagnier employé naval donne du fil à retordre à son patron. Il est l'inventeur d'incroyables bateaux L'increvable dont la coque se perce au moment de son inauguration, mais aussi du Petit Baigneur qui contre toute attente gagne une course et promet de devenir une affaire très rentable.  
 André Castagnier invente des prototypes de bateaux pour l'irascible Fourchaume, l'impétueux patron d'un chantier naval du Sud-Ouest. Tandis qu'André gagne la course de San Remo sur un modèle appelé le « Petit Baigneur », le lancement d'un autre modèle, « L'Increvable », tourne au fiasco dans le bassin du chantier naval.
 
-- di 23 aoû 17h00 HL
+- di 23 aoû 16h00 HL
 
 [48639]  
 **Pouic-Pouic**  
@@ -304,7 +311,7 @@ France-Italie / 1968 / 90 min / Numérique
 Avec Jean Gabin, Louis de Funès, Dominique Davray.  
 Félicien Mezeray, brocanteur d'art, découvre un jour un authentique Modigliani. Il pense alors que sa fortune est faite. Mais l'œuvre a été tatouée sur le dos d'un ex-légionnaire bougon et colérique, qui n'a que faire des manigances de Mezeray, prêt à tout pour arriver à ses fins.
 
-- di 30 aoû 16h00 HL
+- me 29 juil 16h00 HL
 
 [46280]  
 **La Traversée de Paris**  

@@ -30,6 +30,12 @@
     "realisateurs": "William A. Wellman",
     "annee": 1927,
     "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Jack Powell et David Armstrong sont amoureux de la même femme, Sylvia Lewis. Lorsque les États-Unis entrent en guerre, ils s'engagent dans l'armée de l'air. Rivaux puis amis, leur vie bascule lors de la bataille de St.-Mihiel en 1918."
+      }
+    ],
     "generique": [
       "Clara Bow",
       "Charles \" Buddy \" Rogers",
@@ -231,26 +237,6 @@
     "adaptation": "D'après la pièce de théâtre _Mac Beth_ de William Shakespeare."
   },
   {
-    "titre": "Chronique d'Anna Magdalena Bach",
-    "titreVo": "Chronik der Anna Magdalena Bach",
-    "idFilm": 39557,
-    "ageMinimal": null,
-    "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-    "annee": 1967,
-    "pays": "RFA",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Les trente dernières années de la vie de Jean-Sébastien Bach racontées par sa deuxième femme."
-      }
-    ],
-    "generique": [
-      "Gustav Leonhardt",
-      "Christiane Lang",
-      "Andreas Pangritz"
-    ]
-  },
-  {
     "titre": "Contes de la lune vague après la pluie",
     "art": "Les",
     "titreVo": "Ugetsu monogatari",
@@ -347,6 +333,12 @@
     "realisateurs": "Maurice Pialat",
     "annee": 1994,
     "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un homme infidèle tente de quitter sa femme, mais n'y parvient pas car ils partagent un fils de 4 ans, qu'il aime tant voir grandir. **Copie neuve Cinémathèque française**"
+      }
+    ],
     "generique": [
       "Gérard Depardieu",
       "Géraldine Pailhas",
@@ -369,21 +361,6 @@
       }
     ],
     "adaptation": "D'après le roman _High Sierra_ de W.R. Burnett."
-  },
-  {
-    "titre": "India",
-    "titreVo": "India, matri bhumi",
-    "idFilm": 43679,
-    "ageMinimal": null,
-    "realisateurs": "Roberto Rossellini",
-    "annee": 1957,
-    "pays": "Italie",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Roberto Rossellini nous embarque pour un voyage à travers l'Inde contemporaine, entre documentaire et fiction."
-      }
-    ]
   },
   {
     "titre": "Lola Montès",
@@ -446,6 +423,22 @@
       "Ellen Widmann",
       "Inge Landgut"
     ]
+  },
+  {
+    "titre": "Non réconciliés = Seule la violence aide où la violence règne",
+    "titreVo": "Nicht versöhnt = Es hilft nur Gewalt wo Gewalt herrscht",
+    "idFilm": 39536,
+    "ageMinimal": null,
+    "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+    "annee": 1964,
+    "pays": "RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "D'après _Les Deux sacrements_, publié par Heinrich Böll en 1961, le film met en scène des personnages non réconciliés avec leur passé qui reviennent sur cinquante ans d'histoire allemande, des années 1910 au miracle économique de l'après-guerre."
+      }
+    ],
+    "adaptation": "D'après le roman _Billard um Halbzehn_ de Heinrich Böll."
   },
   {
     "titre": "On purge bébé",
@@ -701,26 +694,6 @@
     "adaptation": "D'après le roman _Manque de pot_ de Whit Masterson."
   },
   {
-    "titre": "Thérèse",
-    "titreVo": "",
-    "idFilm": 47396,
-    "ageMinimal": null,
-    "realisateurs": "Alain Cavalier",
-    "annee": 1985,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Évocation de la vie de Thérèse de Lisieux, carmélite qui mourut de la tuberculose en 1897."
-      }
-    ],
-    "generique": [
-      "Catherine Mouchet",
-      "Aurore Prieto",
-      "Sylvie Habault"
-    ]
-  },
-  {
     "titre": "Trou",
     "art": "Le",
     "titreVo": "",
@@ -729,6 +702,12 @@
     "realisateurs": "Jacques Becker",
     "annee": 1959,
     "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un jeune homme est incarcéré à la prison de la Santé. Il est adopté par ses quatre compagnons de cellule qui l'informent de leur projet d'évasion."
+      }
+    ],
     "generique": [
       "Jean Kéraudy",
       "Marc Michel",

@@ -345,7 +345,18 @@
     "ageMinimal": null,
     "realisateurs": "André Hunebelle",
     "annee": 1966,
-    "pays": "France-Italie"
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Fantômas revient avec une nouvelle idée : imposer aux riches (nobles comme gangsters) un impôt sur le droit de vivre. Débarqués en Ecosse, le commissaire Juve, Fandor et sa fiancée ont pour mission d'attraper le célèbre bandit."
+      }
+    ],
+    "generique": [
+      "Jean Marais",
+      "Louis de Funès",
+      "Mylène Demongeot"
+    ]
   },
   {
     "titre": "Fantômas se déchaîne",
@@ -355,6 +366,12 @@
     "realisateurs": "André Hunebelle",
     "annee": 1965,
     "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Aussi, lorsque le professeur Marchand disparaît mystérieusement, Fantômas est immédiatement soupçonné. Mais Juve et ses acolytes sont pris à leur propre piège. Juve ne parvient pas à mettre la main sur l'homme masqué, qui s'enfuit dans sa DS volante, traçant un « F » dans un ciel bleu azur."
+      }
+    ],
     "generique": [
       "Jean Marais",
       "Louis de Funès",
@@ -390,7 +407,19 @@
     "ageMinimal": null,
     "realisateurs": "Jean Girault",
     "annee": 1965,
-    "pays": "France-Italie"
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Les célèbres gendarmes de Saint-Tropez partent pour représenter la France au Congrès International de Gendarmerie à New-York."
+      }
+    ],
+    "generique": [
+      "Louis de Funès",
+      "Michel Galabru",
+      "Christian Marin",
+      "Jean Lefebvre"
+    ]
   },
   {
     "titre": "Gendarme de Saint-Tropez",
@@ -419,27 +448,6 @@
     ]
   },
   {
-    "titre": "Gendarme et les extra-terrestres",
-    "art": "Le",
-    "titreVo": "",
-    "idFilm": 48793,
-    "ageMinimal": null,
-    "realisateurs": "Jean Girault",
-    "annee": 1978,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Les célèbres gendarmes de St Tropez se retrouvent confrontés à des extraterrestres."
-      }
-    ],
-    "generique": [
-      "Louis de Funès",
-      "Michel Galabru",
-      "Maurice Risch"
-    ]
-  },
-  {
     "titre": "Gendarme se marie",
     "art": "Le",
     "titreVo": "",
@@ -447,7 +455,19 @@
     "ageMinimal": null,
     "realisateurs": "Jean Girault",
     "annee": 1968,
-    "pays": "France-Italie"
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Suite à un accident, Cruchot rencontre Josépha, la veuve d'un colonel de gendarmerie"
+      }
+    ],
+    "generique": [
+      "Louis de Funès",
+      "Michel Galabru",
+      "Claude Gensac",
+      "Geneviève Grad"
+    ]
   },
   {
     "titre": "Grand restaurant",
@@ -723,27 +743,6 @@
       "André Gabriello",
       "Annette Poivre",
       "Louis de Funès"
-    ]
-  },
-  {
-    "titre": "Soupe aux choux",
-    "art": "La",
-    "titreVo": "",
-    "idFilm": 54589,
-    "ageMinimal": null,
-    "realisateurs": "Jean Girault",
-    "annee": 1981,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Deux vieux paysans alcooliques, Le Glaude et Le Bombé, vivent retirés de la vie moderne. Une nuit, un extra-terrestre atterrit en soucoupe volante dans le jardin d'un des deux, qui lui offre, en en gage de bienvenue, un peu de sa fameuse soupe aux choux..."
-      }
-    ],
-    "generique": [
-      "Louis de Funès",
-      "Jean Carmet",
-      "Jacques Villeret"
     ]
   },
   {

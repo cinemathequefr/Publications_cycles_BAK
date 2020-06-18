@@ -16,6 +16,7 @@
 <pstyle:TECHNIQUE>de William A. Wellman
 <pstyle:TECHNIQUE>États-Unis/1927/151<0x2019>/INT. FR./35mm
 <pstyle:TECHNIQUE>Avec Clara Bow, Charles " Buddy " Rogers, Richard Arlen.
+<pstyle:SYNOPSIS>Jack Powell et David Armstrong sont amoureux de la même femme, Sylvia Lewis. Lorsque les États-Unis entrent en guerre, ils s<0x2019>engagent dans l<0x2019>armée de l<0x2019>air. Rivaux puis amis, leur vie bascule lors de la bataille de St.-Mihiel en 1918.
 <pstyle:><cstyle:INFOSBLEUES>ve 24 juilXXX19h30XXX
 <cstyle:SALLESBLEUES>A
 
@@ -100,15 +101,6 @@
 <pstyle:><cstyle:INFOSBLEUES>sa 25 juilXXX19h30XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>Chronique d<0x2019>Anna Magdalena Bach
-<pstyle:TITRE_ANG>(Chronik der Anna Magdalena Bach)
-<pstyle:TECHNIQUE>de Jean-Marie Straub, Danièle Huillet
-<pstyle:TECHNIQUE>RFA/1967/93<0x2019>/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Gustav Leonhardt, Christiane Lang, Andreas Pangritz.
-<pstyle:SYNOPSIS>Les trente dernières années de la vie de Jean-Sébastien Bach racontées par sa deuxième femme.
-<pstyle:><cstyle:INFOSBLEUES>je 20 aoûXXX19h30XXX
-<cstyle:SALLESBLEUES>A
-
 <pstyle:TITRE>Les Contes de la lune vague après la pluie
 <pstyle:TITRE_ANG>(Ugetsu monogatari)
 <pstyle:TECHNIQUE>de Kenji Mizoguchi
@@ -150,6 +142,7 @@
 <pstyle:TECHNIQUE>de Maurice Pialat
 <pstyle:TECHNIQUE>France/1994/100<0x2019>/35mm
 <pstyle:TECHNIQUE>Avec Gérard Depardieu, Géraldine Pailhas, Antoine Pialat.
+<pstyle:SYNOPSIS>Un homme infidèle tente de quitter sa femme, mais n<0x2019>y parvient pas car ils partagent un fils de 4 ans, qu<0x2019>il aime tant voir grandir. **Copie neuve Cinémathèque française**
 <pstyle:><cstyle:INFOSBLEUES>ve 28 aoûXXX19h30XXX
 <cstyle:SALLESBLEUES>A
 
@@ -160,14 +153,6 @@
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>High Sierra<cSkew:> de W.R. Burnett.
 <pstyle:SYNOPSIS>Avec l<0x2019>idée d<0x2019>organiser un casse ambitieux, Big Mac fait sortir Roy Earle de prison. Celui-ci, devenu son débiteur, accepte de participer à ce hold-up qui doit les rendre riches. Sur sa route, Roy fait la connaissance de la belle Velma.
 <pstyle:><cstyle:INFOSBLEUES>ve 31 juilXXX19h30XXX
-<cstyle:SALLESBLEUES>A
-
-<pstyle:TITRE>India
-<pstyle:TITRE_ANG>(India, matri bhumi)
-<pstyle:TECHNIQUE>de Roberto Rossellini
-<pstyle:TECHNIQUE>Italie/1957/95<0x2019>/VF/35mm
-<pstyle:SYNOPSIS>Roberto Rossellini nous embarque pour un voyage à travers l<0x2019>Inde contemporaine, entre documentaire et fiction.
-<pstyle:><cstyle:INFOSBLEUES>di 09 aoûXXX19h30XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Lola Montès
@@ -194,6 +179,15 @@
 <pstyle:TECHNIQUE>Avec Peter Lorre, Ellen Widmann, Inge Landgut.
 <pstyle:SYNOPSIS>Un assassin s<0x2019>en prend aux petites filles. La pègre entreprend elle-même de le traquer.
 <pstyle:><cstyle:INFOSBLEUES>sa 01 aoûXXX19h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Non réconciliés = Seule la violence aide où la violence règne
+<pstyle:TITRE_ANG>(Nicht versöhnt = Es hilft nur Gewalt wo Gewalt herrscht)
+<pstyle:TECHNIQUE>de Jean-Marie Straub, Danièle Huillet
+<pstyle:TECHNIQUE>RFA/1964/52<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Billard um Halbzehn<cSkew:> de Heinrich Böll.
+<pstyle:SYNOPSIS>D<0x2019>après <ct:Italic>Les Deux sacrements<ct:>, publié par Heinrich Böll en 1961, le film met en scène des personnages non réconciliés avec leur passé qui reviennent sur cinquante ans d<0x2019>histoire allemande, des années 1910 au miracle économique de l<0x2019>après-guerre.
+<pstyle:><cstyle:INFOSBLEUES>je 20 aoûXXX19h30XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>On purge bébé
@@ -285,6 +279,15 @@
 <pstyle:><cstyle:INFOSBLEUES>ve 17 juilXXX19h30XXX
 <cstyle:SALLESBLEUES>A
 
+<pstyle:TITRE>Le Salaire de la peur
+<pstyle:TECHNIQUE>de Henri-Georges Clouzot
+<pstyle:TECHNIQUE>France-Italie/1951/152<0x2019>/STF/35mm
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Le Salaire de la peur<cSkew:> de Georges Arnaud.
+<pstyle:TECHNIQUE>Avec Yves Montand, Charles Vanel, Folco Lulli.
+<pstyle:SYNOPSIS>En Amérique Centrale, une compagnie pétrolière propose une grosse somme d<0x2019>argent à qui acceptera de conduire deux camions chargés de nitroglycérine sur 500 kilomètres de pistes afin d<0x2019>éteindre un incendie dans un puits de pétrole. Quatre aventuriers entament ce voyage.
+<pstyle:><cstyle:INFOSBLEUES>di 09 aoûXXX19h30XXX
+<cstyle:SALLESBLEUES>A
+
 <pstyle:TITRE>La Soif du mal
 <pstyle:TITRE_ANG>(Touch of Evil)
 <pstyle:TECHNIQUE>d<0x2019>Orson Welles
@@ -299,6 +302,7 @@
 <pstyle:TECHNIQUE>de Jacques Becker
 <pstyle:TECHNIQUE>France-Italie/1959/35mm
 <pstyle:TECHNIQUE>Avec Jean Kéraudy, Marc Michel, Raymond Meunier.
+<pstyle:SYNOPSIS>Un jeune homme est incarcéré à la prison de la Santé. Il est adopté par ses quatre compagnons de cellule qui l<0x2019>informent de leur projet d<0x2019>évasion.
 <pstyle:><cstyle:INFOSBLEUES>di 02 aoûXXX19h30XXX
 <cstyle:SALLESBLEUES>A
 

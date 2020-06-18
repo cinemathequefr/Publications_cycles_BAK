@@ -87,7 +87,7 @@
         "duree": 99,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -202,7 +202,7 @@
         "duree": 110,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -396,7 +396,7 @@
         "duree": 106,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -449,8 +449,8 @@
   {
     "idCategorie": 2303,
     "typeEvenement": 13,
-    "idEvenement": 22665,
-    "idSeance": 35404,
+    "idEvenement": 22685,
+    "idSeance": 35713,
     "dateHeure": "2020-08-09T19:30:00",
     "idSalle": [
       "HL",
@@ -458,12 +458,12 @@
     ],
     "items": [
       {
-        "idFilm": 43679,
+        "idFilm": 47761,
         "ordre": 1,
-        "idSeance": 35404,
-        "idCopie": 20980,
-        "duree": 95,
-        "version": "VF",
+        "idSeance": 35713,
+        "idCopie": 21151,
+        "duree": 152,
+        "version": "STF",
         "format": "35 mm",
         "valide": 0
       }
@@ -553,11 +553,11 @@
         "idFilm": 38229,
         "ordre": 1,
         "idSeance": 35439,
-        "idCopie": 9841,
+        "idCopie": 21134,
         "duree": 97,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -610,8 +610,8 @@
   {
     "idCategorie": 2303,
     "typeEvenement": 13,
-    "idEvenement": 22671,
-    "idSeance": 35469,
+    "idEvenement": 22792,
+    "idSeance": 35712,
     "dateHeure": "2020-08-20T19:30:00",
     "idSalle": [
       "HL",
@@ -619,14 +619,14 @@
     ],
     "items": [
       {
-        "idFilm": 39557,
+        "idFilm": 39536,
         "ordre": 1,
-        "idSeance": 35469,
-        "idCopie": 21153,
-        "duree": 93,
+        "idSeance": 35712,
+        "idCopie": 9111,
+        "duree": 52,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -672,7 +672,7 @@
         "duree": 139,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -691,11 +691,11 @@
         "idFilm": 51579,
         "ordre": 1,
         "idSeance": 35490,
-        "idCopie": 21140,
+        "idCopie": 21141,
         "duree": 93,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },

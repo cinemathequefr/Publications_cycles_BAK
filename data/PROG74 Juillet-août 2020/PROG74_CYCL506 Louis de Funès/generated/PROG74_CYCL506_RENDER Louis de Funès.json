@@ -87,7 +87,7 @@
               "idSeance": 35481,
               "ordre": 1,
               "idEvenement": 21750,
-              "dateHeure": "2020-08-22T17:00:00",
+              "dateHeure": "2020-08-22T16:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -126,10 +126,10 @@
           "ageMinimal": null,
           "seance": [
             {
-              "idSeance": 35458,
+              "idSeance": 35710,
               "ordre": 1,
               "idEvenement": 21748,
-              "dateHeure": "2020-08-19T16:00:00",
+              "dateHeure": "2020-07-17T16:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -429,7 +429,7 @@
               "idSeance": 35468,
               "ordre": 1,
               "idEvenement": 21740,
-              "dateHeure": "2020-08-20T17:00:00",
+              "dateHeure": "2020-08-20T16:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -590,9 +590,19 @@
           "realisateurs": "André Hunebelle",
           "annee": 1966,
           "pays": "France-Italie",
-          "textes": [],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Fantômas revient avec une nouvelle idée : imposer aux riches (nobles comme gangsters) un impôt sur le droit de vivre. Débarqués en Ecosse, le commissaire Juve, Fandor et sa fiancée ont pour mission d'attraper le célèbre bandit."
+            }
+          ],
+          "generique": [
+            "Jean Marais",
+            "Louis de Funès",
+            "Mylène Demongeot"
+          ],
           "duree": 105,
-          "format": "DCP",
+          "format": "35 mm",
           "version": "",
           "ageMinimal": null,
           "seance": [
@@ -615,7 +625,12 @@
           "realisateurs": "André Hunebelle",
           "annee": 1965,
           "pays": "France-Italie",
-          "textes": [],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Aussi, lorsque le professeur Marchand disparaît mystérieusement, Fantômas est immédiatement soupçonné. Mais Juve et ses acolytes sont pris à leur propre piège. Juve ne parvient pas à mettre la main sur l'homme masqué, qui s'enfuit dans sa DS volante, traçant un « F » dans un ciel bleu azur."
+            }
+          ],
           "generique": [
             "Jean Marais",
             "Louis de Funès",
@@ -663,10 +678,10 @@
           "ageMinimal": null,
           "seance": [
             {
-              "idSeance": 35259,
+              "idSeance": 35711,
               "ordre": 1,
               "idEvenement": 21735,
-              "dateHeure": "2020-07-17T16:00:00",
+              "dateHeure": "2020-08-19T16:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -682,17 +697,28 @@
           "realisateurs": "Jean Girault",
           "annee": 1965,
           "pays": "France-Italie",
-          "textes": [],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les célèbres gendarmes de Saint-Tropez partent pour représenter la France au Congrès International de Gendarmerie à New-York."
+            }
+          ],
+          "generique": [
+            "Louis de Funès",
+            "Michel Galabru",
+            "Christian Marin",
+            "Jean Lefebvre"
+          ],
           "duree": 100,
           "format": "35 mm",
           "version": "",
           "ageMinimal": null,
           "seance": [
             {
-              "idSeance": 35568,
+              "idSeance": 35707,
               "ordre": 1,
               "idEvenement": 22694,
-              "dateHeure": "2020-07-29T16:00:00",
+              "dateHeure": "2020-08-30T16:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -749,7 +775,18 @@
           "realisateurs": "Jean Girault",
           "annee": 1968,
           "pays": "France-Italie",
-          "textes": [],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Suite à un accident, Cruchot rencontre Josépha, la veuve d'un colonel de gendarmerie"
+            }
+          ],
+          "generique": [
+            "Louis de Funès",
+            "Michel Galabru",
+            "Claude Gensac",
+            "Geneviève Grad"
+          ],
           "duree": 90,
           "format": "",
           "version": "",
@@ -759,7 +796,7 @@
               "idSeance": 35517,
               "ordre": 1,
               "idEvenement": 22693,
-              "dateHeure": "2020-08-28T17:00:00",
+              "dateHeure": "2020-08-28T16:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1060,7 +1097,7 @@
               "idSeance": 35489,
               "ordre": 1,
               "idEvenement": 21758,
-              "dateHeure": "2020-08-23T17:00:00",
+              "dateHeure": "2020-08-23T16:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1169,10 +1206,10 @@
           "ageMinimal": null,
           "seance": [
             {
-              "idSeance": 35532,
+              "idSeance": 35706,
               "ordre": 1,
               "idEvenement": 21756,
-              "dateHeure": "2020-08-30T16:00:00",
+              "dateHeure": "2020-07-29T16:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"

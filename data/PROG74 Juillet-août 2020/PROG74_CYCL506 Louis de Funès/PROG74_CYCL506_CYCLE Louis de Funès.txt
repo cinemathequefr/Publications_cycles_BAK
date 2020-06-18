@@ -17,7 +17,7 @@
 <pstyle:TECHNIQUE>Avec Louis de Funès, Coluche.
 <pstyle:SYNOPSIS>Charles Duchemin, le directeur d<0x2019>un guide gastronomique très réputé, vient d<0x2019>être élu à l<0x2019>Académie Française et a pour adversaire Tricatel, le roi de la restauration industrielle. Il espère que son fils Gérard lui succède un jour, mais ce dernier ne rêve que d<0x2019>être clown.
 <pstyle:INFOS_UTILES>Film accessible aux enfants
-<pstyle:><cstyle:INFOSBLEUES>sa 22 aoûXXX17h00XXX
+<pstyle:><cstyle:INFOSBLEUES>sa 22 aoûXXX16h00XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>L<0x2019>Avare
@@ -27,7 +27,7 @@
 <pstyle:TECHNIQUE>Avec Louis de Funès, Franck David, Claire Dupray, Michel Galabru.
 <pstyle:SYNOPSIS>Bourgeois avare, Harpagon a un fils, Cléante, et une fille, Elise. Cette dernière est amoureuse de Valère, qui ne trouve d<0x2019>autre solution pour se rapprocher de sa bien aimée que de se faire embaucher chez son père comme intendant. Cléante, lui, aime Marianne, une jeune femme sans aucune fortune que Harpagon veut aussi épouser.
 <pstyle:INFOS_UTILES>Film accessible aux enfants
-<pstyle:><cstyle:INFOSBLEUES>me 19 aoûXXX16h00XXX
+<pstyle:><cstyle:INFOSBLEUES>ve 17 juilXXX16h00XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>La Belle américaine
@@ -99,7 +99,7 @@
 <pstyle:TECHNIQUE>Avec Michel Serrault, Maurice Biraud, Louis de Funès.
 <pstyle:SYNOPSIS>Plusieurs personnes recherchent désespérément un ticket de courses. Mais ce dernier est dans la poche d<0x2019>un cadavre, lui même caché dans un étui de contrebasse. Louis de Funès y est «<0x00A0>Jockey Jack<0x00A0>». Pour ce dernier rôle où il n<0x2019>est pas au centre de l<0x2019>attention, il livre une scène d<0x2019>anthologie sur un lit d<0x2019>hôpital.
 <pstyle:INFOS_UTILES>Film accessible aux enfants
-<pstyle:><cstyle:INFOSBLEUES>je 20 aoûXXX17h00XXX
+<pstyle:><cstyle:INFOSBLEUES>je 20 aoûXXX16h00XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Le Diable et les dix commandements
@@ -137,7 +137,9 @@
 
 <pstyle:TITRE>Fantômas contre Scotland Yard
 <pstyle:TECHNIQUE>d<0x2019>André Hunebelle
-<pstyle:TECHNIQUE>France-Italie/1966/105<0x2019>/DCP
+<pstyle:TECHNIQUE>France-Italie/1966/105<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Jean Marais, Louis de Funès, Mylène Demongeot.
+<pstyle:SYNOPSIS>Fantômas revient avec une nouvelle idée<0x00A0>: imposer aux riches (nobles comme gangsters) un impôt sur le droit de vivre. Débarqués en Ecosse, le commissaire Juve, Fandor et sa fiancée ont pour mission d<0x2019>attraper le célèbre bandit.
 <pstyle:><cstyle:INFOSBLEUES>je 27 aoûXXX16h00XXX
 <cstyle:SALLESBLEUES>A
 
@@ -145,6 +147,7 @@
 <pstyle:TECHNIQUE>d<0x2019>André Hunebelle
 <pstyle:TECHNIQUE>France-Italie/1965/94<0x2019>/DCP
 <pstyle:TECHNIQUE>Avec Jean Marais, Louis de Funès, Mylène Demongeot.
+<pstyle:SYNOPSIS>Aussi, lorsque le professeur Marchand disparaît mystérieusement, Fantômas est immédiatement soupçonné. Mais Juve et ses acolytes sont pris à leur propre piège. Juve ne parvient pas à mettre la main sur l<0x2019>homme masqué, qui s<0x2019>enfuit dans sa DS volante, traçant un «<0x00A0>F<0x00A0>» dans un ciel bleu azur.
 <pstyle:><cstyle:INFOSBLEUES>me 26 aoûXXX16h00XXX
 <cstyle:SALLESBLEUES>A
 
@@ -154,13 +157,15 @@
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Frou-Frou<cSkew:> de Cécil Saint-Laurent.
 <pstyle:TECHNIQUE>Avec Dany Robin, Gino Cervi, Louis de Funès.
 <pstyle:SYNOPSIS>Paris de 1912 à 1954. Quelques messieurs d<0x2019>un certain âge prennent sous leur protection une jolie bouquetière de seize ans: Antoinette Dubois dite «<0x00A0>Frou-Frou<0x00A0>». Elle devient bientôt une chanteuse en vogue.
-<pstyle:><cstyle:INFOSBLEUES>ve 17 juilXXX16h00XXX
+<pstyle:><cstyle:INFOSBLEUES>me 19 aoûXXX16h00XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Le Gendarme à New York
 <pstyle:TECHNIQUE>de Jean Girault
 <pstyle:TECHNIQUE>France-Italie/1965/100<0x2019>/35mm
-<pstyle:><cstyle:INFOSBLEUES>me 29 juilXXX16h00XXX
+<pstyle:TECHNIQUE>Avec Louis de Funès, Michel Galabru, Christian Marin, Jean Lefebvre.
+<pstyle:SYNOPSIS>Les célèbres gendarmes de Saint-Tropez partent pour représenter la France au Congrès International de Gendarmerie à New-York.
+<pstyle:><cstyle:INFOSBLEUES>di 30 aoûXXX16h00XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Le Gendarme de Saint-Tropez
@@ -175,7 +180,9 @@
 <pstyle:TITRE>Le Gendarme se marie
 <pstyle:TECHNIQUE>de Jean Girault
 <pstyle:TECHNIQUE>France-Italie/1968/90<0x2019>
-<pstyle:><cstyle:INFOSBLEUES>ve 28 aoûXXX17h00XXX
+<pstyle:TECHNIQUE>Avec Louis de Funès, Michel Galabru, Claude Gensac, Geneviève Grad.
+<pstyle:SYNOPSIS>Suite à un accident, Cruchot rencontre Josépha, la veuve d<0x2019>un colonel de gendarmerie
+<pstyle:><cstyle:INFOSBLEUES>ve 28 aoûXXX16h00XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Le Grand restaurant
@@ -245,7 +252,7 @@
 <pstyle:TECHNIQUE>Avec Robert Dhéry, Louis de Funès, Colette Brosset.
 
 <pstyle:SYNOPSIS>André Castagnier invente des prototypes de bateaux pour l<0x2019>irascible Fourchaume, l<0x2019>impétueux patron d<0x2019>un chantier naval du Sud-Ouest. Tandis qu<0x2019>André gagne la course de San Remo sur un modèle appelé le «<0x00A0>Petit Baigneur<0x00A0>», le lancement d<0x2019>un autre modèle, «<0x00A0>L<0x2019>Increvable<0x00A0>», tourne au fiasco dans le bassin du chantier naval.
-<pstyle:><cstyle:INFOSBLEUES>di 23 aoûXXX17h00XXX
+<pstyle:><cstyle:INFOSBLEUES>di 23 aoûXXX16h00XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Pouic-Pouic
@@ -271,7 +278,7 @@
 <pstyle:TECHNIQUE>France-Italie/1968/90<0x2019>/Numérique
 <pstyle:TECHNIQUE>Avec Jean Gabin, Louis de Funès, Dominique Davray.
 <pstyle:SYNOPSIS>Félicien Mezeray, brocanteur d<0x2019>art, découvre un jour un authentique Modigliani. Il pense alors que sa fortune est faite. Mais l<0x2019><0x0153>uvre a été tatouée sur le dos d<0x2019>un ex-légionnaire bougon et colérique, qui n<0x2019>a que faire des manigances de Mezeray, prêt à tout pour arriver à ses fins.
-<pstyle:><cstyle:INFOSBLEUES>di 30 aoûXXX16h00XXX
+<pstyle:><cstyle:INFOSBLEUES>me 29 juilXXX16h00XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>La Traversée de Paris

@@ -66,7 +66,12 @@
             "Charles \" Buddy \" Rogers",
             "Richard Arlen"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jack Powell et David Armstrong sont amoureux de la même femme, Sylvia Lewis. Lorsque les États-Unis entrent en guerre, ils s'engagent dans l'armée de l'air. Rivaux puis amis, leur vie bascule lors de la bataille de St.-Mihiel en 1918."
+            }
+          ]
         },
         {
           "idSeance": 35297,
@@ -345,39 +350,6 @@
           ]
         },
         {
-          "idSeance": 35469,
-          "ordre": 1,
-          "dateHeure": "2020-08-20T19:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 2303,
-          "idEvenement": 22671,
-          "typeEvenement": 13,
-          "idFilm": 39557,
-          "titre": "Chronique d'Anna Magdalena Bach",
-          "titreVo": "Chronik der Anna Magdalena Bach",
-          "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-          "annee": 1967,
-          "pays": "RFA",
-          "duree": 93,
-          "version": "VOSTF",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Gustav Leonhardt",
-            "Christiane Lang",
-            "Andreas Pangritz"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Les trente dernières années de la vie de Jean-Sébastien Bach racontées par sa deuxième femme."
-            }
-          ]
-        },
-        {
           "idSeance": 35310,
           "ordre": 1,
           "dateHeure": "2020-07-25T19:30:00",
@@ -579,7 +551,12 @@
             "Géraldine Pailhas",
             "Antoine Pialat"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un homme infidèle tente de quitter sa femme, mais n'y parvient pas car ils partagent un fils de 4 ans, qu'il aime tant voir grandir. **Copie neuve Cinémathèque française**"
+            }
+          ]
         },
         {
           "idSeance": 35346,
@@ -608,34 +585,6 @@
             {
               "typeTexte": 9,
               "texte": "Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de prison. Celui-ci, devenu son débiteur, accepte de participer à ce hold-up qui doit les rendre riches. Sur sa route, Roy fait la connaissance de la belle Velma."
-            }
-          ]
-        },
-        {
-          "idSeance": 35404,
-          "ordre": 1,
-          "dateHeure": "2020-08-09T19:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 2303,
-          "idEvenement": 22665,
-          "typeEvenement": 13,
-          "idFilm": 43679,
-          "titre": "India",
-          "titreVo": "India, matri bhumi",
-          "realisateurs": "Roberto Rossellini",
-          "annee": 1957,
-          "pays": "Italie",
-          "duree": 95,
-          "version": "VF",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Roberto Rossellini nous embarque pour un voyage à travers l'Inde contemporaine, entre documentaire et fiction."
             }
           ]
         },
@@ -737,6 +686,35 @@
             {
               "typeTexte": 9,
               "texte": "Un assassin s'en prend aux petites filles. La pègre entreprend elle-même de le traquer."
+            }
+          ]
+        },
+        {
+          "idSeance": 35712,
+          "ordre": 1,
+          "dateHeure": "2020-08-20T19:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2303,
+          "idEvenement": 22792,
+          "typeEvenement": 13,
+          "idFilm": 39536,
+          "titre": "Non réconciliés = Seule la violence aide où la violence règne",
+          "titreVo": "Nicht versöhnt = Es hilft nur Gewalt wo Gewalt herrscht",
+          "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+          "annee": 1964,
+          "pays": "RFA",
+          "duree": 52,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "adaptation": "D'après le roman _Billard um Halbzehn_ de Heinrich Böll.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "D'après _Les Deux sacrements_, publié par Heinrich Böll en 1961, le film met en scène des personnages non réconciliés avec leur passé qui reviennent sur cinquante ans d'histoire allemande, des années 1910 au miracle économique de l'après-guerre."
             }
           ]
         },
@@ -1079,6 +1057,41 @@
           ]
         },
         {
+          "idSeance": 35713,
+          "ordre": 1,
+          "dateHeure": "2020-08-09T19:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2303,
+          "idEvenement": 22685,
+          "typeEvenement": 13,
+          "idFilm": 47761,
+          "art": "Le",
+          "titre": "Salaire de la peur",
+          "titreVo": "",
+          "realisateurs": "Henri-Georges Clouzot",
+          "annee": 1951,
+          "pays": "France-Italie",
+          "duree": 152,
+          "version": "STF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Yves Montand",
+            "Charles Vanel",
+            "Folco Lulli"
+          ],
+          "adaptation": "D'après le roman _Le Salaire de la peur_ de Georges Arnaud.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En Amérique Centrale, une compagnie pétrolière propose une grosse somme d'argent à qui acceptera de conduire deux camions chargés de nitroglycérine sur 500 kilomètres de pistes afin d'éteindre un incendie dans un puits de pétrole. Quatre aventuriers entament ce voyage."
+            }
+          ]
+        },
+        {
           "idSeance": 35547,
           "ordre": 1,
           "dateHeure": "2020-08-21T19:30:00",
@@ -1141,7 +1154,12 @@
             "Marc Michel",
             "Raymond Meunier"
           ],
-          "textes": []
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un jeune homme est incarcéré à la prison de la Santé. Il est adopté par ses quatre compagnons de cellule qui l'informent de leur projet d'évasion."
+            }
+          ]
         },
         {
           "idSeance": 35374,

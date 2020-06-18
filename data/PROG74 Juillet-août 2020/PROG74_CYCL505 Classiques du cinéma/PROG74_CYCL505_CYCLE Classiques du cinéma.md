@@ -17,7 +17,8 @@ En mai 1954, en Indochine, la 317ème section, cantonnée dans le Nord-Laos, re�
 **(Wings)**  
 de William A. Wellman  
 États-Unis / 1927 / 151 min / INT. FR. / 35 mm  
-Avec Clara Bow, Charles " Buddy " Rogers, Richard Arlen.
+Avec Clara Bow, Charles " Buddy " Rogers, Richard Arlen.  
+Jack Powell et David Armstrong sont amoureux de la même femme, Sylvia Lewis. Lorsque les États-Unis entrent en guerre, ils s'engagent dans l'armée de l'air. Rivaux puis amis, leur vie bascule lors de la bataille de St.-Mihiel en 1918.
 
 - ve 24 juil 19h30 HL
 
@@ -111,16 +112,6 @@ A l'époque médiévale, les généraux Washizu et Miki rencontrent un esprit. C
 
 - sa 25 juil 19h30 HL
 
-[39557]  
-**Chronique d'Anna Magdalena Bach**  
-**(Chronik der Anna Magdalena Bach)**  
-de Jean-Marie Straub, Danièle Huillet  
-RFA / 1967 / 93 min / VOSTF / 35 mm  
-Avec Gustav Leonhardt, Christiane Lang, Andreas Pangritz.  
-Les trente dernières années de la vie de Jean-Sébastien Bach racontées par sa deuxième femme.
-
-- je 20 aoû 19h30 HL
-
 [38229]  
 **Les Contes de la lune vague après la pluie**  
 **(Ugetsu monogatari)**  
@@ -166,7 +157,8 @@ La jeune et pétulante Cluny Brown remplace son oncle plombier pour une interven
 **Le Garçu**  
 de Maurice Pialat  
 France / 1994 / 100 min / 35 mm  
-Avec Gérard Depardieu, Géraldine Pailhas, Antoine Pialat.
+Avec Gérard Depardieu, Géraldine Pailhas, Antoine Pialat.  
+Un homme infidèle tente de quitter sa femme, mais n'y parvient pas car ils partagent un fils de 4 ans, qu'il aime tant voir grandir. **Copie neuve Cinémathèque française**
 
 - ve 28 aoû 19h30 HL
 
@@ -179,15 +171,6 @@ D'après le roman _High Sierra_ de W.R. Burnett.
 Avec l'idée d'organiser un casse ambitieux, Big Mac fait sortir Roy Earle de prison. Celui-ci, devenu son débiteur, accepte de participer à ce hold-up qui doit les rendre riches. Sur sa route, Roy fait la connaissance de la belle Velma.
 
 - ve 31 juil 19h30 HL
-
-[43679]  
-**India**  
-**(India, matri bhumi)**  
-de Roberto Rossellini  
-Italie / 1957 / 95 min / VF / 35 mm  
-Roberto Rossellini nous embarque pour un voyage à travers l'Inde contemporaine, entre documentaire et fiction.
-
-- di 9 aoû 19h30 HL
 
 [50426]  
 **Lola Montès**  
@@ -217,6 +200,16 @@ Avec Peter Lorre, Ellen Widmann, Inge Landgut.
 Un assassin s'en prend aux petites filles. La pègre entreprend elle-même de le traquer.
 
 - sa 1 aoû 19h30 HL
+
+[39536]  
+**Non réconciliés = Seule la violence aide où la violence règne**  
+**(Nicht versöhnt = Es hilft nur Gewalt wo Gewalt herrscht)**  
+de Jean-Marie Straub, Danièle Huillet  
+RFA / 1964 / 52 min / VOSTF / 35 mm  
+D'après le roman _Billard um Halbzehn_ de Heinrich Böll.  
+D'après _Les Deux sacrements_, publié par Heinrich Böll en 1961, le film met en scène des personnages non réconciliés avec leur passé qui reviennent sur cinquante ans d'histoire allemande, des années 1910 au miracle économique de l'après-guerre.
+
+- je 20 aoû 19h30 HL
 
 [50873]  
 **On purge bébé**  
@@ -318,6 +311,16 @@ La nombreuse famille Morgan vit heureuse dans un petit village minier d'une gran
 
 - ve 17 juil 19h30 HL
 
+[47761]  
+**Le Salaire de la peur**  
+de Henri-Georges Clouzot  
+France-Italie / 1951 / 152 min / STF / 35 mm  
+D'après le roman _Le Salaire de la peur_ de Georges Arnaud.  
+Avec Yves Montand, Charles Vanel, Folco Lulli.  
+En Amérique Centrale, une compagnie pétrolière propose une grosse somme d'argent à qui acceptera de conduire deux camions chargés de nitroglycérine sur 500 kilomètres de pistes afin d'éteindre un incendie dans un puits de pétrole. Quatre aventuriers entament ce voyage.
+
+- di 9 aoû 19h30 HL
+
 [36834]  
 **La Soif du mal**  
 **(Touch of Evil)**  
@@ -333,7 +336,8 @@ Avec Orson Welles, Charlton Heston, Janet Leigh, Akim Tamiroff.
 **Le Trou**  
 de Jacques Becker  
 France-Italie / 1959 / 35 mm  
-Avec Jean Kéraudy, Marc Michel, Raymond Meunier.
+Avec Jean Kéraudy, Marc Michel, Raymond Meunier.  
+Un jeune homme est incarcéré à la prison de la Santé. Il est adopté par ses quatre compagnons de cellule qui l'informent de leur projet d'évasion.
 
 - di 2 aoû 19h30 HL
 

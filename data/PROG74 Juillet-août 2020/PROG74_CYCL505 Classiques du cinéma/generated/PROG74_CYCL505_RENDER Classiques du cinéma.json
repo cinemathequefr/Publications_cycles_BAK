@@ -64,7 +64,12 @@
           "realisateurs": "William A. Wellman",
           "annee": 1927,
           "pays": "États-Unis",
-          "textes": [],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Jack Powell et David Armstrong sont amoureux de la même femme, Sylvia Lewis. Lorsque les États-Unis entrent en guerre, ils s'engagent dans l'armée de l'air. Rivaux puis amis, leur vie bascule lors de la bataille de St.-Mihiel en 1918."
+            }
+          ],
           "generique": [
             "Clara Bow",
             "Charles \" Buddy \" Rogers",
@@ -417,41 +422,6 @@
           ]
         },
         {
-          "idFilm": 39557,
-          "titre": "Chronique d'Anna Magdalena Bach",
-          "titreVo": "Chronik der Anna Magdalena Bach",
-          "realisateurs": "Jean-Marie Straub, Danièle Huillet",
-          "annee": 1967,
-          "pays": "RFA",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Les trente dernières années de la vie de Jean-Sébastien Bach racontées par sa deuxième femme."
-            }
-          ],
-          "generique": [
-            "Gustav Leonhardt",
-            "Christiane Lang",
-            "Andreas Pangritz"
-          ],
-          "duree": 93,
-          "format": "35 mm",
-          "version": "VOSTF",
-          "ageMinimal": null,
-          "seance": [
-            {
-              "idSeance": 35469,
-              "ordre": 1,
-              "idEvenement": 22671,
-              "dateHeure": "2020-08-20T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
           "idFilm": 38229,
           "titre": "Contes de la lune vague après la pluie",
           "art": "Les",
@@ -607,7 +577,12 @@
           "realisateurs": "Maurice Pialat",
           "annee": 1994,
           "pays": "France",
-          "textes": [],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un homme infidèle tente de quitter sa femme, mais n'y parvient pas car ils partagent un fils de 4 ans, qu'il aime tant voir grandir. **Copie neuve Cinémathèque française**"
+            }
+          ],
           "generique": [
             "Gérard Depardieu",
             "Géraldine Pailhas",
@@ -655,36 +630,6 @@
               "ordre": 1,
               "idEvenement": 22654,
               "dateHeure": "2020-07-31T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idFilm": 43679,
-          "titre": "India",
-          "titreVo": "India, matri bhumi",
-          "realisateurs": "Roberto Rossellini",
-          "annee": 1957,
-          "pays": "Italie",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Roberto Rossellini nous embarque pour un voyage à travers l'Inde contemporaine, entre documentaire et fiction."
-            }
-          ],
-          "duree": 95,
-          "format": "35 mm",
-          "version": "VF",
-          "ageMinimal": null,
-          "seance": [
-            {
-              "idSeance": 35404,
-              "ordre": 1,
-              "idEvenement": 22665,
-              "dateHeure": "2020-08-09T19:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -792,6 +737,37 @@
               "ordre": 1,
               "idEvenement": 22648,
               "dateHeure": "2020-08-01T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 39536,
+          "titre": "Non réconciliés = Seule la violence aide où la violence règne",
+          "titreVo": "Nicht versöhnt = Es hilft nur Gewalt wo Gewalt herrscht",
+          "realisateurs": "Jean-Marie Straub, Danièle Huillet",
+          "annee": 1964,
+          "pays": "RFA",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "D'après _Les Deux sacrements_, publié par Heinrich Böll en 1961, le film met en scène des personnages non réconciliés avec leur passé qui reviennent sur cinquante ans d'histoire allemande, des années 1910 au miracle économique de l'après-guerre."
+            }
+          ],
+          "adaptation": "D'après le roman _Billard um Halbzehn_ de Heinrich Böll.",
+          "duree": 52,
+          "format": "35 mm",
+          "version": "VOSTF",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 35712,
+              "ordre": 1,
+              "idEvenement": 22792,
+              "dateHeure": "2020-08-20T19:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1159,6 +1135,43 @@
           ]
         },
         {
+          "idFilm": 47761,
+          "titre": "Salaire de la peur",
+          "art": "Le",
+          "titreVo": "",
+          "realisateurs": "Henri-Georges Clouzot",
+          "annee": 1951,
+          "pays": "France-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "En Amérique Centrale, une compagnie pétrolière propose une grosse somme d'argent à qui acceptera de conduire deux camions chargés de nitroglycérine sur 500 kilomètres de pistes afin d'éteindre un incendie dans un puits de pétrole. Quatre aventuriers entament ce voyage."
+            }
+          ],
+          "adaptation": "D'après le roman _Le Salaire de la peur_ de Georges Arnaud.",
+          "generique": [
+            "Yves Montand",
+            "Charles Vanel",
+            "Folco Lulli"
+          ],
+          "duree": 152,
+          "format": "35 mm",
+          "version": "STF",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 35713,
+              "ordre": 1,
+              "idEvenement": 22685,
+              "dateHeure": "2020-08-09T19:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
           "idFilm": 36834,
           "titre": "Soif du mal",
           "art": "La",
@@ -1204,7 +1217,12 @@
           "realisateurs": "Jacques Becker",
           "annee": 1959,
           "pays": "France-Italie",
-          "textes": [],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un jeune homme est incarcéré à la prison de la Santé. Il est adopté par ses quatre compagnons de cellule qui l'informent de leur projet d'évasion."
+            }
+          ],
           "generique": [
             "Jean Kéraudy",
             "Marc Michel",
