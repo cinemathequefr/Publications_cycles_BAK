@@ -1,0 +1,277 @@
+{
+  "header": {
+    "idCycleProg": 14,
+    "titreCycle": "Cinéma bis",
+    "sousCycles": [
+      {
+        "titre": "De Funès et les extraterrestres",
+        "cats": [
+          2249
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "[?]",
+        "cats": [
+          2291
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 75
+  },
+  "data": [
+    {
+      "titreSousCycle": "De Funès et les extraterrestres",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2249,
+          "idEvenement": 22006,
+          "films": [
+            {
+              "idFilm": 54589,
+              "titre": "Soupe aux choux",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Jean Girault",
+              "annee": 1981,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux vieux paysans alcooliques, Le Glaude et Le Bombé, vivent retirés de la vie moderne. Une nuit, un extra-terrestre atterrit en soucoupe volante dans le jardin d'un des deux, qui lui offre, en en gage de bienvenue, un peu de sa fameuse soupe aux choux..."
+                }
+              ],
+              "generique": [
+                "Louis de Funès",
+                "Jean Carmet",
+                "Jacques Villeret"
+              ],
+              "duree": 88,
+              "format": "",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-10-09T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2249,
+          "idEvenement": 22001,
+          "films": [
+            {
+              "idFilm": 48793,
+              "titre": "Gendarme et les extra-terrestres",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Jean Girault",
+              "annee": 1978,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Les célèbres gendarmes de St Tropez se retrouvent confrontés à des extraterrestres."
+                }
+              ],
+              "generique": [
+                "Louis de Funès",
+                "Michel Galabru",
+                "Maurice Risch"
+              ],
+              "duree": 90,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-10-09T22:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "[?]",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2291,
+          "idEvenement": 22682,
+          "films": [
+            {
+              "idFilm": 45756,
+              "titre": "Tarzan, l'homme singe",
+              "titreVo": "Tarzan, the Ape Man",
+              "realisateurs": "John Derek",
+              "annee": 1981,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Jane Parker part à la recherche de son père, explorateur en Afrique occidentale, disparu depuis de longues années."
+                }
+              ],
+              "generique": [
+                "Richard Harris",
+                "Bo Derek"
+              ],
+              "duree": 111,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-09-04T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2291,
+          "idEvenement": 22683,
+          "films": [
+            {
+              "idFilm": 46232,
+              "titre": "Montagne du dieu cannibale",
+              "art": "La",
+              "titreVo": "Montagna del dio cannibale",
+              "artVo": "La",
+              "realisateurs": "Sergio Martino",
+              "annee": 1978,
+              "pays": "Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Accompagnée de son frère et du professeur Foster, Susan Stevenson part à la recherche de son mari disparu au cours d'une mission anthropologique en Nouvelle-Guinée, Ils doivent passer par la terrible jungle de Marabata, territoire d'une féroce tribu cannibale."
+                }
+              ],
+              "generique": [
+                "Ursula Andress",
+                "Helmut Berger",
+                "Stacy Keach"
+              ],
+              "duree": 93,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-09-04T22:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2291,
+          "idEvenement": 22699,
+          "films": [
+            {
+              "idFilm": 83331,
+              "titre": "Panique année zéro",
+              "titreVo": "Panic in Year Zero",
+              "realisateurs": "Ray Milland",
+              "annee": 1962,
+              "pays": "États-Unis",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Los Angeles est détruit par une attaque nucléaire. Commence alors la lutte pour la survie. Un honorable père de famille américain révèle sa véritable nature."
+                }
+              ],
+              "generique": [
+                "Ray Milland",
+                "Jean Hagen",
+                "Frankie Avalon"
+              ],
+              "duree": 0,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-11-27T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2291,
+          "idEvenement": 22700,
+          "films": [
+            {
+              "idFilm": 73096,
+              "titre": "Guerriers du Bronx 2",
+              "art": "Les",
+              "titreVo": "Fuga dal Bronx",
+              "realisateurs": "Enzo G. Castellari",
+              "annee": 1983,
+              "pays": "Italie",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un projet de renovation du Bronx, à New York, menace les intérêts de la pègre locale. Un âpre combat va opposer les truands au mercenaire engagé par la multinationale chargée des travaux."
+                }
+              ],
+              "generique": [
+                "Henry Silva",
+                "Mark Gregory",
+                "Valeria D'Obici"
+              ],
+              "duree": 88,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-11-27T22:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

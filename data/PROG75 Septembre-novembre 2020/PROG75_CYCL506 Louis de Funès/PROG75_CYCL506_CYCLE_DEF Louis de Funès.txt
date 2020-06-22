@@ -1,0 +1,86 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>L<0x2019>Aile ou la cuisse
+<pstyle:TECHNIQUE>de Claude Zidi
+<pstyle:TECHNIQUE>France/1976/110<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Louis de Funès, Coluche, Julien Guiomar.
+<pstyle:SYNOPSIS>Charles Duchemin, le directeur d<0x2019>un guide gastronomique très réputé, est opposé à Tricatel, le roi de la restauration industrielle. Duchemin espère voir son fils lui succéder, mais le jeune homme rêve de devenir clown.
+<pstyle:INFOS_UTILES>Film à redécouvrir en famille, accessible aux enfants.
+<pstyle:><cstyle:INFOSBLEUES>lu 12 octXXX15h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>«<0x00A0>De Funès<0x00A0>: l<0x2019>ordre à la condition du chaos<0x00A0>»
+<pstyle:TECHNIQUE>undefined
+<pstyle:TECHNIQUE>90<0x2019>
+
+<pstyle:><cstyle:INFOSBLEUES>je 12 novXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>je 19 novXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>lu 16 novXXX20h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Faites sauter la banque<0x00A0>!
+<pstyle:TECHNIQUE>de Jean Girault
+<pstyle:TECHNIQUE>France-Italie/1963/90<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Louis de Funès, Jean-Pierre Marielle, Yvonne Clech.
+<pstyle:SYNOPSIS>Pour se renflouer, un brave commerçant ruiné organise avec sa femme et ses enfants le hold-up de la banque voisine.
+<pstyle:><cstyle:INFOSBLEUES>je 12 novXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Les Grandes vacances
+<pstyle:TECHNIQUE>de Jean Girault
+<pstyle:TECHNIQUE>France-Italie/1967/95<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Louis de Funès, Ferdy Mayne, Claude Gensac.
+<pstyle:SYNOPSIS>Bosquier décide d<0x2019>envoyer son fils Philippe étudier en Angleterre. En échange, il accueille la fille d<0x2019>un distillateur de whisky écossais. Mais Philippe est resté en France et a envoyé un ami à sa place.
+<pstyle:><cstyle:INFOSBLEUES>di 18 octXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>je 19 novXXX21h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>L<0x2019>Homme orchestre
+<pstyle:TECHNIQUE>de Serge Korber
+<pstyle:TECHNIQUE>France-Italie/1969/85<0x2019>/DCP
+<pstyle:TECHNIQUE>Avec Louis de Funès, Noëlle Adam, Olivier de Funès.
+<pstyle:SYNOPSIS>Evan Evans est à la fois danseur, musicien, impresario, metteur en scène et manager d<0x2019>une troupe de danseuses qu<0x2019>il mène à la baguette. Au cours d<0x2019>une tournée, il retrouve un bébé dans sa chambre, et doit se transformer malgré lui en père nourricier.
+<pstyle:><cstyle:INFOSBLEUES>di 08 novXXX15h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Oscar
+<pstyle:TECHNIQUE>d<0x2019>Édouard Molinaro
+<pstyle:TECHNIQUE>France/1967/85<0x2019>/DCP
+<pstyle:TECHNIQUE>D<0x2019>après la pièce <cSkew:9>Oscar<cSkew:> de Claude Magnier.
+<pstyle:TECHNIQUE>Avec Louis de Funès, Claude Rich, Claude Gensac, Agathe Natanson.
+<pstyle:SYNOPSIS>Un riche promoteur mène une vie paisible jusqu<0x2019>au jour où son homme de confiance le fait chanter pour doubler son salaire et obtenir la main de sa fille, dont il est l<0x2019>amant.
+<pstyle:><cstyle:INFOSBLEUES>lu 16 novXXX16h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Sur un arbre perché
+<pstyle:TECHNIQUE>de Serge Korber
+<pstyle:TECHNIQUE>France/1970/85<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Louis de Funès, Geraldine Chaplin, Olivier de Funès.
+<pstyle:SYNOPSIS>Un promoteur français, qui vient de conclure avec un Italien un accord leur assurant la mainmise sur les autoroutes européennes, fait une embardée au volant. Sa voiture se retrouve, avec ses occupants, au sommet d<0x2019>un arbre accroché à la paroi d<0x2019>une falaise.
+<pstyle:><cstyle:INFOSBLEUES>di 08 novXXX17h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:CATEGORIE>Cinéma bis
+
+<pstyle:TITRE>La Soupe aux choux
+<pstyle:TECHNIQUE>de Jean Girault
+<pstyle:TECHNIQUE>France/1981/88<0x2019>
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>La Soupe aux choux<cSkew:> de René Fallet.
+<pstyle:TECHNIQUE>Avec Louis de Funès, Jean Carmet, Jacques Villeret.
+<pstyle:SYNOPSIS>Deux vieux paysans alcooliques, le Glaude et le Bombé, vivent retirés à la campagne. Une nuit, un extraterrestre atterrit dans le jardin du Glaude qui lui offre un peu de sa fameuse soupe aux choux.
+<pstyle:><cstyle:INFOSBLEUES>ve 09 octXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Le Gendarme et les extra-terrestres
+<pstyle:TECHNIQUE>de Jean Girault
+<pstyle:TECHNIQUE>France/1978/90<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Louis de Funès, Michel Galabru, Maurice Risch.
+<pstyle:SYNOPSIS>Les célèbres gendarmes de Saint-Tropez se retrouvent confrontés à des extraterrestres.
+<pstyle:><cstyle:INFOSBLEUES>ve 09 octXXX22h00XXX
+<cstyle:SALLESBLEUES>A
+

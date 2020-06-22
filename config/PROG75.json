@@ -7,7 +7,13 @@
     {
       "idCycleProg": 13,
       "titreCycle": "Cinéma d'avant-garde",
-      "sousCycles": []
+      "sousCycles": [
+        {
+          "titre": "[Rentrée 2020]",
+          "cats": [2222],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 14,
@@ -19,7 +25,7 @@
           "tri": 4
         },
         {
-          "titre": "?",
+          "titre": "[?]",
           "cats": [2291],
           "tri": 4
         }
@@ -171,6 +177,11 @@
         {
           "titre": "Les films",
           "cats": [2282],
+          "tri": 1
+        },
+        {
+          "titre": "Autour de Luis Buñuel",
+          "cats": [2310],
           "tri": 1
         },
         {

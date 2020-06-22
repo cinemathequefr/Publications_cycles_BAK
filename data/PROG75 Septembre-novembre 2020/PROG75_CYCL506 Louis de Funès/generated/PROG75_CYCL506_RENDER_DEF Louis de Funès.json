@@ -1,0 +1,393 @@
+{
+  "header": {
+    "idCycleProg": 506,
+    "titreCycle": "Louis de Funès",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          2306
+        ],
+        "tri": 1
+      },
+      {
+        "titre": "Cinéma bis",
+        "cats": [
+          2315
+        ],
+        "tri": 4
+      }
+    ],
+    "idProg": 75
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "textes": [],
+      "items": [
+        {
+          "idFilm": 54573,
+          "titre": "Aile ou la cuisse",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Claude Zidi",
+          "annee": 1976,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Charles Duchemin, le directeur d'un guide gastronomique très réputé, est opposé à Tricatel, le roi de la restauration industrielle. Duchemin espère voir son fils lui succéder, mais le jeune homme rêve de devenir clown."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film à redécouvrir en famille, accessible aux enfants."
+            }
+          ],
+          "generique": [
+            "Louis de Funès",
+            "Coluche",
+            "Julien Guiomar"
+          ],
+          "duree": 110,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 35581,
+              "ordre": 1,
+              "idEvenement": 21750,
+              "dateHeure": "2020-10-12T15:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "titre": "« De Funès : l'ordre à la condition du chaos »",
+          "sousTitre": "Conférence de Jean-Baptiste Thoret",
+          "textes": [
+            {
+              "typeTexte": 8,
+              "texte": "Près de 120 films tournés, une carrière qui a décollé sur le tard, à presque 50 ans, avec un petit rôle d'épicier éblouissant dans _La Traversée de Paris_, en 1956, aux côtés des monstres Bourvil et Gabin. Puis le succès que l'on sait, qui débute au cours de l'été 1964 avec la série des _Gendarme_. En quinze ans, le sans-grade grimpe les barreaux de l'échelle sociale à vitesse grand V jusqu'à devenir l'un des hérauts de la France dominante des Trente Glorieuses. Ce Louis de Funès, via ses personnages, voulait que rien ne change mais il semblerait que son corps, ses gestes et ses actions aient produit le contraire. Comment un gardien de l'ordre pouvait-il, en même temps, être un agent du chaos ?"
+            },
+            {
+              "typeTexte": 156,
+              "texte": "**Jean-Baptiste Thoret** est réalisateur (_We Blew It_, 2017 ; _Dario Argento. Soupirs dans un corridor lointain_, 2019 ; _86 Printemps. Jean-Luc Godard_, 2019), ancien critique à _Charlie Hebdo_ et auteur d'une douzaine de livres dont _Le Cinéma américain des années 1970, Michael Cimino, les voix perdues de l'Amérique_ et _26 secondes, l'Amérique éclaboussée_. Il a travaillé à Radio France de 1998 à 2014, dans « Mauvais Genres » (France Culture) et comme coproducteur de l'émission « Pendant les travaux, le cinéma reste ouvert » (France Inter). Il dirige depuis 2018 la collection « Make My Day ! » chez Studiocanal."
+            }
+          ],
+          "duree": 90,
+          "seance": [
+            {
+              "idSeance": 35591,
+              "idEvenement": 21903,
+              "dateHeure": "2020-11-12T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 35593,
+              "idEvenement": 21975,
+              "dateHeure": "2020-11-19T19:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 35904,
+              "idEvenement": 21904,
+              "dateHeure": "2020-11-16T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 48791,
+          "titre": "Faites sauter la banque !",
+          "titreVo": "",
+          "realisateurs": "Jean Girault",
+          "annee": 1963,
+          "pays": "France-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pour se renflouer, un brave commerçant ruiné organise avec sa femme et ses enfants le hold-up de la banque voisine."
+            }
+          ],
+          "generique": [
+            "Louis de Funès",
+            "Jean-Pierre Marielle",
+            "Yvonne Clech"
+          ],
+          "duree": 90,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 35592,
+              "ordre": 1,
+              "idEvenement": 21738,
+              "dateHeure": "2020-11-12T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 52112,
+          "titre": "Grandes vacances",
+          "art": "Les",
+          "titreVo": "",
+          "realisateurs": "Jean Girault",
+          "annee": 1967,
+          "pays": "France-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Bosquier décide d'envoyer son fils Philippe étudier en Angleterre. En échange, il accueille la fille d'un distillateur de whisky écossais. Mais Philippe est resté en France et a envoyé un ami à sa place."
+            }
+          ],
+          "generique": [
+            "Louis de Funès",
+            "Ferdy Mayne",
+            "Claude Gensac"
+          ],
+          "duree": 95,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36091,
+              "ordre": 1,
+              "idEvenement": 21759,
+              "dateHeure": "2020-10-18T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            },
+            {
+              "idSeance": 35594,
+              "ordre": 1,
+              "idEvenement": 21759,
+              "dateHeure": "2020-11-19T21:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 52146,
+          "titre": "Homme orchestre",
+          "art": "L'",
+          "titreVo": "",
+          "realisateurs": "Serge Korber",
+          "annee": 1969,
+          "pays": "France-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Evan Evans est à la fois danseur, musicien, impresario, metteur en scène et manager d'une troupe de danseuses qu'il mène à la baguette. Au cours d'une tournée, il retrouve un bébé dans sa chambre, et doit se transformer malgré lui en père nourricier."
+            }
+          ],
+          "generique": [
+            "Louis de Funès",
+            "Noëlle Adam",
+            "Olivier de Funès"
+          ],
+          "duree": 85,
+          "format": "DCP",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 35888,
+              "ordre": 1,
+              "idEvenement": 21754,
+              "dateHeure": "2020-11-08T15:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 50189,
+          "titre": "Oscar",
+          "titreVo": "",
+          "realisateurs": "Édouard Molinaro",
+          "annee": 1967,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un riche promoteur mène une vie paisible jusqu'au jour où son homme de confiance le fait chanter pour doubler son salaire et obtenir la main de sa fille, dont il est l'amant."
+            }
+          ],
+          "adaptation": "D'après la pièce _Oscar_ de Claude Magnier.",
+          "generique": [
+            "Louis de Funès",
+            "Claude Rich",
+            "Claude Gensac",
+            "Agathe Natanson"
+          ],
+          "duree": 85,
+          "format": "DCP",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 35903,
+              "ordre": 1,
+              "idEvenement": 21757,
+              "dateHeure": "2020-11-16T16:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 52216,
+          "titre": "Sur un arbre perché",
+          "titreVo": "",
+          "realisateurs": "Serge Korber",
+          "annee": 1970,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un promoteur français, qui vient de conclure avec un Italien un accord leur assurant la mainmise sur les autoroutes européennes, fait une embardée au volant. Sa voiture se retrouve, avec ses occupants, au sommet d'un arbre accroché à la paroi d'une falaise."
+            }
+          ],
+          "generique": [
+            "Louis de Funès",
+            "Geraldine Chaplin",
+            "Olivier de Funès"
+          ],
+          "duree": 85,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 35887,
+              "ordre": 1,
+              "idEvenement": 21753,
+              "dateHeure": "2020-11-08T17:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Cinéma bis",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2315,
+          "idEvenement": 22006,
+          "films": [
+            {
+              "idFilm": 54589,
+              "titre": "Soupe aux choux",
+              "art": "La",
+              "titreVo": "",
+              "realisateurs": "Jean Girault",
+              "annee": 1981,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Deux vieux paysans alcooliques, le Glaude et le Bombé, vivent retirés à la campagne. Une nuit, un extraterrestre atterrit dans le jardin du Glaude qui lui offre un peu de sa fameuse soupe aux choux."
+                }
+              ],
+              "adaptation": "D'après le roman _La Soupe aux choux_ de René Fallet.",
+              "generique": [
+                "Louis de Funès",
+                "Jean Carmet",
+                "Jacques Villeret"
+              ],
+              "duree": 88,
+              "format": "",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-10-09T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2315,
+          "idEvenement": 22001,
+          "films": [
+            {
+              "idFilm": 48793,
+              "titre": "Gendarme et les extra-terrestres",
+              "art": "Le",
+              "titreVo": "",
+              "realisateurs": "Jean Girault",
+              "annee": 1978,
+              "pays": "France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Les célèbres gendarmes de Saint-Tropez se retrouvent confrontés à des extraterrestres."
+                }
+              ],
+              "generique": [
+                "Louis de Funès",
+                "Michel Galabru",
+                "Maurice Risch"
+              ],
+              "duree": 90,
+              "format": "35 mm",
+              "version": "",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-10-09T22:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

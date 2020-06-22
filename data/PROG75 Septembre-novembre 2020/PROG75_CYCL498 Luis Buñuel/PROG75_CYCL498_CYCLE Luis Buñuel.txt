@@ -1,0 +1,378 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Les films
+
+<pstyle:TITRE>L<0x2019>Age d<0x2019>or
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>France/1930/63<0x2019>/DCP
+<pstyle:TECHNIQUE>Avec Lya Lys, Gaston Modot, Max Ernst, Pierre Prévert.
+<pstyle:SYNOPSIS>Sur un scénario de Luis Buñuel et Salvador Dali, la force du désir éprouvé par un couple bouscule et renverse l<0x2019>ordre social.
+<pstyle:><cstyle:INFOSBLEUES>me 30 sepXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Ouverture de la rétrospective
+<pstyle:EVENEMENT>Film précédé d<0x2019><cSkew:9>Un chien andalou<cSkew:> de Luis Buñuel et suivi de de <cSkew:9>Terre sans pain<cSkew:> de Luis Buñuel
+
+<pstyle:TITRE>L<0x2019>Ange exterminateur
+<pstyle:TITRE_ANG>(El Angel exterminador)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1962/93<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>D<0x2019>après le cinédrame <cSkew:9>Les Naufragés de la rue providence<cSkew:> de Luis Buñuel et Luis Alcoriza.
+<pstyle:TECHNIQUE>Avec Silvia Pinal, Enrique Rambal, Jacqueline Andere.
+<pstyle:SYNOPSIS>Lors d<0x2019>une réception mondaine, les invités refusent de rentrer chez eux. Ils découvrent qu<0x2019>une force secrète, irrationnelle, les retient cloués là. Des semaines vont s<0x2019>écouler<0x00A0>: ils sont prisonniers...
+<pstyle:><cstyle:INFOSBLEUES>sa 03 octXXX19h30XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>lu 26 octXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Les Aventures de Robinson Crusoé
+<pstyle:TITRE_ANG>(Las Aventuras de Robinson Crusoe)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique-États-Unis/1952/89<0x2019>/VO/35mm
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Robinson Crusoe<cSkew:> de Daniel Defoe.
+<pstyle:TECHNIQUE>Avec Dan O<0x2019>Herlihy, Jaime Fernández, Felipe de Alba, Chel López.
+<pstyle:SYNOPSIS>En route vers l<0x2019>Afrique, Robinson Crusoé fait naufrage et échoue sur une île déserte. Il doit s<0x2019>organiser pour survivre en compagnie de son chien Rex et de sa petite chatte. Un jour, il sauve un homme, qu<0x2019>il baptise Vendredi.
+<pstyle:><cstyle:INFOSBLEUES>sa 10 octXXX14h45XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>sa 24 octXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Belle de jour
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>France-Italie/1966/100<0x2019>/35mm
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Belle de jour<cSkew:> de Joseph Kessel.
+<pstyle:TECHNIQUE>Avec Catherine Deneuve, Jean Sorel, Michel Piccoli, Pierre Clémenti.
+<pstyle:SYNOPSIS>Séverine est une femme au foyer mariée à un riche chirurgien. Un jour, elle entreprend de tuer l<0x2019>ennui et explore sa vie sexuelle en se prostituant régulièrement dans un une maison de rendez-vous. Film restauré par la Cinémathèque française et StudioCanal.
+<pstyle:><cstyle:INFOSBLEUES>di 04 octXXX21h45XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>je 15 octXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Cela s<0x2019>appelle l<0x2019>aurore
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>France-Italie/1955/102<0x2019>
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Cela s<0x2019>appelle l<0x2019>aurore<cSkew:> d<0x2019>Emmanuel Roblès.
+<pstyle:TECHNIQUE>Avec Georges Marchal, Lucia Bosè, Nelly Borgeaud.
+<pstyle:SYNOPSIS>Sur une île méditerranéenne, le docteur Valerio soigne les ouvriers d<0x2019>une compagnie industrielle. Un jour, il fait la connaissance de Clara dont il tombe éperdument amoureux.
+<pstyle:><cstyle:INFOSBLEUES>me 14 octXXX21h15XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Cet obscur objet du désir
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>France-Espagne/1977/102<0x2019>/DCP
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>La Femme et le pantin<cSkew:> de Pierre Louÿs.
+<pstyle:TECHNIQUE>Avec Fernando Rey, Carole Bouquet, Ángela Molina.
+<pstyle:SYNOPSIS>Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de route la passion déchirante qu<0x2019>il a eue pour Conchita, jeune femme qui n<0x2019>a cessé de se promettre à lui et de se dérober.
+<pstyle:><cstyle:INFOSBLEUES>je 08 octXXX21h15XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>di 18 octXXX14h15XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Le Charme discret de la bourgeoisie
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>France-Espagne-Italie/1972/102<0x2019>/DCP
+<pstyle:TECHNIQUE>Avec Fernando Rey, Delphine Seyrig, Bulle Ogier, Jean-Pierre Cassel.
+<pstyle:SYNOPSIS>De malencontreux incidents empêchent à plusieurs reprises les Thévenot et les Sénéchal de dîner ensemble.
+<pstyle:><cstyle:INFOSBLEUES>me 07 octXXX22h00XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>ve 16 octXXX22h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Don Quentin l<0x2019>amer
+<pstyle:TITRE_ANG>(La Hija del engano)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1951/78<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>D<0x2019>après la pièce <cSkew:9>Don Quintin el amargao o El que siembra vientos<cSkew:> de Carlos Arniches et Antonio Estremera.
+<pstyle:TECHNIQUE>Avec Fernando Soler, Alicia Caro, Fernando Soto.
+<pstyle:SYNOPSIS>Jaloux de son infidélité, Don Quintin répudie sa femme dont il abandonne aussi l<0x2019>enfant.
+<pstyle:><cstyle:INFOSBLEUES>di 18 octXXX17h15XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>sa 24 octXXX18h15XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>L<0x2019>Enjôleuse
+<pstyle:TITRE_ANG>(El Bruto)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1952/81<0x2019>/VOAutres/35mm
+<pstyle:TECHNIQUE>Avec Pedro Armendáriz, Katy Jurado, Rosita Arenas.
+<pstyle:SYNOPSIS>Cabrera, homme riche et sans scrupules, n<0x2019>hésite pas à chasser les locataires de l<0x2019>immeuble vétuste qui lui appartient. Les délogés organisent leur résistance.
+<pstyle:><cstyle:INFOSBLEUES>di 11 octXXX17h15XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>di 25 octXXX18h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Le Fantôme de la liberté
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>France/1974/104<0x2019>/DCP
+<pstyle:TECHNIQUE>Avec Adriana Asti, Julien Bertheau, Michel Piccoli.
+<pstyle:SYNOPSIS>Cadavre exquis dont les quatorze épisodes dévergondent le cartésianisme rigide de notre société.
+<pstyle:><cstyle:INFOSBLEUES>je 08 octXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>sa 24 octXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>La Fièvre monte à El Pao
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>France-Mexique/1959/100<0x2019>
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>La Fièvre monte à El Pao<cSkew:> de Henri Castillou.
+<pstyle:TECHNIQUE>Avec Gérard Philipe, María Félix, Jean Servais.
+<pstyle:SYNOPSIS>Dans un pays où les droits fondamentaux sont souvent bafoués, Ramón Vásquez,un intellectuel idéaliste, tente d<0x2019>améliorer les conditions de vie des détenus d<0x2019>un pénitencier.
+<pstyle:><cstyle:INFOSBLEUES>me 07 octXXX19h30XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>ve 16 octXXX21h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Le Grand casino
+<pstyle:TITRE_ANG>(Gran Casino)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1946/85<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>El Rugido del paraíso<cSkew:> de Michel Weber.
+<pstyle:TECHNIQUE>Avec Libertad Lamarque, Jorge Negrete, Mercedes Barba.
+<pstyle:SYNOPSIS>Un évadé de prison aide et aime la s<0x0153>ur d<0x2019>un homme, tué pendant la prise de contrôle de son puits de pétrole.
+<pstyle:><cstyle:INFOSBLEUES>sa 17 octXXX17h15XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>me 21 octXXX16h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Les Hauts de Hurlevent
+<pstyle:TITRE_ANG>(Abismos de pasion)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1953/90<0x2019>
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Les Hauts de hurlevent<cSkew:> d<0x2019>Emily Brontë.
+<pstyle:TECHNIQUE>Avec Irasema Dilián, Jorge Mistral, Ernesto Alonso.
+<pstyle:SYNOPSIS>Alejandro revient au manoir familial et retrouve Catarina, son premier amour. Il veut l<0x2019>épouser mais la jeune femme a fait un mariage de convenance.
+<pstyle:><cstyle:INFOSBLEUES>di 11 octXXX19h15XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>di 25 octXXX20h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>La Jeune fille
+<pstyle:TITRE_ANG>(La Joven)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique-États-Unis/1960/95<0x2019>
+<pstyle:TECHNIQUE>D<0x2019>après le conte <cSkew:9>Travellin<0x2019> man<cSkew:> de Peter Matthiessen.
+<pstyle:TECHNIQUE>Avec Zachary Scott, Kay Meersman, Bernie Hamilton.
+<pstyle:SYNOPSIS>Sur un île du sud des États-Unis, le face à face de deux hommes, l<0x2019>un blanc, Miller, l<0x2019>autre noir, Travers, accusé de viol.
+<pstyle:><cstyle:INFOSBLEUES>lu 19 octXXX21h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>je 29 octXXX19h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Le Journal d<0x2019>une femme de chambre
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>France-Italie/1963/101<0x2019>/DCP
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Le Journal d<0x2019>une femme de chambre<cSkew:> d<0x2019>Octave Mirbeau.
+<pstyle:TECHNIQUE>Avec Jeanne Moreau, Michel Piccoli, Françoise Lugagne, Georges Géret.
+<pstyle:SYNOPSIS>En 1928, Célestine est embauchée comme femme de chambre chez les Monteil et devient la maîtresse de Joseph, un domestique qui a assassiné une petite fille.
+<pstyle:><cstyle:INFOSBLEUES>me 14 octXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>je 29 octXXX21h45XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Los Olvidados
+<pstyle:TITRE_ANG>(Los Olvidados)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1950/80<0x2019>/VO/DCP
+<pstyle:TECHNIQUE>Avec Estela Inda, Miguel Inclán, Alfonso Mejía.
+<pstyle:SYNOPSIS>La vie criminelle d<0x2019>un groupe d<0x2019>enfants pauvres dans la banlieue de Mexico.
+<pstyle:INFOS_UTILES>Film restauré en 2019 dans le cadre de la World Cinema Project de la Film Foundation, au laboratoire L<0x2019>Immagine Ritrovata, et en collaboration avec la Fundación Televisa, la Cineteca Nacional Mexico et la Filmoteca de la UNAM, grâce au soutien de The Material World Foundation.
+<pstyle:><cstyle:INFOSBLEUES>sa 10 octXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>ve 23 octXXX21h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>La Montée au ciel
+<pstyle:TITRE_ANG>(Subida al cielo)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1951/74<0x2019>
+<pstyle:TECHNIQUE>Avec Lilia Prado, Esteban Márquez, Carmelita González.
+<pstyle:SYNOPSIS>Oliverio interrompt sa nuit de noces car sa mère est mourante. Il doit se rendre en ville chez le notaire afin de régler des problèmes d<0x2019>héritage. Le voyage en autocar est semé d<0x2019>embûches...
+<pstyle:><cstyle:INFOSBLEUES>sa 17 octXXX21h15XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>sa 24 octXXX16h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>La Mort en ce jardin
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>France-Mexique/1956/99<0x2019>/35mm
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>La Mort en ce jardin<cSkew:> de José-André Lacour.
+<pstyle:TECHNIQUE>Avec Simone Signoret, Georges Marchal, Michel Piccoli.
+<pstyle:SYNOPSIS>Fuyant une révolte dans une cité minière de l<0x2019>Amazonie, un petit groupe s<0x2019>enfonce dans la jungle.
+<pstyle:><cstyle:INFOSBLEUES>di 11 octXXX21h15XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>sa 24 octXXX20h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Nazarín
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1958/94<0x2019>
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Nazarín<cSkew:> de Benito Pérez Galdós.
+<pstyle:TECHNIQUE>Avec Francisco Rabal, Marga López, Ignacio López Tarso.
+<pstyle:SYNOPSIS>Le jeune prêtre Nazario, ayant protégé une prostituée soupçonnée de meurtre, est contraint de fuir.
+<pstyle:><cstyle:INFOSBLEUES>ve 02 octXXX21h00XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>ve 16 octXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>On a volé un tram
+<pstyle:TITRE_ANG>(La Ilusion viaja en tranvia)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1953/82<0x2019>
+<pstyle:TECHNIQUE>Avec Lilia Prado, Carlos Navarro, Fernando Soto.
+<pstyle:SYNOPSIS>Dans le vieux Mexico, le tram 133, destiné à la ferraille, accomplit un dernier voyage.
+<pstyle:><cstyle:INFOSBLEUES>di 18 octXXX21h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>di 25 octXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Pierre et Jean
+<pstyle:TITRE_ANG>(Una mujer sin amor)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1951/86<0x2019>
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Pierre et Jean<cSkew:> de Guy de Maupassant.
+<pstyle:TECHNIQUE>Avec Rosario Granados, Tito Junco, Julio Villareal.
+<pstyle:SYNOPSIS>Carlito, parvenu à l<0x2019>âge adulte, soupçonne sa mère d<0x2019>infidélité.
+<pstyle:><cstyle:INFOSBLEUES>di 18 octXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>sa 31 octXXX15h45XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Le Rio de la mort = Le Fleuve de la mort
+<pstyle:TITRE_ANG>(El Rio y la muerte)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1954/82<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Muro blanco sobre roca negra<cSkew:> de Miguel Álvarez Acosta.
+<pstyle:TECHNIQUE>Avec Columba Dominguez, Miguel Torruco, Joaquín Cordero.
+<pstyle:SYNOPSIS>À Santa Viviana, les clans Anguiano et Menchaca se livrent une guerre sans répit.
+<pstyle:><cstyle:INFOSBLEUES>lu 19 octXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>di 25 octXXX16h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Susana la perverse
+<pstyle:TITRE_ANG>(Susana)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1950/86<0x2019>
+<pstyle:TECHNIQUE>D<0x2019>après la nouvelle <cSkew:9>Susana<cSkew:> de Manuel Reachi.
+<pstyle:TECHNIQUE>Avec Fernando Soler, Rosita Quintana, Victor Manuel Mendoza.
+<pstyle:SYNOPSIS>Susana, une jeune détenue, s<0x2019>échappe d<0x2019>une maison de redressement. Elle se réfugie dans l<0x2019>hacienda de Don Guadalupe et y séduit l<0x2019>intendant, le père et le fils, semant la zizanie entre eux.
+<pstyle:><cstyle:INFOSBLEUES>sa 10 octXXX21h00XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>ve 23 octXXX19h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Terre sans pain
+<pstyle:TITRE_ANG>(Las Hurdes = Tierra sin pan)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Espagne/1932/27<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>D<0x2019>après une étude de géographie humaine <cSkew:9>Las Jurdes<cSkew:> de Maurice Legendre.
+<pstyle:TECHNIQUE>Avec Abel Jacquin.
+<pstyle:SYNOPSIS>**Avec les habitants de La Alberca dans la région des Hurdes.** Documentaire consacré aux miséreux de la région de Las Hurdes (Estrémadure) confrontés à la maladie (goitre, paludisme), aux dangers (vipères) et à la mort.
+<pstyle:><cstyle:INFOSBLEUES>me 30 sepXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Ouverture de la rétrospective
+<pstyle:EVENEMENT>Film précédé de <cSkew:9>L<0x2019>Age d<0x2019>or<cSkew:> de Luis Buñuel, <cSkew:9>Un chien andalou<cSkew:> de Luis Buñuel
+
+<pstyle:TITRE>Tourments
+<pstyle:TITRE_ANG>(El)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1952/91<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>El<cSkew:> de Mercedes Pinto.
+<pstyle:TECHNIQUE>Avec Arturo de Córdova, Delia Garcés, Aurora Walker.
+<pstyle:SYNOPSIS>Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d<0x2019>une jalousie paranoïaque.
+<pstyle:><cstyle:INFOSBLEUES>je 01 octXXX21h30XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>sa 10 octXXX16h45XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Tristana
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Espagne-Italie-France/1969/95<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Tristana<cSkew:> de Benito Pérez Galdós.
+<pstyle:TECHNIQUE>Avec Catherine Deneuve, Fernando Rey, Franco Nero.
+<pstyle:SYNOPSIS>À Tolède, Don Lope devient le tuteur et l<0x2019>amant de la jeune Tristana, débordante de fantasmes.
+<pstyle:><cstyle:INFOSBLEUES>di 04 octXXX19h45XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>je 15 octXXX21h15XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Un chien andalou
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>France/1928/17<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Pierre Batcheff, Simone Mareuil, Salvador Dali.
+<pstyle:SYNOPSIS>Il était une nuit au son du tango argentin. Un homme aiguise son rasoir près du balcon avant de trancher l<0x2019><0x0153>il grand ouvert d<0x2019>une jeune fille impassible. «<0x00A0>Dali et moi, en travaillant sur le scénario, nous pratiquions une sorte d<0x2019>écriture automatique, nous étions surréalistes sans l<0x2019>étiquette.<0x00A0>» (Luis Buñuel)
+<pstyle:><cstyle:INFOSBLEUES>me 30 sepXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Ouverture de la rétrospective
+<pstyle:EVENEMENT>Film suivi de <cSkew:9>L<0x2019>Age d<0x2019>or<cSkew:> de Luis Buñuel, <cSkew:9>Terre sans pain<cSkew:> de Luis Buñuel
+
+<pstyle:TITRE>Un grand noceur
+<pstyle:TITRE_ANG>(El Gran calavera)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1949/90<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>El Gran cavalera<cSkew:> d<0x2019>Adolfo Torrado.
+<pstyle:TECHNIQUE>Avec Fernando Soler, Rosario Granados, Andrés Soler.
+<pstyle:SYNOPSIS>Don Ramiro, un riche veuf, se console dans l<0x2019>alcool et la débauche. Sa famille parasite s<0x2019>inquiète de voir le patrimoine se dilapider à vue d<0x2019><0x0153>il.
+<pstyle:><cstyle:INFOSBLEUES>sa 17 octXXX19h15XXX
+<cstyle:SALLESBLEUES>B
+<cstyle:INFOSBLEUES>me 21 octXXX12h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>La Vie criminelle d<0x2019>Archibald de la Cruz
+<pstyle:TITRE_ANG>(Ensayo de un crimen)
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Mexique/1955/90<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Ensayo de un crimen<cSkew:> de Rodolfo Usigli.
+<pstyle:TECHNIQUE>Avec Ernesto Alonso, Miroslava Stern, Rita Macedo.
+<pstyle:SYNOPSIS>Après la mort accidentelle suspecte d<0x2019>une jeune infirmière, Archibald de la Cruz, grand bourgeois de Mexico, se confie au juge et lui fait le récit de ses pulsions de tueur de femmes.
+<pstyle:><cstyle:INFOSBLEUES>ve 02 octXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>lu 26 octXXX21h15XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Viridiana
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>Espagne-Mexique/1961/90<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Halma<cSkew:> de Benito Pérez Galdós.
+<pstyle:TECHNIQUE>Avec Silvia Pinal, Francisco Rabal, Fernando Rey.
+<pstyle:SYNOPSIS>Jeune novice dans un couvent espagnol, Viridiana rend visite à son oncle Jaime qui découvre en elle le sosie de son épouse morte vingt ans auparavant, le soir de ses noces.
+<pstyle:><cstyle:INFOSBLEUES>sa 03 octXXX21h30XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>sa 17 octXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>La Voie lactée
+<pstyle:TECHNIQUE>de Luis Buñuel
+<pstyle:TECHNIQUE>France-Italie/1968/101<0x2019>/DCP
+<pstyle:TECHNIQUE>Avec Paul Frankeur, Laurent Terzieff, Julien Guiomar, Delphine Seyrig.
+<pstyle:SYNOPSIS>Sur la route de Saint-Jacques-de-Compostelle, deux vagabonds font d<0x2019>étranges rencontres.
+<pstyle:><cstyle:INFOSBLEUES>di 04 octXXX17h30XXX
+<cstyle:SALLESBLEUES>A
+<cstyle:INFOSBLEUES>di 01 novXXX14h15XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:CATEGORIE>Autour de Luis Buñuel
+
+<pstyle:TITRE>Cinéastes de notre temps<0x00A0>: Luis Buñuel TV
+<pstyle:TECHNIQUE>de Robert Valey
+<pstyle:TECHNIQUE>France/1964/44<0x2019>/DCP
+<pstyle:SYNOPSIS>Premier film de la série, ce portrait de Luis Buñuel se décline en deux parties<0x00A0>: la première s<0x2019>attache à retracer la vie de l<0x2019>artiste et cinéaste surréaliste, la seconde est un entretien avec l<0x2019>auteur de <ct:Italic>L<0x2019> Âge d<0x2019>or<ct:>.
+<pstyle:><cstyle:INFOSBLEUES>sa 31 octXXX14h30XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:CATEGORIE>Rencontres et conférences
+
+<pstyle:TITRE>«<0x00A0>Tours et détours<0x00A0>: les films mexicains de Luis Buñuel (1947-1965)<0x00A0>»
+<pstyle:TECHNIQUE>undefined
+<pstyle:TECHNIQUE>90<0x2019>
+<pstyle:SYNOPSIS>«<0x00A0>Je me sentais si peu attiré par l<0x2019>Amérique latine que je disais toujours à mes amis<0x00A0>: <0x2019><0x2019>Si je disparais, cherchez moi partout dans le monde, sauf là<0x2019><0x2019><0x00A0>», écrit Buñuel dans son autobiographie <ct:Italic>Mon dernier soupir<ct:>. Pourtant, le maître aragonais aura vécu près de quarante ans au Mexique, où il dirige vingt de ses trente-deux films, de <ct:Italic>Grand Casino<ct:> à <ct:Italic>Simon du désert e<ct:>n passant par <ct:Italic>Los Olvidados<ct:>. Il y est même, en pleine guerre froide, l<0x2019>une des cibles principales des services secrets mexicains. Mexico devient le lieu de rencontres capitales où le cinéaste collabore avec des intellectuels reconnus (Carlos Fuentes, Elena Poniatowska, Max Aub) et participe à la splendeur de l<0x2019>industrie cinématographique mexicaine (avec Gustavo Alatriste, Gabriel Figueroa, Arturo Ripstein), employant les grandes stars de l<0x2019>époque (Silvia Pinal, Libertad Lamarque, Jorge Negrete, Claudio Brook). Terreau de grandes affinités électives, ce faux dépaysement est surtout le lieu incontournable où s<0x2019>affirme l<0x2019>univers narratif de Buñuel, puisqu<0x2019>il y crée une infinité de variations de l<0x2019>enfermement et de l<0x2019>hallucination, sans oublier sa satire de la religion et du machisme latino-américains. Ou<0x00A0>: ce que le Mexique doit à Buñuel, ce que Buñuel doit au Mexique.
+<pstyle:SYNOPSIS>Docteure en cinéma, ancien professeur à l<0x2019>École du Louvre et la New York University, **Gabriela Trujillo** est spécialiste des avant-gardes latino-américaines et européennes. Elle travaille actuellement à l<0x2019>Action culturelle de la Cinémathèque française.
+<pstyle:><cstyle:INFOSBLEUES>je 01 octXXX19h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Dialogue avec Jean-Claude Carrière
+<pstyle:TECHNIQUE>undefined
+<pstyle:SYNOPSIS>«<0x00A0>Luis n<0x2019>aimait pas parler de ses films, mais je crois qu<0x2019>il gardait une secrète préférence pour celui-ci (...). Naturellement, nous ne pouvons pas espérer, dans un cas pareil, que tout le monde suive. Nous savons qu<0x2019>ils seront nombreux, ceux qui diront, non sans irritation: «<0x00A0>Mais je ne comprends pas<0x00A0>! Ça n<0x2019>a ni queue ni tête<0x00A0>! Qu<0x2019>est-ce qu<0x2019>on me raconte<0x00A0>? Qu<0x2019>est-ce que ça veut dire<0x00A0>?<0x00A0>» Tant pis. Tant pis pour eux et tant pis pour nous.<0x00A0>» Jean-Claude Carrière, <ct:Italic>Ateliers<ct:> (éd. Odile Jacob, 2020)
+<pstyle:SYNOPSIS>**Frédéric Bonnaud** est directeur général de La Cinémathèque française.
+<pstyle:><cstyle:INFOSBLEUES>sa 24 octXXX15h00XXX
+<cstyle:SALLESBLEUES>A
+

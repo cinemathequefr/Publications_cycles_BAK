@@ -66,6 +66,12 @@ De malencontreux incidents empêchent à plusieurs reprises les Thévenot et les
 
 > (Site) De malencontreux incidents empêchent à plusieurs reprises les Thévenot et les Sénéchal de dîner ensemble.
 
+[144938]  
+**Cinéastes de notre temps : Luis Buñuel TV**  
+de Robert Valey  
+France / 1964  
+Premier film de la série, ce portrait de Luis Buñuel se décline en deux parties : la première s'attache à retracer la vie de l'artiste et cinéaste surréaliste, la seconde est un entretien avec l'auteur de _L' Âge d'or_.
+
 [43105]*  
 **Don Quentin l'amer**  
 **(La Hija del engano)**  

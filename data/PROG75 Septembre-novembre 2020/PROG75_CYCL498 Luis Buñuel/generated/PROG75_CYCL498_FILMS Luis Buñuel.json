@@ -155,6 +155,21 @@
     ]
   },
   {
+    "titre": "Cinéastes de notre temps : Luis Buñuel TV",
+    "titreVo": "",
+    "idFilm": 144938,
+    "ageMinimal": null,
+    "realisateurs": "Robert Valey",
+    "annee": 1964,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Premier film de la série, ce portrait de Luis Buñuel se décline en deux parties : la première s'attache à retracer la vie de l'artiste et cinéaste surréaliste, la seconde est un entretien avec l'auteur de _L' Âge d'or_."
+      }
+    ]
+  },
+  {
     "titre": "Don Quentin l'amer",
     "titreVo": "Hija del engano",
     "artVo": "La",

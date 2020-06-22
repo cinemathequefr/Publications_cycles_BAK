@@ -1,0 +1,58 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>De Funès et les extraterrestres
+
+<pstyle:TITRE>La Soupe aux choux
+<pstyle:TECHNIQUE>de Jean Girault
+<pstyle:TECHNIQUE>France/1981/88<0x2019>
+<pstyle:TECHNIQUE>Avec Louis de Funès, Jean Carmet, Jacques Villeret.
+<pstyle:SYNOPSIS>Deux vieux paysans alcooliques, Le Glaude et Le Bombé, vivent retirés de la vie moderne. Une nuit, un extra-terrestre atterrit en soucoupe volante dans le jardin d<0x2019>un des deux, qui lui offre, en en gage de bienvenue, un peu de sa fameuse soupe aux choux...
+<pstyle:><cstyle:INFOSBLEUES>ve 09 octXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Le Gendarme et les extra-terrestres
+<pstyle:TECHNIQUE>de Jean Girault
+<pstyle:TECHNIQUE>France/1978/90<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Louis de Funès, Michel Galabru, Maurice Risch.
+<pstyle:SYNOPSIS>Les célèbres gendarmes de St Tropez se retrouvent confrontés à des extraterrestres.
+<pstyle:><cstyle:INFOSBLEUES>ve 09 octXXX22h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:CATEGORIE>[?]
+
+<pstyle:TITRE>Tarzan, l<0x2019>homme singe
+<pstyle:TITRE_ANG>(Tarzan, the Ape Man)
+<pstyle:TECHNIQUE>de John Derek
+<pstyle:TECHNIQUE>États-Unis/1981/111<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Richard Harris, Bo Derek.
+<pstyle:SYNOPSIS>Jane Parker part à la recherche de son père, explorateur en Afrique occidentale, disparu depuis de longues années.
+<pstyle:><cstyle:INFOSBLEUES>ve 04 sepXXX20h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>La Montagne du dieu cannibale
+<pstyle:TITRE_ANG>(La Montagna del dio cannibale)
+<pstyle:TECHNIQUE>de Sergio Martino
+<pstyle:TECHNIQUE>Italie/1978/93<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Ursula Andress, Helmut Berger, Stacy Keach.
+<pstyle:SYNOPSIS>Accompagnée de son frère et du professeur Foster, Susan Stevenson part à la recherche de son mari disparu au cours d<0x2019>une mission anthropologique en Nouvelle-Guinée, Ils doivent passer par la terrible jungle de Marabata, territoire d<0x2019>une féroce tribu cannibale.
+<pstyle:><cstyle:INFOSBLEUES>ve 04 sepXXX22h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Panique année zéro
+<pstyle:TITRE_ANG>(Panic in Year Zero)
+<pstyle:TECHNIQUE>de Ray Milland
+<pstyle:TECHNIQUE>États-Unis/1962/VOSTF/35mm
+<pstyle:TECHNIQUE>Avec Ray Milland, Jean Hagen, Frankie Avalon.
+<pstyle:SYNOPSIS>Los Angeles est détruit par une attaque nucléaire. Commence alors la lutte pour la survie. Un honorable père de famille américain révèle sa véritable nature.
+<pstyle:><cstyle:INFOSBLEUES>ve 27 novXXX20h00XXX
+<cstyle:SALLESBLEUES>B
+
+<pstyle:TITRE>Les Guerriers du Bronx 2
+<pstyle:TITRE_ANG>(Fuga dal Bronx)
+<pstyle:TECHNIQUE>d<0x2019>Enzo G. Castellari
+<pstyle:TECHNIQUE>Italie/1983/88<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Henry Silva, Mark Gregory, Valeria D<0x2019>Obici.
+<pstyle:SYNOPSIS>Un projet de renovation du Bronx, à New York, menace les intérêts de la pègre locale. Un âpre combat va opposer les truands au mercenaire engagé par la multinationale chargée des travaux.
+<pstyle:><cstyle:INFOSBLEUES>ve 27 novXXX22h00XXX
+<cstyle:SALLESBLEUES>B
+

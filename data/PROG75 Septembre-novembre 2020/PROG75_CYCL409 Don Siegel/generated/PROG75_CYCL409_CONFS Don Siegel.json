@@ -25,5 +25,23 @@
       }
     ],
     "sousTitre": "Conférence de Jean-François Rauger"
+  },
+  {
+    "idCategorie": 2214,
+    "idEvenement": 22796,
+    "titre": "Discussion avec Yal Sadat",
+    "duree": 45,
+    "idTypeConference": 146,
+    "typeConference": "Conversation",
+    "textes": [
+      {
+        "typeTexte": 8,
+        "texte": "Texte à saisir"
+      },
+      {
+        "typeTexte": 156,
+        "texte": "Texte à saisir"
+      }
+    ]
   }
 ]
