@@ -172,6 +172,11 @@
           "titre": "Cinéma bis",
           "cats": [2315],
           "tri": 4
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2319],
+          "tri": 4
         }
       ]
     },
