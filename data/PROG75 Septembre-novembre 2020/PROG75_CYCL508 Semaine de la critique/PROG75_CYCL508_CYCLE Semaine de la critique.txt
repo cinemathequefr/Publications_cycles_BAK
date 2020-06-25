@@ -1,0 +1,81 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Film d'ouverture
+
+<pstyle:TITRE>La Terre des hommes
+<pstyle:TECHNIQUE>de Naël Marandin
+<pstyle:TECHNIQUE>France/2020/96<0x2019>/DCP
+<pstyle:TECHNIQUE>Avec Diane Rouxel, Finnegan Oldfield, Olivier Gourmet, Jalil Lespert.
+<pstyle:SYNOPSIS>Constance est fille d<0x2019>agriculteur. Avec son fiancé, elle veut reprendre l<0x2019>exploitation de son père et la sauver de la faillite. Pour cela, il leur faut s<0x2019>agrandir, investir et s<0x2019>imposer face aux grands exploitants qui se partagent les terres et le pouvoir. Battante, Constance obtient le soutien de l<0x2019>un d<0x2019>eux. Influent et charismatique, il tient leur avenir entre ses mains. Mais quand il impose son désir au milieu des négociations, Constance doit faire face à cette nouvelle violence
+<pstyle:><cstyle:INFOSBLEUES>ve 16 octXXX20h00XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:CATEGORIE>Longs métrages
+
+<pstyle:CATEGORIE>Courts métrages
+
+<pstyle:TITRE>Marlon Brando
+<pstyle:TECHNIQUE>de Vincent Tilanus
+<pstyle:TECHNIQUE>Pays-Bas/2020/19<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Tijn Winters, Jetske Lieber.
+<pstyle:SYNOPSIS>Cas et Naomi sont meilleurs amis. Ils terminent le lycée et passent chaque seconde de leurs journées ensembles. Leur amitié leur apporte un sentiment de sécurité absolue. Pourtant, quand leurs projets pour le futur semblent diverger, leur relation vacille.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Good Thanks, You?
+<pstyle:TECHNIQUE>de Molly Manning Walker
+<pstyle:TECHNIQUE>Grande-Bretagne/2020/13<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Jasmine Jobson, Micheal Ward.
+<pstyle:SYNOPSIS>A la suite d<0x2019>une agression, Amy reste sans voix, prise au piège dans un maelström d<0x2019>incompétences. Elle doit trouver un moyen d<0x2019>affronter ce qu<0x2019>il s<0x2019>est passé pour préserver ce qui lui est le plus précieux.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Etrangère
+<pstyle:TITRE_ANG>(Forastera)
+<pstyle:TECHNIQUE>de Lucia Aleñar Iglesias
+<pstyle:TECHNIQUE>Espagne/2020/19<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Zoe Stein, Miquel Gelabert.
+<pstyle:SYNOPSIS>Alors qu<0x2019>elle passe son été à Majorque, Antonia constate des similitudes latentes entre elle et sa grand-mère récemment décédée.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Maalbeeck
+<pstyle:TECHNIQUE>d<0x2019>Ismaël Joffroy Chandoutis
+<pstyle:TECHNIQUE>France/2020/15<0x2019>/DCP
+<pstyle:SYNOPSIS>Sabine est à la recherche d<0x2019>une image manquante<0x00A0>: un jour qui a laissé une marque indélébile et dont tout le monde se souvient, sauf elle. Mais n<0x2019>est-ce pas cette absence qui lui permet d<0x2019>aller de l<0x2019>avant<0x00A0>?
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Humongous!
+<pstyle:TECHNIQUE>d<0x2019>Aya Kawazoe
+<pstyle:TECHNIQUE>Japon/2020/11<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Miki Tatewaki.
+<pstyle:SYNOPSIS>Eiko a continuellement des flashbacks de son enfance. Dans un endroit où elle est entourée d<0x2019>un bruit immense, un garçon se met à courir et Eiko tombe d<0x2019>une balançoire. Sont-ce des souvenirs, des rêves ou le moment présent<0x00A0>? Ou bien sont-ce ceux de quelqu<0x2019>un d<0x2019>autre<0x00A0>? Le son augmente. C<0x2019>est vraiment gigantesque.
+<pstyle:><cstyle:INFOSBLEUES>sa 17 octXXX18h30XXX
+<cstyle:SALLESBLEUES>A
+
+<pstyle:TITRE>Dustin
+<pstyle:TECHNIQUE>de Naïla Guiguet
+<pstyle:TECHNIQUE>France/2020/20<0x2019>/DCP
+<pstyle:TECHNIQUE>Avec Dustin Muchuvitz, Félix Maritaud.
+<pstyle:SYNOPSIS>Dans un hangar désaffecté, une foule danse à l<0x2019>unisson, secouée par 145 BPM de musique techno. Parmi elle, Dustin, jeune transgenre, et sa bande<0x00A0>: Félix, Raya et Juan. Au fur et à mesure que la nuit s<0x2019>étire, l<0x2019>hystérie collective se mue en mélancolie douce, et l<0x2019>ivresse en manque de tendresse.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>White Goldfish
+<pstyle:TECHNIQUE>de Jan Roosens, Raf Roosens
+<pstyle:TECHNIQUE>Belgique/2020/8<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Circé Lethem, Gloria Catteew.
+<pstyle:SYNOPSIS>Stella, une fille de 10 ans, prend soudainement conscience de la nature intime de la relation qu<0x2019>entretient sa mère avec la mystérieuse Patty.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Axsama dogru
+<pstyle:TECHNIQUE>de Teymur Hajiyev
+<pstyle:TECHNIQUE>Azerbaïdjan/2020/12<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Leyla Madatkhanova, Teymur Hajiyev.
+<pstyle:SYNOPSIS>Un couple pour lequel proximité des corps ne rime pas avec communion des esprits, est en route pour une réunion de famille à l<0x2019>extérieur de la ville. Un différend de l<0x2019>ordre de la broutille les contraint à s<0x2019>arrêter, et les mène à faire une découverte inattendue quoique prévisible.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Menarca
+<pstyle:TECHNIQUE>de Lillah Halla
+<pstyle:TECHNIQUE>Brésil/2020/22<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Aldo Bueno, Amanda Dourado.
+<pstyle:SYNOPSIS>Dans un village brésilien infesté de piranhas, Nanã et Mel deviennent très vite adolescentes et rêvent aux moyens de se protéger contre une violence qui semble inéluctable. Quand apparaît un corps mystérieux emmêlé dans les filets d<0x2019>un pêcheur, elles découvrent ce qui pourrait être leur protection ultime.
+<pstyle:SUIVI_DE>Suivi de
+<pstyle:TITRE>Le 22 août de cette année
+<pstyle:TITRE_ANG>(August 22, This year)
+<pstyle:TECHNIQUE>de Graham Foy
+<pstyle:TECHNIQUE>Canada/2020/15<0x2019>/VOSTF/DCP
+<pstyle:TECHNIQUE>Avec Uri Liven-Bar, Robert Nasmith.
+<pstyle:SYNOPSIS><ct:Italic>August 22, This Year<ct:> nous invite à méditer sur la mort, à l<0x2019>accepter collectivement et à accueillir le présent à bras ouverts.
+<pstyle:><cstyle:INFOSBLEUES>di 18 octXXX18h30XXX
+<cstyle:SALLESBLEUES>A
+

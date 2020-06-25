@@ -144,6 +144,17 @@
       ]
     },
     {
+      "idCycleProg": 461,
+      "titreCycle": "Léonide Moguy",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2055],
+          "tri": 1
+        }
+      ]
+    },
+    {
       "idCycleProg": 499,
       "titreCycle": "Jean-Claude Carrière",
       "sousCycles": [
@@ -206,9 +217,19 @@
       "titreCycle": "Semaine de la critique",
       "sousCycles": [
         {
-          "titre": "Les films",
-          "cats": [2308],
-          "tri": 1
+          "titre": "Film d'ouverture",
+          "cats": [2322],
+          "tri": 4
+        },
+        {
+          "titre": "Longs métrages",
+          "cats": [2320],
+          "tri": 4
+        },
+        {
+          "titre": "Courts métrages",
+          "cats": [2321],
+          "tri": 4
         }
       ]
     },
