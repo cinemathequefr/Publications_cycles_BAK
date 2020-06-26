@@ -1,0 +1,13 @@
+<ANSI-WIN>
+<vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
+<pstyle:CATEGORIE>Matrimoine
+
+<pstyle:CATEGORIE TXT>Les Journées du Matrimoine à La Cinémathèque française L<0x2019>association HF Île-de-France, qui agit en faveur de l<0x2019>égalité entre les Femmes et les Hommes dans les Arts et la Culture depuis 10 ans, a lancé en 2015 la 1ère édition des «<0x00A0>Journées du Matrimoine<0x00A0>», en écho aux «<0x00A0>Journées du Patrimoine<0x00A0>». Quatre années plus tard, on peut parler d<0x2019>effet Matrimoine au regard des nombreuses initiatives prises en Île-de-France sur le sujet. À l<0x2019>occasion de cette 5ème édition, les 21 et 22 septembre 2019, La Cinémathèque française et HF Ile-de-France proposent en ouverture une projection gratuite d<0x2019><ct:Italic>Olivia<ct:> de la réalisatrice Jacqueline Aubry, l<0x2019>une des rares femmes cinéastes des années 1950 en France.
+
+<pstyle:TITRE>Colette
+<pstyle:TECHNIQUE>de Yannick Bellon
+<pstyle:TECHNIQUE>France/1950
+<pstyle:TECHNIQUE>Avec Colette, Maurice Goudeket, Pauline Tissandier, Georges Wague.
+<pstyle:><cstyle:INFOSBLEUES>ve 18 sepXXX20h30XXX
+<cstyle:SALLESBLEUES>C
+

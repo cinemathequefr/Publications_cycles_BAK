@@ -5,6 +5,17 @@
   "dateTo": "",
   "cycles": [
     {
+      "idCycleProg": 11,
+      "titreCycle": "Séances spéciales",
+      "sousCycles": [
+        {
+          "titre": "Matrimoine",
+          "cats": [2113],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 13,
       "titreCycle": "Cinéma d'avant-garde",
       "sousCycles": [
@@ -36,8 +47,8 @@
       "titreCycle": "Conservatoire des techniques cinématographiques",
       "sousCycles": [
         {
-          "titre": "",
-          "cats": [2259],
+          "titre": "Automne 2020",
+          "cats": [1856],
           "tri": 4
         }
       ]

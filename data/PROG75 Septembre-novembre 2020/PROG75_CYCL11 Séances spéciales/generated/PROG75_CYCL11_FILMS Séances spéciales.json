@@ -1,0 +1,17 @@
+[
+  {
+    "titre": "Colette",
+    "titreVo": "",
+    "idFilm": 46676,
+    "ageMinimal": null,
+    "realisateurs": "Yannick Bellon",
+    "annee": 1950,
+    "pays": "France",
+    "generique": [
+      "Colette",
+      "Maurice Goudeket",
+      "Pauline Tissandier",
+      "Georges Wague"
+    ]
+  }
+]

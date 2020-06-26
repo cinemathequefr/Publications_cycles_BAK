@@ -1,0 +1,24 @@
+{
+  "header": {
+    "idCycleProg": 461,
+    "titreCycle": "Léonide Moguy",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          2055
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 75
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "textes": [],
+      "items": []
+    }
+  ]
+}
