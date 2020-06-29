@@ -4,7 +4,7 @@
     "typeEvenement": 13,
     "idEvenement": 22849,
     "idSeance": 36163,
-    "dateHeure": "2020-09-18T20:30:00",
+    "dateHeure": "2020-09-18T20:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -13,6 +13,59 @@
       {
         "idFilm": 46676,
         "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2246,
+    "typeEvenement": 13,
+    "idEvenement": 22158,
+    "idSeance": 36183,
+    "dateHeure": "2020-11-26T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 37342,
+        "ordre": 1,
+        "idSeance": 36183,
+        "idCopie": 3693,
+        "duree": 23,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 143689,
+        "ordre": 2,
+        "idSeance": 36183,
+        "idCopie": 20700,
+        "duree": 15,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 143690,
+        "ordre": 3,
+        "idSeance": 36183,
+        "idCopie": 20699,
+        "duree": 20,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 1
+      },
+      {
+        "idFilm": 66147,
+        "ordre": 4,
+        "idSeance": 36183,
+        "idCopie": 15286,
+        "duree": 18,
+        "version": "INT. FR.",
+        "format": "DCP",
+        "valide": 1
       }
     ]
   }
