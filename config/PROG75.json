@@ -278,6 +278,17 @@
           "tri": 4
         }
       ]
+    },
+    {
+      "idCycleProg": 513,
+      "titreCycle": "Réalisatrices soviétiques",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2324],
+          "tri": 1
+        }
+      ]
     }
   ]
 }
