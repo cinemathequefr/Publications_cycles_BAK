@@ -9,8 +9,8 @@
           "ordre": 1,
           "dateHeure": "2020-10-28T19:00:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 2283,
           "idEvenement": 22476,
@@ -35,7 +35,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Hugues, un vétérinaire, rencontre Jeanne via une agence matrimoniale et installe son cabinet dans son grand appartement. Très vite, il la soupçonne d'avoir un amant et elle est effrayée par la quantité d'animaux présents chez eux, annonçant un danger imminent."
+              "texte": "Hugues, un vétérinaire, rencontre Jeanne via une agence matrimoniale, et installe son cabinet dans son grand appartement. Mais il la soupçonne d'avoir un amant, et, de son côté, Jeanne est effrayée par la quantité d'animaux qui les envahissent peu à peu."
             }
           ]
         },
@@ -70,7 +70,11 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Séverine est une femme au foyer mariée à un riche chirurgien. Un jour, elle entreprend de tuer l'ennui et explore sa vie sexuelle en se prostituant régulièrement dans un une maison de rendez-vous. Film restauré par la Cinémathèque française et StudioCanal."
+              "texte": "Séverine, femme au foyer mariée à un riche chirurgien, décide de rompre avec l'insatisfaction et de se prostituer l'après-midi chez madame Anaïs, une maison de rendez-vous dont lui a parlé un ami de son mari."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré par la Cinémathèque française et StudioCanal."
             }
           ]
         },
@@ -105,7 +109,11 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Séverine est une femme au foyer mariée à un riche chirurgien. Un jour, elle entreprend de tuer l'ennui et explore sa vie sexuelle en se prostituant régulièrement dans un une maison de rendez-vous. Film restauré par la Cinémathèque française et StudioCanal."
+              "texte": "Séverine, femme au foyer mariée à un riche chirurgien, décide de rompre avec l'insatisfaction et de se prostituer l'après-midi chez madame Anaïs, une maison de rendez-vous dont lui a parlé un ami de son mari."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré par la Cinémathèque française et StudioCanal."
             }
           ]
         },
@@ -139,7 +147,38 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Anna se remet enfin de la mort de son mari, Sean, quand elle rencontre un jeune garçon de dix ans. Il semble tout savoir de ce qu'elle a partagé avec Sean, ce qui éveille la curiosité d'Anna et sème le doute dans son esprit."
+              "texte": "Anna s'est péniblement remise de la mort de son mari, Sean, et a refait sa vie, lorsqu'elle rencontre un garçon de dix ans qui semble être la réincarnation de Sean."
+            }
+          ]
+        },
+        {
+          "idSeance": 36178,
+          "ordre": 1,
+          "dateHeure": "2020-11-06T20:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2283,
+          "idEvenement": 22606,
+          "typeEvenement": 13,
+          "idFilm": 144155,
+          "titre": "Carrière, 250 metros",
+          "titreVo": "",
+          "realisateurs": "Juan Carlos Rulfo, Natalia Gil Torner",
+          "annee": 2011,
+          "pays": "Mexique",
+          "ageMinimal": null,
+          "generique": [
+            "Peter Brook",
+            "Jean-Claude Carrière",
+            "Milos Forman",
+            "Pierre Étaix"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Écrivain, dramaturge, scénariste, réalisateur, mais aussi père de deux filles, Jean-Claude Carrière revient sur sa vie, sa carrière et se penche sur les 250 mètres qui séparent la maison où il est né du cimetière où il sera enterré."
             }
           ]
         },
@@ -157,7 +196,7 @@
           "idFilm": 52063,
           "titre": "Cartes sur table",
           "titreVo": "Cartas boca arriba",
-          "realisateurs": "Jesus Franco",
+          "realisateurs": "Jesús Franco",
           "annee": 1965,
           "pays": "Espagne-France",
           "duree": 91,
@@ -172,7 +211,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Un agent secret enquête sur une série d'assassinats de personnalités internationales commis par des terroristes génétiquement modifiés"
+              "texte": "Un agent secret enquête sur une série d'assassinats de personnalités internationales commis par des terroristes génétiquement modifiés."
             }
           ]
         },
@@ -211,12 +250,12 @@
           ]
         },
         {
-          "idSeance": 36140,
+          "idSeance": 36157,
           "ordre": 1,
-          "dateHeure": "2020-10-18T14:15:00",
+          "dateHeure": "2020-10-28T21:00:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "idCategorie": 2283,
           "idEvenement": 22438,
@@ -247,7 +286,7 @@
         {
           "idSeance": 35798,
           "ordre": 1,
-          "dateHeure": "2020-10-07T22:00:00",
+          "dateHeure": "2020-10-07T21:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -280,37 +319,36 @@
           ]
         },
         {
-          "idSeance": 36139,
+          "idSeance": 36179,
           "ordre": 1,
-          "dateHeure": "2020-10-16T22:00:00",
+          "dateHeure": "2020-11-05T20:00:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 2283,
-          "idEvenement": 22439,
+          "idEvenement": 22605,
           "typeEvenement": 13,
-          "idFilm": 47185,
-          "art": "Le",
-          "titre": "Charme discret de la bourgeoisie",
+          "idFilm": 64903,
+          "art": "La",
+          "titre": "Controverse de Valladolid",
           "titreVo": "",
-          "realisateurs": "Luis Buñuel",
-          "annee": 1972,
-          "pays": "France-Espagne-Italie",
-          "duree": 102,
+          "realisateurs": "Jean-Daniel Verhaeghe",
+          "annee": 1991,
+          "pays": "France",
+          "duree": 87,
           "version": "",
-          "format": "DCP",
+          "format": "Numérique",
           "ageMinimal": null,
           "generique": [
-            "Fernando Rey",
-            "Delphine Seyrig",
-            "Bulle Ogier",
-            "Jean-Pierre Cassel"
+            "Jean-Pierre Marielle",
+            "Jean Carmet",
+            "Jean-Louis Trintignant"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "De malencontreux incidents empêchent à plusieurs reprises les Thévenot et les Sénéchal de dîner ensemble."
+              "texte": "Au XVI<sup>e</sup> siècle, le roi Charles Quint doit trancher la question de l'esclavage des Indiens. Il convoque une assemblée pour un débat, au cours duquel vont s'affronter le chanoine conservateur Sepúlveda et le dominicain humaniste Las Casas."
             }
           ]
         },
@@ -345,51 +383,18 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Le truculent Cyrano de Bergerac sait aussi bien manier le langage que l'épée. Mais sa laideur le désespère de pouvoir un jour, déclarer son amour à Roxanne, sa belle cousine qu'il aime depuis toujours. C'est avec plaisir qu'il accepte de prêter sa plume à un autre prétendant, le beau Christian de Neuvilette, qui contrairement à Cyrano a du charme mais peu d'esprit."
+              "texte": "Le truculent Cyrano de Bergerac sait aussi bien manier les mots que l'épée. Mais sa laideur le désespère de pouvoir un jour déclarer son amour à Roxane. C'est avec plaisir qu'il accepte de prêter sa plume à un autre prétendant, le beau Christian de Neuvillette, qui contrairement à lui a du charme mais peu d'esprit."
             },
             {
               "typeTexte": 99,
-              "texte": "Restauration 4K à partir des négatifs image et son originaux au Laboratoire L'Immagine Ritrovata (Bologne, Paris) par Lagardère Studios Distribution et la Cinémathèque française. Avec le soutien du CNC, du Fonds culturel franco-américain – DGA-MPA-Sacem-WGAW, d'Arte France Unité Cinéma, de Pathé et de Monsieur Francis Kurkdjian."
-            }
-          ]
-        },
-        {
-          "idSeance": 35916,
-          "ordre": 1,
-          "dateHeure": "2020-10-23T22:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2283,
-          "idEvenement": 22610,
-          "typeEvenement": 13,
-          "idFilm": 60678,
-          "titre": "Dans les griffes du maniaque = Le Diabolique docteur Z",
-          "titreVo": "Miss Muerte",
-          "realisateurs": "Jess Franco",
-          "annee": 1965,
-          "pays": "Espagne-France",
-          "duree": 86,
-          "version": "VF",
-          "format": "DCP",
-          "ageMinimal": null,
-          "generique": [
-            "Estella Blain",
-            "Mabel Karr",
-            "Howard Vernon"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort."
+              "texte": "Restauration 4K à partir des négatifs image et son originaux au laboratoire L'Immagine ritrovata par Lagardère Studios Distribution et la Cinémathèque française. Avec le soutien du CNC, du Fonds culturel franco-américain, d'Arte France Cinéma, de Pathé et de monsieur Francis Kurkdjian."
             }
           ]
         },
         {
           "idSeance": 35906,
           "ordre": 1,
-          "dateHeure": "2020-10-25T17:00:00",
+          "dateHeure": "2020-10-25T17:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -412,11 +417,11 @@
             "Wojciech Pszoniak",
             "Patrice Chéreau"
           ],
-          "adaptation": "D'après l'ouvrage _L'Affaire Danton_ de Stanislawa Przybyszewska.",
+          "adaptation": "D'après la pièce _L'Affaire Danton_ de Stanislawa Przybyszewska.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Eté 1793, le Comité de Salut Public, à l'instigation de Robespierre, instaure la « Terreur ». La famine réapparaît, avec elle la révolte, et les têtes tombent. Danton regagnant Paris s'oppose à Robespierre."
+              "texte": "Été 1793 : le Comité de salut public, à l'instigation de Robespierre, instaure la Terreur. La famine réapparaît, entraînant la révolte, et les têtes tombent. Danton, regagnant Paris, s'oppose à Robespierre."
             }
           ]
         },
@@ -517,10 +522,11 @@
             "Hanna Schygulla",
             "Jerzy Skolimowski"
           ],
+          "adaptation": "D'après le roman _Le Faussaire_ de Nicolas Born.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Georg, un reporter allemand, est envoyé à Beyrouth pour enquêter sur les causes de la guerre au Liban. Il y retrouve une ancienne maîtresse et découvre les traumatismes du conflit qu'il refuse de livrer à son retour."
+              "texte": "Georg, un reporter allemand, est envoyé à Beyrouth pour enquêter sur les causes de la guerre au Liban. Il y retrouve une ancienne maîtresse et découvre les traumatismes du conflit, qu'il refuse de raconter à son retour."
             }
           ]
         },
@@ -552,17 +558,18 @@
             "Hanna Schygulla",
             "Jerzy Skolimowski"
           ],
+          "adaptation": "D'après le roman _Le Faussaire_ de Nicolas Born.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Georg, un reporter allemand, est envoyé à Beyrouth pour enquêter sur les causes de la guerre au Liban. Il y retrouve une ancienne maîtresse et découvre les traumatismes du conflit qu'il refuse de livrer à son retour."
+              "texte": "Georg, un reporter allemand, est envoyé à Beyrouth pour enquêter sur les causes de la guerre au Liban. Il y retrouve une ancienne maîtresse et découvre les traumatismes du conflit, qu'il refuse de raconter à son retour."
             }
           ]
         },
         {
           "idSeance": 35936,
           "ordre": 1,
-          "dateHeure": "2020-11-04T12:00:00",
+          "dateHeure": "2020-11-04T19:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -572,7 +579,7 @@
           "typeEvenement": 13,
           "idFilm": 144152,
           "art": "Le",
-          "titre": "Franc-tireur TV",
+          "titre": "Franc-tireur",
           "titreVo": "",
           "realisateurs": "Maurice Failevic",
           "annee": 1978,
@@ -589,7 +596,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Jacques décide de se faire licencier pour toucher des indemnités et ouvrir un commerce en bord de mer avec un ami. Il critique la gestion de son entreprise mais obtient malgré lui une promotion. Dès lors, il va travailler à être renvoyé..."
+              "texte": "Décidé à se faire licencier pour toucher des indemnités et changer de vie, Jacques ne cesse de critiquer son entreprise, mais obtient malgré lui une promotion."
             }
           ]
         },
@@ -608,7 +615,7 @@
           "art": "Le",
           "titre": "Grand amour",
           "titreVo": "",
-          "realisateurs": "Pierre Etaix",
+          "realisateurs": "Pierre Étaix",
           "annee": 1968,
           "pays": "France",
           "duree": 87,
@@ -616,7 +623,7 @@
           "format": "DCP",
           "ageMinimal": null,
           "generique": [
-            "Pierre Etaix",
+            "Pierre Étaix",
             "Annie Fratellini",
             "Nicole Calfan"
           ],
@@ -628,12 +635,80 @@
           ]
         },
         {
+          "idSeance": 36176,
+          "ordre": 1,
+          "dateHeure": "2020-10-29T19:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2283,
+          "idEvenement": 22492,
+          "typeEvenement": 13,
+          "idFilm": 140633,
+          "art": "L'",
+          "titre": "Homme fidèle",
+          "titreVo": "",
+          "realisateurs": "Louis Garrel",
+          "annee": 2018,
+          "pays": "France",
+          "duree": 75,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Louis Garrel",
+            "Laetitia Casta",
+            "Lily-Rose Depp"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Abel et Marianne sont séparés depuis dix ans. Alors qu'ils se retrouvent, Abel décide de la reconquérir, mais les choses ont changé. Marianne a un fils ; sa belle-sœur, la jeune Ève, a bien grandi ; et chacun a des secrets à révéler."
+            }
+          ]
+        },
+        {
+          "idSeance": 36177,
+          "ordre": 1,
+          "dateHeure": "2020-11-04T21:15:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2283,
+          "idEvenement": 22492,
+          "typeEvenement": 13,
+          "idFilm": 140633,
+          "art": "L'",
+          "titre": "Homme fidèle",
+          "titreVo": "",
+          "realisateurs": "Louis Garrel",
+          "annee": 2018,
+          "pays": "France",
+          "duree": 75,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Louis Garrel",
+            "Laetitia Casta",
+            "Lily-Rose Depp"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Abel et Marianne sont séparés depuis dix ans. Alors qu'ils se retrouvent, Abel décide de la reconquérir, mais les choses ont changé. Marianne a un fils ; sa belle-sœur, la jeune Ève, a bien grandi ; et chacun a des secrets à révéler."
+            }
+          ]
+        },
+        {
           "idSeance": 35847,
           "ordre": 1,
           "dateHeure": "2020-10-14T19:00:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "idCategorie": 2283,
           "idEvenement": 22453,
@@ -700,9 +775,43 @@
           ]
         },
         {
+          "idSeance": 35916,
+          "ordre": 1,
+          "dateHeure": "2020-10-23T22:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2283,
+          "idEvenement": 22610,
+          "typeEvenement": 13,
+          "idFilm": 60678,
+          "art": "Le",
+          "titre": "Le Diabolique docteur Z",
+          "titreVo": "Miss Muerte",
+          "realisateurs": "Jesús Franco",
+          "annee": 1965,
+          "pays": "Espagne-France",
+          "duree": 86,
+          "version": "VF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Estella Blain",
+            "Mabel Karr",
+            "Howard Vernon"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort."
+            }
+          ]
+        },
+        {
           "idSeance": 35907,
           "ordre": 1,
-          "dateHeure": "2020-10-25T19:45:00",
+          "dateHeure": "2020-10-25T20:15:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -712,7 +821,6 @@
           "typeEvenement": 13,
           "idFilm": 41888,
           "titre": "Liza",
-          "titreVo": "",
           "realisateurs": "Marco Ferreri",
           "annee": 1971,
           "pays": "France-Italie",
@@ -730,7 +838,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Giorgio vit reclus sur une île au sud de la Corse, vivant uniquement avec son fidèle chien. Sa tranquillité va être bouleversée par l'arrivée de la belle et snob Liza, remettant en cause sa relation avec son animal de compagnie."
+              "texte": "Giorgio vit reclus avec son chien sur une île au sud de la Corse. Sa tranquillité est bouleversée par l'arrivée de la belle et snob Liza."
             }
           ]
         },
@@ -798,7 +906,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Une vieille dame s'éteint dans une grande demeure du Sud-Ouest. Son fils, Milou, qui a soixante ans et qui s'occupe de la propriété, convoque pour l'enterrement son frère Georges et sa belle-sœur Lily, sa nièce Claire, sa propre fille, Camille et le reste de la famille. Mais nous sommes en mai 1968. Depuis deux semaines Paris est à feu et à sang..."
+              "texte": "Une vieille dame s'éteint dans une grande demeure du Sud-Ouest. Son fils Milou, qui s'occupe de la propriété, convoque toute la famille pour l'enterrement. Mais en ce mois de mai 1968, la France est en pleine révolution."
             }
           ]
         },
@@ -834,7 +942,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Jean-Paul et Marianne forment un couple idéal et coulent des jours heureux dans leur villa de Saint-Tropez, jusqu'au jour où arrive Harry, au bras de sa fille l'incendiaire Pénélope."
+              "texte": "Jean-Paul et Marianne forment un couple idéal et coulent des jours heureux dans leur villa de Saint-Tropez, jusqu'au jour où arrive Harry, accompagné sa fille, l'incendiaire Pénélope."
             }
           ]
         },
@@ -870,7 +978,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Dans un village de l'Allemagne du Nord protestante à la veille de la première guerre mondiale, d'étranges accidents surviennent et prennent peu à peu le caractère d'un rituel punitif pour tous : des enfants de la chorale jusqu'à leurs familles."
+              "texte": "À la veille de la Première Guerre mondiale, dans un village de l'Allemagne du Nord protestante, d'étranges accidents surviennent et prennent peu à peu le caractère d'un rituel punitif pour tous, des enfants de la chorale jusqu'à leurs familles."
             }
           ]
         },
@@ -879,14 +987,14 @@
           "ordre": 1,
           "dateHeure": "2020-10-28T21:00:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 2283,
           "idEvenement": 22601,
           "typeEvenement": 13,
           "idFilm": 118727,
-          "titre": "Syngué Sabour, pierre de patience",
+          "titre": "Syngué sabour, pierre de patience",
           "titreVo": "",
           "realisateurs": "Atiq Rahimi",
           "annee": 2012,
@@ -900,11 +1008,11 @@
             "Hamid Reza Javdan",
             "Massi Mrowat"
           ],
-          "adaptation": "D'après le roman _Syngué Sabour, pierre de patience_ d'Atiq Rahimi.",
+          "adaptation": "D'après le roman _Syngué sabour, pierre de patience_ d'Atiq Rahimi.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Dans les montagnes de Kaboul, une femme est au chevet de son mari dans le coma, alors que la guerre frappe à leur porte. Elle lui confie ses souvenirs, ses secrets, ses désirs les plus intimes. Il devient sa « syngué sabour », sa pierre de patience."
+              "texte": "Dans les montagnes de Kaboul, une femme veille son mari dans le coma, alors que la guerre frappe à leur porte. Elle lui confie ses souvenirs, ses secrets, ses désirs les plus intimes. Il devient sa _syngué sabour_, sa pierre de patience."
             }
           ]
         },
@@ -927,7 +1035,7 @@
           "pays": "États-Unis",
           "duree": 90,
           "version": "VOSTF",
-          "format": "35 mm",
+          "format": "DCP",
           "ageMinimal": null,
           "generique": [
             "Linnea Heacock",
@@ -937,7 +1045,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Jeannie, jeune fille de la banlieue fugue et arrive à New-York en espérant y devenir chanteuse. Ses parents partent à sa recherche et découvrent le New-York de la fin des années 60."
+              "texte": "Fin des années 1960 : Jeannie, jeune fille de la banlieue, fugue et arrive à New York en espérant y devenir chanteuse. Ses parents partent à sa recherche et découvrent le fossé qui les sépare de la jeunesse."
             }
           ]
         },
@@ -973,7 +1081,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "En 1927 à Dantzig, le jeune Oskar, choqué par le cruauté du monde des adultes, décide de ne plus grandir. Il reçoit en cadeau un petit tambour rouge dont il s'aidera pour traverser la seconde guerre mondiale et les exactions nazies en Pologne."
+              "texte": "Dantzig, 1927. Le jeune Oskar, choqué par le cruauté du monde des adultes, décide de ne plus grandir. Il reçoit en cadeau un petit tambour rouge qui l'aidera à traverser la Seconde Guerre mondiale et les exactions nazies en Pologne."
             }
           ]
         },
@@ -1003,10 +1111,11 @@
             "Claudine Auger",
             "Paul Crauchet"
           ],
+          "adaptation": "D'après le roman _Le Puits de velours_ de John Gearon.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Après un long séjour en mer, Roland débarque à Barcelone. À l'hôtel où il réside, il découvre un cadavre, puis se réveille dans une étrange clinique sans se souvenir de ce qui l'a amené là. On lui parle d'hallucination mais, quelques jours plus tard, il acquiert la preuve qu'il n'a pas rêvé. Il rencontre plusieurs personnes mêlées à cette affaire et récupère une mystérieuse mallette."
+              "texte": "Après un long séjour en mer, Roland débarque à Barcelone. À l'hôtel où il réside, il découvre un cadavre, puis se réveille dans une étrange clinique sans aucun souvenir des circonstances de son arrivée."
             }
           ]
         },
@@ -1036,10 +1145,11 @@
             "Annette Bening",
             "Meg Tilly"
           ],
+          "adaptation": "D'après le roman _Les Liaisons dangereuses_ de Pierre Choderlos de Laclos.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Pour se venger de son amant qui s'apprête à épouser la jeune Cécile de Volanges, Mme de Merteuil demande au comte de Valmont de la séduire afin qu'elle perde sa virginité avant le mariage."
+              "texte": "Pour se venger de son amant, qui s'apprête à épouser la jeune Cécile de Volanges, madame de Merteuil demande au comte de Valmont de séduire la jeune fille pour qu'elle perde sa virginité avant le mariage."
             }
           ]
         },
@@ -1141,10 +1251,11 @@
             "Marie Dubois",
             "Françoise Fabian"
           ],
+          "adaptation": "D'après le roman _Le Voleur_ de Georges Darien.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Dépouillé par un oncle peu scrupuleux, Georges Rendal devient voleur, d'abord par vengeance puis par conviction."
+              "texte": "Dépouillé par un oncle peu scrupuleux, Georges Rendal devient voleur, d'abord par vengeance, puis par conviction."
             },
             {
               "typeTexte": 99,
@@ -1173,16 +1284,20 @@
           "typeEvenement": 14,
           "idTypeConference": 16,
           "typeConference": "Dialogue",
-          "titre": "Dialogue avec JCC",
+          "titre": "Dialogue avec Jean-Claude Carrière",
           "duree": 45,
           "textes": [
             {
               "typeTexte": 8,
-              "texte": "« J'ai travaillé plus de trois mois sur ces dialogues (...). Après tout un travail d'élimination, de coupures, je m'estimai à peu près satisfait. Cependant, lorsque le producteur lut cette version, il me demanda : ''Et maintenant, qu'est-ce qu'on fait pour le dialogue ?'' (...) Je ne savais que dire. Je voyais le film condamné d'avance. Heureusement, Jacques Deray se tenait à mes côtés.... »"
+              "texte": "« J'ai travaillé plus de trois mois sur ces dialogues. Après tout un travail d'élimination, de coupures, je m'estimai à peu près satisfait. Cependant, lorsque le producteur lut cette version, il me demanda : \"Et maintenant, qu'est-ce qu'on fait pour le dialogue ?\" Je ne savais que dire. Je voyais le film condamné d'avance. Heureusement, Jacques Deray se tenait à mes côtés... »"
             },
             {
               "typeTexte": 156,
-              "texte": "Docteure en cinéma, ancien professeur à l'École du Louvre et la New York University, **Gabriela Trujillo** est spécialiste des avant-gardes latino-américaines et européennes. Elle travaille actuellement à l'Action culturelle de la Cinémathèque française."
+              "texte": "Gabriela Trujillo est spécialiste des avant-gardes latino-américaines et européennes. Elle travaille à l'Action culturelle de la Cinémathèque française."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Scénariste d'une myriade de films, Jean-Claude Carrière collabore à huit reprises avec le réalisateur Jacques Deray, signant avec lui, entre autres des scénarios pour la télévision et le cinéma, dont _La Piscine_, _Borsalino_ et _Un papillon sur l'épaule_."
             }
           ],
           "intervenants": [

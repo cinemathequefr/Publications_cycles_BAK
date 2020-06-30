@@ -815,6 +815,10 @@
       {
         "typeTexte": 9,
         "texte": "Alors qu'il devrait veiller au bon fonctionnement de la ferme selon les ordres de sa mère, Spud Kinney part à la chasse avec son frère et son meilleur ami."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Copie d'époque avec son stéréophonique originel (avec 4 pistes son). Couleurs dénaturées."
       }
     ],
     "generique": [

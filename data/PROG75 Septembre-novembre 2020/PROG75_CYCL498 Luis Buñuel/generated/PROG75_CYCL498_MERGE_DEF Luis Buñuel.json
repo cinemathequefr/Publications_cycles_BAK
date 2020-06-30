@@ -5,42 +5,6 @@
       "tri": 1,
       "items": [
         {
-          "idSeance": 35753,
-          "ordre": 2,
-          "dateHeure": "2020-09-30T20:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "mention": "Ouverture de la rétrospective",
-          "idCategorie": 2282,
-          "idEvenement": 22455,
-          "typeEvenement": 13,
-          "idFilm": 47140,
-          "art": "L'",
-          "titre": "Age d'or",
-          "titreVo": "",
-          "realisateurs": "Luis Buñuel",
-          "annee": 1930,
-          "pays": "France",
-          "duree": 63,
-          "version": "",
-          "format": "DCP",
-          "ageMinimal": null,
-          "generique": [
-            "Lya Lys",
-            "Gaston Modot",
-            "Max Ernst",
-            "Pierre Prévert"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Sur un scénario de Luis Buñuel et Salvador Dali, la force du désir éprouvé par un couple bouscule et renverse l'ordre social."
-            }
-          ]
-        },
-        {
           "idSeance": 35763,
           "ordre": 1,
           "dateHeure": "2020-10-03T19:30:00",
@@ -55,7 +19,7 @@
           "art": "L'",
           "titre": "Ange exterminateur",
           "artVo": "El",
-          "titreVo": "Angel exterminador",
+          "titreVo": "Ángel exterminador",
           "realisateurs": "Luis Buñuel",
           "annee": 1962,
           "pays": "Mexique",
@@ -68,11 +32,10 @@
             "Enrique Rambal",
             "Jacqueline Andere"
           ],
-          "adaptation": "D'après le cinédrame _Les Naufragés de la rue providence_ de Luis Buñuel et Luis Alcoriza.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Lors d'une réception mondaine, les invités refusent de rentrer chez eux. Ils découvrent qu'une force secrète, irrationnelle, les retient cloués là. Des semaines vont s'écouler : ils sont prisonniers..."
+              "texte": "Les invités d'une réception mondaine se retrouvent empêchés de rentrer chez eux, retenus par une étrange force invisible. Les jours passent, et les privations entraînent tensions et violences, bouleversant l'ordre établi."
             }
           ]
         },
@@ -91,7 +54,7 @@
           "art": "L'",
           "titre": "Ange exterminateur",
           "artVo": "El",
-          "titreVo": "Angel exterminador",
+          "titreVo": "Ángel exterminador",
           "realisateurs": "Luis Buñuel",
           "annee": 1962,
           "pays": "Mexique",
@@ -104,11 +67,10 @@
             "Enrique Rambal",
             "Jacqueline Andere"
           ],
-          "adaptation": "D'après le cinédrame _Les Naufragés de la rue providence_ de Luis Buñuel et Luis Alcoriza.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Lors d'une réception mondaine, les invités refusent de rentrer chez eux. Ils découvrent qu'une force secrète, irrationnelle, les retient cloués là. Des semaines vont s'écouler : ils sont prisonniers..."
+              "texte": "Les invités d'une réception mondaine se retrouvent empêchés de rentrer chez eux, retenus par une étrange force invisible. Les jours passent, et les privations entraînent tensions et violences, bouleversant l'ordre établi."
             }
           ]
         },
@@ -132,7 +94,7 @@
           "annee": 1952,
           "pays": "Mexique-États-Unis",
           "duree": 89,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -169,7 +131,7 @@
           "annee": 1952,
           "pays": "Mexique-États-Unis",
           "duree": 89,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -217,7 +179,11 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Séverine est une femme au foyer mariée à un riche chirurgien. Un jour, elle entreprend de tuer l'ennui et explore sa vie sexuelle en se prostituant régulièrement dans un une maison de rendez-vous. Film restauré par la Cinémathèque française et StudioCanal."
+              "texte": "Séverine, femme au foyer mariée à un riche chirurgien, décide de rompre avec l'insatisfaction et de se prostituer l'après-midi chez madame Anaïs, une maison de rendez-vous dont lui a parlé un ami de son mari."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré par la Cinémathèque française et StudioCanal."
             }
           ]
         },
@@ -252,7 +218,11 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Séverine est une femme au foyer mariée à un riche chirurgien. Un jour, elle entreprend de tuer l'ennui et explore sa vie sexuelle en se prostituant régulièrement dans un une maison de rendez-vous. Film restauré par la Cinémathèque française et StudioCanal."
+              "texte": "Séverine, femme au foyer mariée à un riche chirurgien, décide de rompre avec l'insatisfaction et de se prostituer l'après-midi chez madame Anaïs, une maison de rendez-vous dont lui a parlé un ami de son mari."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré par la Cinémathèque française et StudioCanal."
             }
           ]
         },
@@ -261,8 +231,8 @@
           "ordre": 1,
           "dateHeure": "2020-10-14T21:15:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "idCategorie": 2282,
           "idEvenement": 22437,
@@ -286,7 +256,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Sur une île méditerranéenne, le docteur Valerio soigne les ouvriers d'une compagnie industrielle. Un jour, il fait la connaissance de Clara dont il tombe éperdument amoureux."
+              "texte": "Sur une île méditerranéenne, le docteur Valerio soigne les ouvriers d'une compagnie industrielle. Un jour, il fait la connaissance de Clara, dont il tombe éperdument amoureux."
             }
           ]
         },
@@ -325,12 +295,12 @@
           ]
         },
         {
-          "idSeance": 36140,
+          "idSeance": 36157,
           "ordre": 1,
-          "dateHeure": "2020-10-18T14:15:00",
+          "dateHeure": "2020-10-28T21:00:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "idCategorie": 2282,
           "idEvenement": 22438,
@@ -361,42 +331,7 @@
         {
           "idSeance": 35798,
           "ordre": 1,
-          "dateHeure": "2020-10-07T22:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 2282,
-          "idEvenement": 22439,
-          "typeEvenement": 13,
-          "idFilm": 47185,
-          "art": "Le",
-          "titre": "Charme discret de la bourgeoisie",
-          "titreVo": "",
-          "realisateurs": "Luis Buñuel",
-          "annee": 1972,
-          "pays": "France-Espagne-Italie",
-          "duree": 102,
-          "version": "",
-          "format": "DCP",
-          "ageMinimal": null,
-          "generique": [
-            "Fernando Rey",
-            "Delphine Seyrig",
-            "Bulle Ogier",
-            "Jean-Pierre Cassel"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "De malencontreux incidents empêchent à plusieurs reprises les Thévenot et les Sénéchal de dîner ensemble."
-            }
-          ]
-        },
-        {
-          "idSeance": 36139,
-          "ordre": 1,
-          "dateHeure": "2020-10-16T22:00:00",
+          "dateHeure": "2020-10-07T21:45:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -440,7 +375,7 @@
           "idEvenement": 22441,
           "typeEvenement": 13,
           "idFilm": 43105,
-          "titre": "Don Quentin l'amer",
+          "titre": "Don Quntín l'amer",
           "artVo": "La",
           "titreVo": "Hija del engano",
           "realisateurs": "Luis Buñuel",
@@ -455,11 +390,11 @@
             "Alicia Caro",
             "Fernando Soto"
           ],
-          "adaptation": "D'après la pièce _Don Quintin el amargao o El que siembra vientos_ de Carlos Arniches et Antonio Estremera.",
+          "adaptation": "D'après la pièce _Don Quintín, el amargao_ de Carlos Arniches et Antonio Estremera.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Jaloux de son infidélité, Don Quintin répudie sa femme dont il abandonne aussi l'enfant."
+              "texte": "Don Quintín, jaloux de l'infidélité de sa femme, la répudie et abandonne son enfant."
             }
           ]
         },
@@ -475,7 +410,7 @@
           "idEvenement": 22441,
           "typeEvenement": 13,
           "idFilm": 43105,
-          "titre": "Don Quentin l'amer",
+          "titre": "Don Quntín l'amer",
           "artVo": "La",
           "titreVo": "Hija del engano",
           "realisateurs": "Luis Buñuel",
@@ -490,11 +425,11 @@
             "Alicia Caro",
             "Fernando Soto"
           ],
-          "adaptation": "D'après la pièce _Don Quintin el amargao o El que siembra vientos_ de Carlos Arniches et Antonio Estremera.",
+          "adaptation": "D'après la pièce _Don Quintín, el amargao_ de Carlos Arniches et Antonio Estremera.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Jaloux de son infidélité, Don Quintin répudie sa femme dont il abandonne aussi l'enfant."
+              "texte": "Don Quintín, jaloux de l'infidélité de sa femme, la répudie et abandonne son enfant."
             }
           ]
         },
@@ -565,6 +500,38 @@
             {
               "typeTexte": 9,
               "texte": "Cabrera, homme riche et sans scrupules, n'hésite pas à chasser les locataires de l'immeuble vétuste qui lui appartient. Les délogés organisent leur résistance."
+            }
+          ]
+        },
+        {
+          "idSeance": 36186,
+          "ordre": 2,
+          "dateHeure": "2020-10-03T16:30:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2282,
+          "idEvenement": 22793,
+          "typeEvenement": 13,
+          "idFilm": 69331,
+          "titre": "Espagne 1936",
+          "titreVo": "España 1936 / España leal en armas",
+          "realisateurs": "Jean-Paul Dreyfus",
+          "annee": 1936,
+          "pays": "Espagne",
+          "duree": 34,
+          "version": "VF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Alors que la guerre civile fait rage, le gouvernement républicain commande à Luis Buñuel l'écriture d'un film militant sur la tragédie qui déchire l'Espagne."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Jean-Paul Dreyfus est le nom de naissance de Jean-Paul Le Chanois."
             }
           ]
         },
@@ -656,8 +623,8 @@
           "annee": 1959,
           "pays": "France-Mexique",
           "duree": 100,
-          "version": "",
-          "format": "",
+          "version": "VF",
+          "format": "DCP",
           "ageMinimal": null,
           "generique": [
             "Gérard Philipe",
@@ -668,7 +635,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Dans un pays où les droits fondamentaux sont souvent bafoués, Ramón Vásquez,un intellectuel idéaliste, tente d'améliorer les conditions de vie des détenus d'un pénitencier."
+              "texte": "Dans un pays où les droits fondamentaux sont souvent bafoués, Ramón Vázquez, un intellectuel idéaliste, tente d'améliorer les conditions de vie des détenus d'un pénitencier."
             }
           ]
         },
@@ -691,8 +658,8 @@
           "annee": 1959,
           "pays": "France-Mexique",
           "duree": 100,
-          "version": "",
-          "format": "",
+          "version": "VF",
+          "format": "DCP",
           "ageMinimal": null,
           "generique": [
             "Gérard Philipe",
@@ -703,7 +670,79 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Dans un pays où les droits fondamentaux sont souvent bafoués, Ramón Vásquez,un intellectuel idéaliste, tente d'améliorer les conditions de vie des détenus d'un pénitencier."
+              "texte": "Dans un pays où les droits fondamentaux sont souvent bafoués, Ramón Vázquez, un intellectuel idéaliste, tente d'améliorer les conditions de vie des détenus d'un pénitencier."
+            }
+          ]
+        },
+        {
+          "idSeance": 35858,
+          "ordre": 1,
+          "dateHeure": "2020-10-19T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2282,
+          "idEvenement": 22457,
+          "typeEvenement": 13,
+          "idFilm": 43226,
+          "art": "Le",
+          "titre": "Fleuve de la mort",
+          "artVo": "El",
+          "titreVo": "Río y la muerte",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1954,
+          "pays": "Mexique",
+          "duree": 82,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Columba Domínguez",
+            "Miguel Torruco",
+            "Joaquín Cordero"
+          ],
+          "adaptation": "D'après le roman _Muro blanco sobre roca negra_ de Miguel Álvarez Acosta.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Santa Viviana, les clans Anguiano et Menchaca se livrent une guerre sans répit."
+            }
+          ]
+        },
+        {
+          "idSeance": 35872,
+          "ordre": 1,
+          "dateHeure": "2020-10-25T16:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2282,
+          "idEvenement": 22457,
+          "typeEvenement": 13,
+          "idFilm": 43226,
+          "art": "Le",
+          "titre": "Fleuve de la mort",
+          "artVo": "El",
+          "titreVo": "Río y la muerte",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1954,
+          "pays": "Mexique",
+          "duree": 82,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Columba Domínguez",
+            "Miguel Torruco",
+            "Joaquín Cordero"
+          ],
+          "adaptation": "D'après le roman _Muro blanco sobre roca negra_ de Miguel Álvarez Acosta.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "À Santa Viviana, les clans Anguiano et Menchaca se livrent une guerre sans répit."
             }
           ]
         },
@@ -719,9 +758,7 @@
           "idEvenement": 22450,
           "typeEvenement": 13,
           "idFilm": 69332,
-          "art": "Le",
-          "titre": "Grand casino",
-          "titreVo": "Gran Casino",
+          "titre": "Gran casino",
           "realisateurs": "Luis Buñuel",
           "annee": 1946,
           "pays": "Mexique",
@@ -738,14 +775,14 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Un évadé de prison aide et aime la sœur d'un homme, tué pendant la prise de contrôle de son puits de pétrole."
+              "texte": "Un aventurier, évadé de prison, tombe amoureux de la belle Mercedes. Il va l'aider à venger son frère, tué alors qu'il défendait son puits de pétrole."
             }
           ]
         },
         {
           "idSeance": 35860,
           "ordre": 1,
-          "dateHeure": "2020-10-21T16:30:00",
+          "dateHeure": "2020-10-21T21:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -754,9 +791,7 @@
           "idEvenement": 22450,
           "typeEvenement": 13,
           "idFilm": 69332,
-          "art": "Le",
-          "titre": "Grand casino",
-          "titreVo": "Gran Casino",
+          "titre": "Gran casino",
           "realisateurs": "Luis Buñuel",
           "annee": 1946,
           "pays": "Mexique",
@@ -773,7 +808,79 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Un évadé de prison aide et aime la sœur d'un homme, tué pendant la prise de contrôle de son puits de pétrole."
+              "texte": "Un aventurier, évadé de prison, tombe amoureux de la belle Mercedes. Il va l'aider à venger son frère, tué alors qu'il défendait son puits de pétrole."
+            }
+          ]
+        },
+        {
+          "idSeance": 35851,
+          "ordre": 1,
+          "dateHeure": "2020-10-17T19:15:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2282,
+          "idEvenement": 22442,
+          "typeEvenement": 13,
+          "idFilm": 69333,
+          "art": "Le",
+          "titre": "Grand noceur",
+          "artVo": "El",
+          "titreVo": "Gran calavera",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1949,
+          "pays": "Mexique",
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Fernando Soler",
+            "Rosario Granados",
+            "Andrés Soler"
+          ],
+          "adaptation": "D'après le roman _El Gran cavalera_ d'Adolfo Torrado.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Don Ramiro, un riche veuf, se console dans l'alcool et la débauche. Sa famille parasite s'inquiète de voir le patrimoine se dilapider à vue d'œil."
+            }
+          ]
+        },
+        {
+          "idSeance": 35861,
+          "ordre": 1,
+          "dateHeure": "2020-10-21T19:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2282,
+          "idEvenement": 22442,
+          "typeEvenement": 13,
+          "idFilm": 69333,
+          "art": "Le",
+          "titre": "Grand noceur",
+          "artVo": "El",
+          "titreVo": "Gran calavera",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1949,
+          "pays": "Mexique",
+          "duree": 90,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Fernando Soler",
+            "Rosario Granados",
+            "Andrés Soler"
+          ],
+          "adaptation": "D'après le roman _El Gran cavalera_ d'Adolfo Torrado.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Don Ramiro, un riche veuf, se console dans l'alcool et la débauche. Sa famille parasite s'inquiète de voir le patrimoine se dilapider à vue d'œil."
             }
           ]
         },
@@ -796,8 +903,8 @@
           "annee": 1953,
           "pays": "Mexique",
           "duree": 90,
-          "version": "",
-          "format": "",
+          "version": "VOSTF",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Irasema Dilián",
@@ -808,14 +915,14 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Alejandro revient au manoir familial et retrouve Catarina, son premier amour. Il veut l'épouser mais la jeune femme a fait un mariage de convenance."
+              "texte": "Alejandro revient au manoir familial et retrouve Catalina, son premier amour, dans l'espoir de l'épouser. Mais la jeune femme a fait un mariage de convenance."
             }
           ]
         },
         {
           "idSeance": 35870,
           "ordre": 1,
-          "dateHeure": "2020-10-25T20:30:00",
+          "dateHeure": "2020-10-25T20:45:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -831,8 +938,8 @@
           "annee": 1953,
           "pays": "Mexique",
           "duree": 90,
-          "version": "",
-          "format": "",
+          "version": "VOSTF",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Irasema Dilián",
@@ -843,7 +950,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Alejandro revient au manoir familial et retrouve Catarina, son premier amour. Il veut l'épouser mais la jeune femme a fait un mariage de convenance."
+              "texte": "Alejandro revient au manoir familial et retrouve Catalina, son premier amour, dans l'espoir de l'épouser. Mais la jeune femme a fait un mariage de convenance."
             }
           ]
         },
@@ -875,11 +982,11 @@
             "Kay Meersman",
             "Bernie Hamilton"
           ],
-          "adaptation": "D'après le conte _Travellin' man_ de Peter Matthiessen.",
+          "adaptation": "D'après la nouvelle _Travellin' Man_ de Peter Matthiessen.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Sur un île du sud des États-Unis, le face à face de deux hommes, l'un blanc, Miller, l'autre noir, Travers, accusé de viol."
+              "texte": "Sur un île du Sud des États-Unis, le face-à-face entre Miller, le Blanc, et Travers, le Noir, accusé de viol."
             }
           ]
         },
@@ -911,11 +1018,11 @@
             "Kay Meersman",
             "Bernie Hamilton"
           ],
-          "adaptation": "D'après le conte _Travellin' man_ de Peter Matthiessen.",
+          "adaptation": "D'après la nouvelle _Travellin' Man_ de Peter Matthiessen.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Sur un île du sud des États-Unis, le face à face de deux hommes, l'un blanc, Miller, l'autre noir, Travers, accusé de viol."
+              "texte": "Sur un île du Sud des États-Unis, le face-à-face entre Miller, le Blanc, et Travers, le Noir, accusé de viol."
             }
           ]
         },
@@ -924,8 +1031,8 @@
           "ordre": 1,
           "dateHeure": "2020-10-14T19:00:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "idCategorie": 2282,
           "idEvenement": 22453,
@@ -992,78 +1099,34 @@
           ]
         },
         {
-          "idSeance": 35802,
+          "idSeance": 36186,
           "ordre": 1,
-          "dateHeure": "2020-10-10T19:00:00",
+          "dateHeure": "2020-10-03T16:30:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 2282,
-          "idEvenement": 22454,
+          "idEvenement": 22793,
           "typeEvenement": 13,
-          "idFilm": 43223,
-          "titre": "Los Olvidados",
-          "artVo": "Los",
-          "titreVo": "Olvidados",
+          "idFilm": 129626,
+          "titre": "Menjant garotes",
+          "titreVo": "",
           "realisateurs": "Luis Buñuel",
-          "annee": 1950,
-          "pays": "Mexique",
-          "duree": 80,
-          "version": "VO",
+          "annee": 1930,
+          "pays": "Espagne",
+          "duree": 4,
+          "version": "",
           "format": "DCP",
-          "ageMinimal": 0,
+          "ageMinimal": null,
           "generique": [
-            "Estela Inda",
-            "Miguel Inclán",
-            "Alfonso Mejía"
+            "Salvador Dalí",
+            "Catalina Domènech"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "La vie criminelle d'un groupe d'enfants pauvres dans la banlieue de Mexico."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Film restauré en 2019 dans le cadre de la World Cinema Project de la Film Foundation, au laboratoire L'Immagine Ritrovata, et en collaboration avec la Fundación Televisa, la Cineteca Nacional Mexico et la Filmoteca de la UNAM, grâce au soutien de The Material World Foundation."
-            }
-          ]
-        },
-        {
-          "idSeance": 35862,
-          "ordre": 1,
-          "dateHeure": "2020-10-23T21:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 2282,
-          "idEvenement": 22454,
-          "typeEvenement": 13,
-          "idFilm": 43223,
-          "titre": "Los Olvidados",
-          "artVo": "Los",
-          "titreVo": "Olvidados",
-          "realisateurs": "Luis Buñuel",
-          "annee": 1950,
-          "pays": "Mexique",
-          "duree": 80,
-          "version": "VO",
-          "format": "DCP",
-          "ageMinimal": 0,
-          "generique": [
-            "Estela Inda",
-            "Miguel Inclán",
-            "Alfonso Mejía"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "La vie criminelle d'un groupe d'enfants pauvres dans la banlieue de Mexico."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Film restauré en 2019 dans le cadre de la World Cinema Project de la Film Foundation, au laboratoire L'Immagine Ritrovata, et en collaboration avec la Fundación Televisa, la Cineteca Nacional Mexico et la Filmoteca de la UNAM, grâce au soutien de The Material World Foundation."
+              "texte": "Film amateur réalisé pendant le tournage du prologue de _L'Âge d'or_ : le père de Salvador Dalí déguste des oursins."
             }
           ]
         },
@@ -1086,8 +1149,8 @@
           "annee": 1951,
           "pays": "Mexique",
           "duree": 74,
-          "version": "",
-          "format": "",
+          "version": "VOSTF",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Lilia Prado",
@@ -1097,7 +1160,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Oliverio interrompt sa nuit de noces car sa mère est mourante. Il doit se rendre en ville chez le notaire afin de régler des problèmes d'héritage. Le voyage en autocar est semé d'embûches..."
+              "texte": "Oliverio, dont la mère est mourante, interrompt sa nuit de noces pour se rendre en ville chez le notaire et régler l'héritage. Son voyage en autocar est mouvementé."
             }
           ]
         },
@@ -1120,8 +1183,8 @@
           "annee": 1951,
           "pays": "Mexique",
           "duree": 74,
-          "version": "",
-          "format": "",
+          "version": "VOSTF",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Lilia Prado",
@@ -1131,7 +1194,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Oliverio interrompt sa nuit de noces car sa mère est mourante. Il doit se rendre en ville chez le notaire afin de régler des problèmes d'héritage. Le voyage en autocar est semé d'embûches..."
+              "texte": "Oliverio, dont la mère est mourante, interrompt sa nuit de noces pour se rendre en ville chez le notaire et régler l'héritage. Son voyage en autocar est mouvementé."
             }
           ]
         },
@@ -1155,7 +1218,7 @@
           "pays": "France-Mexique",
           "duree": 99,
           "version": "",
-          "format": "35 mm",
+          "format": "DCP",
           "ageMinimal": null,
           "generique": [
             "Simone Signoret",
@@ -1190,7 +1253,7 @@
           "pays": "France-Mexique",
           "duree": 99,
           "version": "",
-          "format": "35 mm",
+          "format": "DCP",
           "ageMinimal": null,
           "generique": [
             "Simone Signoret",
@@ -1218,13 +1281,12 @@
           "typeEvenement": 13,
           "idFilm": 43222,
           "titre": "Nazarín",
-          "titreVo": "",
           "realisateurs": "Luis Buñuel",
           "annee": 1958,
           "pays": "Mexique",
           "duree": 94,
-          "version": "",
-          "format": "",
+          "version": "VOSTF",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Francisco Rabal",
@@ -1252,13 +1314,12 @@
           "typeEvenement": 13,
           "idFilm": 43222,
           "titre": "Nazarín",
-          "titreVo": "",
           "realisateurs": "Luis Buñuel",
           "annee": 1958,
           "pays": "Mexique",
           "duree": 94,
-          "version": "",
-          "format": "",
+          "version": "VOSTF",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Francisco Rabal",
@@ -1270,6 +1331,80 @@
             {
               "typeTexte": 9,
               "texte": "Le jeune prêtre Nazario, ayant protégé une prostituée soupçonnée de meurtre, est contraint de fuir."
+            }
+          ]
+        },
+        {
+          "idSeance": 35802,
+          "ordre": 1,
+          "dateHeure": "2020-10-10T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2282,
+          "idEvenement": 22454,
+          "typeEvenement": 13,
+          "idFilm": 43223,
+          "art": "Los",
+          "titre": "Olvidados",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1950,
+          "pays": "Mexique",
+          "duree": 80,
+          "version": "VO",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Estela Inda",
+            "Miguel Inclán",
+            "Alfonso Mejía"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La vie criminelle d'un groupe d'enfants pauvres dans les faubourgs de Mexico."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 2019 au laboratoire L'Immagine ritrovata dans le cadre de la World Cinema Project de la Film Foundation, en collaboration avec la Fundación Televisa, la Cineteca Nacional México et la Filmoteca de la UNAM, grâce au soutien de la Material World Foundation."
+            }
+          ]
+        },
+        {
+          "idSeance": 35862,
+          "ordre": 1,
+          "dateHeure": "2020-10-23T21:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2282,
+          "idEvenement": 22454,
+          "typeEvenement": 13,
+          "idFilm": 43223,
+          "art": "Los",
+          "titre": "Olvidados",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1950,
+          "pays": "Mexique",
+          "duree": 80,
+          "version": "VO",
+          "format": "DCP",
+          "ageMinimal": 0,
+          "generique": [
+            "Estela Inda",
+            "Miguel Inclán",
+            "Alfonso Mejía"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La vie criminelle d'un groupe d'enfants pauvres dans les faubourgs de Mexico."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film restauré en 2019 au laboratoire L'Immagine ritrovata dans le cadre de la World Cinema Project de la Film Foundation, en collaboration avec la Fundación Televisa, la Cineteca Nacional México et la Filmoteca de la UNAM, grâce au soutien de la Material World Foundation."
             }
           ]
         },
@@ -1287,13 +1422,13 @@
           "idFilm": 43215,
           "titre": "On a volé un tram",
           "artVo": "La",
-          "titreVo": "Ilusion viaja en tranvia",
+          "titreVo": "Ilusión viaja en tranvia",
           "realisateurs": "Luis Buñuel",
           "annee": 1953,
           "pays": "Mexique",
           "duree": 82,
-          "version": "",
-          "format": "",
+          "version": "VOSTF",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Lilia Prado",
@@ -1321,13 +1456,13 @@
           "idFilm": 43215,
           "titre": "On a volé un tram",
           "artVo": "La",
-          "titreVo": "Ilusion viaja en tranvia",
+          "titreVo": "Ilusión viaja en tranvia",
           "realisateurs": "Luis Buñuel",
           "annee": 1953,
           "pays": "Mexique",
           "duree": 82,
-          "version": "",
-          "format": "",
+          "version": "VOSTF",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Lilia Prado",
@@ -1342,142 +1477,35 @@
           ]
         },
         {
-          "idSeance": 35856,
-          "ordre": 1,
-          "dateHeure": "2020-10-18T19:00:00",
+          "idSeance": 36186,
+          "ordre": 3,
+          "dateHeure": "2020-10-03T16:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 2282,
-          "idEvenement": 22463,
+          "idEvenement": 22793,
           "typeEvenement": 13,
-          "idFilm": 43234,
-          "titre": "Pierre et Jean",
-          "titreVo": "Una mujer sin amor",
+          "idFilm": 43229,
+          "titre": "Simon du désert",
+          "titreVo": "Simón del desierto",
           "realisateurs": "Luis Buñuel",
-          "annee": 1951,
+          "annee": 1964,
           "pays": "Mexique",
-          "duree": 86,
-          "version": "",
-          "format": "",
-          "ageMinimal": null,
-          "generique": [
-            "Rosario Granados",
-            "Tito Junco",
-            "Julio Villareal"
-          ],
-          "adaptation": "D'après le roman _Pierre et Jean_ de Guy de Maupassant.",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Carlito, parvenu à l'âge adulte, soupçonne sa mère d'infidélité."
-            }
-          ]
-        },
-        {
-          "idSeance": 36142,
-          "ordre": 1,
-          "dateHeure": "2020-10-31T15:45:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2282,
-          "idEvenement": 22463,
-          "typeEvenement": 13,
-          "idFilm": 43234,
-          "titre": "Pierre et Jean",
-          "titreVo": "Una mujer sin amor",
-          "realisateurs": "Luis Buñuel",
-          "annee": 1951,
-          "pays": "Mexique",
-          "duree": 86,
-          "version": "",
-          "format": "",
-          "ageMinimal": null,
-          "generique": [
-            "Rosario Granados",
-            "Tito Junco",
-            "Julio Villareal"
-          ],
-          "adaptation": "D'après le roman _Pierre et Jean_ de Guy de Maupassant.",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Carlito, parvenu à l'âge adulte, soupçonne sa mère d'infidélité."
-            }
-          ]
-        },
-        {
-          "idSeance": 35858,
-          "ordre": 1,
-          "dateHeure": "2020-10-19T19:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2282,
-          "idEvenement": 22457,
-          "typeEvenement": 13,
-          "idFilm": 43226,
-          "art": "Le",
-          "titre": "Rio de la mort = Le Fleuve de la mort",
-          "artVo": "El",
-          "titreVo": "Rio y la muerte",
-          "realisateurs": "Luis Buñuel",
-          "annee": 1954,
-          "pays": "Mexique",
-          "duree": 82,
+          "duree": 47,
           "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
-            "Columba Dominguez",
-            "Miguel Torruco",
-            "Joaquín Cordero"
+            "Claudio Brook",
+            "Silvia Pinal",
+            "Enrique Álvarez Félix"
           ],
-          "adaptation": "D'après le roman _Muro blanco sobre roca negra_ de Miguel Álvarez Acosta.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "À Santa Viviana, les clans Anguiano et Menchaca se livrent une guerre sans répit."
-            }
-          ]
-        },
-        {
-          "idSeance": 35872,
-          "ordre": 1,
-          "dateHeure": "2020-10-25T16:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2282,
-          "idEvenement": 22457,
-          "typeEvenement": 13,
-          "idFilm": 43226,
-          "art": "Le",
-          "titre": "Rio de la mort = Le Fleuve de la mort",
-          "artVo": "El",
-          "titreVo": "Rio y la muerte",
-          "realisateurs": "Luis Buñuel",
-          "annee": 1954,
-          "pays": "Mexique",
-          "duree": 82,
-          "version": "VOSTF",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Columba Dominguez",
-            "Miguel Torruco",
-            "Joaquín Cordero"
-          ],
-          "adaptation": "D'après le roman _Muro blanco sobre roca negra_ de Miguel Álvarez Acosta.",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "À Santa Viviana, les clans Anguiano et Menchaca se livrent une guerre sans répit."
+              "texte": "Simon, le saint ermite, juché sur une colonne au milieu du désert, bénit et guérit les fidèles. Mais Satan, incarné en une jolie jeune femme, tente de séduire l'ascète."
             }
           ]
         },
@@ -1494,24 +1522,24 @@
           "typeEvenement": 13,
           "idFilm": 43232,
           "titre": "Susana la perverse",
-          "titreVo": "Susana",
+          "titreVo": "Susana, demonio y carne",
           "realisateurs": "Luis Buñuel",
           "annee": 1950,
           "pays": "Mexique",
           "duree": 86,
-          "version": "",
-          "format": "",
+          "version": "VOSTF",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Fernando Soler",
             "Rosita Quintana",
-            "Victor Manuel Mendoza"
+            "Víctor Manuel Mendoza"
           ],
           "adaptation": "D'après la nouvelle _Susana_ de Manuel Reachi.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Susana, une jeune détenue, s'échappe d'une maison de redressement. Elle se réfugie dans l'hacienda de Don Guadalupe et y séduit l'intendant, le père et le fils, semant la zizanie entre eux."
+              "texte": "Susana, une jeune détenue, s'échappe d'une maison de redressement. Elle se réfugie dans l'hacienda de Don Guadalupe et y séduit l'intendant, le père et le fils, semant la zizanie."
             }
           ]
         },
@@ -1528,24 +1556,24 @@
           "typeEvenement": 13,
           "idFilm": 43232,
           "titre": "Susana la perverse",
-          "titreVo": "Susana",
+          "titreVo": "Susana, demonio y carne",
           "realisateurs": "Luis Buñuel",
           "annee": 1950,
           "pays": "Mexique",
           "duree": 86,
-          "version": "",
-          "format": "",
+          "version": "VOSTF",
+          "format": "35 mm",
           "ageMinimal": null,
           "generique": [
             "Fernando Soler",
             "Rosita Quintana",
-            "Victor Manuel Mendoza"
+            "Víctor Manuel Mendoza"
           ],
           "adaptation": "D'après la nouvelle _Susana_ de Manuel Reachi.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Susana, une jeune détenue, s'échappe d'une maison de redressement. Elle se réfugie dans l'hacienda de Don Guadalupe et y séduit l'intendant, le père et le fils, semant la zizanie entre eux."
+              "texte": "Susana, une jeune détenue, s'échappe d'une maison de redressement. Elle se réfugie dans l'hacienda de Don Guadalupe et y séduit l'intendant, le père et le fils, semant la zizanie."
             }
           ]
         },
@@ -1564,7 +1592,7 @@
           "idFilm": 43672,
           "titre": "Terre sans pain",
           "artVo": "Las",
-          "titreVo": "Hurdes = Tierra sin pan",
+          "titreVo": "Hurdes, tierra sin pan",
           "realisateurs": "Luis Buñuel",
           "annee": 1932,
           "pays": "Espagne",
@@ -1572,14 +1600,41 @@
           "version": "VOSTF",
           "format": "DCP",
           "ageMinimal": null,
-          "generique": [
-            "Abel Jacquin"
-          ],
-          "adaptation": "D'après une étude de géographie humaine _Las Jurdes_ de Maurice Legendre.",
+          "adaptation": "D'après le récit _Las Jurdes_ de Maurice Legendre.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "**Avec les habitants de La Alberca dans la région des Hurdes.** Documentaire consacré aux miséreux de la région de Las Hurdes (Estrémadure) confrontés à la maladie (goitre, paludisme), aux dangers (vipères) et à la mort."
+              "texte": "Documentaire consacré aux miséreux de la région de Las Hurdes en Estrémadure, confrontés à la maladie, aux dangers et à la mort."
+            }
+          ]
+        },
+        {
+          "idSeance": 36188,
+          "ordre": 3,
+          "dateHeure": "2020-10-31T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2282,
+          "idEvenement": 22455,
+          "typeEvenement": 13,
+          "idFilm": 43672,
+          "titre": "Terre sans pain",
+          "artVo": "Las",
+          "titreVo": "Hurdes, tierra sin pan",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1932,
+          "pays": "Espagne",
+          "duree": 27,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "adaptation": "D'après le récit _Las Jurdes_ de Maurice Legendre.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Documentaire consacré aux miséreux de la région de Las Hurdes en Estrémadure, confrontés à la maladie, aux dangers et à la mort."
             }
           ]
         },
@@ -1598,7 +1653,7 @@
           "typeEvenement": 13,
           "idFilm": 43189,
           "titre": "Tourments",
-          "titreVo": "El",
+          "titreVo": "Él",
           "realisateurs": "Luis Buñuel",
           "annee": 1952,
           "pays": "Mexique",
@@ -1611,7 +1666,7 @@
             "Delia Garcés",
             "Aurora Walker"
           ],
-          "adaptation": "D'après le roman _El_ de Mercedes Pinto.",
+          "adaptation": "D'après le roman _Él_ de Mercedes Pinto.",
           "textes": [
             {
               "typeTexte": 9,
@@ -1632,7 +1687,7 @@
           "typeEvenement": 13,
           "idFilm": 43189,
           "titre": "Tourments",
-          "titreVo": "El",
+          "titreVo": "Él",
           "realisateurs": "Luis Buñuel",
           "annee": 1952,
           "pays": "Mexique",
@@ -1645,7 +1700,7 @@
             "Delia Garcés",
             "Aurora Walker"
           ],
-          "adaptation": "D'après le roman _El_ de Mercedes Pinto.",
+          "adaptation": "D'après le roman _Él_ de Mercedes Pinto.",
           "textes": [
             {
               "typeTexte": 9,
@@ -1666,7 +1721,6 @@
           "typeEvenement": 13,
           "idFilm": 43676,
           "titre": "Tristana",
-          "titreVo": "",
           "realisateurs": "Luis Buñuel",
           "annee": 1969,
           "pays": "Espagne-Italie-France",
@@ -1684,6 +1738,10 @@
             {
               "typeTexte": 9,
               "texte": "À Tolède, Don Lope devient le tuteur et l'amant de la jeune Tristana, débordante de fantasmes."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "« Catherine Deneuve n'est pas précisément mon type de femme mais, boiteuse et maquillée, je la trouve très attirante. » (Luis Buñuel)"
             }
           ]
         },
@@ -1700,7 +1758,6 @@
           "typeEvenement": 13,
           "idFilm": 43676,
           "titre": "Tristana",
-          "titreVo": "",
           "realisateurs": "Luis Buñuel",
           "annee": 1969,
           "pays": "Espagne-Italie-France",
@@ -1718,6 +1775,10 @@
             {
               "typeTexte": 9,
               "texte": "À Tolède, Don Lope devient le tuteur et l'amant de la jeune Tristana, débordante de fantasmes."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "« Catherine Deneuve n'est pas précisément mon type de femme mais, boiteuse et maquillée, je la trouve très attirante. » (Luis Buñuel)"
             }
           ]
         },
@@ -1741,87 +1802,124 @@
           "pays": "France",
           "duree": 17,
           "version": "",
-          "format": "35 mm",
+          "format": "DCP",
           "ageMinimal": null,
           "generique": [
             "Pierre Batcheff",
             "Simone Mareuil",
-            "Salvador Dali"
+            "Salvador Dalí"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Il était une nuit au son du tango argentin. Un homme aiguise son rasoir près du balcon avant de trancher l'œil grand ouvert d'une jeune fille impassible. « Dali et moi, en travaillant sur le scénario, nous pratiquions une sorte d'écriture automatique, nous étions surréalistes sans l'étiquette. » (Luis Buñuel)"
+              "texte": "Il était une nuit au son du tango argentin. Un homme aiguise son rasoir près du balcon avant de trancher l'œil grand ouvert d'une jeune fille impassible."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "« Dalí et moi, en travaillant sur le scénario, nous pratiquions une sorte d'écriture automatique, nous étions surréalistes sans l'étiquette. » (Luis Buñuel)"
             }
           ]
         },
         {
-          "idSeance": 35851,
+          "idSeance": 36188,
           "ordre": 1,
-          "dateHeure": "2020-10-17T19:15:00",
+          "dateHeure": "2020-10-31T14:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "idCategorie": 2282,
-          "idEvenement": 22442,
+          "idEvenement": 22455,
           "typeEvenement": 13,
-          "idFilm": 69333,
-          "titre": "Un grand noceur",
-          "artVo": "El",
-          "titreVo": "Gran calavera",
+          "idFilm": 47197,
+          "titre": "Un chien andalou",
+          "titreVo": "",
           "realisateurs": "Luis Buñuel",
-          "annee": 1949,
-          "pays": "Mexique",
-          "duree": 90,
-          "version": "VOSTF",
-          "format": "35 mm",
+          "annee": 1928,
+          "pays": "France",
+          "duree": 17,
+          "version": "",
+          "format": "DCP",
           "ageMinimal": null,
           "generique": [
-            "Fernando Soler",
-            "Rosario Granados",
-            "Andrés Soler"
+            "Pierre Batcheff",
+            "Simone Mareuil",
+            "Salvador Dalí"
           ],
-          "adaptation": "D'après le roman _El Gran cavalera_ d'Adolfo Torrado.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Don Ramiro, un riche veuf, se console dans l'alcool et la débauche. Sa famille parasite s'inquiète de voir le patrimoine se dilapider à vue d'œil."
+              "texte": "Il était une nuit au son du tango argentin. Un homme aiguise son rasoir près du balcon avant de trancher l'œil grand ouvert d'une jeune fille impassible."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "« Dalí et moi, en travaillant sur le scénario, nous pratiquions une sorte d'écriture automatique, nous étions surréalistes sans l'étiquette. » (Luis Buñuel)"
             }
           ]
         },
         {
-          "idSeance": 35861,
+          "idSeance": 35856,
           "ordre": 1,
-          "dateHeure": "2020-10-21T12:00:00",
+          "dateHeure": "2020-10-18T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
           "idCategorie": 2282,
-          "idEvenement": 22442,
+          "idEvenement": 22463,
           "typeEvenement": 13,
-          "idFilm": 69333,
-          "titre": "Un grand noceur",
-          "artVo": "El",
-          "titreVo": "Gran calavera",
+          "idFilm": 43234,
+          "titre": "Una mujer sin amor",
           "realisateurs": "Luis Buñuel",
-          "annee": 1949,
+          "annee": 1951,
           "pays": "Mexique",
-          "duree": 90,
-          "version": "VOSTF",
+          "duree": 86,
+          "version": "VO",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
-            "Fernando Soler",
             "Rosario Granados",
-            "Andrés Soler"
+            "Tito Junco",
+            "Julio Villareal"
           ],
-          "adaptation": "D'après le roman _El Gran cavalera_ d'Adolfo Torrado.",
+          "adaptation": "D'après le roman _Pierre et Jean_ de Guy de Maupassant.",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Don Ramiro, un riche veuf, se console dans l'alcool et la débauche. Sa famille parasite s'inquiète de voir le patrimoine se dilapider à vue d'œil."
+              "texte": "Carlito, parvenu à l'âge adulte, soupçonne sa mère d'infidélité."
+            }
+          ]
+        },
+        {
+          "idSeance": 36142,
+          "ordre": 1,
+          "dateHeure": "2020-10-31T16:45:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2282,
+          "idEvenement": 22463,
+          "typeEvenement": 13,
+          "idFilm": 43234,
+          "titre": "Una mujer sin amor",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1951,
+          "pays": "Mexique",
+          "duree": 86,
+          "version": "VO",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Rosario Granados",
+            "Tito Junco",
+            "Julio Villareal"
+          ],
+          "adaptation": "D'après le roman _Pierre et Jean_ de Guy de Maupassant.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Carlito, parvenu à l'âge adulte, soupçonne sa mère d'infidélité."
             }
           ]
         },
@@ -1925,17 +2023,17 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Jeune novice dans un couvent espagnol, Viridiana rend visite à son oncle Jaime qui découvre en elle le sosie de son épouse morte vingt ans auparavant, le soir de ses noces."
+              "texte": "Jeune novice dans un couvent, Viridiana rend visite, avant de prononcer ses vœux, à son oncle Jaime. Il découvre en elle le sosie de son épouse, morte vingt ans auparavant, le soir de leurs noces."
             }
           ]
         },
         {
-          "idSeance": 35881,
+          "idSeance": 36156,
           "ordre": 1,
-          "dateHeure": "2020-10-17T15:00:00",
+          "dateHeure": "2020-10-28T19:00:00",
           "idSalle": [
-            "HL",
-            "Henri Langlois"
+            "GF",
+            "Georges Franju"
           ],
           "idCategorie": 2282,
           "idEvenement": 22436,
@@ -1959,7 +2057,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Jeune novice dans un couvent espagnol, Viridiana rend visite à son oncle Jaime qui découvre en elle le sosie de son épouse morte vingt ans auparavant, le soir de ses noces."
+              "texte": "Jeune novice dans un couvent, Viridiana rend visite, avant de prononcer ses vœux, à son oncle Jaime. Il découvre en elle le sosie de son épouse, morte vingt ans auparavant, le soir de leurs noces."
             }
           ]
         },
@@ -2032,6 +2130,85 @@
               "texte": "Sur la route de Saint-Jacques-de-Compostelle, deux vagabonds font d'étranges rencontres."
             }
           ]
+        },
+        {
+          "idSeance": 35753,
+          "ordre": 2,
+          "dateHeure": "2020-09-30T20:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "mention": "Ouverture de la rétrospective",
+          "idCategorie": 2282,
+          "idEvenement": 22455,
+          "typeEvenement": 13,
+          "idFilm": 47140,
+          "art": "L'",
+          "titre": "Âge d'or",
+          "titreVo": "",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1930,
+          "pays": "France",
+          "duree": 63,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Lya Lys",
+            "Gaston Modot",
+            "Max Ernst",
+            "Pierre Prévert"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La force du désir éprouvé par un couple bouscule et renverse l'ordre social."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Scénario coécrit par Luis Buñuel et Salvador Dalí."
+            }
+          ]
+        },
+        {
+          "idSeance": 36188,
+          "ordre": 2,
+          "dateHeure": "2020-10-31T14:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2282,
+          "idEvenement": 22455,
+          "typeEvenement": 13,
+          "idFilm": 47140,
+          "art": "L'",
+          "titre": "Âge d'or",
+          "titreVo": "",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1930,
+          "pays": "France",
+          "duree": 63,
+          "version": "",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Lya Lys",
+            "Gaston Modot",
+            "Max Ernst",
+            "Pierre Prévert"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La force du désir éprouvé par un couple bouscule et renverse l'ordre social."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Scénario coécrit par Luis Buñuel et Salvador Dalí."
+            }
+          ]
         }
       ],
       "textes": []
@@ -2041,18 +2218,18 @@
       "tri": 1,
       "items": [
         {
-          "idSeance": 36141,
+          "idSeance": 36187,
           "ordre": 1,
-          "dateHeure": "2020-10-31T14:30:00",
+          "dateHeure": "2020-11-01T17:00:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 2310,
           "idEvenement": 22795,
           "typeEvenement": 13,
           "idFilm": 144938,
-          "titre": "Cinéastes de notre temps : Luis Buñuel TV",
+          "titre": "Cinéastes de notre temps : Luis Buñuel",
           "titreVo": "",
           "realisateurs": "Robert Valey",
           "annee": 1964,
@@ -2064,7 +2241,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Premier film de la série, ce portrait de Luis Buñuel se décline en deux parties : la première s'attache à retracer la vie de l'artiste et cinéaste surréaliste, la seconde est un entretien avec l'auteur de _L' Âge d'or_."
+              "texte": "Premier film de la série « Cinéastes de notre temps », un portrait de Luis Buñuel en deux parties : la première retrace la vie du cinéaste surréaliste, la seconde est un entretien."
             }
           ]
         }
@@ -2094,11 +2271,15 @@
           "textes": [
             {
               "typeTexte": 8,
-              "texte": "« Luis n'aimait pas parler de ses films, mais je crois qu'il gardait une secrète préférence pour celui-ci (...). Naturellement, nous ne pouvons pas espérer, dans un cas pareil, que tout le monde suive. Nous savons qu'ils seront nombreux, ceux qui diront, non sans irritation: « Mais je ne comprends pas ! Ça n'a ni queue ni tête ! Qu'est-ce qu'on me raconte ? Qu'est-ce que ça veut dire ? » Tant pis. Tant pis pour eux et tant pis pour nous. » Jean-Claude Carrière, _Ateliers_ (éd. Odile Jacob, 2020)"
+              "texte": "« Luis n'aimait pas parler de ses films, mais je crois qu'il gardait une secrète préférence pour celui-ci. Naturellement, nous ne pouvons pas espérer, dans un cas pareil, que tout le monde suive. Nous savons qu'ils seront nombreux, ceux qui diront, non sans irritation: \"Mais je ne comprends pas ! Ça n'a ni queue ni tête ! Qu'est-ce qu'on me raconte ? Qu'est-ce que ça veut dire ?\" Tant pis. Tant pis pour eux et tant pis pour nous. » (Jean-Claude Carrière, _Ateliers_, Odile Jacob, 2020)"
             },
             {
               "typeTexte": 156,
-              "texte": "**Frédéric Bonnaud** est directeur général de La Cinémathèque française."
+              "texte": "Frédéric Bonnaud est directeur général de la Cinémathèque française."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Au sujet de sa collaboration au long cours avec Luis Buñuel, Jean-Claude Carrière a décrit une « harmonie souterraine » qui a duré près de vingt ans. Carrière a cosigné les scénarios de six films de la dernière période du réalisateur espagnol, du _Journal d'une femme de chambre_ (sorti en 1964) à _Cet obscur objet du désir_ (1977). Ensemble, les deux amis ont écrit l'autobiographie de Buñuel, parue en 1982, _Mon dernier soupir_."
             }
           ],
           "intervenants": [
@@ -2131,17 +2312,17 @@
           "typeEvenement": 14,
           "idTypeConference": 55,
           "typeConference": "Conférence",
-          "titre": "« Tours et détours : les films mexicains de Luis Buñuel (1947-1965) »",
+          "titre": "Tours et détours : les films mexicains de Luis Buñuel (1947-1965)",
           "sousTitre": "Conférence de Gabriela Trujillo",
           "duree": 90,
           "textes": [
             {
               "typeTexte": 8,
-              "texte": "« Je me sentais si peu attiré par l'Amérique latine que je disais toujours à mes amis : ''Si je disparais, cherchez moi partout dans le monde, sauf là'' », écrit Buñuel dans son autobiographie _Mon dernier soupir_. Pourtant, le maître aragonais aura vécu près de quarante ans au Mexique, où il dirige vingt de ses trente-deux films, de _Grand Casino_ à _Simon du désert e_n passant par _Los Olvidados_. Il y est même, en pleine guerre froide, l'une des cibles principales des services secrets mexicains. Mexico devient le lieu de rencontres capitales où le cinéaste collabore avec des intellectuels reconnus (Carlos Fuentes, Elena Poniatowska, Max Aub) et participe à la splendeur de l'industrie cinématographique mexicaine (avec Gustavo Alatriste, Gabriel Figueroa, Arturo Ripstein), employant les grandes stars de l'époque (Silvia Pinal, Libertad Lamarque, Jorge Negrete, Claudio Brook). Terreau de grandes affinités électives, ce faux dépaysement est surtout le lieu incontournable où s'affirme l'univers narratif de Buñuel, puisqu'il y crée une infinité de variations de l'enfermement et de l'hallucination, sans oublier sa satire de la religion et du machisme latino-américains. Ou : ce que le Mexique doit à Buñuel, ce que Buñuel doit au Mexique."
+              "texte": "« Je me sentais si peu attiré par l'Amérique latine que je disais toujours à mes amis : \"Si je disparais, cherchez moi partout dans le monde, sauf là\" », écrit Buñuel dans son autobiographie _Mon dernier soupir_. Pourtant, le maître aragonais aura vécu près de quarante ans au Mexique, où il dirige vingt de ses trente-deux films, de _Grand casino_ à _Simon du désert_ en passant par _Los Olvidados_. Il y est même, en pleine guerre froide, l'une des cibles principales des services secrets mexicains. Mexico devient le lieu de rencontres capitales où le cinéaste collabore avec des intellectuels reconnus (Carlos Fuentes, Elena Poniatowska, Max Aub) et participe à la splendeur de l'industrie cinématographique mexicaine (avec Gustavo Alatriste, Gabriel Figueroa, Arturo Ripstein), employant les grandes stars de l'époque (Silvia Pinal, Libertad Lamarque, Jorge Negrete, Claudio Brook). Terreau de grandes affinités électives, ce faux dépaysement est surtout le lieu incontournable où s'affirme l'univers narratif de Buñuel, puisqu'il y crée une infinité de variations de l'enfermement et de l'hallucination, sans oublier sa satire de la religion et du machisme latino-américains. Ou : ce que le Mexique doit à Buñuel, ce que Buñuel doit au Mexique."
             },
             {
               "typeTexte": 156,
-              "texte": "Docteure en cinéma, ancien professeur à l'École du Louvre et la New York University, **Gabriela Trujillo** est spécialiste des avant-gardes latino-américaines et européennes. Elle travaille actuellement à l'Action culturelle de la Cinémathèque française."
+              "texte": "Gabriela Trujillo est spécialiste des avant-gardes latino-américaines et européennes. Elle travaille à l'Action culturelle de la Cinémathèque française."
             }
           ],
           "intervenants": [

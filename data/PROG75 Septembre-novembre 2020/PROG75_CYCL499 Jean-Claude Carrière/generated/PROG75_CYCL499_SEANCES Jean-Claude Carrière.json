@@ -50,7 +50,7 @@
     "typeEvenement": 13,
     "idEvenement": 22439,
     "idSeance": 35798,
-    "dateHeure": "2020-10-07T22:00:00",
+    "dateHeure": "2020-10-07T21:45:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -121,8 +121,8 @@
     "idSeance": 35847,
     "dateHeure": "2020-10-14T19:00:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
@@ -156,52 +156,6 @@
         "duree": 100,
         "version": "",
         "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCategorie": 2283,
-    "typeEvenement": 13,
-    "idEvenement": 22439,
-    "idSeance": 36139,
-    "dateHeure": "2020-10-16T22:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 47185,
-        "ordre": 1,
-        "idSeance": 36139,
-        "idCopie": 12735,
-        "duree": 102,
-        "version": "",
-        "format": "DCP",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCategorie": 2283,
-    "typeEvenement": 13,
-    "idEvenement": 22438,
-    "idSeance": 36140,
-    "dateHeure": "2020-10-18T14:15:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 47184,
-        "ordre": 1,
-        "idSeance": 36140,
-        "idCopie": 13977,
-        "duree": 102,
-        "version": "",
-        "format": "DCP",
         "valide": 0
       }
     ]
@@ -269,10 +223,10 @@
         "idFilm": 29756,
         "ordre": 1,
         "idSeance": 35884,
-        "idCopie": 12663,
+        "idCopie": 21441,
         "duree": 90,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       }
     ]
@@ -375,7 +329,7 @@
     "typeEvenement": 13,
     "idEvenement": 22475,
     "idSeance": 35906,
-    "dateHeure": "2020-10-25T17:00:00",
+    "dateHeure": "2020-10-25T17:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -398,7 +352,7 @@
     "typeEvenement": 13,
     "idEvenement": 22598,
     "idSeance": 35907,
-    "dateHeure": "2020-10-25T19:45:00",
+    "dateHeure": "2020-10-25T20:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -423,8 +377,8 @@
     "idSeance": 35910,
     "dateHeure": "2020-10-28T19:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "items": [
       {
@@ -446,8 +400,8 @@
     "idSeance": 35938,
     "dateHeure": "2020-10-28T21:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "items": [
       {
@@ -455,6 +409,29 @@
         "ordre": 1,
         "idSeance": 35938,
         "idCopie": 21117,
+        "duree": 102,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2283,
+    "typeEvenement": 13,
+    "idEvenement": 22438,
+    "idSeance": 36157,
+    "dateHeure": "2020-10-28T21:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 47184,
+        "ordre": 1,
+        "idSeance": 36157,
+        "idCopie": 13977,
         "duree": 102,
         "version": "",
         "format": "DCP",
@@ -481,6 +458,29 @@
         "duree": 98,
         "version": "VOSTF",
         "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2283,
+    "typeEvenement": 13,
+    "idEvenement": 22492,
+    "idSeance": 36176,
+    "dateHeure": "2020-10-29T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 140633,
+        "ordre": 1,
+        "idSeance": 36176,
+        "idCopie": 21032,
+        "duree": 75,
+        "version": "",
+        "format": "DCP",
         "valide": 0
       }
     ]
@@ -761,7 +761,7 @@
     "typeEvenement": 13,
     "idEvenement": 22604,
     "idSeance": 35936,
-    "dateHeure": "2020-11-04T12:00:00",
+    "dateHeure": "2020-11-04T19:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -776,6 +776,69 @@
         "version": "",
         "format": "Numérique",
         "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2283,
+    "typeEvenement": 13,
+    "idEvenement": 22492,
+    "idSeance": 36177,
+    "dateHeure": "2020-11-04T21:15:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 140633,
+        "ordre": 1,
+        "idSeance": 36177,
+        "idCopie": 21032,
+        "duree": 75,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2283,
+    "typeEvenement": 13,
+    "idEvenement": 22605,
+    "idSeance": 36179,
+    "dateHeure": "2020-11-05T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 64903,
+        "ordre": 1,
+        "idSeance": 36179,
+        "idCopie": 21113,
+        "duree": 87,
+        "version": "",
+        "format": "Numérique",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2283,
+    "typeEvenement": 13,
+    "idEvenement": 22606,
+    "idSeance": 36178,
+    "dateHeure": "2020-11-06T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 144155,
+        "ordre": 1
       }
     ]
   }

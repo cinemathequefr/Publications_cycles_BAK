@@ -23,7 +23,7 @@ Deux frères aux caractères opposés entrent à l'Académie navale. Alors que l
 Copie Technicolor.
 
 - di 6 sep 14h30 GF
-- di 27 sep 16h30 GF
+- di 20 sep 17h30 GF
 
 [35874]  
 **Ça commence à Vera Cruz**  
@@ -44,7 +44,7 @@ de Don Siegel
 Avec Edmond O'Brien, Barry Sullivan, Jocelyn Brando.  
 Pendant la Seconde Guerre mondiale, une troupe de soldats américains part en mission dans le Sud de la Chine pour délivrer un prisonnier important.
 
-- lu 7 sep 21h00 GF
+- lu 28 sep 19h00 GF
 - di 4 oct 16h45 GF
 
 [35829]  
@@ -91,7 +91,7 @@ de Don Siegel
 Avec Audie Murphy, Faith Domergue, Stephen McNally.  
 Le shérif de Silver City et son adjoint essayent de neutraliser une bande armée qui terrorise la région.
 
-- lu 28 sep 19h00 GF
+- di 27 sep 20h45 GF
 - di 4 oct 18h45 GF
 
 [45130]  
@@ -277,8 +277,8 @@ D'après le roman _Ride the Pink Horse_ de Dorothy B. Hughes.
 Avec Robert Culp, Edmond O'Brien, Vera Miles.  
 À la Nouvelle-Orléans, en plein carnaval, un homme recherche le meurtrier de son ami.
 
+- lu 7 sep 21h00 GF
 - di 20 sep 19h45 GF
-- di 27 sep 20h45 GF
 
 [44685]  
 **Les Proies**  
@@ -323,7 +323,7 @@ de Don Siegel
 Avec Cornel Wilde, Victoria Shaw, Mickey Shaughnessy.  
 Des meurtres violents ont été commis aux abords d'une mine désaffectée, dans le Grand Canyon du Colorado. Un jeune shérif mène l'enquête.
 
-- me 16 sep 19h30 GF
+- lu 28 sep 21h00 GF
 - sa 3 oct 22h00 GF
 
 [57017]  
@@ -358,8 +358,8 @@ D'après le roman _Telefon_ de Walter Wager.
 Avec Charles Bronson, Lee Remick, Donald Pleasence.  
 À la fin de la guerre froide, un agent secret du KGB est chargé de « réveiller » des agents soviétiques infiltrés aux États-Unis pour qu'ils commettent des attentats sur le sol américain.
 
-- di 20 sep 17h30 GF
-- lu 28 sep 21h00 GF
+- me 16 sep 19h30 GF
+- di 27 sep 16h30 GF
 
 [44948]  
 **Un shérif à New York**  
@@ -440,6 +440,7 @@ Après s'être cassé la main, Salvadore, un jeune homme désargenté et agressi
 
 []  
 **L'Inspecteur Harry ou le mystère de l'incarnation**  
+**Conférence de Jean-François Rauger**  
 undefined  
 90 min  
 Le cinéma de Don Siegel, particulièrement depuis _L'Invasion des profanateurs de sépultures,_ que le cinéaste réalise en 1956, semble être une perpétuelle exploration des différents états de la figure humaine. À quel moment l'individu perd-il son humanité ? L'inhumanité est-elle le contraire de l'humanité ou l'une de ses expressions possibles et ultimes ? Silhouettes mécaniques et aveugles, marionnettes glaciales en proie à une déperdition des sentiments, les personnages siegéliens ne cessent d'être confrontés à l'ambiguïté de leur être et à l'anéantissement de leur nature. Mais la menace de la perte de ce qui fonde l'humain ne renvoie-t-elle pas aussi à son contraire : la quête de l'incarnation ? « En Jésus-Christ, Dieu a pris chair, s'est incarné. Il est devenu un homme dans notre histoire : le Verbe s'est fait chair, il a habité parmi nous et nous avons vu sa gloire. » (L'Évangile selon Jean, 1:14) Une question éminemment cinématographique que pose encore en 1971 _L'Inspecteur Harry._  
@@ -447,10 +448,11 @@ Jean-François Rauger est directeur de la programmation de la Cinémathèque fra
 
 - je 10 sep 19h00 HL
 
-[]
+[]  
+**Film + discussion avec Yal Sadat**  
+undefined  
+45 min  
+« Plus on décrit, on analyse et on explique un personnage, et plus il vous échappe. » (Don Siegel, au sujet de Frank Morris, personnage joué par Clint Eastwood) « Un excellent film d'action. M. Eastwood répond, mieux que quiconque, à toutes les exigences du rôle et du film. Est-ce qu'il joue pour autant ? Je ne sais pas. Dans son domaine, en tout cas, il s'impose. » (Vincent Canby, _The New York Times_, 22 juin 1979) « Don Siegel est celui qui m'a le plus appris sur le travail de réalisation. Il m'a appris à me mettre en première ligne. Il fait peu de prises et il sait quand il a ce qu'il veut dans la boîte. » (Clint Eastwood, _Rolling Stone_, 4 juillet 1985)  
+Journaliste et critique de cinéma (carbone.ink, _Sofilm_ et anciennement _Chronic'art_), Yal Sadat a consacré une thèse de doctorat au _« vigilante movie »_ des années 1970.
 
----
-
-undefined
-
-- je 17 sep 21h30 HL
+- je 17 sep 19h30 HL

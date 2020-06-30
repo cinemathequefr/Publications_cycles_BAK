@@ -1,22 +1,5 @@
 [
   {
-    "idCategorie": 2113,
-    "typeEvenement": 13,
-    "idEvenement": 22849,
-    "idSeance": 36163,
-    "dateHeure": "2020-09-18T20:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "items": [
-      {
-        "idFilm": 46676,
-        "ordre": 1
-      }
-    ]
-  },
-  {
     "idCategorie": 2246,
     "typeEvenement": 13,
     "idEvenement": 22158,

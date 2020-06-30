@@ -22,7 +22,7 @@
 <pstyle:INFOS_UTILES>Copie Technicolor.
 <pstyle:><cstyle:INFOSBLEUES>di 06 sepXXX14h30XXX
 <cstyle:SALLESBLEUES>B
-<cstyle:INFOSBLEUES>di 27 sepXXX16h30XXX
+<cstyle:INFOSBLEUES>di 20 sepXXX17h30XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Ça commence à Vera Cruz
@@ -42,7 +42,7 @@
 <pstyle:TECHNIQUE>États-Unis/1953/82<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Edmond O<0x2019>Brien, Barry Sullivan, Jocelyn Brando.
 <pstyle:SYNOPSIS>Pendant la Seconde Guerre mondiale, une troupe de soldats américains part en mission dans le Sud de la Chine pour délivrer un prisonnier important.
-<pstyle:><cstyle:INFOSBLEUES>lu 07 sepXXX21h00XXX
+<pstyle:><cstyle:INFOSBLEUES>lu 28 sepXXX19h00XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>di 04 octXXX16h45XXX
 <cstyle:SALLESBLEUES>B
@@ -89,7 +89,7 @@
 <pstyle:TECHNIQUE>États-Unis/1951/77<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Audie Murphy, Faith Domergue, Stephen McNally.
 <pstyle:SYNOPSIS>Le shérif de Silver City et son adjoint essayent de neutraliser une bande armée qui terrorise la région.
-<pstyle:><cstyle:INFOSBLEUES>lu 28 sepXXX19h00XXX
+<pstyle:><cstyle:INFOSBLEUES>di 27 sepXXX20h45XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>di 04 octXXX18h45XXX
 <cstyle:SALLESBLEUES>B
@@ -274,9 +274,9 @@
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Ride the Pink Horse<cSkew:> de Dorothy B. Hughes.
 <pstyle:TECHNIQUE>Avec Robert Culp, Edmond O<0x2019>Brien, Vera Miles.
 <pstyle:SYNOPSIS>À la Nouvelle-Orléans, en plein carnaval, un homme recherche le meurtrier de son ami.
-<pstyle:><cstyle:INFOSBLEUES>di 20 sepXXX19h45XXX
+<pstyle:><cstyle:INFOSBLEUES>lu 07 sepXXX21h00XXX
 <cstyle:SALLESBLEUES>B
-<cstyle:INFOSBLEUES>di 27 sepXXX20h45XXX
+<cstyle:INFOSBLEUES>di 20 sepXXX19h45XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Les Proies
@@ -320,7 +320,7 @@
 <pstyle:TECHNIQUE>États-Unis/1959/81<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Cornel Wilde, Victoria Shaw, Mickey Shaughnessy.
 <pstyle:SYNOPSIS>Des meurtres violents ont été commis aux abords d<0x2019>une mine désaffectée, dans le Grand Canyon du Colorado. Un jeune shérif mène l<0x2019>enquête.
-<pstyle:><cstyle:INFOSBLEUES>me 16 sepXXX19h30XXX
+<pstyle:><cstyle:INFOSBLEUES>lu 28 sepXXX21h00XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>sa 03 octXXX22h00XXX
 <cstyle:SALLESBLEUES>B
@@ -355,9 +355,9 @@
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Telefon<cSkew:> de Walter Wager.
 <pstyle:TECHNIQUE>Avec Charles Bronson, Lee Remick, Donald Pleasence.
 <pstyle:SYNOPSIS>À la fin de la guerre froide, un agent secret du KGB est chargé de «<0x00A0>réveiller<0x00A0>» des agents soviétiques infiltrés aux États-Unis pour qu<0x2019>ils commettent des attentats sur le sol américain.
-<pstyle:><cstyle:INFOSBLEUES>di 20 sepXXX17h30XXX
+<pstyle:><cstyle:INFOSBLEUES>me 16 sepXXX19h30XXX
 <cstyle:SALLESBLEUES>B
-<cstyle:INFOSBLEUES>lu 28 sepXXX21h00XXX
+<cstyle:INFOSBLEUES>di 27 sepXXX16h30XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Un shérif à New York
@@ -440,8 +440,11 @@
 <pstyle:><cstyle:INFOSBLEUES>je 10 sepXXX19h00XXX
 <cstyle:SALLESBLEUES>A
 
-<pstyle:TITRE>
+<pstyle:TITRE>Film + discussion avec Yal Sadat
 <pstyle:TECHNIQUE>undefined
-<pstyle:><cstyle:INFOSBLEUES>je 17 sepXXX21h30XXX
+<pstyle:TECHNIQUE>45<0x2019>
+<pstyle:SYNOPSIS>«<0x00A0>Plus on décrit, on analyse et on explique un personnage, et plus il vous échappe.<0x00A0>» (Don Siegel, au sujet de Frank Morris, personnage joué par Clint Eastwood) «<0x00A0>Un excellent film d<0x2019>action. M. Eastwood répond, mieux que quiconque, à toutes les exigences du rôle et du film. Est-ce qu<0x2019>il joue pour autant<0x00A0>? Je ne sais pas. Dans son domaine, en tout cas, il s<0x2019>impose.<0x00A0>» (Vincent Canby, <ct:Italic>The New York Times<ct:>, 22 juin 1979) «<0x00A0>Don Siegel est celui qui m<0x2019>a le plus appris sur le travail de réalisation. Il m<0x2019>a appris à me mettre en première ligne. Il fait peu de prises et il sait quand il a ce qu<0x2019>il veut dans la boîte.<0x00A0>» (Clint Eastwood, <ct:Italic>Rolling Stone<ct:>, 4 juillet 1985)
+<pstyle:SYNOPSIS>Journaliste et critique de cinéma (carbone.ink, <ct:Italic>Sofilm<ct:> et anciennement <ct:Italic>Chronic<0x2019>art<ct:>), Yal Sadat a consacré une thèse de doctorat au <ct:Italic>«<0x00A0>vigilante movie<0x00A0>»<ct:> des années 1970.
+<pstyle:><cstyle:INFOSBLEUES>je 17 sepXXX19h30XXX
 <cstyle:SALLESBLEUES>A
 

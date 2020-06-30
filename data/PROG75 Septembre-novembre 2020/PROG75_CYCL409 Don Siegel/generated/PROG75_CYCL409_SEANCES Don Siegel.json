@@ -234,8 +234,8 @@
   {
     "idCategorie": 1840,
     "typeEvenement": 13,
-    "idEvenement": 18421,
-    "idSeance": 35615,
+    "idEvenement": 18434,
+    "idSeance": 36181,
     "dateHeure": "2020-09-07T21:00:00",
     "idSalle": [
       "GF",
@@ -243,11 +243,11 @@
     ],
     "items": [
       {
-        "idFilm": 84266,
+        "idFilm": 44745,
         "ordre": 1,
-        "idSeance": 35615,
-        "idCopie": 17354,
-        "duree": 82,
+        "idSeance": 36181,
+        "idCopie": 19687,
+        "duree": 87,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
@@ -650,8 +650,8 @@
   {
     "idCategorie": 1840,
     "typeEvenement": 13,
-    "idEvenement": 18453,
-    "idSeance": 35660,
+    "idEvenement": 18441,
+    "idSeance": 36150,
     "dateHeure": "2020-09-16T19:30:00",
     "idSalle": [
       "GF",
@@ -659,11 +659,11 @@
     ],
     "items": [
       {
-        "idFilm": 35738,
+        "idFilm": 35927,
         "ordre": 1,
-        "idSeance": 35660,
-        "idCopie": 17360,
-        "duree": 81,
+        "idSeance": 36150,
+        "idCopie": 17355,
+        "duree": 103,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
@@ -703,6 +703,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 35604,
@@ -720,14 +721,17 @@
     "idCategorie": 2214,
     "typeEvenement": 14,
     "idEvenement": 22796,
-    "idSeance": 35892,
-    "dateHeure": "2020-09-17T21:30:00",
+    "idSeance": 35820,
+    "dateHeure": "2020-09-17T19:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -871,8 +875,8 @@
   {
     "idCategorie": 1840,
     "typeEvenement": 13,
-    "idEvenement": 18441,
-    "idSeance": 35665,
+    "idEvenement": 18430,
+    "idSeance": 36152,
     "dateHeure": "2020-09-20T17:30:00",
     "idSalle": [
       "GF",
@@ -880,13 +884,13 @@
     ],
     "items": [
       {
-        "idFilm": 35927,
+        "idFilm": 83502,
         "ordre": 1,
-        "idSeance": 35665,
-        "idCopie": 17355,
-        "duree": 103,
+        "idSeance": 36152,
+        "idCopie": 19726,
+        "duree": 81,
         "version": "VOSTF",
-        "format": "35 mm",
+        "format": "16 mm",
         "valide": 1
       }
     ]
@@ -1078,8 +1082,8 @@
   {
     "idCategorie": 1840,
     "typeEvenement": 13,
-    "idEvenement": 18430,
-    "idSeance": 35749,
+    "idEvenement": 18441,
+    "idSeance": 36151,
     "dateHeure": "2020-09-27T16:30:00",
     "idSalle": [
       "GF",
@@ -1087,13 +1091,13 @@
     ],
     "items": [
       {
-        "idFilm": 83502,
+        "idFilm": 35927,
         "ordre": 1,
-        "idSeance": 35749,
-        "idCopie": 19726,
-        "duree": 81,
+        "idSeance": 36151,
+        "idCopie": 17355,
+        "duree": 103,
         "version": "VOSTF",
-        "format": "16 mm",
+        "format": "35 mm",
         "valide": 1
       }
     ]
@@ -1124,32 +1128,9 @@
   {
     "idCategorie": 1840,
     "typeEvenement": 13,
-    "idEvenement": 18434,
-    "idSeance": 35698,
-    "dateHeure": "2020-09-27T20:45:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "items": [
-      {
-        "idFilm": 44745,
-        "ordre": 1,
-        "idSeance": 35698,
-        "idCopie": 19687,
-        "duree": 87,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 1840,
-    "typeEvenement": 13,
     "idEvenement": 18422,
-    "idSeance": 35835,
-    "dateHeure": "2020-09-28T19:00:00",
+    "idSeance": 36180,
+    "dateHeure": "2020-09-27T20:45:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -1158,7 +1139,7 @@
       {
         "idFilm": 36416,
         "ordre": 1,
-        "idSeance": 35835,
+        "idSeance": 36180,
         "idCopie": 17388,
         "duree": 77,
         "version": "VOSTF",
@@ -1170,8 +1151,31 @@
   {
     "idCategorie": 1840,
     "typeEvenement": 13,
-    "idEvenement": 18441,
-    "idSeance": 35836,
+    "idEvenement": 18421,
+    "idSeance": 36147,
+    "dateHeure": "2020-09-28T19:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 84266,
+        "ordre": 1,
+        "idSeance": 36147,
+        "idCopie": 17354,
+        "duree": 82,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 1840,
+    "typeEvenement": 13,
+    "idEvenement": 18453,
+    "idSeance": 36148,
     "dateHeure": "2020-09-28T21:00:00",
     "idSalle": [
       "GF",
@@ -1179,11 +1183,11 @@
     ],
     "items": [
       {
-        "idFilm": 35927,
+        "idFilm": 35738,
         "ordre": 1,
-        "idSeance": 35836,
-        "idCopie": 17355,
-        "duree": 103,
+        "idSeance": 36148,
+        "idCopie": 17360,
+        "duree": 81,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
