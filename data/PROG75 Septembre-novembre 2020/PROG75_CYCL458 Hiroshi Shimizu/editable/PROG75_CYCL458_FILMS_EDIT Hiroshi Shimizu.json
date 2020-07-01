@@ -110,7 +110,7 @@
     "idFilm": 72105,
     "ageMinimal": 0,
     "realisateurs": "Masahiro Makino, Kenji Mizoguchi, Hiroshi Shimizu, Tomotaka Tasaka",
-    "annee": 1946,
+    "annee": 1945,
     "pays": "Japon",
     "textes": [
       {
@@ -181,7 +181,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme conductrice de bus."
+        "texte": "Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme receveuse de bus."
       }
     ],
     "generique": ["Michiyo Kogure", "Takeshi Sakamoto", "Mitsuko Yoshikawa"]
@@ -206,7 +206,7 @@
         "texte": "Copie National Film Archive of Japan."
       }
     ],
-    "generique": ["Shirley Yamaguchi", "Toshiaki Konoe", "Kenji Oyama"]
+    "generique": ["Rio Koran", "Toshiaki Konoe", "Kenji Oyama"]
   },
   {
     "titre": "Dans les bas-quartiers de Yokocho",
@@ -312,7 +312,7 @@
         "texte": "Un professeur en psychologie et son épouse décident de fonder une école pour élèves atteints de poliomyélite car leurs enfants, souffrant eux-mêmes de cette maladie, subissent les moqueries de leurs camarades."
       }
     ],
-    "generique": ["Kyoko Kagawa", "Yukiko Shimazaki", "Ranko Hanai"]
+    "generique": ["Kyoko Kagawa", "Jukichi Uno", "Ranko Hanai"]
   },
   {
     "titre": "Enfants de la ruche",
@@ -392,7 +392,7 @@
       }
     ],
     "generique": ["Kinuyo Tanaka", "Ryu Chishu", "Tatsuo Saito"],
-    "adaptation": "D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse."
+    "adaptation": "D'après la nouvelle _Yotsu no yubune_ de Masuji Ibuse."
   },
   {
     "titre": "Équipe vedette",
@@ -413,7 +413,7 @@
     "generique": ["Shuji Sano", "Ryu Chishu", "Shin'ichi Himori"]
   },
   {
-    "titre": "Forgeron de la fôret",
+    "titre": "Forgeron de la forêt",
     "art": "Le",
     "titreVo": "Mori no kajiya",
     "titreNx": "森の鍛冶屋",
@@ -600,7 +600,7 @@
         "texte": "Copie National Film Archive of Japan."
       }
     ],
-    "generique": ["Ken Uehara", "Kaoru Futuba", "Michiko Kuwano"]
+    "generique": ["Ken Uehara", "Kaoru Futaba", "Michiko Kuwano"]
   },
   {
     "titre": "Monsieur Shosuke Ohara",
@@ -779,7 +779,7 @@
         "texte": "Copie National Film Archive of Japan."
       }
     ],
-    "generique": ["Hiroko Kawasaki", "Sachiko Murase", "Atsushi Arai"],
+    "generique": ["Hiroko Kawasaki", "Satoko Date", "Atsushi Arai"],
     "adaptation": "D'après le roman _Nanatsu no umi_ d'Itsuma Maki."
   },
   {
@@ -825,7 +825,7 @@
         "texte": "Copie National Film Archive of Japan."
       }
     ],
-    "generique": ["Ken Uehara", "Michiyo Kogure", "Keizo Kawasaki"]
+    "generique": ["Ken Uehara", "Michiyo Kogure", "Yoshiko Fujita"]
   },
   {
     "titre": "Sous les fleurs de pêchers",
@@ -851,7 +851,7 @@
   {
     "titre": "Tour d'introspection",
     "art": "La",
-    "titreVo": "Mikaheri no to",
+    "titreVo": "Mikaeri no to",
     "titreNx": "みかへりの搭",
     "idFilm": 142771,
     "ageMinimal": null,
@@ -868,7 +868,7 @@
         "texte": "D'après les carnets d'un directeur de centre de redressement d'Osaka édités par le romancier Yoshio Toyoshima."
       }
     ],
-    "generique": ["Chishu Ryu", "Kuniko Miya", "Jun Yokoyama"]
+    "generique": ["Chishu Ryu", "Kuniko Miyake", "Jun Yokoyama"]
   },
   {
     "titre": "Un amour étincelant",
@@ -970,7 +970,7 @@
         "texte": "Copie 35 mm National Film Archive of Japan avec musique de la partition originale."
       }
     ],
-    "generique": ["Mitsugu Fujii", "Haruro Takeda", "Yoshiko Tsubouchi"]
+    "generique": ["Mitsugu Fujii", "Shunro Takeda", "Yoshiko Tsubouchi"]
   },
   {
     "titre": "Une femme et son masseur",
@@ -992,7 +992,7 @@
   {
     "titre": "Vieux bouddhas de Nara",
     "art": "Les",
-    "titreVo": "Nara ni wa furuki butsutachi",
+    "titreVo": "Nara ni wa furuki hotoketachi",
     "titreNx": "奈良には古き仏たち",
     "idFilm": 142785,
     "ageMinimal": null,
