@@ -23,11 +23,12 @@ suivi de
 **(Sayon no kane)**  
 de Hiroshi Shimizu  
 Japon / 1942 / 74 min / VOSTF / 35 mm  
-Avec Shirley Yamaguchi, Toshiaki Konoe, Kenji Oyama.  
+Avec Rio Koran, Toshiaki Konoe, Kenji Oyama.  
 Taïwan, 1938. Une jeune aborigène se noie alors qu'elle accompagne son professeur japonais qui rejoint le front. Film de propagande basé sur une histoire vraie pour inciter les « sujets taïwanais » à s'enrôler dans l'armée impériale.  
 Copie National Film Archive of Japan.
 
-- ve 6 nov 21h45 GF
+- ve 6 nov 19h30 GF  
+Séance présentée par Wafa Ghermani
 
 [142778]  
 **L'Amour d'une mère**  
@@ -59,14 +60,14 @@ Avec Yutaka Iwamoto, Reiko Wakabayashi, Yoshikatsu Chiba.
 La suite des _Enfants de la ruche_ (1948). Shimizu fait jouer leur propre rôle aux enfants qu'il a recueillis et élève dans une ferme qu'il a achetée, à Izu, spécialement pour eux.  
 Copie National Film Archive of Japan.
 
-- ve 6 nov 19h30 GF
+- ve 6 nov 22h00 GF
 
 [142812]  
 **Le Chant de la brume**  
 **(Kiri no oto)**  
 de Hiroshi Shimizu  
 Japon / 1956 / 84 min / VOSTF / 35 mm  
-Avec Ken Uehara, Michiyo Kogure, Keizo Kawasaki.  
+Avec Ken Uehara, Michiyo Kogure, Yoshiko Fujita.  
 Dans une hutte au cœur des Alpes japonaises, un botaniste observe deux jeunes mariés et se remémore son amour de jeunesse.  
 Copie National Film Archive of Japan.
 
@@ -76,7 +77,7 @@ Copie National Film Archive of Japan.
 **Chants pour la victoire**  
 **(Hisshoka)**  
 de Masahiro Makino, Kenji Mizoguchi, Hiroshi Shimizu, Tomotaka Tasaka  
-Japon / 1946 / 80 min / VOSTF / 35 mm  
+Japon / 1945 / 80 min / VOSTF / 35 mm  
 Avec Reikichi Kawamura, Isamu Kosugi, Hiroyuki Nagato.  
 Treize histoires exaltant les mérites du patriotisme japonais en temps de guerre.  
 Copie National Film Archive of Japan.
@@ -121,7 +122,7 @@ Copie National Film Archive of Japan.
 de Hiroshi Shimizu  
 Japon / 1941 / 101 min / VOSTF / 16 mm  
 Avec Michiyo Kogure, Takeshi Sakamoto, Mitsuko Yoshikawa.  
-Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme conductrice de bus.
+Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme receveuse de bus.
 
 - di 29 nov 16h00 GF
 
@@ -169,14 +170,15 @@ Avec Mitsugu Fujii, Hiroko Kawasaki, Michiko Kuwano.
 L'expérience douloureuse de deux villageois amoureux, Osaki et sa cousine Nishimura, contraints à quitter leur ville natale pour la métropole de Tokyo.  
 Version musiquée. Copie National Film Archive of Japan.
 
-- di 1 nov 16h30 GF
+- di 1 nov 16h30 GF  
+Séance présentée par Jo Osawa
 
 [142784]  
 **L'École Shiinomi**  
 **(Shiinomi gakuen)**  
 de Hiroshi Shimizu  
 Japon / 1955 / 99 min / VOSTF / 16 mm  
-Avec Kyoko Kagawa, Yukiko Shimazaki, Ranko Hanai.  
+Avec Kyoko Kagawa, Jukichi Uno, Ranko Hanai.  
 Un professeur en psychologie et son épouse décident de fonder une école pour élèves atteints de poliomyélite car leurs enfants, souffrant eux-mêmes de cette maladie, subissent les moqueries de leurs camarades.
 
 - me 25 nov 19h30 GF
@@ -201,7 +203,7 @@ Des orphelins de guerre se rassemblent dans Nara, ville historique épargnée pa
 Copie National Film Archive of Japan.
 
 - me 28 oct 20h00 HL  
-  Ouverture de la rétrospective
+Ouverture de la rétrospective
 
 [142789]  
 **Les Enfants qui ont besoin d'une mère**  
@@ -225,7 +227,7 @@ Des étudiants partis en manœuvre s'intéressent moins à leur formation milita
 - lu 23 nov 19h00 GF
 
 [100286]  
-**Le Forgeron de la fôret**  
+**Le Forgeron de la forêt**  
 **(Mori no kajiya)**  
 de Hiroshi Shimizu  
 Japon / 1929 / 30 min / INT. FR. / 35 mm  
@@ -284,7 +286,7 @@ Avec Jun Negami, Michihiro Mori, Chikage Awashima.
 Les relations tumultueuses entre le fils d'un veuf et la femme avec laquelle celui-ci s'est remariée et qui s'est installée chez lui avec sa petite sœur.  
 Copie National Film Archive of Japan.
 
-- me 25 nov 21h45 GF
+- me 25 nov 22h00 GF
 
 [122752]  
 **Jeunes filles japonaises sur le port**  
@@ -326,7 +328,7 @@ Copie National Film Archive of Japan.
 **(Arigato-san)**  
 de Hiroshi Shimizu  
 Japon / 1937 / 75 min / VOSTF / 35 mm  
-Avec Ken Uehara, Kaoru Futuba, Michiko Kuwano.  
+Avec Ken Uehara, Kaoru Futaba, Michiko Kuwano.  
 « Monsieur Merci » est le surnom d'un chauffeur de bus réputé pour sa courtoisie, qui conduit les habitants des zones rurales à l'intérieur de la péninsule d'Izu. Une série de rencontres prises sur le vif dans une campagne ensoleillée et endormie.  
 Copie National Film Archive of Japan.
 
@@ -382,14 +384,15 @@ Avec Emiko Yagumo, Minoru Takada, Michiko Oikawa.
 Toshie est amoureuse de Narita, qui épouse sa sœur cadette. Mais l'idylle des jeunes mariés est de courte durée.  
 Copie National Film Archive of Japan.
 
-- sa 31 oct 22h00 GF
+- sa 31 oct 18h45 GF  
+Séance présentée par Jo Osawa
 
 [91079]  
 **Pour une épingle à cheveux**  
 **(Kanzashi)**  
 de Hiroshi Shimizu  
 Japon / 1941 / 70 min / VOSTF / 16 mm  
-D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse.  
+D'après la nouvelle _Yotsu no yubune_ de Masuji Ibuse.  
 Avec Kinuyo Tanaka, Ryu Chishu, Tatsuo Saito.  
 Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s'excuser de l'incident. Une idylle se noue entre eux.
 
@@ -405,7 +408,7 @@ Avec Kyoko Kagawa, Masako Nakamura, Konomi Fuji.
 Le quotidien tumultueux d'une école pour délinquantes, la « Maison des jeunes filles ».  
 Copie National Film Archive of Japan.
 
-- di 22 nov 20h45 GF
+- di 22 nov 21h00 GF
 
 [142764]  
 **Les Quatre saisons des enfants**  
@@ -425,7 +428,7 @@ Copie National Film Archive of Japan.
 de Hiroshi Shimizu  
 Japon / 1932 / 72 min / INT. FR. / 35 mm  
 D'après le roman _Nanatsu no umi_ d'Itsuma Maki.  
-Avec Hiroko Kawasaki, Sachiko Murase, Atsushi Arai.  
+Avec Hiroko Kawasaki, Satoko Date, Atsushi Arai.  
 Yunosuke, l'héritier d'une riche famille doit se fiancer avec Yumie. Jaloux, Takehiko, son frère cadet, arrive à séduire la future épouse en lui faisant croire que Yunosuke a renoncé à elle.  
 Copie National Film Archive of Japan.  
 suivi de  
@@ -439,7 +442,7 @@ Avec Hiroko Kawasaki, Ichiro Yuki, Ureo Egawa.
 Mariée malgré elle à Takehiko, la jeune Yumie est bien décidée destinée à se venger en faisant chambre à part. Son comportement dépensier jettera l'opprobre sur son honorable belle-famille.  
 Copie National Film Archive of Japan.
 
-- sa 31 oct 19h00 GF
+- sa 31 oct 21h00 GF
 
 [142780]  
 **Sous les fleurs de pêchers**  
@@ -452,7 +455,7 @@ Copie National Film Archive of Japan.
 suivi de  
 [142785]  
 **Les Vieux bouddhas de Nara**  
-**(Nara ni wa furuki butsutachi)**  
+**(Nara ni wa furuki hotoketachi)**  
 de Hiroshi Shimizu  
 Japon / 1953 / 36 min / VOSTF / 35 mm  
 Court métrage documentaire sur l'architecture et l'histoire des temples Kofuku-ji et Todai-ji, réalisé en même temps que _Les Enfants du Grand Bouddha_.  
@@ -462,10 +465,10 @@ Copie neuve Kobe Planet Film Archive.
 
 [142771]  
 **La Tour d'introspection**  
-**(Mikaheri no to)**  
+**(Mikaeri no to)**  
 de Hiroshi Shimizu  
 Japon / 1941 / 111 min / VOSTF / 16 mm  
-Avec Chishu Ryu, Kuniko Miya, Jun Yokoyama.  
+Avec Chishu Ryu, Kuniko Miyake, Jun Yokoyama.  
 La vie quotidienne dans un centre de redressement pour enfants difficiles, entre bagarres, fugues et désobéissance.  
 D'après les carnets d'un directeur de centre de redressement d'Osaka édités par le romancier Yoshio Toyoshima.
 
@@ -507,7 +510,7 @@ Un mari s'enfuit avec l'argent de sa société. La mère, abandonnée, doit cach
 **(Daigaku no wakadanna)**  
 de Hiroshi Shimizu  
 Japon / 1933 / 85 min / INT. FR. / 35 mm  
-Avec Mitsugu Fujii, Haruro Takeda, Yoshiko Tsubouchi.  
+Avec Mitsugu Fujii, Shunro Takeda, Yoshiko Tsubouchi.  
 Fujii a été exclu du club de rugby de son université pour avoir amené une geisha sur le stade. Depuis, il mène une vie dissolue au grand dam de son père, riche marchand, à qui il doit succéder.  
 Copie 35 mm National Film Archive of Japan avec musique de la partition originale.
 
@@ -537,10 +540,22 @@ Copie National Film Archive of Japan.
 ## Rencontres et conférences
 
 []  
+**Dialogue avec Jo Osawa**  
+undefined  
+45 min  
+xxxxxxxxx, xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxxxx xx xxxxxxx xx xxxxx. xxxxx xxxxx x xx xxxxxxxxxxxx xxxx xxxx xxxxx, xxx xxx xx xxxxxxxx xx xxxxx xxxxxx xxxxx xxxxxxxxxxx, xxx xxx xxxxx x xx xxxxx xxxxxxx xxxxx xxxxxxxxxxxxxx x xxxxxx xxx xxxxxx xxxx. x xxxxxxx xxx xxxxxxxxxxxx xxxxxx xxx xx xxx, xx xxxxxxxx, xx xxxxx xx xxx xxxxxxxx xxxxxxxxx xxxx xxx, xxx xxxxx xxx xxxxxxx xxxxxxxx, xxxxx xxxxxxxxxx xx xxxxxxx xx xxxxxx x xx xxxxxxxxxx xx xxxxxxx, xxxxxxxx xxxxxx xxx xxx xxxxx.  
+Wafa Ghermani est docteure en études cinématographiques, spécialiste du cinéma taïwanais, et chargée d'événements culturels à la Cinémathèque française.  
+Jo Osawa est curateur au National Film Archive of Japan.
+
+- ve 30 oct 19h30 GF
+
+[]  
 **Qui êtes-vous Hiroshi Shimizu ?**  
+**Conférence de Fabrice Arduini**  
 undefined  
 90 min  
 Longtemps, Hiroshi Shimizu (1903-1966) est resté un inconnu au Japon. C'est grâce à la persévérance d'un seul homme, son ami et critique de renom Matsuo Kishi (1906-1985), que son œuvre a pu faire l'objet d'une réhabilitation à partir des années 1990. À travers ses passionnants écrits sur la vie, la carrière, le style et ses rapports notamment avec Ozu, son rival aux studios Shochiku, cette conférence se propose de partir à la découverte de Shimizu, l'oublié nippon aux 163 films.  
-Fabrice Arduini est directeur adjoint à la programmation à la Maison de la culture du Japon à Paris.
+Fabrice Arduini est directeur adjoint de la programmation à la Maison de la culture du Japon à Paris.
 
 - je 5 nov 19h00 GF
+

@@ -34,6 +34,7 @@
       "GF",
       "Georges Franju"
     ],
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 122752,
@@ -48,11 +49,52 @@
     ]
   },
   {
+    "idCategorie": 2217,
+    "typeEvenement": 14,
+    "idEvenement": 22064,
+    "idSeance": 35898,
+    "dateHeure": "2020-10-30T19:30:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 2052,
+    "typeEvenement": 13,
+    "idEvenement": 20901,
+    "idSeance": 36034,
+    "dateHeure": "2020-10-31T18:45:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 142718,
+        "ordre": 1,
+        "idSeance": 36034,
+        "idCopie": 19593,
+        "duree": 101,
+        "version": "INT. FR.",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Jo Osawa"
+  },
+  {
     "idCategorie": 2052,
     "typeEvenement": 13,
     "idEvenement": 20907,
     "idSeance": 36033,
-    "dateHeure": "2020-10-31T19:00:00",
+    "dateHeure": "2020-10-31T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -83,29 +125,6 @@
   {
     "idCategorie": 2052,
     "typeEvenement": 13,
-    "idEvenement": 20901,
-    "idSeance": 36034,
-    "dateHeure": "2020-10-31T22:00:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "items": [
-      {
-        "idFilm": 142718,
-        "ordre": 1,
-        "idSeance": 36034,
-        "idCopie": 19593,
-        "duree": 101,
-        "version": "INT. FR.",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2052,
-    "typeEvenement": 13,
     "idEvenement": 20911,
     "idSeance": 36035,
     "dateHeure": "2020-11-01T16:30:00",
@@ -124,7 +143,8 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Jo Osawa"
   },
   {
     "idCategorie": 2052,
@@ -228,6 +248,8 @@
       "GF",
       "Georges Franju"
     ],
+    "idSeanceAssoc": 35588,
+    "typeAssoc": 117,
     "items": [
       {}
     ]
@@ -242,6 +264,8 @@
       "GF",
       "Georges Franju"
     ],
+    "idSeanceAssoc": 35587,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 91079,
@@ -258,32 +282,9 @@
   {
     "idCategorie": 2052,
     "typeEvenement": 13,
-    "idEvenement": 20935,
-    "idSeance": 35948,
-    "dateHeure": "2020-11-06T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "items": [
-      {
-        "idFilm": 142779,
-        "ordre": 1,
-        "idSeance": 35948,
-        "idCopie": 19625,
-        "duree": 95,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2052,
-    "typeEvenement": 13,
     "idEvenement": 20922,
     "idSeance": 35949,
-    "dateHeure": "2020-11-06T21:45:00",
+    "dateHeure": "2020-11-06T19:30:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -315,6 +316,30 @@
         "idSeance": 35949,
         "idCopie": 19621,
         "duree": 74,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ],
+    "mention": "Séance présentée par Wafa Ghermani"
+  },
+  {
+    "idCategorie": 2052,
+    "typeEvenement": 13,
+    "idEvenement": 20935,
+    "idSeance": 35948,
+    "dateHeure": "2020-11-06T22:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 142779,
+        "ordre": 1,
+        "idSeance": 35948,
+        "idCopie": 19625,
+        "duree": 95,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
@@ -816,7 +841,7 @@
     "typeEvenement": 13,
     "idEvenement": 20945,
     "idSeance": 36023,
-    "dateHeure": "2020-11-22T20:45:00",
+    "dateHeure": "2020-11-22T21:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -918,7 +943,7 @@
     "typeEvenement": 13,
     "idEvenement": 20950,
     "idSeance": 36027,
-    "dateHeure": "2020-11-25T21:45:00",
+    "dateHeure": "2020-11-25T22:00:00",
     "idSalle": [
       "GF",
       "Georges Franju"

@@ -29,10 +29,10 @@
   {
     "idCategorie": 2217,
     "idEvenement": 22064,
-    "titre": "Dialogue avec Jo Osawa",
+    "titre": "DISCUSSION AVEC JO OSAWA",
     "duree": 45,
-    "idTypeConference": 16,
-    "typeConference": "Dialogue",
+    "idTypeConference": 146,
+    "typeConference": "Conversation",
     "textes": [
       {
         "typeTexte": 156,

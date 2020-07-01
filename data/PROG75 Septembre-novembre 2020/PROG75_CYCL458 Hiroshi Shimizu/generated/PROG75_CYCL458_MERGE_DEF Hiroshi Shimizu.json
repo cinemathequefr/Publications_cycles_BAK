@@ -7,11 +7,12 @@
         {
           "idSeance": 35949,
           "ordre": 1,
-          "dateHeure": "2020-11-06T21:45:00",
+          "dateHeure": "2020-11-06T19:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
+          "mention": "Séance présentée par Wafa Ghermani",
           "idCategorie": 2052,
           "idEvenement": 20922,
           "typeEvenement": 13,
@@ -117,7 +118,7 @@
         {
           "idSeance": 35948,
           "ordre": 1,
-          "dateHeure": "2020-11-06T19:30:00",
+          "dateHeure": "2020-11-06T22:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -176,7 +177,7 @@
           "generique": [
             "Ken Uehara",
             "Michiyo Kogure",
-            "Keizo Kawasaki"
+            "Yoshiko Fujita"
           ],
           "textes": [
             {
@@ -204,7 +205,7 @@
           "titre": "Chants pour la victoire",
           "titreVo": "Hisshoka",
           "realisateurs": "Masahiro Makino, Kenji Mizoguchi, Hiroshi Shimizu, Tomotaka Tasaka",
-          "annee": 1946,
+          "annee": 1945,
           "pays": "Japon",
           "duree": 80,
           "version": "VOSTF",
@@ -332,18 +333,19 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme conductrice de bus."
+              "texte": "Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme receveuse de bus."
             }
           ]
         },
         {
           "idSeance": 35949,
           "ordre": 3,
-          "dateHeure": "2020-11-06T21:45:00",
+          "dateHeure": "2020-11-06T19:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
+          "mention": "Séance présentée par Wafa Ghermani",
           "idCategorie": 2052,
           "idEvenement": 20922,
           "typeEvenement": 13,
@@ -359,7 +361,7 @@
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
-            "Shirley Yamaguchi",
+            "Rio Koran",
             "Toshiaki Konoe",
             "Kenji Oyama"
           ],
@@ -613,7 +615,7 @@
           "typeEvenement": 13,
           "idFilm": 100286,
           "art": "Le",
-          "titre": "Forgeron de la fôret",
+          "titre": "Forgeron de la forêt",
           "titreVo": "Mori no kajiya",
           "realisateurs": "Hiroshi Shimizu",
           "annee": 1929,
@@ -714,7 +716,7 @@
         {
           "idSeance": 36027,
           "ordre": 1,
-          "dateHeure": "2020-11-25T21:45:00",
+          "dateHeure": "2020-11-25T22:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -757,6 +759,7 @@
             "GF",
             "Georges Franju"
           ],
+          "typeAssoc": 118,
           "idCategorie": 2052,
           "idEvenement": 20892,
           "typeEvenement": 13,
@@ -865,11 +868,12 @@
         {
           "idSeance": 35949,
           "ordre": 2,
-          "dateHeure": "2020-11-06T21:45:00",
+          "dateHeure": "2020-11-06T19:30:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
+          "mention": "Séance présentée par Wafa Ghermani",
           "idCategorie": 2052,
           "idEvenement": 20922,
           "typeEvenement": 13,
@@ -916,7 +920,7 @@
           "ageMinimal": 0,
           "generique": [
             "Ken Uehara",
-            "Kaoru Futuba",
+            "Kaoru Futaba",
             "Michiko Kuwano"
           ],
           "textes": [
@@ -1103,11 +1107,12 @@
         {
           "idSeance": 36034,
           "ordre": 1,
-          "dateHeure": "2020-10-31T22:00:00",
+          "dateHeure": "2020-10-31T18:45:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
+          "mention": "Séance présentée par Jo Osawa",
           "idCategorie": 2052,
           "idEvenement": 20901,
           "typeEvenement": 13,
@@ -1146,6 +1151,8 @@
             "GF",
             "Georges Franju"
           ],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 35587,
           "idCategorie": 2052,
           "idEvenement": 20895,
           "typeEvenement": 13,
@@ -1164,7 +1171,7 @@
             "Ryu Chishu",
             "Tatsuo Saito"
           ],
-          "adaptation": "D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse.",
+          "adaptation": "D'après la nouvelle _Yotsu no yubune_ de Masuji Ibuse.",
           "textes": [
             {
               "typeTexte": 9,
@@ -1175,7 +1182,7 @@
         {
           "idSeance": 36023,
           "ordre": 1,
-          "dateHeure": "2020-11-22T20:45:00",
+          "dateHeure": "2020-11-22T21:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1252,7 +1259,7 @@
         {
           "idSeance": 36033,
           "ordre": 1,
-          "dateHeure": "2020-10-31T19:00:00",
+          "dateHeure": "2020-10-31T21:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1273,7 +1280,7 @@
           "ageMinimal": null,
           "generique": [
             "Hiroko Kawasaki",
-            "Sachiko Murase",
+            "Satoko Date",
             "Atsushi Arai"
           ],
           "adaptation": "D'après le roman _Nanatsu no umi_ d'Itsuma Maki.",
@@ -1291,7 +1298,7 @@
         {
           "idSeance": 36033,
           "ordre": 2,
-          "dateHeure": "2020-10-31T19:00:00",
+          "dateHeure": "2020-10-31T21:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -1378,7 +1385,7 @@
           "idFilm": 142771,
           "art": "La",
           "titre": "Tour d'introspection",
-          "titreVo": "Mikaheri no to",
+          "titreVo": "Mikaeri no to",
           "realisateurs": "Hiroshi Shimizu",
           "annee": 1941,
           "pays": "Japon",
@@ -1388,7 +1395,7 @@
           "ageMinimal": null,
           "generique": [
             "Chishu Ryu",
-            "Kuniko Miya",
+            "Kuniko Miyake",
             "Jun Yokoyama"
           ],
           "textes": [
@@ -1537,7 +1544,7 @@
           "ageMinimal": null,
           "generique": [
             "Mitsugu Fujii",
-            "Haruro Takeda",
+            "Shunro Takeda",
             "Yoshiko Tsubouchi"
           ],
           "textes": [
@@ -1598,7 +1605,7 @@
           "idFilm": 142785,
           "art": "Les",
           "titre": "Vieux bouddhas de Nara",
-          "titreVo": "Nara ni wa furuki butsutachi",
+          "titreVo": "Nara ni wa furuki hotoketachi",
           "realisateurs": "Hiroshi Shimizu",
           "annee": 1953,
           "pays": "Japon",
@@ -1737,6 +1744,7 @@
             "GF",
             "Georges Franju"
           ],
+          "mention": "Séance présentée par Jo Osawa",
           "idCategorie": 2052,
           "idEvenement": 20911,
           "typeEvenement": 13,
@@ -1790,7 +1798,7 @@
           "ageMinimal": null,
           "generique": [
             "Kyoko Kagawa",
-            "Yukiko Shimazaki",
+            "Jukichi Uno",
             "Ranko Hanai"
           ],
           "textes": [
@@ -1842,12 +1850,66 @@
       "tri": 4,
       "items": [
         {
+          "idSeance": 35898,
+          "ordre": 2,
+          "dateHeure": "2020-10-30T19:30:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "typeAssoc": 118,
+          "idCategorie": 2217,
+          "idEvenement": 22064,
+          "typeEvenement": 14,
+          "idTypeConference": 16,
+          "typeConference": "Dialogue",
+          "titre": "Dialogue avec Jo Osawa",
+          "duree": 45,
+          "textes": [
+            {
+              "typeTexte": 8,
+              "texte": "xxxxxxxxx, xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxxxx xx xxxxxxx xx xxxxx. xxxxx xxxxx x xx xxxxxxxxxxxx xxxx xxxx xxxxx, xxx xxx xx xxxxxxxx xx xxxxx xxxxxx xxxxx xxxxxxxxxxx, xxx xxx xxxxx x xx xxxxx xxxxxxx xxxxx xxxxxxxxxxxxxx x xxxxxx xxx xxxxxx xxxx. x xxxxxxx xxx xxxxxxxxxxxx xxxxxx xxx xx xxx, xx xxxxxxxx, xx xxxxx xx xxx xxxxxxxx xxxxxxxxx xxxx xxx, xxx xxxxx xxx xxxxxxx xxxxxxxx, xxxxx xxxxxxxxxx xx xxxxxxx xx xxxxxx x xx xxxxxxxxxx xx xxxxxxx, xxxxxxxx xxxxxx xxx xxx xxxxx."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Wafa Ghermani est docteure en études cinématographiques, spécialiste du cinéma taïwanais, et chargée d'événements culturels à la Cinémathèque française."
+            },
+            {
+              "typeTexte": 156,
+              "texte": "Jo Osawa est curateur au National Film Archive of Japan."
+            }
+          ],
+          "intervenants": [
+            {
+              "nomComplet": "Jo Osawa",
+              "idFonction": 142,
+              "fonction": "Interviewé",
+              "ordre": 3
+            },
+            {
+              "nomComplet": "Wafa Ghermani",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 1
+            },
+            {
+              "nomComplet": "Fabrice Arduini",
+              "idFonction": 40,
+              "fonction": "Animateur",
+              "ordre": 2
+            }
+          ],
+          "mentionAnimation": "Rencontre animée par Wafa Ghermani et Fabrice Arduini"
+        },
+        {
           "idSeance": 35587,
           "dateHeure": "2020-11-05T19:00:00",
           "idSalle": [
             "GF",
             "Georges Franju"
           ],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 35588,
           "idCategorie": 2217,
           "idEvenement": 21898,
           "typeEvenement": 14,
@@ -1863,7 +1925,7 @@
             },
             {
               "typeTexte": 156,
-              "texte": "Fabrice Arduini est directeur adjoint à la programmation à la Maison de la culture du Japon à Paris."
+              "texte": "Fabrice Arduini est directeur adjoint de la programmation à la Maison de la culture du Japon à Paris."
             }
           ],
           "intervenants": [

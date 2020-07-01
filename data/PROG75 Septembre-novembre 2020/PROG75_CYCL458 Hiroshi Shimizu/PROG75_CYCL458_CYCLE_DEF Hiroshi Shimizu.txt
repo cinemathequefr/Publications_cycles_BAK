@@ -20,11 +20,12 @@
 <pstyle:TITRE_ANG>(Sayon no kane)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1942/74<0x2019>/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Shirley Yamaguchi, Toshiaki Konoe, Kenji Oyama.
+<pstyle:TECHNIQUE>Avec Rio Koran, Toshiaki Konoe, Kenji Oyama.
 <pstyle:SYNOPSIS>Taïwan, 1938. Une jeune aborigène se noie alors qu<0x2019>elle accompagne son professeur japonais qui rejoint le front. Film de propagande basé sur une histoire vraie pour inciter les «<0x00A0>sujets taïwanais<0x00A0>» à s<0x2019>enrôler dans l<0x2019>armée impériale.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
-<pstyle:><cstyle:INFOSBLEUES>ve 06 novXXX21h45XXX
+<pstyle:><cstyle:INFOSBLEUES>ve 06 novXXX19h30XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Wafa Ghermani
 
 <pstyle:TITRE>L<0x2019>Amour d<0x2019>une mère
 <pstyle:TITRE_ANG>(Bojo)
@@ -52,14 +53,14 @@
 <pstyle:TECHNIQUE>Avec Yutaka Iwamoto, Reiko Wakabayashi, Yoshikatsu Chiba.
 <pstyle:SYNOPSIS>La suite des <ct:Italic>Enfants de la ruche<ct:> (1948). Shimizu fait jouer leur propre rôle aux enfants qu<0x2019>il a recueillis et élève dans une ferme qu<0x2019>il a achetée, à Izu, spécialement pour eux.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
-<pstyle:><cstyle:INFOSBLEUES>ve 06 novXXX19h30XXX
+<pstyle:><cstyle:INFOSBLEUES>ve 06 novXXX22h00XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Le Chant de la brume
 <pstyle:TITRE_ANG>(Kiri no oto)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1956/84<0x2019>/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Ken Uehara, Michiyo Kogure, Keizo Kawasaki.
+<pstyle:TECHNIQUE>Avec Ken Uehara, Michiyo Kogure, Yoshiko Fujita.
 <pstyle:SYNOPSIS>Dans une hutte au c<0x0153>ur des Alpes japonaises, un botaniste observe deux jeunes mariés et se remémore son amour de jeunesse.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
 <pstyle:><cstyle:INFOSBLEUES>sa 21 novXXX19h30XXX
@@ -68,7 +69,7 @@
 <pstyle:TITRE>Chants pour la victoire
 <pstyle:TITRE_ANG>(Hisshoka)
 <pstyle:TECHNIQUE>de Masahiro Makino, Kenji Mizoguchi, Hiroshi Shimizu, Tomotaka Tasaka
-<pstyle:TECHNIQUE>Japon/1946/80<0x2019>/VOSTF/35mm
+<pstyle:TECHNIQUE>Japon/1945/80<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Reikichi Kawamura, Isamu Kosugi, Hiroyuki Nagato.
 <pstyle:SYNOPSIS>Treize histoires exaltant les mérites du patriotisme japonais en temps de guerre.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
@@ -109,7 +110,7 @@
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1941/101<0x2019>/VOSTF/16mm
 <pstyle:TECHNIQUE>Avec Michiyo Kogure, Takeshi Sakamoto, Mitsuko Yoshikawa.
-<pstyle:SYNOPSIS>Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme conductrice de bus.
+<pstyle:SYNOPSIS>Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme receveuse de bus.
 <pstyle:><cstyle:INFOSBLEUES>di 29 novXXX16h00XXX
 <cstyle:SALLESBLEUES>B
 
@@ -154,12 +155,13 @@
 <pstyle:INFOS_UTILES>Version musiquée. Copie National Film Archive of Japan.
 <pstyle:><cstyle:INFOSBLEUES>di 01 novXXX16h30XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Jo Osawa
 
 <pstyle:TITRE>L<0x2019>École Shiinomi
 <pstyle:TITRE_ANG>(Shiinomi gakuen)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1955/99<0x2019>/VOSTF/16mm
-<pstyle:TECHNIQUE>Avec Kyoko Kagawa, Yukiko Shimazaki, Ranko Hanai.
+<pstyle:TECHNIQUE>Avec Kyoko Kagawa, Jukichi Uno, Ranko Hanai.
 <pstyle:SYNOPSIS>Un professeur en psychologie et son épouse décident de fonder une école pour élèves atteints de poliomyélite car leurs enfants, souffrant eux-mêmes de cette maladie, subissent les moqueries de leurs camarades.
 <pstyle:><cstyle:INFOSBLEUES>me 25 novXXX19h30XXX
 <cstyle:SALLESBLEUES>B
@@ -203,7 +205,7 @@
 <pstyle:><cstyle:INFOSBLEUES>lu 23 novXXX19h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Le Forgeron de la fôret
+<pstyle:TITRE>Le Forgeron de la forêt
 <pstyle:TITRE_ANG>(Mori no kajiya)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1929/30<0x2019>/INT. FR./35mm
@@ -256,7 +258,7 @@
 <pstyle:TECHNIQUE>Avec Jun Negami, Michihiro Mori, Chikage Awashima.
 <pstyle:SYNOPSIS>Les relations tumultueuses entre le fils d<0x2019>un veuf et la femme avec laquelle celui-ci s<0x2019>est remariée et qui s<0x2019>est installée chez lui avec sa petite s<0x0153>ur.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
-<pstyle:><cstyle:INFOSBLEUES>me 25 novXXX21h45XXX
+<pstyle:><cstyle:INFOSBLEUES>me 25 novXXX22h00XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Jeunes filles japonaises sur le port
@@ -295,7 +297,7 @@
 <pstyle:TITRE_ANG>(Arigato-san)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1937/75<0x2019>/VOSTF/35mm
-<pstyle:TECHNIQUE>Avec Ken Uehara, Kaoru Futuba, Michiko Kuwano.
+<pstyle:TECHNIQUE>Avec Ken Uehara, Kaoru Futaba, Michiko Kuwano.
 <pstyle:SYNOPSIS>«<0x00A0>Monsieur Merci<0x00A0>» est le surnom d<0x2019>un chauffeur de bus réputé pour sa courtoisie, qui conduit les habitants des zones rurales à l<0x2019>intérieur de la péninsule d<0x2019>Izu. Une série de rencontres prises sur le vif dans une campagne ensoleillée et endormie.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
 <pstyle:><cstyle:INFOSBLEUES>di 15 novXXX16h30XXX
@@ -345,14 +347,15 @@
 <pstyle:TECHNIQUE>Avec Emiko Yagumo, Minoru Takada, Michiko Oikawa.
 <pstyle:SYNOPSIS>Toshie est amoureuse de Narita, qui épouse sa s<0x0153>ur cadette. Mais l<0x2019>idylle des jeunes mariés est de courte durée.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
-<pstyle:><cstyle:INFOSBLEUES>sa 31 octXXX22h00XXX
+<pstyle:><cstyle:INFOSBLEUES>sa 31 octXXX18h45XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Jo Osawa
 
 <pstyle:TITRE>Pour une épingle à cheveux
 <pstyle:TITRE_ANG>(Kanzashi)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1941/70<0x2019>/VOSTF/16mm
-<pstyle:TECHNIQUE>D<0x2019>après la nouvelle <cSkew:9>Yottsu no yubune<cSkew:> de Masuji Ibuse.
+<pstyle:TECHNIQUE>D<0x2019>après la nouvelle <cSkew:9>Yotsu no yubune<cSkew:> de Masuji Ibuse.
 <pstyle:TECHNIQUE>Avec Kinuyo Tanaka, Ryu Chishu, Tatsuo Saito.
 <pstyle:SYNOPSIS>Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s<0x2019>excuser de l<0x2019>incident. Une idylle se noue entre eux.
 <pstyle:><cstyle:INFOSBLEUES>je 05 novXXX21h30XXX
@@ -366,7 +369,7 @@
 <pstyle:TECHNIQUE>Avec Kyoko Kagawa, Masako Nakamura, Konomi Fuji.
 <pstyle:SYNOPSIS>Le quotidien tumultueux d<0x2019>une école pour délinquantes, la «<0x00A0>Maison des jeunes filles<0x00A0>».
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
-<pstyle:><cstyle:INFOSBLEUES>di 22 novXXX20h45XXX
+<pstyle:><cstyle:INFOSBLEUES>di 22 novXXX21h00XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Les Quatre saisons des enfants
@@ -385,7 +388,7 @@
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1932/72<0x2019>/INT. FR./35mm
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Nanatsu no umi<cSkew:> d<0x2019>Itsuma Maki.
-<pstyle:TECHNIQUE>Avec Hiroko Kawasaki, Sachiko Murase, Atsushi Arai.
+<pstyle:TECHNIQUE>Avec Hiroko Kawasaki, Satoko Date, Atsushi Arai.
 <pstyle:SYNOPSIS>Yunosuke, l<0x2019>héritier d<0x2019>une riche famille doit se fiancer avec Yumie. Jaloux, Takehiko, son frère cadet, arrive à séduire la future épouse en lui faisant croire que Yunosuke a renoncé à elle.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
 <pstyle:SUIVI_DE>Suivi de
@@ -397,7 +400,7 @@
 <pstyle:TECHNIQUE>Avec Hiroko Kawasaki, Ichiro Yuki, Ureo Egawa.
 <pstyle:SYNOPSIS>Mariée malgré elle à Takehiko, la jeune Yumie est bien décidée destinée à se venger en faisant chambre à part. Son comportement dépensier jettera l<0x2019>opprobre sur son honorable belle-famille.
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
-<pstyle:><cstyle:INFOSBLEUES>sa 31 octXXX19h00XXX
+<pstyle:><cstyle:INFOSBLEUES>sa 31 octXXX21h00XXX
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>Sous les fleurs de pêchers
@@ -409,7 +412,7 @@
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
 <pstyle:SUIVI_DE>Suivi de
 <pstyle:TITRE>Les Vieux bouddhas de Nara
-<pstyle:TITRE_ANG>(Nara ni wa furuki butsutachi)
+<pstyle:TITRE_ANG>(Nara ni wa furuki hotoketachi)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1953/36<0x2019>/VOSTF/35mm
 <pstyle:SYNOPSIS>Court métrage documentaire sur l<0x2019>architecture et l<0x2019>histoire des temples Kofuku-ji et Todai-ji, réalisé en même temps que <ct:Italic>Les Enfants du Grand Bouddha<ct:>.
@@ -418,10 +421,10 @@
 <cstyle:SALLESBLEUES>B
 
 <pstyle:TITRE>La Tour d<0x2019>introspection
-<pstyle:TITRE_ANG>(Mikaheri no to)
+<pstyle:TITRE_ANG>(Mikaeri no to)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1941/111<0x2019>/VOSTF/16mm
-<pstyle:TECHNIQUE>Avec Chishu Ryu, Kuniko Miya, Jun Yokoyama.
+<pstyle:TECHNIQUE>Avec Chishu Ryu, Kuniko Miyake, Jun Yokoyama.
 <pstyle:SYNOPSIS>La vie quotidienne dans un centre de redressement pour enfants difficiles, entre bagarres, fugues et désobéissance.
 <pstyle:INFOS_UTILES>D<0x2019>après les carnets d<0x2019>un directeur de centre de redressement d<0x2019>Osaka édités par le romancier Yoshio Toyoshima.
 <pstyle:><cstyle:INFOSBLEUES>me 04 novXXX21h15XXX
@@ -459,7 +462,7 @@
 <pstyle:TITRE_ANG>(Daigaku no wakadanna)
 <pstyle:TECHNIQUE>de Hiroshi Shimizu
 <pstyle:TECHNIQUE>Japon/1933/85<0x2019>/INT. FR./35mm
-<pstyle:TECHNIQUE>Avec Mitsugu Fujii, Haruro Takeda, Yoshiko Tsubouchi.
+<pstyle:TECHNIQUE>Avec Mitsugu Fujii, Shunro Takeda, Yoshiko Tsubouchi.
 <pstyle:SYNOPSIS>Fujii a été exclu du club de rugby de son université pour avoir amené une geisha sur le stade. Depuis, il mène une vie dissolue au grand dam de son père, riche marchand, à qui il doit succéder.
 <pstyle:INFOS_UTILES>Copie 35mm National Film Archive of Japan avec musique de la partition originale.
 <pstyle:><cstyle:INFOSBLEUES>di 08 novXXX21h45XXX
@@ -486,11 +489,20 @@
 
 <pstyle:CATEGORIE>Rencontres et conférences
 
+<pstyle:TITRE>Dialogue avec Jo Osawa
+<pstyle:TECHNIQUE>undefined
+<pstyle:TECHNIQUE>45<0x2019>
+<pstyle:SYNOPSIS>xxxxxxxxx, xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxxxx xx xxxxxxx xx xxxxx. xxxxx xxxxx x xx xxxxxxxxxxxx xxxx xxxx xxxxx, xxx xxx xx xxxxxxxx xx xxxxx xxxxxx xxxxx xxxxxxxxxxx, xxx xxx xxxxx x xx xxxxx xxxxxxx xxxxx xxxxxxxxxxxxxx x xxxxxx xxx xxxxxx xxxx. x xxxxxxx xxx xxxxxxxxxxxx xxxxxx xxx xx xxx, xx xxxxxxxx, xx xxxxx xx xxx xxxxxxxx xxxxxxxxx xxxx xxx, xxx xxxxx xxx xxxxxxx xxxxxxxx, xxxxx xxxxxxxxxx xx xxxxxxx xx xxxxxx x xx xxxxxxxxxx xx xxxxxxx, xxxxxxxx xxxxxx xxx xxx xxxxx.
+<pstyle:SYNOPSIS>Wafa Ghermani est docteure en études cinématographiques, spécialiste du cinéma taïwanais, et chargée d<0x2019>événements culturels à la Cinémathèque française.
+<pstyle:SYNOPSIS>Jo Osawa est curateur au National Film Archive of Japan.
+<pstyle:><cstyle:INFOSBLEUES>ve 30 octXXX19h30XXX
+<cstyle:SALLESBLEUES>B
+
 <pstyle:TITRE>Qui êtes-vous Hiroshi Shimizu<0x00A0>?
 <pstyle:TECHNIQUE>undefined
 <pstyle:TECHNIQUE>90<0x2019>
 <pstyle:SYNOPSIS>Longtemps, Hiroshi Shimizu (1903-1966) est resté un inconnu au Japon. C<0x2019>est grâce à la persévérance d<0x2019>un seul homme, son ami et critique de renom Matsuo Kishi (1906-1985), que son <0x0153>uvre a pu faire l<0x2019>objet d<0x2019>une réhabilitation à partir des années 1990. À travers ses passionnants écrits sur la vie, la carrière, le style et ses rapports notamment avec Ozu, son rival aux studios Shochiku, cette conférence se propose de partir à la découverte de Shimizu, l<0x2019>oublié nippon aux 163 films.
-<pstyle:SYNOPSIS>Fabrice Arduini est directeur adjoint à la programmation à la Maison de la culture du Japon à Paris.
+<pstyle:SYNOPSIS>Fabrice Arduini est directeur adjoint de la programmation à la Maison de la culture du Japon à Paris.
 <pstyle:><cstyle:INFOSBLEUES>je 05 novXXX19h00XXX
 <cstyle:SALLESBLEUES>B
 

@@ -100,7 +100,7 @@
                 }
               ],
               "generique": [
-                "Shirley Yamaguchi",
+                "Rio Koran",
                 "Toshiaki Konoe",
                 "Kenji Oyama"
               ],
@@ -113,11 +113,12 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-11-06T21:45:00",
+              "dateHeure": "2020-11-06T19:30:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
-              ]
+              ],
+              "mention": "Séance présentée par Wafa Ghermani"
             }
           ]
         },
@@ -240,7 +241,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-11-06T19:30:00",
+              "dateHeure": "2020-11-06T22:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -273,7 +274,7 @@
               "generique": [
                 "Ken Uehara",
                 "Michiyo Kogure",
-                "Keizo Kawasaki"
+                "Yoshiko Fujita"
               ],
               "duree": 84,
               "format": "35 mm",
@@ -301,7 +302,7 @@
               "titre": "Chants pour la victoire",
               "titreVo": "Hisshoka",
               "realisateurs": "Masahiro Makino, Kenji Mizoguchi, Hiroshi Shimizu, Tomotaka Tasaka",
-              "annee": 1946,
+              "annee": 1945,
               "pays": "Japon",
               "textes": [
                 {
@@ -467,7 +468,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme conductrice de bus."
+                  "texte": "Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme receveuse de bus."
                 }
               ],
               "generique": [
@@ -664,7 +665,8 @@
               "idSalle": [
                 "GF",
                 "Georges Franju"
-              ]
+              ],
+              "mention": "Séance présentée par Jo Osawa"
             }
           ]
         },
@@ -688,7 +690,7 @@
               ],
               "generique": [
                 "Kyoko Kagawa",
-                "Yukiko Shimazaki",
+                "Jukichi Uno",
                 "Ranko Hanai"
               ],
               "duree": 99,
@@ -883,7 +885,7 @@
           "films": [
             {
               "idFilm": 100286,
-              "titre": "Forgeron de la fôret",
+              "titre": "Forgeron de la forêt",
               "art": "Le",
               "titreVo": "Mori no kajiya",
               "realisateurs": "Hiroshi Shimizu",
@@ -1099,7 +1101,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-11-25T21:45:00",
+              "dateHeure": "2020-11-25T22:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -1261,7 +1263,7 @@
               ],
               "generique": [
                 "Ken Uehara",
-                "Kaoru Futuba",
+                "Kaoru Futaba",
                 "Michiko Kuwano"
               ],
               "duree": 75,
@@ -1473,11 +1475,12 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-10-31T22:00:00",
+              "dateHeure": "2020-10-31T18:45:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
-              ]
+              ],
+              "mention": "Séance présentée par Jo Osawa"
             }
           ]
         },
@@ -1498,7 +1501,7 @@
                   "texte": "Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s'excuser de l'incident. Une idylle se noue entre eux."
                 }
               ],
-              "adaptation": "D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse.",
+              "adaptation": "D'après la nouvelle _Yotsu no yubune_ de Masuji Ibuse.",
               "generique": [
                 "Kinuyo Tanaka",
                 "Ryu Chishu",
@@ -1557,7 +1560,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-11-22T20:45:00",
+              "dateHeure": "2020-11-22T21:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -1635,7 +1638,7 @@
               "adaptation": "D'après le roman _Nanatsu no umi_ d'Itsuma Maki.",
               "generique": [
                 "Hiroko Kawasaki",
-                "Sachiko Murase",
+                "Satoko Date",
                 "Atsushi Arai"
               ],
               "duree": 72,
@@ -1677,7 +1680,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-10-31T19:00:00",
+              "dateHeure": "2020-10-31T21:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -1721,7 +1724,7 @@
               "idFilm": 142785,
               "titre": "Vieux bouddhas de Nara",
               "art": "Les",
-              "titreVo": "Nara ni wa furuki butsutachi",
+              "titreVo": "Nara ni wa furuki hotoketachi",
               "realisateurs": "Hiroshi Shimizu",
               "annee": 1953,
               "pays": "Japon",
@@ -1760,7 +1763,7 @@
               "idFilm": 142771,
               "titre": "Tour d'introspection",
               "art": "La",
-              "titreVo": "Mikaheri no to",
+              "titreVo": "Mikaeri no to",
               "realisateurs": "Hiroshi Shimizu",
               "annee": 1941,
               "pays": "Japon",
@@ -1776,7 +1779,7 @@
               ],
               "generique": [
                 "Chishu Ryu",
-                "Kuniko Miya",
+                "Kuniko Miyake",
                 "Jun Yokoyama"
               ],
               "duree": 111,
@@ -1933,7 +1936,7 @@
               ],
               "generique": [
                 "Mitsugu Fujii",
-                "Haruro Takeda",
+                "Shunro Takeda",
                 "Yoshiko Tsubouchi"
               ],
               "duree": 85,
@@ -2045,6 +2048,40 @@
       "items": [
         {
           "idCategorie": 2217,
+          "idEvenement": 22064,
+          "films": [
+            {
+              "titre": "Dialogue avec Jo Osawa",
+              "textes": [
+                {
+                  "typeTexte": 8,
+                  "texte": "xxxxxxxxx, xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxxxx xx xxxxxxx xx xxxxx. xxxxx xxxxx x xx xxxxxxxxxxxx xxxx xxxx xxxxx, xxx xxx xx xxxxxxxx xx xxxxx xxxxxx xxxxx xxxxxxxxxxx, xxx xxx xxxxx x xx xxxxx xxxxxxx xxxxx xxxxxxxxxxxxxx x xxxxxx xxx xxxxxx xxxx. x xxxxxxx xxx xxxxxxxxxxxx xxxxxx xxx xx xxx, xx xxxxxxxx, xx xxxxx xx xxx xxxxxxxx xxxxxxxxx xxxx xxx, xxx xxxxx xxx xxxxxxx xxxxxxxx, xxxxx xxxxxxxxxx xx xxxxxxx xx xxxxxx x xx xxxxxxxxxx xx xxxxxxx, xxxxxxxx xxxxxx xxx xxx xxxxx."
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Wafa Ghermani est docteure en études cinématographiques, spécialiste du cinéma taïwanais, et chargée d'événements culturels à la Cinémathèque française."
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Jo Osawa est curateur au National Film Archive of Japan."
+                }
+              ],
+              "duree": 45,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-10-30T19:30:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2217,
           "idEvenement": 21898,
           "films": [
             {
@@ -2057,7 +2094,7 @@
                 },
                 {
                   "typeTexte": 156,
-                  "texte": "Fabrice Arduini est directeur adjoint à la programmation à la Maison de la culture du Japon à Paris."
+                  "texte": "Fabrice Arduini est directeur adjoint de la programmation à la Maison de la culture du Japon à Paris."
                 }
               ],
               "duree": 90
