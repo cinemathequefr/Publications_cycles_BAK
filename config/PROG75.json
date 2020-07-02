@@ -179,6 +179,17 @@
       ]
     },
     {
+      "idCycleProg": 472,
+      "titreCycle": "Archi Vives",
+      "sousCycles": [
+        {
+          "titre": "Automne 2020",
+          "cats": [2328],
+          "tri": 1
+        }
+      ]
+    },
+    {
       "idCycleProg": 499,
       "titreCycle": "Jean-Claude Carrière",
       "sousCycles": [
@@ -253,6 +264,17 @@
         {
           "titre": "Courts métrages",
           "cats": [2321],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 510,
+      "titreCycle": "Séances Jeune public",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2313],
           "tri": 4
         }
       ]
