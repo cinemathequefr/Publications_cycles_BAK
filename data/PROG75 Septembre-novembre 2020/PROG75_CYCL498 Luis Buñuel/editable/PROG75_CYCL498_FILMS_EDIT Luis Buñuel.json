@@ -160,8 +160,8 @@
     ]
   },
   {
-    "titre": "Don Quntín l'amer",
-    "titreVo": "Hija del engano",
+    "titre": "Don Quintín l'amer",
+    "titreVo": "Hija del engaño",
     "artVo": "La",
     "idFilm": 43105,
     "ageMinimal": 0,
@@ -268,7 +268,7 @@
   {
     "titre": "Hauts de Hurlevent",
     "art": "Les",
-    "titreVo": "Abismos de pasion",
+    "titreVo": "Abismos de pasión",
     "idFilm": 43210,
     "ageMinimal": null,
     "realisateurs": "Luis Buñuel",
@@ -286,8 +286,8 @@
   {
     "titre": "Jeune fille",
     "art": "La",
-    "titreVo": "Joven",
-    "artVo": "La",
+    "titreVo": "Young One",
+    "artVo": "The",
     "idFilm": 43124,
     "ageMinimal": null,
     "realisateurs": "Luis Buñuel",
@@ -296,7 +296,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Sur un île du Sud des États-Unis, le face-à-face entre Miller, le Blanc, et Travers, le Noir, accusé de viol."
+        "texte": "Sur une île du Sud des États-Unis, le face-à-face entre Miller, le Blanc, et Travers, le Noir, accusé de viol."
       }
     ],
     "generique": ["Zachary Scott", "Kay Meersman", "Bernie Hamilton"],
@@ -414,7 +414,7 @@
   },
   {
     "titre": "On a volé un tram",
-    "titreVo": "Ilusión viaja en tranvia",
+    "titreVo": "Ilusión viaja en tranvía",
     "artVo": "La",
     "idFilm": 43215,
     "ageMinimal": null,
@@ -424,7 +424,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans le vieux Mexico, le tram 133, destiné à la ferraille, accomplit un dernier voyage."
+        "texte": "Dans le vieux Mexico, le tram 133, accomplit un dernier voyage avant de partir à la ferraille."
       }
     ],
     "generique": ["Lilia Prado", "Carlos Navarro", "Fernando Soto"]
@@ -552,7 +552,7 @@
     "adaptation": "D'après le roman _Tristana_ de Benito Pérez Galdós."
   },
   {
-    "titre": "Triumph of Will",
+    "titre": "Triumph of the Will",
     "idFilm": 108104,
     "ageMinimal": null,
     "realisateurs": "Luis Buñuel",
@@ -602,7 +602,7 @@
       }
     ],
     "generique": ["Fernando Soler", "Rosario Granados", "Andrés Soler"],
-    "adaptation": "D'après le roman _El Gran cavalera_ d'Adolfo Torrado."
+    "adaptation": "D'après le roman _El Gran calavera_ d'Adolfo Torrado."
   },
   {
     "titre": "Vie criminelle d'Archibald de la Cruz",
