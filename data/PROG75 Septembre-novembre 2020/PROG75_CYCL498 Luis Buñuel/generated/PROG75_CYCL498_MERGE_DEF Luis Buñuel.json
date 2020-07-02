@@ -2,7 +2,7 @@
   "data": [
     {
       "titreSousCycle": "Les films",
-      "tri": 1,
+      "tri": 2,
       "items": [
         {
           "idSeance": 35763,
@@ -375,9 +375,9 @@
           "idEvenement": 22441,
           "typeEvenement": 13,
           "idFilm": 43105,
-          "titre": "Don Quntín l'amer",
+          "titre": "Don Quintín l'amer",
           "artVo": "La",
-          "titreVo": "Hija del engano",
+          "titreVo": "Hija del engaño",
           "realisateurs": "Luis Buñuel",
           "annee": 1951,
           "pays": "Mexique",
@@ -410,9 +410,9 @@
           "idEvenement": 22441,
           "typeEvenement": 13,
           "idFilm": 43105,
-          "titre": "Don Quntín l'amer",
+          "titre": "Don Quintín l'amer",
           "artVo": "La",
-          "titreVo": "Hija del engano",
+          "titreVo": "Hija del engaño",
           "realisateurs": "Luis Buñuel",
           "annee": 1951,
           "pays": "Mexique",
@@ -840,7 +840,7 @@
             "Rosario Granados",
             "Andrés Soler"
           ],
-          "adaptation": "D'après le roman _El Gran cavalera_ d'Adolfo Torrado.",
+          "adaptation": "D'après le roman _El Gran calavera_ d'Adolfo Torrado.",
           "textes": [
             {
               "typeTexte": 9,
@@ -876,7 +876,7 @@
             "Rosario Granados",
             "Andrés Soler"
           ],
-          "adaptation": "D'après le roman _El Gran cavalera_ d'Adolfo Torrado.",
+          "adaptation": "D'après le roman _El Gran calavera_ d'Adolfo Torrado.",
           "textes": [
             {
               "typeTexte": 9,
@@ -898,7 +898,7 @@
           "idFilm": 43210,
           "art": "Les",
           "titre": "Hauts de Hurlevent",
-          "titreVo": "Abismos de pasion",
+          "titreVo": "Abismos de pasión",
           "realisateurs": "Luis Buñuel",
           "annee": 1953,
           "pays": "Mexique",
@@ -933,7 +933,7 @@
           "idFilm": 43210,
           "art": "Les",
           "titre": "Hauts de Hurlevent",
-          "titreVo": "Abismos de pasion",
+          "titreVo": "Abismos de pasión",
           "realisateurs": "Luis Buñuel",
           "annee": 1953,
           "pays": "Mexique",
@@ -968,8 +968,8 @@
           "idFilm": 43124,
           "art": "La",
           "titre": "Jeune fille",
-          "artVo": "La",
-          "titreVo": "Joven",
+          "artVo": "The",
+          "titreVo": "Young One",
           "realisateurs": "Luis Buñuel",
           "annee": 1960,
           "pays": "Mexique-États-Unis",
@@ -986,7 +986,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Sur un île du Sud des États-Unis, le face-à-face entre Miller, le Blanc, et Travers, le Noir, accusé de viol."
+              "texte": "Sur une île du Sud des États-Unis, le face-à-face entre Miller, le Blanc, et Travers, le Noir, accusé de viol."
             }
           ]
         },
@@ -1004,8 +1004,8 @@
           "idFilm": 43124,
           "art": "La",
           "titre": "Jeune fille",
-          "artVo": "La",
-          "titreVo": "Joven",
+          "artVo": "The",
+          "titreVo": "Young One",
           "realisateurs": "Luis Buñuel",
           "annee": 1960,
           "pays": "Mexique-États-Unis",
@@ -1022,7 +1022,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Sur un île du Sud des États-Unis, le face-à-face entre Miller, le Blanc, et Travers, le Noir, accusé de viol."
+              "texte": "Sur une île du Sud des États-Unis, le face-à-face entre Miller, le Blanc, et Travers, le Noir, accusé de viol."
             }
           ]
         },
@@ -1422,7 +1422,7 @@
           "idFilm": 43215,
           "titre": "On a volé un tram",
           "artVo": "La",
-          "titreVo": "Ilusión viaja en tranvia",
+          "titreVo": "Ilusión viaja en tranvía",
           "realisateurs": "Luis Buñuel",
           "annee": 1953,
           "pays": "Mexique",
@@ -1438,7 +1438,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Dans le vieux Mexico, le tram 133, destiné à la ferraille, accomplit un dernier voyage."
+              "texte": "Dans le vieux Mexico, le tram 133, accomplit un dernier voyage avant de partir à la ferraille."
             }
           ]
         },
@@ -1456,7 +1456,7 @@
           "idFilm": 43215,
           "titre": "On a volé un tram",
           "artVo": "La",
-          "titreVo": "Ilusión viaja en tranvia",
+          "titreVo": "Ilusión viaja en tranvía",
           "realisateurs": "Luis Buñuel",
           "annee": 1953,
           "pays": "Mexique",
@@ -1472,7 +1472,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Dans le vieux Mexico, le tram 133, destiné à la ferraille, accomplit un dernier voyage."
+              "texte": "Dans le vieux Mexico, le tram 133, accomplit un dernier voyage avant de partir à la ferraille."
             }
           ]
         },
