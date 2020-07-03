@@ -193,28 +193,6 @@
     "adaptation": "D'après le roman _The Comedians_ de Graham Greene."
   },
   {
-    "titre": "Courage de Lassie",
-    "art": "Le",
-    "titreVo": "Courage of Lassie",
-    "artVo": "The",
-    "idFilm": 45152,
-    "ageMinimal": null,
-    "realisateurs": "Fred M. Wilcox",
-    "annee": 1944,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Entraînée, durant la Seconde Guerre mondiale, pour le combat contre les Japonais, la chienne Lassie, à son retour, se montre agressive. Seul l'amour que lui voue sa maîtresse Kathie peut guérir le colley."
-      }
-    ],
-    "generique": [
-      "Elizabeth Taylor",
-      "Frank Morgan",
-      "Tom Drake"
-    ]
-  },
-  {
     "titre": "Cynthia",
     "titreVo": "",
     "idFilm": 67421,

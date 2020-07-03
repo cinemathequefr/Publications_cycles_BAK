@@ -59,16 +59,6 @@
                 "GF",
                 "Georges Franju"
               ]
-            },
-            {
-              "idSeance": 36113,
-              "ordre": 1,
-              "idEvenement": 21792,
-              "dateHeure": "2020-11-26T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
             }
           ]
         },
@@ -109,10 +99,10 @@
               "idSeance": 36131,
               "ordre": 1,
               "idEvenement": 21788,
-              "dateHeure": "2020-11-29T14:00:00",
+              "dateHeure": "2020-11-29T14:30:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "HL",
+                "Henri Langlois"
               ]
             }
           ]
@@ -438,42 +428,6 @@
           ]
         },
         {
-          "idFilm": 45152,
-          "titre": "Courage de Lassie",
-          "art": "Le",
-          "titreVo": "Courage of Lassie",
-          "realisateurs": "Fred Wilcox",
-          "annee": 1944,
-          "pays": "États-Unis",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Entraînée au combat contre les Japonais durant la Seconde Guerre mondiale, la chienne Lassie se montre agressive à son retour. Seul l'amour que lui voue sa maîtresse Kathie peut guérir l'animal."
-            }
-          ],
-          "generique": [
-            "Elizabeth Taylor",
-            "Frank Morgan",
-            "Tom Drake"
-          ],
-          "duree": 92,
-          "format": "35 mm",
-          "version": "VOSTF",
-          "ageMinimal": null,
-          "seance": [
-            {
-              "idSeance": 36065,
-              "ordre": 1,
-              "idEvenement": 21795,
-              "dateHeure": "2020-11-07T16:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
-        },
-        {
           "idFilm": 67421,
           "titre": "Cynthia",
           "titreVo": "",
@@ -575,7 +529,7 @@
               "idSeance": 36064,
               "ordre": 1,
               "idEvenement": 21797,
-              "dateHeure": "2020-11-07T14:30:00",
+              "dateHeure": "2020-11-07T17:15:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
@@ -716,7 +670,7 @@
               "idSeance": 36114,
               "ordre": 1,
               "idEvenement": 21793,
-              "dateHeure": "2020-11-26T19:30:00",
+              "dateHeure": "2020-11-26T21:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -754,6 +708,16 @@
               "ordre": 1,
               "idEvenement": 21786,
               "dateHeure": "2020-11-15T17:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "idSeance": 36153,
+              "ordre": 1,
+              "idEvenement": 21786,
+              "dateHeure": "2020-11-26T19:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1194,7 +1158,7 @@
               "idSeance": 36063,
               "ordre": 1,
               "idEvenement": 21781,
-              "dateHeure": "2020-11-06T22:00:00",
+              "dateHeure": "2020-11-06T21:15:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1250,7 +1214,7 @@
               "idSeance": 36112,
               "ordre": 1,
               "idEvenement": 21770,
-              "dateHeure": "2020-11-25T22:00:00",
+              "dateHeure": "2020-11-25T21:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -1418,12 +1382,13 @@
                   "texte": "Murielle Joudet est critique de cinéma au _Monde_ et aux _Inrockuptibles,_ elle participe à _La Dispute_ sur France Culture et anime une émission d'entretiens sur le site Hors-série. Elle a publié un essai : _Isabelle Huppert : Vivre ne nous regarde pas_ (Capricci, 2018) et a contribué à l'ouvrage _Hitchcock, la totale_ (E/P/A, 2019)."
                 }
               ],
-              "duree": 45
+              "duree": 45,
+              "ordre": 2
             }
           ],
           "seance": [
             {
-              "dateHeure": "2020-11-07T16:45:00",
+              "dateHeure": "2020-11-07T15:00:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"

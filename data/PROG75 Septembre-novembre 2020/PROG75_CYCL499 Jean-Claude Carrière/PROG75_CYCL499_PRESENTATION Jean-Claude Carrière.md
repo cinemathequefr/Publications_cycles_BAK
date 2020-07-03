@@ -1,6 +1,6 @@
 # Le conteur infini
 
-**Scénariste majeur du cinéma mondial, Jean-Claude Carrière (né en 1931) a accompagné les plus grands cinéastes des années soixante jusqu'à nos jours : Pierre Étaix, Luis Buñuel, Peter Brook, Milos Forman, Jean-Luc Godard, Philip Kaufman, Andrzej Wajda, Jean-Paul Rappeneau, Philippe Garrel. Sa filmographie conjugue à elle seule tous les temps du cinéma contemporain.**
+Scénariste majeur du cinéma mondial, Jean-Claude Carrière (né en 1931) a accompagné les plus grands cinéastes des années soixante jusqu'à nos jours : Pierre Étaix, Luis Buñuel, Peter Brook, Milos Forman, Jean-Luc Godard, Philip Kaufman, Andrzej Wajda, Jean-Paul Rappeneau, Philippe Garrel. Sa filmographie conjugue à elle seule tous les temps du cinéma contemporain.
 
 Cher Jean-Claude Carrière,
 

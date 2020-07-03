@@ -78,6 +78,7 @@
 <pstyle:SYNOPSIS>Laura Reynolds, peintre anticonformiste, vit sur la côte californienne avec son fils, qu<0x2019>elle élève dans le goût de la liberté. Un jour, le garçon est placé de force au collège San Simeon, établissement religieux dirigé par l<0x2019>austère pasteur Hewitt.
 <pstyle:><cstyle:INFOSBLEUES>sa 07 novXXX15h00XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Discussion p.<0x00A0>X
 <cstyle:INFOSBLEUES>di 22 novXXX20h30XXX
 <cstyle:SALLESBLEUES>A
 
@@ -344,11 +345,13 @@
 
 <pstyle:CATEGORIE>Rencontres et conférences
 
-<pstyle:TITRE>Film + Discussion avec Muriel Joudet
-<pstyle:TECHNIQUE>undefined
-<pstyle:TECHNIQUE>45<0x2019>
-<pstyle:SYNOPSIS>«<0x00A0>Depuis toute petite, je croyais être prédestinée, et si cela est vrai, Richard Burton, assurément, était mon destin.<0x00A0>» (Elizabeth Taylor)
-<pstyle:SYNOPSIS>Murielle Joudet est critique de cinéma au <ct:Italic>Monde<ct:> et aux <ct:Italic>Inrockuptibles,<ct:> elle participe à <ct:Italic>La Dispute<ct:> sur France Culture et anime une émission d<0x2019>entretiens sur le site Hors-série. Elle a publié un essai<0x00A0>: <ct:Italic>Isabelle Huppert<0x00A0>: Vivre ne nous regarde pas<ct:> (Capricci, 2018) et a contribué à l<0x2019>ouvrage <ct:Italic>Hitchcock, la totale<ct:> (E/P/A, 2019).
+<pstyle:CONFERENCE TITRE>Film + Discussion avec Muriel Joudet
+<pstyle:CONFERENCE TXT>«<0x00A0>Depuis toute petite, je croyais être prédestinée, et si cela est vrai, Richard Burton, assurément, était mon destin.<0x00A0>» (Elizabeth Taylor)
+<pstyle:CONFERENCE NOTE>Murielle Joudet est critique de cinéma au <ct:Italic>Monde<ct:> et aux <ct:Italic>Inrockuptibles,<ct:> elle participe à <ct:Italic>La Dispute<ct:> sur France Culture et anime une émission d<0x2019>entretiens sur le site Hors-série. Elle a publié un essai<0x00A0>: <ct:Italic>Isabelle Huppert<0x00A0>: Vivre ne nous regarde pas<ct:> (Capricci, 2018) et a contribué à l<0x2019>ouvrage <ct:Italic>Hitchcock, la totale<ct:> (E/P/A, 2019).
 <pstyle:><cstyle:INFOSBLEUES>sa 07 novXXX15h00XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:CONFERENCE NOTE>À la suite de la projection du <cSkew:9>Chevalier des sables<cSkew:> de Vincente Minnelli (voir p.<0x00A0>xx)
 
+Remerciements
+
+Academy Film Archive, British Film Institute National Archive, Carlotta Films, Cinémathèque Royale de Belgique, Park Circus, Splendor Films, Svenska Filminstitutet, Twentieth Century Fox USA, Warner Bros Picture France, Warner Bros. Entertainment France.

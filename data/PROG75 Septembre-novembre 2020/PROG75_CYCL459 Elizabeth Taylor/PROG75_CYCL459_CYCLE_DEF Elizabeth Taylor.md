@@ -12,7 +12,6 @@ Avec Wallace Beery, Jane Powell, Elizabeth Taylor.
 Les tourments d'une jeune femme trahie par sa meilleure amie, abandonnée par l'homme qu'elle aime, et qui soupçonne son père d'avoir une maîtresse.
 
 - sa 21 nov 16h45 GF
-- je 26 nov 21h30 HL
 
 [35235]  
 **Allons donc, papa !**  
@@ -22,8 +21,8 @@ de Vincente Minnelli
 Avec Spencer Tracy, Elizabeth Taylor, Joan Bennett.  
 Stanley vit mal son rôle de futur grand-père, tandis que son épouse ne cache pas sa joie. Le couple se dispute constamment, jusqu'à l'arrivée de l'enfant.
 
-- me 18 nov 21h00 HL
-- di 29 nov 14h00 GF
+- me 18 nov 21h00 HL  
+- di 29 nov 14h30 HL
 
 [45763]  
 **L'Arbre de vie**  
@@ -34,7 +33,7 @@ D'après le roman _L'Arbre de vie_ de Ross Lockridge Jr.
 Avec Elizabeth Taylor, Montgomery Clift, Lee Marvin, Eva Marie Saint.  
 Un jeune idéaliste fraîchement diplômé se rend dans le Sud à la recherche du mythique Arbre de vie. Il y rencontre Susanna, dont il tombe amoureux. Mais la guerre de Sécession éclate.
 
-- sa 21 nov 17h15 HL
+- sa 21 nov 17h15 HL  
 - lu 30 nov 19h00 GF
 
 [34652]  
@@ -45,7 +44,7 @@ D'après la pièce _Le Train de l'aube ne s'arrête plus ici_ de Tennessee Willi
 Avec Elizabeth Taylor, Richard Burton, Noël Coward.  
 Condamnée par la maladie, une milliardaire vit retirée sur une île volcanique, où elle règne en tyran sur ses nombreux serviteurs. Elle reçoit un jour la visite d'un homme qui prétend la connaître.
 
-- je 5 nov 22h00 HL
+- je 5 nov 22h00 HL  
 - ve 27 nov 19h00 HL
 
 [34734]  
@@ -57,7 +56,7 @@ D'après la nouvelle _Cérémonie secrète_ de Marco Denevi.
 Avec Elizabeth Taylor, Mia Farrow, Robert Mitchum.  
 Leonora, une prostituée, se rend sur la tombe de sa fille. Elle est suivie par une étrange jeune fille, qui voit en elle sa mère décédée. Leonora se laisse prendre au jeu.
 
-- sa 7 nov 21h15 HL
+- sa 7 nov 21h15 HL  
 - ve 20 nov 21h45 HL
 
 [30627]  
@@ -69,7 +68,7 @@ D'après la pièce _La Chatte sur un toit brûlant_ de Tennessee Williams.
 Avec Elizabeth Taylor, Paul Newman, Burl Ives.  
 Deux frères et leurs épouses se réunissent pour fêter l'anniversaire du patriarche, malade. Mais la famille se déchire rapidement, entre jalousie, reproches et crise de couple.
 
-- di 8 nov 19h00 HL
+- di 8 nov 19h00 HL  
 - sa 14 nov 19h30 HL
 
 [44828]  
@@ -80,7 +79,7 @@ de Vincente Minnelli
 Avec Elizabeth Taylor, Richard Burton, Eva Marie Saint, Charles Bronson.  
 Laura Reynolds, peintre anticonformiste, vit sur la côte californienne avec son fils, qu'elle élève dans le goût de la liberté. Un jour, le garçon est placé de force au collège San Simeon, établissement religieux dirigé par l'austère pasteur Hewitt.
 
-- sa 7 nov 15h00 HL
+- sa 7 nov 15h00 HL  
 - di 22 nov 20h30 HL
 
 [45517]  
@@ -103,18 +102,8 @@ D'après le roman _Les Comédiens_ de Graham Greene.
 Avec Richard Burton, Elizabeth Taylor, Alec Guinness, Peter Ustinov.  
 Haïti, années 1960. Les péripéties de trois Américains et d'un Britannique, lors des affrontements entre les troupes du dictateur Duvalier et un groupe rebelle.
 
-- di 22 nov 17h30 HL
+- di 22 nov 17h30 HL  
 - di 29 nov 19h30 HL
-
-[45152]  
-**Le Courage de Lassie**  
-**(Courage of Lassie)**  
-de Fred Wilcox  
-États-Unis / 1944 / 92 min / VOSTF / 35 mm  
-Avec Elizabeth Taylor, Frank Morgan, Tom Drake.  
-Entraînée au combat contre les Japonais durant la Seconde Guerre mondiale, la chienne Lassie se montre agressive à son retour. Seul l'amour que lui voue sa maîtresse Kathie peut guérir l'animal.
-
-- sa 7 nov 16h30 GF
 
 [67421]  
 **Cynthia**  
@@ -146,7 +135,7 @@ D'après le roman _Lassie, chien fidèle_ d'Eric Knight.
 Avec Elizabeth Taylor, Elsa Lanchester, Roddy McDowall.  
 Faute de moyens, une famille de fermiers est contrainte de vendre sa fidèle chienne. Emmenée à des milliers de kilomètres, la brave colley va alors affronter mille dangers pour retrouver son foyer.
 
-- sa 7 nov 14h30 GF
+- sa 7 nov 17h15 GF  
 - di 15 nov 14h30 GF
 
 [36624]  
@@ -159,7 +148,7 @@ Avec Elizabeth Taylor, Rock Hudson, James Dean.
 Contre l'avis de sa famille, le propriétaire d'un ranch texan lègue une parcelle à Jett, un employé solitaire. Le jeune homme, secrètement amoureux de la jolie fille de son patron, trouve du pétrole et devient riche. Bientôt, un conflit éclate.
 
 - me 4 nov 20h00 HL  
-  Ouverture de la rétrospective
+Ouverture de la rétrospective  
 - sa 21 nov 20h30 HL
 
 [67420]  
@@ -182,8 +171,8 @@ D'après le roman _The Conspirator_ de Humphrey Slater.
 Avec Elizabeth Taylor, Robert Taylor, Honor Blackman.  
 À Londres, une jeune Américaine s'éprend d'un officier de la garde britannique. Mais peu après leur mariage, elle découvre que son époux est un espion à la solde de l'Union soviétique.
 
-- je 12 nov 19h30 HL
-- je 26 nov 19h30 HL
+- je 12 nov 19h30 HL  
+- je 26 nov 21h15 HL
 
 [36456]  
 **Ivanhoé**  
@@ -194,7 +183,8 @@ D'après le roman _Ivanhoé_ de Walter Scott.
 Avec Elizabeth Taylor, Robert Taylor, Joan Fontaine, George Sanders.  
 Le brave chevalier Wilfred d'Ivanhoé lutte contre l'infâme prince Jean pour l'honneur et la délivrance de Richard Cœur de Lion, retenu prisonnier par le duc d'Autriche.
 
-- di 15 nov 17h00 HL
+- di 15 nov 17h00 HL  
+- je 26 nov 19h00 HL
 
 [36574]  
 **Las Vegas, un couple**  
@@ -205,7 +195,7 @@ D'après la pièce _The Only Game in Town_ de Frank D. Gilroy.
 Avec Elizabeth Taylor, Warren Beatty, Charles Braswell.  
 À Las Vegas, une danseuse, Fran, attend depuis des années que son amant divorce pour qu'ils puissent vivre ensemble. Lorsqu'il est enfin libre, elle réalise qu'elle est tombée amoureuse de Joe, pianiste de bar et joueur compulsif.
 
-- ve 13 nov 21h15 HL
+- ve 13 nov 21h15 HL  
 - ve 27 nov 21h15 HL
 
 [43725]  
@@ -217,7 +207,7 @@ D'après la pièce _La Mégère apprivoisée_ de William Shakespeare.
 Avec Elizabeth Taylor, Richard Burton, Cyril Cusack.  
 À Padoue, le vieux Baptista désespère de trouver un mari qui puisse résister au caractère colérique de sa fille aînée Catharina.
 
-- di 8 nov 21h15 HL
+- di 8 nov 21h15 HL  
 - di 29 nov 17h00 HL
 
 [39574]  
@@ -229,7 +219,7 @@ D'après le roman _Le Miroir se brisa_ d'Agatha Christie.
 Avec Angela Lansbury, Elizabeth Taylor, Geraldine Chaplin, Tony Curtis.  
 Une équipe de cinéma s'installe dans un hameau anglais pour un tournage. Mais lors d'une fête organisée en l'honneur des vedettes du film, une villageoise est retrouvée empoisonnée.
 
-- sa 14 nov 15h00 GF
+- sa 14 nov 15h00 GF  
 - sa 28 nov 18h45 HL
 
 [35590]  
@@ -240,7 +230,7 @@ de Larry Peerce
 Avec Elizabeth Taylor, Henry Fonda, Helmut Berger.  
 Dans l'espoir de reconquérir l'amour de son mari, Barbara Sawyer se fait remodeler le visage par un chirurgien esthétique.
 
-- me 11 nov 19h30 HL
+- me 11 nov 19h30 HL  
 - je 19 nov 22h00 HL
 
 [31397]  
@@ -263,7 +253,7 @@ D'après le roman _Le Père de la mariée_ d'Edward Streeter.
 Avec Spencer Tracy, Joan Bennett, Elizabeth Taylor.  
 Stanley Banks prépare le mariage de sa fille Kay, mais s'angoisse à l'idée que sa cadette n'ait pas choisi le bon époux.
 
-- me 18 nov 19h00 HL
+- me 18 nov 19h00 HL  
 - di 22 nov 14h00 GF
 
 [67423]  
@@ -286,7 +276,7 @@ D'après la pièce _Qui a peur de Virginia Woolf ?_ d'Edward Albee.
 Avec Elizabeth Taylor, Richard Burton, George Segal.  
 George, professeur d'histoire, et son épouse Martha, fille du doyen de l'université, invitent un jeune couple, nouveau venu sur le campus, à boire un verre. Ce qui aurait dû être une soirée sympathique va dégénérer en règlement de comptes.
 
-- sa 7 nov 18h30 HL
+- sa 7 nov 18h30 HL  
 - di 15 nov 19h15 HL
 
 [33462]  
@@ -298,7 +288,7 @@ D'après le roman _Reflets dans un œil d'or_ de Carson McCullers.
 Avec Elizabeth Taylor, Marlon Brando, Brian Keith, Julie Harris.  
 Dans un fort militaire de Géorgie, les chassés-croisés entre le major Penderton, son épouse délaissée – qui a pour amant le colonel Langdon –, et un jeune soldat dont l'arrivée vient perturber encore davantage cet univers trouble.
 
-- ve 6 nov 19h00 HL
+- ve 6 nov 19h00 HL  
 - je 19 nov 19h30 HL
 
 [46038]  
@@ -310,7 +300,7 @@ D'après la pièce _Soudain, l'été dernier_ de Tennessee Williams.
 Avec Elizabeth Taylor, Katharine Hepburn, Montgomery Clift.  
 Le Dr Cukrowicz pratique la neurochirurgie dans des conditions précaires. Une riche veuve, Violet Venable, souhaite léguer un million de dollars à son établissement, à condition que Cukrowicz pratique une lobotomie sur sa nièce.
 
-- ve 6 nov 22h00 HL
+- ve 6 nov 21h15 HL  
 - me 25 nov 19h00 HL
 
 [67430]  
@@ -322,8 +312,8 @@ D'après la pièce _Night Watch_ de Lucille Fletcher.
 Avec Elizabeth Taylor, Laurence Harvey, Billie Whitelaw.  
 En convalescence et cloîtrée chez elle, Ellen Wheeler est témoin d'un meurtre perpétré sous ses fenêtres.
 
-- je 12 nov 22h00 HL
-- me 25 nov 22h00 HL
+- je 12 nov 22h00 HL  
+- me 25 nov 21h30 HL
 
 [32449]  
 **Une belle tigresse**  
@@ -333,7 +323,7 @@ de Brian G. Hutton
 Avec Elizabeth Taylor, Michael Caine, Susannah York.  
 Les relations tumultueuses entre un homme, sa femme, et sa maîtresse.
 
-- sa 14 nov 21h45 HL
+- sa 14 nov 21h45 HL  
 - sa 28 nov 21h00 HL
 
 [36454]  
@@ -345,7 +335,7 @@ D'après le roman _Une tragérie américaine_ de Theodore Dreiser.
 Avec Montgomery Clift, Elizabeth Taylor, Shelley Winters.  
 Un jeune homme pauvre obtient de son oncle fortuné un emploi dans son usine. Il y rencontre une ouvrière avec laquelle il entretient une relation secrète. Il fait aussi la connaissance d'une jeune fille de la haute société dont il tombe amoureux.
 
-- je 5 nov 19h30 HL
+- je 5 nov 19h30 HL  
 - sa 14 nov 17h00 HL
 
 [46039]  
@@ -356,7 +346,7 @@ de Daniel Mann
 Avec Elizabeth Taylor, Laurence Harvey, Eddie Fisher.  
 Gloria, la call-girl la plus élégante et la mieux payée de tout New York, tombe amoureuse d'un de ses clients.
 
-- ve 13 nov 19h00 HL
+- ve 13 nov 19h00 HL  
 - sa 28 nov 16h30 HL
 
 ## Rencontres et conférences
@@ -368,4 +358,5 @@ undefined
 « Depuis toute petite, je croyais être prédestinée, et si cela est vrai, Richard Burton, assurément, était mon destin. » (Elizabeth Taylor)  
 Murielle Joudet est critique de cinéma au _Monde_ et aux _Inrockuptibles,_ elle participe à _La Dispute_ sur France Culture et anime une émission d'entretiens sur le site Hors-série. Elle a publié un essai : _Isabelle Huppert : Vivre ne nous regarde pas_ (Capricci, 2018) et a contribué à l'ouvrage _Hitchcock, la totale_ (E/P/A, 2019).
 
-- sa 7 nov 16h45 HL
+- sa 7 nov 15h00 HL
+

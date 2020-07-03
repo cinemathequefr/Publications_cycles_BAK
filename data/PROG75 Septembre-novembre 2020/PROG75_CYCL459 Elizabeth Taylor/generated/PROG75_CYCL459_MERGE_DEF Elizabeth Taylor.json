@@ -39,40 +39,6 @@
           ]
         },
         {
-          "idSeance": 36113,
-          "ordre": 1,
-          "dateHeure": "2020-11-26T21:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 2053,
-          "idEvenement": 21792,
-          "typeEvenement": 13,
-          "idFilm": 57028,
-          "titre": "Ainsi sont les femmes",
-          "titreVo": "A Date With Judy",
-          "realisateurs": "Richard Thorpe",
-          "annee": 1948,
-          "pays": "États-Unis",
-          "duree": 113,
-          "version": "VOSTF",
-          "format": "16 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Wallace Beery",
-            "Jane Powell",
-            "Elizabeth Taylor"
-          ],
-          "adaptation": "D'après le feuilleton radiophonique _A Date With Judy_ d'Aleen Leslie.",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Les tourments d'une jeune femme trahie par sa meilleure amie, abandonnée par l'homme qu'elle aime, et qui soupçonne son père d'avoir une maîtresse."
-            }
-          ]
-        },
-        {
           "idSeance": 36078,
           "ordre": 1,
           "dateHeure": "2020-11-18T21:00:00",
@@ -108,10 +74,10 @@
         {
           "idSeance": 36131,
           "ordre": 1,
-          "dateHeure": "2020-11-29T14:00:00",
+          "dateHeure": "2020-11-29T14:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "HL",
+            "Henri Langlois"
           ],
           "idCategorie": 2053,
           "idEvenement": 21788,
@@ -356,6 +322,7 @@
             "HL",
             "Henri Langlois"
           ],
+          "typeAssoc": 118,
           "idCategorie": 2053,
           "idEvenement": 21779,
           "typeEvenement": 13,
@@ -529,40 +496,6 @@
           ]
         },
         {
-          "idSeance": 36065,
-          "ordre": 1,
-          "dateHeure": "2020-11-07T16:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2053,
-          "idEvenement": 21795,
-          "typeEvenement": 13,
-          "idFilm": 45152,
-          "art": "Le",
-          "titre": "Courage de Lassie",
-          "titreVo": "Courage of Lassie",
-          "realisateurs": "Fred Wilcox",
-          "annee": 1944,
-          "pays": "États-Unis",
-          "duree": 92,
-          "version": "VOSTF",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Elizabeth Taylor",
-            "Frank Morgan",
-            "Tom Drake"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Entraînée au combat contre les Japonais durant la Seconde Guerre mondiale, la chienne Lassie se montre agressive à son retour. Seul l'amour que lui voue sa maîtresse Kathie peut guérir l'animal."
-            }
-          ]
-        },
-        {
           "idSeance": 36108,
           "ordre": 1,
           "dateHeure": "2020-11-20T19:30:00",
@@ -703,7 +636,7 @@
         {
           "idSeance": 36064,
           "ordre": 1,
-          "dateHeure": "2020-11-07T14:30:00",
+          "dateHeure": "2020-11-07T17:15:00",
           "idSalle": [
             "GF",
             "Georges Franju"
@@ -841,7 +774,7 @@
         {
           "idSeance": 36114,
           "ordre": 1,
-          "dateHeure": "2020-11-26T19:30:00",
+          "dateHeure": "2020-11-26T21:15:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -946,6 +879,41 @@
           "idSeance": 36071,
           "ordre": 1,
           "dateHeure": "2020-11-15T17:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2053,
+          "idEvenement": 21786,
+          "typeEvenement": 13,
+          "idFilm": 36456,
+          "titre": "Ivanhoé",
+          "titreVo": "Ivanhoe",
+          "realisateurs": "Richard Thorpe",
+          "annee": 1951,
+          "pays": "Grande-Bretagne",
+          "duree": 106,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": 0,
+          "generique": [
+            "Elizabeth Taylor",
+            "Robert Taylor",
+            "Joan Fontaine",
+            "George Sanders"
+          ],
+          "adaptation": "D'après le roman _Ivanhoé_ de Walter Scott.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le brave chevalier Wilfred d'Ivanhoé lutte contre l'infâme prince Jean pour l'honneur et la délivrance de Richard Cœur de Lion, retenu prisonnier par le duc d'Autriche."
+            }
+          ]
+        },
+        {
+          "idSeance": 36153,
+          "ordre": 1,
+          "dateHeure": "2020-11-26T19:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1543,7 +1511,7 @@
         {
           "idSeance": 36063,
           "ordre": 1,
-          "dateHeure": "2020-11-06T22:00:00",
+          "dateHeure": "2020-11-06T21:15:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1645,7 +1613,7 @@
         {
           "idSeance": 36112,
           "ordre": 1,
-          "dateHeure": "2020-11-25T22:00:00",
+          "dateHeure": "2020-11-25T21:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
@@ -1886,12 +1854,14 @@
       "tri": 4,
       "items": [
         {
-          "idSeance": 35901,
-          "dateHeure": "2020-11-07T16:45:00",
+          "idSeance": 35590,
+          "ordre": 2,
+          "dateHeure": "2020-11-07T15:00:00",
           "idSalle": [
             "HL",
             "Henri Langlois"
           ],
+          "typeAssoc": 118,
           "idCategorie": 2215,
           "idEvenement": 21896,
           "typeEvenement": 14,

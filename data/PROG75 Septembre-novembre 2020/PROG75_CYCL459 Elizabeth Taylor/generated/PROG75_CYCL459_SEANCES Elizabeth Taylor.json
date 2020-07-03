@@ -98,7 +98,7 @@
     "typeEvenement": 13,
     "idEvenement": 21781,
     "idSeance": 36063,
-    "dateHeure": "2020-11-06T22:00:00",
+    "dateHeure": "2020-11-06T21:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -119,9 +119,50 @@
   {
     "idCategorie": 2053,
     "typeEvenement": 13,
+    "idEvenement": 21779,
+    "idSeance": 35590,
+    "dateHeure": "2020-11-07T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 44828,
+        "ordre": 1,
+        "idSeance": 35590,
+        "idCopie": 10679,
+        "duree": 118,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2215,
+    "typeEvenement": 14,
+    "idEvenement": 21896,
+    "idSeance": 35590,
+    "dateHeure": "2020-11-07T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 2
+      }
+    ]
+  },
+  {
+    "idCategorie": 2053,
+    "typeEvenement": 13,
     "idEvenement": 21797,
     "idSeance": 36064,
-    "dateHeure": "2020-11-07T14:30:00",
+    "dateHeure": "2020-11-07T17:15:00",
     "idSalle": [
       "GF",
       "Georges Franju"
@@ -137,66 +178,6 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
-  },
-  {
-    "idCategorie": 2053,
-    "typeEvenement": 13,
-    "idEvenement": 21779,
-    "idSeance": 35590,
-    "dateHeure": "2020-11-07T15:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 44828,
-        "ordre": 1,
-        "idSeance": 35590,
-        "idCopie": 10679,
-        "duree": 118,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2053,
-    "typeEvenement": 13,
-    "idEvenement": 21795,
-    "idSeance": 36065,
-    "dateHeure": "2020-11-07T16:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
-    "items": [
-      {
-        "idFilm": 45152,
-        "ordre": 1,
-        "idSeance": 36065,
-        "idCopie": 20361,
-        "duree": 92,
-        "version": "VOSTF",
-        "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2215,
-    "typeEvenement": 14,
-    "idEvenement": 21896,
-    "idSeance": 35901,
-    "dateHeure": "2020-11-07T16:45:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {}
     ]
   },
   {
@@ -963,7 +944,7 @@
     "typeEvenement": 13,
     "idEvenement": 21770,
     "idSeance": 36112,
-    "dateHeure": "2020-11-25T22:00:00",
+    "dateHeure": "2020-11-25T21:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -984,9 +965,32 @@
   {
     "idCategorie": 2053,
     "typeEvenement": 13,
+    "idEvenement": 21786,
+    "idSeance": 36153,
+    "dateHeure": "2020-11-26T19:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 36456,
+        "ordre": 1,
+        "idSeance": 36153,
+        "idCopie": 20479,
+        "duree": 106,
+        "version": "VOSTF",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2053,
+    "typeEvenement": 13,
     "idEvenement": 21793,
     "idSeance": 36114,
-    "dateHeure": "2020-11-26T19:30:00",
+    "dateHeure": "2020-11-26T21:15:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -1000,29 +1004,6 @@
         "duree": 85,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2053,
-    "typeEvenement": 13,
-    "idEvenement": 21792,
-    "idSeance": 36113,
-    "dateHeure": "2020-11-26T21:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 57028,
-        "ordre": 1,
-        "idSeance": 36113,
-        "idCopie": 20365,
-        "duree": 113,
-        "version": "VOSTF",
-        "format": "16 mm",
         "valide": 1
       }
     ]
@@ -1170,10 +1151,10 @@
     "typeEvenement": 13,
     "idEvenement": 21788,
     "idSeance": 36131,
-    "dateHeure": "2020-11-29T14:00:00",
+    "dateHeure": "2020-11-29T14:30:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "HL",
+      "Henri Langlois"
     ],
     "items": [
       {
