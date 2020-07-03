@@ -117,22 +117,22 @@
     ]
   },
   {
-    "idCategorie": 2050,
+    "idCategorie": 2316,
     "typeEvenement": 13,
-    "idEvenement": 20553,
-    "idSeance": 35605,
-    "dateHeure": "2020-09-06T15:00:00",
+    "idEvenement": 22791,
+    "idSeance": 35718,
+    "dateHeure": "2020-09-05T20:45:00",
     "idSalle": [
-      "HL",
-      "Henri Langlois"
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
-        "idFilm": 56672,
+        "idFilm": 47405,
         "ordre": 1,
-        "idSeance": 35605,
-        "idCopie": 20262,
-        "duree": 110,
+        "idSeance": 35718,
+        "idCopie": 9336,
+        "duree": 96,
         "version": "",
         "format": "DCP",
         "valide": 1
@@ -287,6 +287,7 @@
       "HL",
       "Henri Langlois"
     ],
+    "typeAssoc": 118,
     "items": [
       {
         "idFilm": 50451,
@@ -304,14 +305,17 @@
     "idCategorie": 2216,
     "typeEvenement": 14,
     "idEvenement": 22039,
-    "idSeance": 35889,
-    "dateHeure": "2020-09-12T16:45:00",
+    "idSeance": 35571,
+    "dateHeure": "2020-09-12T15:00:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
+    "typeAssoc": 118,
     "items": [
-      {}
+      {
+        "ordre": 2
+      }
     ]
   },
   {
@@ -381,7 +385,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Danièle Thompson"
   },
   {
     "idCategorie": 2050,
@@ -407,20 +412,78 @@
     ]
   },
   {
-    "idCategorie": 2050,
-    "typeEvenement": 13,
-    "idEvenement": 20554,
-    "idSeance": 35766,
-    "dateHeure": "2020-10-04T15:00:00",
+    "idCategorie": 2216,
+    "typeEvenement": 14,
+    "idEvenement": 21972,
+    "idSeance": 35894,
+    "dateHeure": "2020-10-05T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
+    ],
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2050,
+    "typeEvenement": 13,
+    "idEvenement": 20553,
+    "idSeance": 35894,
+    "dateHeure": "2020-10-05T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeAssoc": 118,
+    "items": [
+      {
+        "idFilm": 56672,
+        "ordre": 2,
+        "idSeance": 35579,
+        "idCopie": 20262,
+        "duree": 110,
+        "version": "",
+        "format": "DCP",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2216,
+    "typeEvenement": 14,
+    "idEvenement": 21973,
+    "idSeance": 35895,
+    "dateHeure": "2020-10-12T14:30:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "typeAssoc": 118,
+    "items": [
+      {
+        "ordre": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2050,
+    "typeEvenement": 13,
+    "idEvenement": 20554,
+    "idSeance": 36145,
+    "dateHeure": "2020-10-18T15:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
     ],
     "items": [
       {
         "idFilm": 50401,
         "ordre": 1,
-        "idSeance": 35766,
+        "idSeance": 36145,
         "idCopie": 20261,
         "duree": 122,
         "version": "",
@@ -430,26 +493,19 @@
     ]
   },
   {
-    "idCategorie": 2050,
-    "typeEvenement": 13,
-    "idEvenement": 20553,
-    "idSeance": 35579,
-    "dateHeure": "2020-10-05T15:30:00",
+    "idCategorie": 2216,
+    "typeEvenement": 14,
+    "idEvenement": 21897,
+    "idSeance": 35896,
+    "dateHeure": "2020-10-19T14:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 35583,
+    "typeAssoc": 117,
     "items": [
-      {
-        "idFilm": 56672,
-        "ordre": 1,
-        "idSeance": 35579,
-        "idCopie": 20262,
-        "duree": 110,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
+      {}
     ]
   },
   {
@@ -462,6 +518,8 @@
       "HL",
       "Henri Langlois"
     ],
+    "idSeanceAssoc": 35896,
+    "typeAssoc": 117,
     "items": [
       {
         "idFilm": 50452,
@@ -471,6 +529,29 @@
         "duree": 105,
         "version": "",
         "format": "35 mm",
+        "valide": 1
+      }
+    ]
+  },
+  {
+    "idCategorie": 2050,
+    "typeEvenement": 13,
+    "idEvenement": 20556,
+    "idSeance": 35868,
+    "dateHeure": "2020-10-25T15:00:00",
+    "idSalle": [
+      "HL",
+      "Henri Langlois"
+    ],
+    "items": [
+      {
+        "idFilm": 50400,
+        "ordre": 1,
+        "idSeance": 35868,
+        "idCopie": 20257,
+        "duree": 113,
+        "version": "",
+        "format": "DCP",
         "valide": 1
       }
     ]

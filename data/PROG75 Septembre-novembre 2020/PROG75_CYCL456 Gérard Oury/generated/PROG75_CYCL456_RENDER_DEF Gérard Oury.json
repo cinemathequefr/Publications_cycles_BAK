@@ -11,6 +11,13 @@
         "tri": 1
       },
       {
+        "titre": "Gérard Oury acteur et scénariste",
+        "cats": [
+          2316
+        ],
+        "tri": 1
+      },
+      {
         "titre": "Rencontres et conférences",
         "cats": [
           2216
@@ -195,16 +202,6 @@
           "ageMinimal": null,
           "seance": [
             {
-              "idSeance": 35605,
-              "ordre": 1,
-              "idEvenement": 20553,
-              "dateHeure": "2020-09-06T15:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
               "idSeance": 35572,
               "ordre": 1,
               "idEvenement": 20553,
@@ -212,13 +209,14 @@
               "idSalle": [
                 "HL",
                 "Henri Langlois"
-              ]
+              ],
+              "mention": "Séance suivie d'une discussion avec Danièle Thompson"
             },
             {
-              "idSeance": 35579,
-              "ordre": 1,
+              "idSeance": 35894,
+              "ordre": 2,
               "idEvenement": 20553,
-              "dateHeure": "2020-10-05T15:30:00",
+              "dateHeure": "2020-10-05T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"
@@ -370,6 +368,16 @@
                 "Henri Langlois"
               ],
               "mention": "Ouverture de la rétrospective"
+            },
+            {
+              "idSeance": 35868,
+              "ordre": 1,
+              "idEvenement": 20556,
+              "dateHeure": "2020-10-25T15:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
             }
           ]
         },
@@ -409,13 +417,13 @@
               ]
             },
             {
-              "idSeance": 35766,
+              "idSeance": 36145,
               "ordre": 1,
               "idEvenement": 20554,
-              "dateHeure": "2020-10-04T15:00:00",
+              "dateHeure": "2020-10-18T15:00:00",
               "idSalle": [
-                "HL",
-                "Henri Langlois"
+                "GF",
+                "Georges Franju"
               ]
             }
           ]
@@ -680,6 +688,53 @@
       ]
     },
     {
+      "titreSousCycle": "Gérard Oury acteur et scénariste",
+      "tri": 1,
+      "textes": [],
+      "items": [
+        {
+          "idFilm": 47405,
+          "titre": "Miroir à deux faces",
+          "art": "Le",
+          "realisateurs": "André Cayatte",
+          "annee": 1958,
+          "pays": "France-Italie",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Marie-José est amoureuse de son patron, mais celui-ci lui préfère sa sœur, plus jolie. Après dix ans d'une vie terne, elle fait la connaissance d'un chirurgien prêt à transformer son visage."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Gérard Oury a cosigné le scénario et joue dans le film."
+            }
+          ],
+          "generique": [
+            "Michèle Morgan",
+            "Bourvil",
+            "Sandra Milo",
+            "Gérard Oury"
+          ],
+          "duree": 96,
+          "format": "DCP",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 35718,
+              "ordre": 1,
+              "idEvenement": 22791,
+              "dateHeure": "2020-09-05T20:45:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "titreSousCycle": "Rencontres et conférences",
       "tri": 4,
       "textes": [],
@@ -689,23 +744,116 @@
           "idEvenement": 22039,
           "films": [
             {
-              "titre": "FILM + DIALOGUE AVEC DANIÈLE THOMPSON",
+              "titre": "Film + Dialogue avec Danièle Thompson",
               "textes": [
                 {
                   "typeTexte": 8,
-                  "texte": "« Louis de Funès est un extraordinaire interprète comique. C'est peut-être le seul acteur au monde qui ait la possibilité d'être odieux sans être antipathique. (...) Notre propos n'est pas, à de Funès et moi, de faire de la politique. Nous ne sommes pas des gens qui véhiculons de messages. Néanmoins, il y a derrière les gags, derrière l'humour, derrière le comique fantastique de Louis, quelque chose qui, je l'espère, va passer à cet égard et qui touchera peut-être le cœur des hommes. » Gérard Oury (archive INA, 20 octobre 1973)"
+                  "texte": "« Louis de Funès est un extraordinaire interprète comique. C'est peut-être le seul acteur au monde qui ait la possibilité d'être odieux sans être antipathique. Notre propos n'est pas, à de Funès et moi, de faire de la politique. Nous ne sommes pas des gens qui véhiculons de messages. Néanmoins, il y a derrière les gags, derrière l'humour, derrière le comique fantastique de Louis, quelque chose qui, je l'espère, va passer à cet égard et qui touchera peut-être le cœur des hommes. » (Gérard Oury, octobre 1973)"
                 },
                 {
                   "typeTexte": 156,
-                  "texte": "**Frédéric Bonnaud** est directeur général de La Cinémathèque française."
+                  "texte": "Frédéric Bonnaud est directeur général de la Cinémathèque française."
                 },
                 {
                   "typeTexte": 156,
-                  "texte": "**Alain Kruger** est commissaire de l'exposition « Louis de Funès » à La Cinémathèque française. Il assure sur Canal+ la production éditoriale, depuis sa création il y a quinze ans, de l'émission de cinéma « Le Cercle » et depuis l'automne 2019 du « Cercle Séries »."
+                  "texte": "Alain Kruger est commissaire de l'exposition Louis de Funès à la Cinémathèque française. Il assure sur Canal+ la production éditoriale, depuis sa création il y a quinze ans, de l'émission de cinéma « Le Cercle » et, depuis l'automne 2019, du « Cercle Séries »."
                 },
                 {
                   "typeTexte": 156,
-                  "texte": "**Danièle Thompson** est réalisatrice (_La Bûche_, _Fauteuils d'orchestre_, _Le code a changé_...) et scénariste (_La Boum_, _Cousin, cousine, La Reine Margot_...). Elle est la fille du cinéaste Gérard Oury dont elle a co-écrit, à partir de _La Grande Vadrouille_, presque tous les scénarios, dont celui des _Aventures de Rabbi Jacob_ et de _L'As des as_."
+                  "texte": "Danièle Thompson est réalisatrice (_La Bûche_, _Fauteuils d'orchestre_, _Le Code a changé_) et scénariste (_La Boum_, _Cousin, cousine_, _La Reine Margot_). Elle est la fille du cinéaste Gérard Oury dont elle a coécrit, à partir de _La Grande vadrouille_, presque tous les scénarios, dont celui des _Aventures de Rabbi Jacob_ et de _L'As des as_."
+                }
+              ],
+              "duree": 60,
+              "ordre": 2
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-09-12T15:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2216,
+          "idEvenement": 21972,
+          "films": [
+            {
+              "titre": "La comédie populaire française des années 1960 et 1970",
+              "sousTitre": "Conférence d'Adrien Valgalier",
+              "textes": [
+                {
+                  "typeTexte": 8,
+                  "texte": "Au début des années 1960, le cinéma français est en crise et doit retrouver son attractivité. Dans ce sillage, une partie de la production comique prend une nouvelle tournure, quitte Paris et ses intérieurs, ses réflexes vaudevillesques et ses bons mots. Gérard Oury est l'un des premiers à s'engager dans cette direction. En Cinémascope et en couleurs, les comédies soignent leur plastique, renforcent leurs gags visuels et redonnent au rire une dimension spectaculaire."
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Adrien Valgalier est doctorant en études cinématographiques à l'université Paul-Valéry de Montpellier. Sa thèse en cours porte sur la comédie populaire française des années 1960-1970. Ses travaux défendent une vision historique et culturelle des formes cinématographiques. Il mène aussi une activité de critique de cinéma pour la revue _La Septième obsession_ et collabore avec la Semaine de la critique au Festival de Cannes."
+                }
+              ],
+              "duree": 60,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-10-05T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2216,
+          "idEvenement": 21973,
+          "films": [
+            {
+              "titre": "Rire en société, rire de la société : avec elle et contre elle",
+              "sousTitre": "Conférence d'Adrien Valgalier",
+              "textes": [
+                {
+                  "typeTexte": 8,
+                  "texte": "De la « civilisation du loisir » à la fin des Trente Glorieuses, les décennies 1960-1970 sont secouées par plusieurs changements économiques, sociétaux et culturels. La comédie ne rate pas le coche et pointe les transformations, ambivalences et contradictions d'une société en mutation. Tout passe au crible du rire : les conflits générationnels, la modernisation des modes de vie, l'évolution des mœurs, les écarts culturels, l'urbanisation..."
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Adrien Valgalier est doctorant en études cinématographiques à l'université Paul-Valéry de Montpellier. Sa thèse en cours porte sur la comédie populaire française des années 1960-1970. Ses travaux défendent une vision historique et culturelle des formes cinématographiques. Il mène aussi une activité de critique de cinéma pour la revue _La Septième obsession_ et collabore avec la Semaine de la critique au Festival de Cannes."
+                }
+              ],
+              "duree": 60,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-10-12T14:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2216,
+          "idEvenement": 21897,
+          "films": [
+            {
+              "titre": "Négociations historiques : imaginaires d'époques et de guerres",
+              "sousTitre": "Conférence d'Adrien Valgalier",
+              "textes": [
+                {
+                  "typeTexte": 8,
+                  "texte": "Lorsqu'elle se plonge dans des temps reculés, la comédie joue davantage sur le détournement d'une histoire officielle et normée que sur l'exactitude des événements. De _La Grande vadrouille_ à _La Septième compagnie_, de _La Carapate_ à _L'As des as_, la comédie s'émancipe des faits et nous informe sur le rapport d'une société à son passé, mais aussi sur la redéfinition permanente de son identité."
+                },
+                {
+                  "typeTexte": 156,
+                  "texte": "Adrien Valgalier est doctorant en études cinématographiques à l'université Paul-Valéry de Montpellier. Sa thèse en cours porte sur la comédie populaire française des années 1960-1970. Ses travaux défendent une vision historique et culturelle des formes cinématographiques. Il mène aussi une activité de critique de cinéma pour la revue _La Septième obsession_ et collabore avec la Semaine de la critique au Festival de Cannes."
                 }
               ],
               "duree": 60
@@ -713,7 +861,7 @@
           ],
           "seance": [
             {
-              "dateHeure": "2020-09-12T16:45:00",
+              "dateHeure": "2020-10-19T14:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"

@@ -176,7 +176,8 @@
               "idSalle": [
                 "GF",
                 "Georges Franju"
-              ]
+              ],
+              "mention": "Séance présentée par Serge Korber"
             }
           ]
         },
@@ -248,7 +249,8 @@
               "idSalle": [
                 "GF",
                 "Georges Franju"
-              ]
+              ],
+              "mention": "Séance présentée par Serge Korber"
             }
           ]
         }

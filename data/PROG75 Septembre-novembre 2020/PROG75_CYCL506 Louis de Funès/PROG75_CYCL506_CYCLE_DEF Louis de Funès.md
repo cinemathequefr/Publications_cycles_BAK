@@ -37,7 +37,8 @@ France-Italie / 1969 / 85 min / DCP
 Avec Louis de Funès, Noëlle Adam, Olivier de Funès.  
 Evan Evans est à la fois danseur, musicien, impresario, metteur en scène et manager d'une troupe de danseuses qu'il mène à la baguette. Au cours d'une tournée, il retrouve un bébé dans sa chambre, et doit se transformer malgré lui en père nourricier.
 
-- di 8 nov 15h00 GF
+- di 8 nov 15h00 GF  
+  Séance présentée par Serge Korber
 
 [50189]  
 **Oscar**  
@@ -56,7 +57,8 @@ France / 1970 / 85 min / 35 mm
 Avec Louis de Funès, Geraldine Chaplin, Olivier de Funès.  
 Un promoteur français, qui vient de conclure avec un Italien un accord leur assurant la mainmise sur les autoroutes européennes, fait une embardée au volant. Sa voiture se retrouve, avec ses occupants, au sommet d'un arbre accroché à la paroi d'une falaise.
 
-- di 8 nov 17h30 GF
+- di 8 nov 17h30 GF  
+  Séance présentée par Serge Korber
 
 ## Cinéma bis
 
@@ -84,6 +86,7 @@ Les célèbres gendarmes de Saint-Tropez se retrouvent confrontés à des extrat
 
 []  
 **De Funès : l'ordre à la condition du chaos**  
+**Conférence de Jean-Baptiste Thoret**  
 undefined  
 90 min  
 Près de 120 films tournés, une carrière qui a décollé sur le tard, à presque 50 ans, avec un petit rôle d'épicier éblouissant dans _La Traversée de Paris_, en 1956, aux côtés des monstres Bourvil et Gabin. Puis le succès que l'on sait, qui débute au cours de l'été 1964 avec la série des _Gendarme_. En quinze ans, le sans-grade grimpe les barreaux de l'échelle sociale à vitesse grand V jusqu'à devenir l'un des hérauts de la France dominante des Trente Glorieuses. Ce Louis de Funès, via ses personnages, voulait que rien ne change mais il semblerait que son corps, ses gestes et ses actions aient produit le contraire. Comment un gardien de l'ordre pouvait-il, en même temps, être un agent du chaos ?  
@@ -103,6 +106,7 @@ L'acteur de cinéma et metteur en scène André Marcon a joué au théâtre sous
 
 []  
 **De Funès en musique(s) : l'homme et l'orchestre**  
+**Conférence de Stéphane Lerouge**  
 undefined  
 90 min  
 Pianiste de bar à ses débuts, Louis de Funès n'a jamais été, à l'écran, trahi par la musique. D'évidence, les compositeurs étaient sensibles à la musicalité de sa gestuelle et de son visage, à sa rythmique, à ses ruptures. Entre influences pop et citations classiques, entre Rossini et François de Roubaix, cette conférence dressera un portrait musical d'une icône moderne de la comédie.  

@@ -318,7 +318,7 @@
     "titre": "Fantômas",
     "titreVo": "",
     "idFilm": 49173,
-    "ageMinimal": 6,
+    "ageMinimal": 8,
     "realisateurs": "André Hunebelle",
     "annee": 1964,
     "pays": "France",
@@ -329,7 +329,7 @@
       },
       {
         "typeTexte": 203,
-        "texte": "Le commissaire Juve a bien du mal à mettre la main sur le diabolique et mystérieux voleur masqué Fantômas. Un film d'aventure où s'enchaînent les courses-poursuites, les cascades et les combats frénétiques."
+        "texte": "Le commissaire Juve a bien du mal à mettre la main sur le diabolique et mystérieux voleur masqué Fantômas. Un film d'aventure où s'enchaînent courses-poursuites, cascades et combats frénétiques."
       }
     ],
     "generique": [
@@ -342,7 +342,7 @@
     "titre": "Fantômas contre Scotland Yard",
     "titreVo": "",
     "idFilm": 53934,
-    "ageMinimal": null,
+    "ageMinimal": 8,
     "realisateurs": "André Hunebelle",
     "annee": 1966,
     "pays": "France-Italie",
@@ -362,7 +362,7 @@
     "titre": "Fantômas se déchaîne",
     "titreVo": "",
     "idFilm": 53849,
-    "ageMinimal": null,
+    "ageMinimal": 8,
     "realisateurs": "André Hunebelle",
     "annee": 1965,
     "pays": "France-Italie",
@@ -506,7 +506,7 @@
       },
       {
         "typeTexte": 203,
-        "texte": "Monsieur Septime dirige le très chic « Grand restaurant ». Un soir, un homme d'Etat sud-américain disparaît alors qu'il est venu y dîner. Les ennuis commencent pour Septime qui va devoir livrer une véritable partie de cache-cache avec les policiers."
+        "texte": "Monsieur Septime dirige le très chic « Grand restaurant ». Un soir, un homme d'État sud-américain disparaît pendant le dîner. Les ennuis commencent pour Septime, qui va devoir livrer une véritable partie de cache-cache avec les policiers."
       }
     ],
     "generique": [
@@ -691,7 +691,7 @@
       },
       {
         "typeTexte": 203,
-        "texte": "André Castagnier employé naval donne du fil à retordre à son patron. Il est l'inventeur d'incroyables bateaux L'increvable dont la coque se perce au moment de son inauguration, mais aussi du Petit Baigneur qui contre toute attente gagne une course et promet de devenir une affaire très rentable."
+        "texte": "André Castagnier, inventeur de bateaux, donne du fil à retordre à son patron. Tandis que le lancement de « L'Increvable » tourne au fiasco, André gagne une prestigieuse course avec un modèle appelé le « Petit Baigneur »."
       }
     ],
     "generique": [
@@ -826,30 +826,6 @@
       "Jean Gabin",
       "Louis de Funès",
       "Dominique Davray"
-    ]
-  },
-  {
-    "titre": "Taxi, roulotte et corrida",
-    "titreVo": "",
-    "idFilm": 49268,
-    "ageMinimal": 8,
-    "realisateurs": "André Hunebelle",
-    "annee": 1958,
-    "pays": "France",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un chauffeur de taxi parisien, Maurice Berger, part en vacances en caravane, avec sa famille. A la frontière espagnole, une jeune femme glisse un diamant volé dans la poche de l'innocent Maurice, avant la fouille. Commence alors une suite de péripéties pour récupérer la pierre précieuse."
-      },
-      {
-        "typeTexte": 203,
-        "texte": "Chauffeur de taxi l'hiver, c'est à bord d'une caravane que Maurice Berger part en vacances avec toute sa famille pendant l'été. Mais les ennuis commencent dès la frontière espagnole, lorsqu'une jeune femme dépose dans la poche de Maurice un diamant volé..."
-      }
-    ],
-    "generique": [
-      "Louis de Funès",
-      "Annette Poivre",
-      "Raymond Bussières"
     ]
   },
   {

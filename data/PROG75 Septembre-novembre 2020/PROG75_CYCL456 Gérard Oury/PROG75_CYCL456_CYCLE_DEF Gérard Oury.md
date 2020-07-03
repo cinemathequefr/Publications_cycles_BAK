@@ -45,9 +45,9 @@ France-Italie / 1964 / 110 min / DCP
 Avec Bourvil, Louis de Funès, Venantino Venantini.  
 Saroyan, trafiquant en tout genre, utilise l'honnête et naïf Antoine Maréchal pour conduire de Naples à Bordeaux une Cadillac remplie d'or et d'héroïne.
 
-- di 6 sep 15h00 HL  
 - di 13 sep 14h30 HL  
-- lu 5 oct 15h30 HL
+Séance suivie d'une discussion avec Danièle Thompson  
+- lu 5 oct 14h30 HL
 
 [50458]  
 **Le Coup du parapluie**  
@@ -86,7 +86,8 @@ Avec Louis de Funès, Yves Montand, Alice Sapritch.
 Le cupide Don Salluste profite de ses fonctions de ministre des Finances du roi d'Espagne pour s'enrichir. Mais la reine le déteste et le chasse de la cour. Ivre de vengeance, il décide de la compromettre grâce à son valet Blaze.
 
 - me 2 sep 20h00 HL  
-Ouverture de la rétrospective
+Ouverture de la rétrospective  
+- di 25 oct 15h00 HL
 
 [50401]  
 **La Grande vadrouille**  
@@ -96,7 +97,7 @@ Avec Louis de Funès, Bourvil, Marie Dubois, Terry-Thomas.
 1942 : trois officiers d'un bombardier anglais abattu par les Allemands au-dessus de Paris occupée sautent en parachute et atterrissent en différents endroits de la capitale. Ils sont cachés par deux civils français, qui n'ont d'autre choix que de les mener en zone libre.
 
 - sa 5 sep 14h30 HL  
-- di 4 oct 15h00 HL
+- di 18 oct 15h00 GF
 
 [50402]  
 **Lévy et Goliath**  
@@ -163,16 +164,58 @@ Loulou reçoit en héritage l'appartement de sa grand-mère. Lorsqu'il vient en 
 
 - di 6 sep 17h30 GF
 
+## Gérard Oury acteur et scénariste
+
+[47405]  
+**Le Miroir à deux faces**  
+d'André Cayatte  
+France-Italie / 1958 / 96 min / DCP  
+Avec Michèle Morgan, Bourvil, Sandra Milo, Gérard Oury.  
+Marie-José est amoureuse de son patron, mais celui-ci lui préfère sa sœur, plus jolie. Après dix ans d'une vie terne, elle fait la connaissance d'un chirurgien prêt à transformer son visage.  
+Gérard Oury a cosigné le scénario et joue dans le film.
+
+- sa 5 sep 20h45 GF
+
 ## Rencontres et conférences
 
 []  
-**FILM + DIALOGUE AVEC DANIÈLE THOMPSON**  
+**Film + Dialogue avec Danièle Thompson**  
 undefined  
 60 min  
-« Louis de Funès est un extraordinaire interprète comique. C'est peut-être le seul acteur au monde qui ait la possibilité d'être odieux sans être antipathique. (...) Notre propos n'est pas, à de Funès et moi, de faire de la politique. Nous ne sommes pas des gens qui véhiculons de messages. Néanmoins, il y a derrière les gags, derrière l'humour, derrière le comique fantastique de Louis, quelque chose qui, je l'espère, va passer à cet égard et qui touchera peut-être le cœur des hommes. » Gérard Oury (archive INA, 20 octobre 1973)  
-**Frédéric Bonnaud** est directeur général de La Cinémathèque française.  
-**Alain Kruger** est commissaire de l'exposition « Louis de Funès » à La Cinémathèque française. Il assure sur Canal+ la production éditoriale, depuis sa création il y a quinze ans, de l'émission de cinéma « Le Cercle » et depuis l'automne 2019 du « Cercle Séries ».  
-**Danièle Thompson** est réalisatrice (_La Bûche_, _Fauteuils d'orchestre_, _Le code a changé_...) et scénariste (_La Boum_, _Cousin, cousine, La Reine Margot_...). Elle est la fille du cinéaste Gérard Oury dont elle a co-écrit, à partir de _La Grande Vadrouille_, presque tous les scénarios, dont celui des _Aventures de Rabbi Jacob_ et de _L'As des as_.
+« Louis de Funès est un extraordinaire interprète comique. C'est peut-être le seul acteur au monde qui ait la possibilité d'être odieux sans être antipathique. Notre propos n'est pas, à de Funès et moi, de faire de la politique. Nous ne sommes pas des gens qui véhiculons de messages. Néanmoins, il y a derrière les gags, derrière l'humour, derrière le comique fantastique de Louis, quelque chose qui, je l'espère, va passer à cet égard et qui touchera peut-être le cœur des hommes. » (Gérard Oury, octobre 1973)  
+Frédéric Bonnaud est directeur général de la Cinémathèque française.  
+Alain Kruger est commissaire de l'exposition Louis de Funès à la Cinémathèque française. Il assure sur Canal+ la production éditoriale, depuis sa création il y a quinze ans, de l'émission de cinéma « Le Cercle » et, depuis l'automne 2019, du « Cercle Séries ».  
+Danièle Thompson est réalisatrice (_La Bûche_, _Fauteuils d'orchestre_, _Le Code a changé_) et scénariste (_La Boum_, _Cousin, cousine_, _La Reine Margot_). Elle est la fille du cinéaste Gérard Oury dont elle a coécrit, à partir de _La Grande vadrouille_, presque tous les scénarios, dont celui des _Aventures de Rabbi Jacob_ et de _L'As des as_.
 
-- sa 12 sep 16h45 HL
+- sa 12 sep 15h00 HL
+
+[]  
+**La comédie populaire française des années 1960 et 1970**  
+**Conférence d'Adrien Valgalier**  
+undefined  
+60 min  
+Au début des années 1960, le cinéma français est en crise et doit retrouver son attractivité. Dans ce sillage, une partie de la production comique prend une nouvelle tournure, quitte Paris et ses intérieurs, ses réflexes vaudevillesques et ses bons mots. Gérard Oury est l'un des premiers à s'engager dans cette direction. En Cinémascope et en couleurs, les comédies soignent leur plastique, renforcent leurs gags visuels et redonnent au rire une dimension spectaculaire.  
+Adrien Valgalier est doctorant en études cinématographiques à l'université Paul-Valéry de Montpellier. Sa thèse en cours porte sur la comédie populaire française des années 1960-1970. Ses travaux défendent une vision historique et culturelle des formes cinématographiques. Il mène aussi une activité de critique de cinéma pour la revue _La Septième obsession_ et collabore avec la Semaine de la critique au Festival de Cannes.
+
+- lu 5 oct 14h30 HL
+
+[]  
+**Rire en société, rire de la société : avec elle et contre elle**  
+**Conférence d'Adrien Valgalier**  
+undefined  
+60 min  
+De la « civilisation du loisir » à la fin des Trente Glorieuses, les décennies 1960-1970 sont secouées par plusieurs changements économiques, sociétaux et culturels. La comédie ne rate pas le coche et pointe les transformations, ambivalences et contradictions d'une société en mutation. Tout passe au crible du rire : les conflits générationnels, la modernisation des modes de vie, l'évolution des mœurs, les écarts culturels, l'urbanisation...  
+Adrien Valgalier est doctorant en études cinématographiques à l'université Paul-Valéry de Montpellier. Sa thèse en cours porte sur la comédie populaire française des années 1960-1970. Ses travaux défendent une vision historique et culturelle des formes cinématographiques. Il mène aussi une activité de critique de cinéma pour la revue _La Septième obsession_ et collabore avec la Semaine de la critique au Festival de Cannes.
+
+- lu 12 oct 14h30 HL
+
+[]  
+**Négociations historiques : imaginaires d'époques et de guerres**  
+**Conférence d'Adrien Valgalier**  
+undefined  
+60 min  
+Lorsqu'elle se plonge dans des temps reculés, la comédie joue davantage sur le détournement d'une histoire officielle et normée que sur l'exactitude des événements. De _La Grande vadrouille_ à _La Septième compagnie_, de _La Carapate_ à _L'As des as_, la comédie s'émancipe des faits et nous informe sur le rapport d'une société à son passé, mais aussi sur la redéfinition permanente de son identité.  
+Adrien Valgalier est doctorant en études cinématographiques à l'université Paul-Valéry de Montpellier. Sa thèse en cours porte sur la comédie populaire française des années 1960-1970. Ses travaux défendent une vision historique et culturelle des formes cinématographiques. Il mène aussi une activité de critique de cinéma pour la revue _La Septième obsession_ et collabore avec la Semaine de la critique au Festival de Cannes.
+
+- lu 19 oct 14h30 HL
 

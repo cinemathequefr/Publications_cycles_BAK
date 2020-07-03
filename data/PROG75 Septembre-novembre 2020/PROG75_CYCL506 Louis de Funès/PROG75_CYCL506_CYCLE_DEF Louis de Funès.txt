@@ -34,6 +34,7 @@
 <pstyle:SYNOPSIS>Evan Evans est à la fois danseur, musicien, impresario, metteur en scène et manager d<0x2019>une troupe de danseuses qu<0x2019>il mène à la baguette. Au cours d<0x2019>une tournée, il retrouve un bébé dans sa chambre, et doit se transformer malgré lui en père nourricier.
 <pstyle:><cstyle:INFOSBLEUES>di 08 novXXX15h00XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Serge Korber
 
 <pstyle:TITRE>Oscar
 <pstyle:TECHNIQUE>d<0x2019>Édouard Molinaro
@@ -51,6 +52,7 @@
 <pstyle:SYNOPSIS>Un promoteur français, qui vient de conclure avec un Italien un accord leur assurant la mainmise sur les autoroutes européennes, fait une embardée au volant. Sa voiture se retrouve, avec ses occupants, au sommet d<0x2019>un arbre accroché à la paroi d<0x2019>une falaise.
 <pstyle:><cstyle:INFOSBLEUES>di 08 novXXX17h30XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Séance présentée par Serge Korber
 
 <pstyle:CATEGORIE>Cinéma bis
 

@@ -17,6 +17,7 @@
 <pstyle:SYNOPSIS>À la suite d<0x2019>un quiproquo, Victor Pivert, homme d<0x2019>affaires irascible et raciste, se retrouve mêlé à un règlement de comptes entre terroristes d<0x2019>un pays arabe. Pour semer ses poursuivants, il se déguise en rabbin.
 <pstyle:><cstyle:INFOSBLEUES>sa 12 sepXXX15h00XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Dialogue p.<0x00A0>X
 
 <pstyle:TITRE>La Carapate
 <pstyle:TECHNIQUE>de Gérard Oury
@@ -25,6 +26,7 @@
 <pstyle:SYNOPSIS>Mai 68. Profitant d<0x2019>une mutinerie à la prison où il est incarcéré à Lyon, Martial Gaulard, injustement condamné à mort, entraîne son avocat dans son évasion. S<0x2019>ensuit une folle équipée à travers la France.
 <pstyle:><cstyle:INFOSBLEUES>lu 19 octXXX15h30XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Conférence p.<0x00A0>X
 
 <pstyle:TITRE>Le Cerveau
 <pstyle:TECHNIQUE>de Gérard Oury
@@ -44,6 +46,7 @@
 <pstyle:EVENEMENT>Séance suivie d<0x2019>une discussion avec Danièle Thompson
 <cstyle:INFOSBLEUES>lu 05 octXXX14h30XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Conférence p.<0x00A0>X
 
 <pstyle:TITRE>Le Coup du parapluie
 <pstyle:TECHNIQUE>de Gérard Oury
@@ -163,37 +166,34 @@
 
 <pstyle:CATEGORIE>Rencontres et conférences
 
-<pstyle:TITRE>Film + Dialogue avec Danièle Thompson
-<pstyle:TECHNIQUE>undefined
-<pstyle:TECHNIQUE>60<0x2019>
-<pstyle:SYNOPSIS>«<0x00A0>Louis de Funès est un extraordinaire interprète comique. C<0x2019>est peut-être le seul acteur au monde qui ait la possibilité d<0x2019>être odieux sans être antipathique. Notre propos n<0x2019>est pas, à de Funès et moi, de faire de la politique. Nous ne sommes pas des gens qui véhiculons de messages. Néanmoins, il y a derrière les gags, derrière l<0x2019>humour, derrière le comique fantastique de Louis, quelque chose qui, je l<0x2019>espère, va passer à cet égard et qui touchera peut-être le c<0x0153>ur des hommes.<0x00A0>» (Gérard Oury, octobre 1973)
+<pstyle:CONFERENCE TITRE>Film + Dialogue avec Danièle Thompson
+Animé par Alain Kruger et Frédéric Bonnaud
+<pstyle:CONFERENCE TXT>«<0x00A0>Louis de Funès est un extraordinaire interprète comique. C<0x2019>est peut-être le seul acteur au monde qui ait la possibilité d<0x2019>être odieux sans être antipathique. Notre propos n<0x2019>est pas, à de Funès et moi, de faire de la politique. Nous ne sommes pas des gens qui véhiculons de messages. Néanmoins, il y a derrière les gags, derrière l<0x2019>humour, derrière le comique fantastique de Louis, quelque chose qui, je l<0x2019>espère, va passer à cet égard et qui touchera peut-être le c<0x0153>ur des hommes.<0x00A0>» (Gérard Oury, archive INA, 20 octobre 1973)
+<pstyle:SYNOPSIS>Danièle Thompson est réalisatrice (<ct:Italic>La Bûche<ct:>, <ct:Italic>Fauteuils d<0x2019>orchestre<ct:>, <ct:Italic>Le Code a changé<ct:>,...) et scénariste (<ct:Italic>La Boum<ct:>, <ct:Italic>Cousin, cousine<ct:>, <ct:Italic>La Reine Margot<ct:>, ...). Elle est la fille du cinéaste Gérard Oury dont elle a co-écrit, à partir de <ct:Italic>La Grande Vadrouille<ct:>, presque tous les scénarios, dont celui des <ct:Italic>Aventures de Rabbi Jacob<ct:> et de <ct:Italic>L<0x2019>As des as<ct:>.
+<pstyle:SYNOPSIS>Alain Kruger est commissaire de l<0x2019>exposition Louis de Funès à la Cinémathèque française. Il assure sur Canal+ la production éditoriale, depuis sa création il y a quinze ans, de l<0x2019>émission de cinéma Le Cercle, et depuis l<0x2019>automne 2019 du Cercle Séries.
 <pstyle:SYNOPSIS>Frédéric Bonnaud est directeur général de la Cinémathèque française.
-<pstyle:SYNOPSIS>Alain Kruger est commissaire de l<0x2019>exposition Louis de Funès à la Cinémathèque française. Il assure sur Canal+ la production éditoriale, depuis sa création il y a quinze ans, de l<0x2019>émission de cinéma «<0x00A0>Le Cercle<0x00A0>» et, depuis l<0x2019>automne 2019, du «<0x00A0>Cercle Séries<0x00A0>».
-<pstyle:SYNOPSIS>Danièle Thompson est réalisatrice (<ct:Italic>La Bûche<ct:>, <ct:Italic>Fauteuils d<0x2019>orchestre<ct:>, <ct:Italic>Le Code a changé<ct:>) et scénariste (<ct:Italic>La Boum<ct:>, <ct:Italic>Cousin, cousine<ct:>, <ct:Italic>La Reine Margot<ct:>). Elle est la fille du cinéaste Gérard Oury dont elle a coécrit, à partir de <ct:Italic>La Grande vadrouille<ct:>, presque tous les scénarios, dont celui des <ct:Italic>Aventures de Rabbi Jacob<ct:> et de <ct:Italic>L<0x2019>As des as<ct:>.
 <pstyle:><cstyle:INFOSBLEUES>sa 12 sepXXX15h00XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:CONFERENCE NOTE>À la suite de la projection des <cSkew:9>Aventures de Rabbi Jacob<cSkew:> de Gérard Oury (voir p.<0x00A0>xx)
 
-<pstyle:TITRE>La comédie populaire française des années 1960 et 1970
-<pstyle:TECHNIQUE>undefined
-<pstyle:TECHNIQUE>60<0x2019>
-<pstyle:SYNOPSIS>Au début des années 1960, le cinéma français est en crise et doit retrouver son attractivité. Dans ce sillage, une partie de la production comique prend une nouvelle tournure, quitte Paris et ses intérieurs, ses réflexes vaudevillesques et ses bons mots. Gérard Oury est l<0x2019>un des premiers à s<0x2019>engager dans cette direction. En Cinémascope et en couleurs, les comédies soignent leur plastique, renforcent leurs gags visuels et redonnent au rire une dimension spectaculaire.
-<pstyle:SYNOPSIS>Adrien Valgalier est doctorant en études cinématographiques à l<0x2019>université Paul-Valéry de Montpellier. Sa thèse en cours porte sur la comédie populaire française des années 1960-1970. Ses travaux défendent une vision historique et culturelle des formes cinématographiques. Il mène aussi une activité de critique de cinéma pour la revue <ct:Italic>La Septième obsession<ct:> et collabore avec la Semaine de la critique au Festival de Cannes.
+<pstyle:CONFERENCE TITRE>La comédie populaire française des années 1960 et 1970
+Conférence d<0x2019>Adrien Valgalier
+<pstyle:CONFERENCE TXT>Au début des années 1960, le cinéma français est en crise et doit retrouver son attractivité. Dans ce sillage, une partie de la production comique prend une nouvelle tournure, quitte Paris et ses intérieurs, ses réflexes vaudevillesques et ses bons mots. Gérard Oury est un des premiers à s<0x2019>engager dans cette direction. En Cinémascope et en couleur, les comédies soignent leur plastique, renforcent leurs gags visuels et redonnent au rire une dimension spectaculaire.
 <pstyle:><cstyle:INFOSBLEUES>lu 05 octXXX14h30XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:CONFERENCE NOTE>À la suite de la conférence, projection d<0x2019>un film choisi par le conférencier<0x00A0>: <cSkew:9>Le Corniaud<cSkew:> de Gérard Oury (voir p.<0x00A0>xx)
 
-<pstyle:TITRE>Rire en société, rire de la société<0x00A0>: avec elle et contre elle
-<pstyle:TECHNIQUE>undefined
-<pstyle:TECHNIQUE>60<0x2019>
-<pstyle:SYNOPSIS>De la «<0x00A0>civilisation du loisir<0x00A0>» à la fin des Trente Glorieuses, les décennies 1960-1970 sont secouées par plusieurs changements économiques, sociétaux et culturels. La comédie ne rate pas le coche et pointe les transformations, ambivalences et contradictions d<0x2019>une société en mutation. Tout passe au crible du rire<0x00A0>: les conflits générationnels, la modernisation des modes de vie, l<0x2019>évolution des m<0x0153>urs, les écarts culturels, l<0x2019>urbanisation...
-<pstyle:SYNOPSIS>Adrien Valgalier est doctorant en études cinématographiques à l<0x2019>université Paul-Valéry de Montpellier. Sa thèse en cours porte sur la comédie populaire française des années 1960-1970. Ses travaux défendent une vision historique et culturelle des formes cinématographiques. Il mène aussi une activité de critique de cinéma pour la revue <ct:Italic>La Septième obsession<ct:> et collabore avec la Semaine de la critique au Festival de Cannes.
+<pstyle:CONFERENCE TITRE>Rire en société, rire de la société<0x00A0>: avec elle et contre elle
+Conférence d<0x2019>Adrien Valgalier
+<pstyle:CONFERENCE TXT>De la «<0x00A0>civilisation du loisir<0x00A0>» à la fin des Trente Glorieuses, les décennies 1960-1970 sont secouées par plusieurs changements économiques, sociétaux et culturels. La comédie ne rate pas le coche et pointe les transformations, ambivalences et contradictions d<0x2019>une société en mutation. Tout passe au crible du rire<0x00A0>: les conflits générationnels, la modernisation des modes de vie, l<0x2019>évolution des m<0x0153>urs, les écarts culturels, l<0x2019>urbanisation...
 <pstyle:><cstyle:INFOSBLEUES>lu 12 octXXX14h30XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:CONFERENCE NOTE>À la suite de la conférence, projection d<0x2019>un film choisi par le conférencier<0x00A0>: <cSkew:9>L<0x2019>Aile ou la cuisse<cSkew:> de Claude Zidi (voir p.<0x00A0>xx)
 
-<pstyle:TITRE>Négociations historiques<0x00A0>: imaginaires d<0x2019>époques et de guerres
-<pstyle:TECHNIQUE>undefined
-<pstyle:TECHNIQUE>60<0x2019>
-<pstyle:SYNOPSIS>Lorsqu<0x2019>elle se plonge dans des temps reculés, la comédie joue davantage sur le détournement d<0x2019>une histoire officielle et normée que sur l<0x2019>exactitude des événements. De <ct:Italic>La Grande vadrouille<ct:> à <ct:Italic>La Septième compagnie<ct:>, de <ct:Italic>La Carapate<ct:> à <ct:Italic>L<0x2019>As des as<ct:>, la comédie s<0x2019>émancipe des faits et nous informe sur le rapport d<0x2019>une société à son passé, mais aussi sur la redéfinition permanente de son identité.
-<pstyle:SYNOPSIS>Adrien Valgalier est doctorant en études cinématographiques à l<0x2019>université Paul-Valéry de Montpellier. Sa thèse en cours porte sur la comédie populaire française des années 1960-1970. Ses travaux défendent une vision historique et culturelle des formes cinématographiques. Il mène aussi une activité de critique de cinéma pour la revue <ct:Italic>La Septième obsession<ct:> et collabore avec la Semaine de la critique au Festival de Cannes.
+<pstyle:CONFERENCE TITRE>Négociations historiques<0x00A0>: imaginaires d'époques et de guerres
+Conférence d<0x2019>Adrien Valgalier
+<pstyle:CONFERENCE TXT>Lorsqu<0x2019>elle se plonge dans des temps reculés, la comédie joue davantage sur le détournement d<0x2019>une histoire officielle et normée que sur l<0x2019>exactitude des événements. De <ct:Italic>La Grande vadrouille<ct:> à <ct:Italic>La Septième compagnie<ct:>, de <ct:Italic>La Carapate<ct:> à <ct:Italic>L<0x2019>As des as<ct:>, la comédie s<0x2019>émancipe des faits et nous informe sur le rapport d<0x2019>une société à son passé, mais aussi sur la redéfinition permanente de son identité.
+<pstyle:CONFERENCE NOTE>Ces conférences seront menées par Adrien Valgalier, doctorant en études cinématographiques à l<0x2019>université Paul-Valéry de Montpellier. Sa thèse en cours porte sur la comédie populaire française des années 1960-1970. Ses travaux défendent une vision historique et culturelle des formes cinématographiques. Il mène aussi une activité de critique de cinéma pour la revue <ct:Italic>La Septième obsession<ct:> et collabore avec la Semaine de la critique au Festival de Cannes.
 <pstyle:><cstyle:INFOSBLEUES>lu 19 octXXX14h30XXX
 <cstyle:SALLESBLEUES>A
-
+<pstyle:CONFERENCE NOTE>À la suite de la conférence, projection d<0x2019>un film choisi par le conférencier<0x00A0>: <cSkew:9>La Carapate<cSkew:> de Gérard Oury (voir p.<0x00A0>xx)

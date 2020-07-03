@@ -1,8 +1,12 @@
 <ANSI-WIN>
 <vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
-<pstyle:CATEGORIE>Les films
+<pstyle:CATEGORIE>Parlons cinéma avec Nicolas Pariser
 
-<pstyle:CATEGORIE TXT>Le vent souffle où il veut
+<pstyle:SYNOPSIS>La Cinémathèque invite une personnalité à programmer quelques séances pour parler des «<0x00A0>films de sa vie<0x00A0>».
+
+À chaque séance, projection d<0x2019>un film, suivie d<0x2019>une intervention de l<0x2019>invité et d<0x2019>un dialogue avec les spectateurs.
+
+<cTypeface:Bold>Le vent souffle où il veut<cTypeface:>
 
 Jeune cinéphile, je cherchais à percer le mystère de la mise en scène. Je voulais savoir ce que c<0x2019>était, et je savais que cela n<0x2019>avait rien à voir avec la question «<0x00A0>comment fait-on un film<0x00A0>?<0x00A0>» J<0x2019>ai commencé par compter les plans, puis à ne faire attention qu<0x2019>au cadre, puis à observer uniquement la durée des plans. Je lisais les textes de Rivette et de Michel Mourlet, qui cherchaient à définir un en soi de la mise en scène. C<0x2019>était souvent excitant, superbement écrit, mais disons pour être honnête que je n<0x2019>étais pas très avancé.
 
@@ -14,7 +18,7 @@ Il y a peut-être, à mes yeux, dans l<0x2019>apparente absence de mise en scène d
 
 Nicolas Pariser
 
-<pstyle:CATEGORIE TXT>Nicolas Pariser est cinéaste<0x00A0>: auteur de trois courts métrages (<ct:Italic>Le jour où Ségolène a gagné<ct:>, <ct:Italic>La République<ct:>, <ct:Italic>Agit Pop<ct:>), il a réalisé à ce jour deux longs métrages<0x00A0>: <ct:Italic>Le Grand Jeu<ct:> (2015, avec Melvil Poupaud et André Dussollier, Prix Louis-Delluc) et <ct:Italic>Alice et le maire<ct:> (2019, avec Fabrice Luchini et Anaïs Demoustier, César de la meilleure actrice).
+Nicolas Pariser est cinéaste<0x00A0>: auteur de trois courts métrages (<ct:Italic>Le jour où Ségolène a gagné<ct:>, <ct:Italic>La République<ct:>, <ct:Italic>Agit Pop<ct:>), il a réalisé à ce jour deux longs métrages<0x00A0>: <ct:Italic>Le Grand jeu<ct:> (2015, avec Melvil Poupaud et André Dussollier, Prix Louis-Delluc) et <ct:Italic>Alice et le maire<ct:> (2019, avec Fabrice Luchini et Anaïs Demoustier, César de la meilleure actrice).
 
 <pstyle:TITRE>Deburau
 <pstyle:TECHNIQUE>de Sacha Guitry

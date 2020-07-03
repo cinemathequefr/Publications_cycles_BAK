@@ -108,7 +108,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Saroyan, un trafiquant, utilise un honnête commerçant, répondant au nom d'Antoine Maréchal, pour emmener de Naples à Bordeaux une Cadillac remplie d'héroïne."
+        "texte": "Sa 2CV détruite lors d'un accident, Antoine Maréchal voyage finalement dans une magnifique Cadillac. Il ne se doute pas qu'un trafiquant a truffé la voiture de produits illégaux dans les portières, le pare-choc et le moteur. Le voyage s'annonce mouvementé."
       },
       {
         "typeTexte": 99,
@@ -213,7 +213,7 @@
       },
       {
         "typeTexte": 203,
-        "texte": "Il est lor, mon seignor, l'or de se réveiller... Très libre adaptation de Ruy Blas de Victor Hugo, le film est une suite de mésaventures et de quiproquos mené par le duo formé par don Salluste, avare et hypocrite ministre et son agile valet Blaze."
+        "texte": "« Il est l'or, mon señor, l'or de se réveiller... » (Très) libre adaptation de _Ruy Blas_ de Victor Hugo, le film est une suite de mésaventures et de quiproquos mené par le duo formé par Don Salluste, avare et hypocrite ministre, et son agile valet Blaze."
       }
     ],
     "generique": [
@@ -235,7 +235,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En 1942, un avion anglais est abattu par les Allemands. Les trois pilotes sautent en parachute et atterrissent dans différents endroits de la capitale. Ils sont aidés par deux civils français qui acceptent de les mener en zone libre; ils deviennent ainsi, malgré eux, acteurs de la Résistance."
+        "texte": "Dans la France occupée, un peintre en bâtiment candide (Bourvil) et un chef d'orchestre irritable (de Funès) aident des pilotes anglais, dont l'avion a été abattu par les Allemands au-dessus de Paris, à gagner la zone libre. Formant un duo comique irrésistible, ils deviennent, malgré eux, des héros de la Résistance."
       },
       {
         "typeTexte": 99,
@@ -300,6 +300,28 @@
       "Philippe Coster"
     ],
     "adaptation": "D'après le roman _Les Mariolles_ de Frédéric Dard."
+  },
+  {
+    "titre": "Miroir à deux faces",
+    "art": "Le",
+    "titreVo": "",
+    "idFilm": 47405,
+    "ageMinimal": null,
+    "realisateurs": "André Cayatte",
+    "annee": 1958,
+    "pays": "France-Italie",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Marie-José est amoureuse de son patron, mais il lui préfère sa sœur, plus jolie qu'elle. Elle épouse donc un homme avec qui elle mène une vie terne pendant dix ans. Lorsque celui-ci est victime d'un accident, elle rencontre un chirurgien qui va transformer son visage. Gérard Oury a co-signé le scénario et joue dans le film."
+      }
+    ],
+    "generique": [
+      "Michèle Morgan",
+      "Bourvil",
+      "Sandra Milo",
+      "Gérard Oury"
+    ]
   },
   {
     "titre": "Schpountz",

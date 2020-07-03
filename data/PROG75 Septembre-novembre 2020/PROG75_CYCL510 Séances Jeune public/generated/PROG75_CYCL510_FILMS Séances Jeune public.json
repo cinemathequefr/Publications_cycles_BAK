@@ -41,10 +41,20 @@
     "titre": "Calamity, une enfance de Martha-Jane Cannary",
     "titreVo": "",
     "idFilm": 145132,
-    "ageMinimal": null,
+    "ageMinimal": 6,
     "realisateurs": "Rémi Chayé",
     "annee": 2020,
-    "pays": "France"
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 99,
+        "texte": "Avant-première en collaboration avec la revue BLINK BLANK et le Festival international du film d'animation d'Annecy. Séance gratuite, réservation obligatoire à partir du mercredi 16 septembre sur bit.ly/CalamityEnfance"
+      },
+      {
+        "typeTexte": 203,
+        "texte": "1863\\. Dans un convoi qui progresse vers l'Ouest avec l'espoir d'une vie meilleure, le père de Martha Jane se blesse. C'est elle qui doit conduire le chariot familial et soigner les chevaux. L'apprentissage est rude, et pourtant Martha ne s'est jamais sentie aussi libre. À l'extérieur du convoi commence son aventure pleine de dangers et riche en rencontres, qui révélera la mythique Calamity Jane."
+      }
+    ]
   },
   {
     "titre": "Calino arroseur public",
@@ -495,7 +505,7 @@
     "textes": [
       {
         "typeTexte": 99,
-        "texte": "Avant-première suivi d'une rencontre avec le réalisateur."
+        "texte": "Avant-première en présence de l'équipe du film. Séance gratuite, réservation obligatoire à partir du mercredi 9 septembre sur bit.ly/PetitVampire"
       },
       {
         "typeTexte": 203,

@@ -2,7 +2,7 @@
   {
     "idCategorie": 2216,
     "idEvenement": 21897,
-    "titre": "« Négociations historiques : imaginaires d'époques et de guerres »",
+    "titre": "CAS 3 « Négociations historiques : imaginaires d'époques et de guerres »",
     "duree": 60,
     "idTypeConference": 55,
     "typeConference": "Conférence",
@@ -29,7 +29,7 @@
   {
     "idCategorie": 2216,
     "idEvenement": 21972,
-    "titre": "« La comédie populaire française des années 1960 et 1970 »",
+    "titre": "CAS 1 « La comédie populaire française des années 1960 et 1970 »",
     "duree": 60,
     "idTypeConference": 55,
     "typeConference": "Conférence",
@@ -52,7 +52,7 @@
   {
     "idCategorie": 2216,
     "idEvenement": 21973,
-    "titre": "« Rire en société, rire de la société : avec elle et contre elle »",
+    "titre": "CAS 2 « Rire en société, rire de la société : avec elle et contre elle »",
     "duree": 60,
     "idTypeConference": 55,
     "typeConference": "Conférence",
@@ -118,5 +118,14 @@
       }
     ],
     "mentionAnimation": "Rencontre animée par Frédéric Bonnaud et Alain Kruger"
+  },
+  {
+    "idCategorie": 2216,
+    "idEvenement": 22868,
+    "titre": "FILM + DIALOGUE AVEC DANIÈLE THOMPSON",
+    "duree": 0,
+    "idTypeConference": 55,
+    "typeConference": "Conférence",
+    "sousTitre": "Conférence "
   }
 ]
