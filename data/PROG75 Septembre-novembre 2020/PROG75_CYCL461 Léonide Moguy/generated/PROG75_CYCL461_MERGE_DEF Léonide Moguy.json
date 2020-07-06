@@ -5,6 +5,40 @@
       "tri": 1,
       "items": [
         {
+          "idSeance": 36240,
+          "ordre": 1,
+          "dateHeure": "2020-09-24T20:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2055,
+          "idEvenement": 20817,
+          "typeEvenement": 13,
+          "idFilm": 34697,
+          "titre": "Bethsabée",
+          "titreVo": "",
+          "realisateurs": "Léonide Moguy",
+          "annee": 1947,
+          "pays": "France",
+          "duree": 90,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Danielle Darrieux",
+            "Georges Marchal",
+            "Paul Meurisse"
+          ],
+          "adaptation": "D'après le roman _Bethsabée_ de Pierre Benoit.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La séduisante Arabella vient rejoindre son fiancé, militaire en poste au Maroc. Mais lorsqu'un ancien amant, également officier, la reconnaît, le colonel du régiment, sous le charme de la jeune femme, intervient et envoie le gêneur à la mort."
+            }
+          ]
+        },
+        {
           "idSeance": 36166,
           "ordre": 1,
           "dateHeure": "2020-09-04T20:00:00",

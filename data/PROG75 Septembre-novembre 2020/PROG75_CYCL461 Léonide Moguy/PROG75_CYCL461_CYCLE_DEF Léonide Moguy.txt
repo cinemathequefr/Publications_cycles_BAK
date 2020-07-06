@@ -2,6 +2,15 @@
 <vsn:8><fset:InDesign-Roman><dcs:INFOSBLEUES=<Nextstyle:INFOSBLEUES>><dcs:INFOSROUGES=<Nextstyle:INFOSROUGES>><dcs:SALLESBLEUES=<Nextstyle:SALLESBLEUES>><dcs:SALLESROUGES=<Nextstyle:SALLESROUGES>><dps:TITRE=<Nextstyle:TITRE>><dps:TECHNIQUE=<Nextstyle:TECHNIQUE>><dps:SYNOPSIS=<Nextstyle:SYNOPSIS>><dps:EVENEMENT=<Nextstyle:EVENEMENT>><dps:PRATIQUE=<Nextstyle:PRATIQUE>><dps:CONFERENCE NOTE=<Nextstyle:CONFERENCE NOTE>><dps:CONFERENCE TXT=<Nextstyle:CONFERENCE TXT>><dps:CONFERENCE TITRE=<Nextstyle:CONFERENCE TITRE>>
 <pstyle:CATEGORIE>Les films
 
+<pstyle:TITRE>Bethsabée
+<pstyle:TECHNIQUE>de Léonide Moguy
+<pstyle:TECHNIQUE>France/1947/90<0x2019>/35mm
+<pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Bethsabée<cSkew:> de Pierre Benoit.
+<pstyle:TECHNIQUE>Avec Danielle Darrieux, Georges Marchal, Paul Meurisse.
+<pstyle:SYNOPSIS>La séduisante Arabella vient rejoindre son fiancé, militaire en poste au Maroc. Mais lorsqu<0x2019>un ancien amant, également officier, la reconnaît, le colonel du régiment, sous le charme de la jeune femme, intervient et envoie le gêneur à la mort.
+<pstyle:><cstyle:INFOSBLEUES>je 24 sepXXX20h00XXX
+<cstyle:SALLESBLEUES>C
+
 <pstyle:TITRE>Conflit
 <pstyle:TECHNIQUE>de Léonide Moguy
 <pstyle:TECHNIQUE>France/1938/94<0x2019>/35mm

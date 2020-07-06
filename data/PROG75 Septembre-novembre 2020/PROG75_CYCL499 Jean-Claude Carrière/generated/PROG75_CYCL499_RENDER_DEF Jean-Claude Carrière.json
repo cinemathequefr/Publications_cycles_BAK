@@ -48,14 +48,14 @@
           ],
           "duree": 90,
           "format": "35 mm",
-          "version": "",
+          "version": "STA",
           "ageMinimal": null,
           "seance": [
             {
               "idSeance": 35910,
               "ordre": 1,
               "idEvenement": 22476,
-              "dateHeure": "2020-10-28T19:00:00",
+              "dateHeure": "2020-11-06T19:30:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
@@ -146,7 +146,7 @@
                 "HL",
                 "Henri Langlois"
               ],
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Jean-Claude Carrière"
             }
           ]
         },
@@ -175,7 +175,7 @@
               "idSeance": 36178,
               "ordre": 1,
               "idEvenement": 22606,
-              "dateHeure": "2020-11-06T20:00:00",
+              "dateHeure": "2020-11-06T21:30:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
@@ -329,7 +329,7 @@
               "idSeance": 36179,
               "ordre": 1,
               "idEvenement": 22605,
-              "dateHeure": "2020-11-05T20:00:00",
+              "dateHeure": "2020-11-05T19:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
@@ -570,6 +570,41 @@
           "seance": [
             {
               "idSeance": 35883,
+              "ordre": 3,
+              "idEvenement": 22596,
+              "dateHeure": "2020-10-22T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Heureux anniversaire_ de Pierre Étaix, Jean-Claude Carrière, _La Pince à ongles_ de Jean-Claude Carrière"
+        },
+        {
+          "idFilm": 74228,
+          "titre": "Heureux anniversaire",
+          "titreVo": "",
+          "realisateurs": "Pierre Étaix, Jean-Claude Carrière",
+          "annee": 1961,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Des anniversaires pas comme les autres, entre scènes de ménage à la Laurel et Hardy, ou des petites canailles qui s'invitent à la fête."
+            }
+          ],
+          "generique": [
+            "Pierre Étaix",
+            "Laurence Lignères"
+          ],
+          "duree": 12,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": 6,
+          "seance": [
+            {
+              "idSeance": 35883,
               "ordre": 1,
               "idEvenement": 22596,
               "dateHeure": "2020-10-22T19:00:00",
@@ -578,7 +613,8 @@
                 "Henri Langlois"
               ]
             }
-          ]
+          ],
+          "precedeSuivi": "Film suivi de _Le Grand amour_ de Pierre Étaix, _La Pince à ongles_ de Jean-Claude Carrière"
         },
         {
           "idFilm": 140633,
@@ -604,16 +640,6 @@
           "version": "",
           "ageMinimal": null,
           "seance": [
-            {
-              "idSeance": 36176,
-              "ordre": 1,
-              "idEvenement": 22492,
-              "dateHeure": "2020-10-29T19:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            },
             {
               "idSeance": 36177,
               "ordre": 1,
@@ -819,6 +845,43 @@
           ]
         },
         {
+          "idFilm": 47349,
+          "titre": "Pince à ongles",
+          "art": "La",
+          "titreVo": "",
+          "realisateurs": "Jean-Claude Carrière",
+          "annee": 1969,
+          "pays": "France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La disparition d'une pince à ongles dans une chambre d'hôtel provoque la frayeur des propriétaires de l'objet capricieux."
+            }
+          ],
+          "generique": [
+            "Michael Lonsdale",
+            "Henri Garcin",
+            "Anne-Marie Deschott"
+          ],
+          "duree": 15,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 35883,
+              "ordre": 2,
+              "idEvenement": 22596,
+              "dateHeure": "2020-10-22T19:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Heureux anniversaire_ de Pierre Étaix, Jean-Claude Carrière et suivi de de _Le Grand amour_ de Pierre Étaix"
+        },
+        {
           "idFilm": 48067,
           "titre": "Piscine",
           "art": "La",
@@ -918,10 +981,10 @@
           "ageMinimal": null,
           "seance": [
             {
-              "idSeance": 35938,
+              "idSeance": 36239,
               "ordre": 1,
               "idEvenement": 22601,
-              "dateHeure": "2020-10-28T21:00:00",
+              "dateHeure": "2020-11-05T21:00:00",
               "idSalle": [
                 "JE",
                 "Jean Epstein"
@@ -956,7 +1019,7 @@
               "idSeance": 35884,
               "ordre": 1,
               "idEvenement": 22597,
-              "dateHeure": "2020-10-22T21:00:00",
+              "dateHeure": "2020-10-22T21:30:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"

@@ -4,11 +4,11 @@
 
 <pstyle:TITRE>L<0x2019>Alliance
 <pstyle:TECHNIQUE>de Christian de Chalonge
-<pstyle:TECHNIQUE>France/1970/90<0x2019>/35mm
+<pstyle:TECHNIQUE>France/1970/90<0x2019>/STA/35mm
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>L<0x2019>Alliance<cSkew:> de Jean-Claude Carrière.
 <pstyle:TECHNIQUE>Avec Anna Karina, Jean-Claude Carrière, Jean-Pierre Darras.
 <pstyle:SYNOPSIS>Hugues, un vétérinaire, rencontre Jeanne via une agence matrimoniale, et installe son cabinet dans son grand appartement. Mais il la soupçonne d<0x2019>avoir un amant, et, de son côté, Jeanne est effrayée par la quantité d<0x2019>animaux qui les envahissent peu à peu.
-<pstyle:><cstyle:INFOSBLEUES>me 28 octXXX19h00XXX
+<pstyle:><cstyle:INFOSBLEUES>ve 06 novXXX19h30XXX
 <cstyle:SALLESBLEUES>C
 
 <pstyle:TITRE>Belle de jour
@@ -30,14 +30,14 @@
 <pstyle:SYNOPSIS>Anna s<0x2019>est péniblement remise de la mort de son mari, Sean, et a refait sa vie, lorsqu<0x2019>elle rencontre un garçon de dix ans qui semble être la réincarnation de Sean.
 <pstyle:><cstyle:INFOSBLEUES>me 21 octXXX20h00XXX
 <cstyle:SALLESBLEUES>A
-<pstyle:EVENEMENT>Ouverture de la rétrospective
+<pstyle:EVENEMENT>Ouverture de la rétrospective. Séance présentée par Jean-Claude Carrière
 
 <pstyle:TITRE>Carrière, 250 metros
 <pstyle:TECHNIQUE>de Juan Carlos Rulfo, Natalia Gil Torner
 <pstyle:TECHNIQUE>Mexique/2011
 <pstyle:TECHNIQUE>Avec Peter Brook, Jean-Claude Carrière, Milos Forman, Pierre Étaix.
 <pstyle:SYNOPSIS>Écrivain, dramaturge, scénariste, réalisateur, mais aussi père de deux filles, Jean-Claude Carrière revient sur sa vie, sa carrière et se penche sur les 250 mètres qui séparent la maison où il est né du cimetière où il sera enterré.
-<pstyle:><cstyle:INFOSBLEUES>ve 06 novXXX20h00XXX
+<pstyle:><cstyle:INFOSBLEUES>ve 06 novXXX21h30XXX
 <cstyle:SALLESBLEUES>C
 
 <pstyle:TITRE>Cartes sur table
@@ -73,7 +73,7 @@
 <pstyle:TECHNIQUE>France/1991/87<0x2019>/Numérique
 <pstyle:TECHNIQUE>Avec Jean-Pierre Marielle, Jean Carmet, Jean-Louis Trintignant.
 <pstyle:SYNOPSIS>Au XVI<cPosition:Superscript>e<cPosition:> siècle, le roi Charles Quint doit trancher la question de l<0x2019>esclavage des Indiens. Il convoque une assemblée pour un débat, au cours duquel vont s<0x2019>affronter le chanoine conservateur Sepúlveda et le dominicain humaniste Las Casas.
-<pstyle:><cstyle:INFOSBLEUES>je 05 novXXX20h00XXX
+<pstyle:><cstyle:INFOSBLEUES>je 05 novXXX19h00XXX
 <cstyle:SALLESBLEUES>C
 
 <pstyle:TITRE>Cyrano de Bergerac
@@ -132,15 +132,23 @@
 <pstyle:SYNOPSIS>Pierre, un quadragénaire directeur d<0x2019>usine, s<0x2019>ennuie dans son travail et sa vie de couple. Un jour, une jolie jeune femme vient remplacer sa vieille secrétaire.
 <pstyle:><cstyle:INFOSBLEUES>je 22 octXXX19h00XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Film précédé de <cSkew:9>Heureux anniversaire<cSkew:> de Pierre Étaix, Jean-Claude Carrière, <cSkew:9>La Pince à ongles<cSkew:> de Jean-Claude Carrière
+
+<pstyle:TITRE>Heureux anniversaire
+<pstyle:TECHNIQUE>de Pierre Étaix, Jean-Claude Carrière
+<pstyle:TECHNIQUE>France/1961/12<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Pierre Étaix, Laurence Lignères.
+<pstyle:SYNOPSIS>Des anniversaires pas comme les autres, entre scènes de ménage à la Laurel et Hardy, ou des petites canailles qui s<0x2019>invitent à la fête.
+<pstyle:><cstyle:INFOSBLEUES>je 22 octXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Film suivi de <cSkew:9>Le Grand amour<cSkew:> de Pierre Étaix, <cSkew:9>La Pince à ongles<cSkew:> de Jean-Claude Carrière
 
 <pstyle:TITRE>L<0x2019>Homme fidèle
 <pstyle:TECHNIQUE>de Louis Garrel
 <pstyle:TECHNIQUE>France/2018/75<0x2019>/DCP
 <pstyle:TECHNIQUE>Avec Louis Garrel, Laetitia Casta, Lily-Rose Depp.
 <pstyle:SYNOPSIS>Abel et Marianne sont séparés depuis dix ans. Alors qu<0x2019>ils se retrouvent, Abel décide de la reconquérir, mais les choses ont changé. Marianne a un fils<0x00A0>; sa belle-s<0x0153>ur, la jeune Ève, a bien grandi<0x00A0>; et chacun a des secrets à révéler.
-<pstyle:><cstyle:INFOSBLEUES>je 29 octXXX19h30XXX
-<cstyle:SALLESBLEUES>C
-<cstyle:INFOSBLEUES>me 04 novXXX21h15XXX
+<pstyle:><cstyle:INFOSBLEUES>me 04 novXXX21h15XXX
 <cstyle:SALLESBLEUES>C
 
 <pstyle:TITRE>Le Journal d<0x2019>une femme de chambre
@@ -188,6 +196,15 @@
 <pstyle:><cstyle:INFOSBLEUES>sa 31 octXXX20h45XXX
 <cstyle:SALLESBLEUES>A
 
+<pstyle:TITRE>La Pince à ongles
+<pstyle:TECHNIQUE>de Jean-Claude Carrière
+<pstyle:TECHNIQUE>France/1969/15<0x2019>/35mm
+<pstyle:TECHNIQUE>Avec Michael Lonsdale, Henri Garcin, Anne-Marie Deschott.
+<pstyle:SYNOPSIS>La disparition d<0x2019>une pince à ongles dans une chambre d<0x2019>hôtel provoque la frayeur des propriétaires de l<0x2019>objet capricieux.
+<pstyle:><cstyle:INFOSBLEUES>je 22 octXXX19h00XXX
+<cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Film précédé de <cSkew:9>Heureux anniversaire<cSkew:> de Pierre Étaix, Jean-Claude Carrière et suivi de de <cSkew:9>Le Grand amour<cSkew:> de Pierre Étaix
+
 <pstyle:TITRE>La Piscine
 <pstyle:TECHNIQUE>de Jacques Deray
 <pstyle:TECHNIQUE>France-Italie/1968/119<0x2019>/DCP
@@ -211,7 +228,7 @@
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Syngué sabour, pierre de patience<cSkew:> d<0x2019>Atiq Rahimi.
 <pstyle:TECHNIQUE>Avec Golshifteh Farahani, Hamid Reza Javdan, Massi Mrowat.
 <pstyle:SYNOPSIS>Dans les montagnes de Kaboul, une femme veille son mari dans le coma, alors que la guerre frappe à leur porte. Elle lui confie ses souvenirs, ses secrets, ses désirs les plus intimes. Il devient sa <ct:Italic>syngué sabour<ct:>, sa pierre de patience.
-<pstyle:><cstyle:INFOSBLEUES>me 28 octXXX21h00XXX
+<pstyle:><cstyle:INFOSBLEUES>je 05 novXXX21h00XXX
 <cstyle:SALLESBLEUES>C
 
 <pstyle:TITRE>Taking Off
@@ -219,7 +236,7 @@
 <pstyle:TECHNIQUE>États-Unis/1970/90<0x2019>/VOSTF/DCP
 <pstyle:TECHNIQUE>Avec Linnea Heacock, Lynn Carlin, Buck Henry.
 <pstyle:SYNOPSIS>Fin des années 1960<0x00A0>: Jeannie, jeune fille de la banlieue, fugue et arrive à New York en espérant y devenir chanteuse. Ses parents partent à sa recherche et découvrent le fossé qui les sépare de la jeunesse.
-<pstyle:><cstyle:INFOSBLEUES>je 22 octXXX21h00XXX
+<pstyle:><cstyle:INFOSBLEUES>je 22 octXXX21h30XXX
 <cstyle:SALLESBLEUES>A
 
 <pstyle:TITRE>Le Tambour

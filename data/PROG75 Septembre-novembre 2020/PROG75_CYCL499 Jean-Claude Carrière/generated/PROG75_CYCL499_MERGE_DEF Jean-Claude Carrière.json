@@ -7,7 +7,7 @@
         {
           "idSeance": 35910,
           "ordre": 1,
-          "dateHeure": "2020-10-28T19:00:00",
+          "dateHeure": "2020-11-06T19:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -23,7 +23,7 @@
           "annee": 1970,
           "pays": "France",
           "duree": 90,
-          "version": "",
+          "version": "STA",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -125,7 +125,7 @@
             "HL",
             "Henri Langlois"
           ],
-          "mention": "Ouverture de la rétrospective",
+          "mention": "Ouverture de la rétrospective. Séance présentée par Jean-Claude Carrière",
           "idCategorie": 2283,
           "idEvenement": 22480,
           "typeEvenement": 13,
@@ -154,7 +154,7 @@
         {
           "idSeance": 36178,
           "ordre": 1,
-          "dateHeure": "2020-11-06T20:00:00",
+          "dateHeure": "2020-11-06T21:30:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -321,7 +321,7 @@
         {
           "idSeance": 36179,
           "ordre": 1,
-          "dateHeure": "2020-11-05T20:00:00",
+          "dateHeure": "2020-11-05T19:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -602,7 +602,7 @@
         },
         {
           "idSeance": 35883,
-          "ordre": 1,
+          "ordre": 3,
           "dateHeure": "2020-10-22T19:00:00",
           "idSalle": [
             "HL",
@@ -635,36 +635,34 @@
           ]
         },
         {
-          "idSeance": 36176,
+          "idSeance": 35883,
           "ordre": 1,
-          "dateHeure": "2020-10-29T19:30:00",
+          "dateHeure": "2020-10-22T19:00:00",
           "idSalle": [
-            "JE",
-            "Jean Epstein"
+            "HL",
+            "Henri Langlois"
           ],
           "idCategorie": 2283,
-          "idEvenement": 22492,
+          "idEvenement": 22596,
           "typeEvenement": 13,
-          "idFilm": 140633,
-          "art": "L'",
-          "titre": "Homme fidèle",
+          "idFilm": 74228,
+          "titre": "Heureux anniversaire",
           "titreVo": "",
-          "realisateurs": "Louis Garrel",
-          "annee": 2018,
+          "realisateurs": "Pierre Étaix, Jean-Claude Carrière",
+          "annee": 1961,
           "pays": "France",
-          "duree": 75,
+          "duree": 12,
           "version": "",
-          "format": "DCP",
-          "ageMinimal": null,
+          "format": "35 mm",
+          "ageMinimal": 6,
           "generique": [
-            "Louis Garrel",
-            "Laetitia Casta",
-            "Lily-Rose Depp"
+            "Pierre Étaix",
+            "Laurence Lignères"
           ],
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Abel et Marianne sont séparés depuis dix ans. Alors qu'ils se retrouvent, Abel décide de la reconquérir, mais les choses ont changé. Marianne a un fils ; sa belle-sœur, la jeune Ève, a bien grandi ; et chacun a des secrets à révéler."
+              "texte": "Des anniversaires pas comme les autres, entre scènes de ménage à la Laurel et Hardy, ou des petites canailles qui s'invitent à la fête."
             }
           ]
         },
@@ -911,6 +909,40 @@
           ]
         },
         {
+          "idSeance": 35883,
+          "ordre": 2,
+          "dateHeure": "2020-10-22T19:00:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2283,
+          "idEvenement": 22596,
+          "typeEvenement": 13,
+          "idFilm": 47349,
+          "art": "La",
+          "titre": "Pince à ongles",
+          "titreVo": "",
+          "realisateurs": "Jean-Claude Carrière",
+          "annee": 1969,
+          "pays": "France",
+          "duree": 15,
+          "version": "",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Michael Lonsdale",
+            "Henri Garcin",
+            "Anne-Marie Deschott"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La disparition d'une pince à ongles dans une chambre d'hôtel provoque la frayeur des propriétaires de l'objet capricieux."
+            }
+          ]
+        },
+        {
           "idSeance": 35586,
           "ordre": 1,
           "dateHeure": "2020-10-31T15:00:00",
@@ -983,9 +1015,9 @@
           ]
         },
         {
-          "idSeance": 35938,
+          "idSeance": 36239,
           "ordre": 1,
-          "dateHeure": "2020-10-28T21:00:00",
+          "dateHeure": "2020-11-05T21:00:00",
           "idSalle": [
             "JE",
             "Jean Epstein"
@@ -1019,7 +1051,7 @@
         {
           "idSeance": 35884,
           "ordre": 1,
-          "dateHeure": "2020-10-22T21:00:00",
+          "dateHeure": "2020-10-22T21:30:00",
           "idSalle": [
             "HL",
             "Henri Langlois"

@@ -2,6 +2,16 @@
 
 ## Les films
 
+[34697]  
+**Bethsabée**  
+de Léonide Moguy  
+France / 1947 / 90 min / 35 mm  
+D'après le roman _Bethsabée_ de Pierre Benoit.  
+Avec Danielle Darrieux, Georges Marchal, Paul Meurisse.  
+La séduisante Arabella vient rejoindre son fiancé, militaire en poste au Maroc. Mais lorsqu'un ancien amant, également officier, la reconnaît, le colonel du régiment, sous le charme de la jeune femme, intervient et envoie le gêneur à la mort.
+
+- je 24 sep 20h00 JE
+
 [49827]  
 **Conflit**  
 de Léonide Moguy  

@@ -183,7 +183,7 @@
         "valide": 1
       }
     ],
-    "mention": "Ouverture de la rétrospective"
+    "mention": "Ouverture de la rétrospective. Séance présentée par Jean-Claude Carrière"
   },
   {
     "idCategorie": 2283,
@@ -197,8 +197,28 @@
     ],
     "items": [
       {
-        "idFilm": 48337,
+        "idFilm": 74228,
         "ordre": 1,
+        "idSeance": 35883,
+        "idCopie": 3512,
+        "duree": 12,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 47349,
+        "ordre": 2,
+        "idSeance": 35883,
+        "idCopie": 21030,
+        "duree": 15,
+        "version": "",
+        "format": "35 mm",
+        "valide": 0
+      },
+      {
+        "idFilm": 48337,
+        "ordre": 3,
         "idSeance": 35883,
         "idCopie": 7539,
         "duree": 87,
@@ -213,7 +233,7 @@
     "typeEvenement": 13,
     "idEvenement": 22597,
     "idSeance": 35884,
-    "dateHeure": "2020-10-22T21:00:00",
+    "dateHeure": "2020-10-22T21:30:00",
     "idSalle": [
       "HL",
       "Henri Langlois"
@@ -373,52 +393,6 @@
   {
     "idCategorie": 2283,
     "typeEvenement": 13,
-    "idEvenement": 22476,
-    "idSeance": 35910,
-    "dateHeure": "2020-10-28T19:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "items": [
-      {
-        "idFilm": 47474,
-        "ordre": 1,
-        "idSeance": 35910,
-        "idCopie": 21027,
-        "duree": 90,
-        "version": "",
-        "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCategorie": 2283,
-    "typeEvenement": 13,
-    "idEvenement": 22601,
-    "idSeance": 35938,
-    "dateHeure": "2020-10-28T21:00:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "items": [
-      {
-        "idFilm": 118727,
-        "ordre": 1,
-        "idSeance": 35938,
-        "idCopie": 21117,
-        "duree": 102,
-        "version": "",
-        "format": "DCP",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCategorie": 2283,
-    "typeEvenement": 13,
     "idEvenement": 22438,
     "idSeance": 36157,
     "dateHeure": "2020-10-28T21:00:00",
@@ -458,29 +432,6 @@
         "duree": 98,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
-      }
-    ]
-  },
-  {
-    "idCategorie": 2283,
-    "typeEvenement": 13,
-    "idEvenement": 22492,
-    "idSeance": 36176,
-    "dateHeure": "2020-10-29T19:30:00",
-    "idSalle": [
-      "JE",
-      "Jean Epstein"
-    ],
-    "items": [
-      {
-        "idFilm": 140633,
-        "ordre": 1,
-        "idSeance": 36176,
-        "idCopie": 21032,
-        "duree": 75,
-        "version": "",
-        "format": "DCP",
         "valide": 0
       }
     ]
@@ -807,7 +758,7 @@
     "typeEvenement": 13,
     "idEvenement": 22605,
     "idSeance": 36179,
-    "dateHeure": "2020-11-05T20:00:00",
+    "dateHeure": "2020-11-05T19:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -828,9 +779,55 @@
   {
     "idCategorie": 2283,
     "typeEvenement": 13,
+    "idEvenement": 22601,
+    "idSeance": 36239,
+    "dateHeure": "2020-11-05T21:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 118727,
+        "ordre": 1,
+        "idSeance": 36239,
+        "idCopie": 21117,
+        "duree": 102,
+        "version": "",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2283,
+    "typeEvenement": 13,
+    "idEvenement": 22476,
+    "idSeance": 35910,
+    "dateHeure": "2020-11-06T19:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 47474,
+        "ordre": 1,
+        "idSeance": 35910,
+        "idCopie": 21027,
+        "duree": 90,
+        "version": "STA",
+        "format": "35 mm",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2283,
+    "typeEvenement": 13,
     "idEvenement": 22606,
     "idSeance": 36178,
-    "dateHeure": "2020-11-06T20:00:00",
+    "dateHeure": "2020-11-06T21:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"

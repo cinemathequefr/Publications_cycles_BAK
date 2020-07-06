@@ -274,5 +274,28 @@
         "valide": 1
       }
     ]
+  },
+  {
+    "idCategorie": 2055,
+    "typeEvenement": 13,
+    "idEvenement": 20817,
+    "idSeance": 36240,
+    "dateHeure": "2020-09-24T20:00:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 34697,
+        "ordre": 1,
+        "idSeance": 36240,
+        "idCopie": 19485,
+        "duree": 90,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      }
+    ]
   }
 ]
