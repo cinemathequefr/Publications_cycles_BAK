@@ -679,8 +679,8 @@
           "ordre": 1,
           "dateHeure": "2020-10-19T19:00:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 2282,
           "idEvenement": 22457,
@@ -959,8 +959,8 @@
           "ordre": 1,
           "dateHeure": "2020-10-19T21:00:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 2282,
           "idEvenement": 22440,
@@ -1639,76 +1639,6 @@
           ]
         },
         {
-          "idSeance": 35758,
-          "ordre": 1,
-          "dateHeure": "2020-10-01T21:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "typeAssoc": 117,
-          "idSeanceAssoc": 36086,
-          "idCategorie": 2282,
-          "idEvenement": 22459,
-          "typeEvenement": 13,
-          "idFilm": 43189,
-          "titre": "Tourments",
-          "titreVo": "Él",
-          "realisateurs": "Luis Buñuel",
-          "annee": 1952,
-          "pays": "Mexique",
-          "duree": 91,
-          "version": "VOSTF",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Arturo de Córdova",
-            "Delia Garcés",
-            "Aurora Walker"
-          ],
-          "adaptation": "D'après le roman _Él_ de Mercedes Pinto.",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d'une jalousie paranoïaque."
-            }
-          ]
-        },
-        {
-          "idSeance": 36137,
-          "ordre": 1,
-          "dateHeure": "2020-10-10T16:45:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
-          "idCategorie": 2282,
-          "idEvenement": 22459,
-          "typeEvenement": 13,
-          "idFilm": 43189,
-          "titre": "Tourments",
-          "titreVo": "Él",
-          "realisateurs": "Luis Buñuel",
-          "annee": 1952,
-          "pays": "Mexique",
-          "duree": 91,
-          "version": "VOSTF",
-          "format": "35 mm",
-          "ageMinimal": null,
-          "generique": [
-            "Arturo de Córdova",
-            "Delia Garcés",
-            "Aurora Walker"
-          ],
-          "adaptation": "D'après le roman _Él_ de Mercedes Pinto.",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d'une jalousie paranoïaque."
-            }
-          ]
-        },
-        {
           "idSeance": 35768,
           "ordre": 1,
           "dateHeure": "2020-10-04T19:45:00",
@@ -2207,6 +2137,76 @@
             {
               "typeTexte": 99,
               "texte": "Scénario coécrit par Luis Buñuel et Salvador Dalí."
+            }
+          ]
+        },
+        {
+          "idSeance": 35758,
+          "ordre": 1,
+          "dateHeure": "2020-10-01T21:30:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "typeAssoc": 117,
+          "idSeanceAssoc": 36086,
+          "idCategorie": 2282,
+          "idEvenement": 22459,
+          "typeEvenement": 13,
+          "idFilm": 43189,
+          "titre": "Él / Tourments",
+          "titreVo": "Él",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1952,
+          "pays": "Mexique",
+          "duree": 91,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Arturo de Córdova",
+            "Delia Garcés",
+            "Aurora Walker"
+          ],
+          "adaptation": "D'après le roman _Él_ de Mercedes Pinto.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d'une jalousie paranoïaque."
+            }
+          ]
+        },
+        {
+          "idSeance": 36137,
+          "ordre": 1,
+          "dateHeure": "2020-10-10T16:45:00",
+          "idSalle": [
+            "HL",
+            "Henri Langlois"
+          ],
+          "idCategorie": 2282,
+          "idEvenement": 22459,
+          "typeEvenement": 13,
+          "idFilm": 43189,
+          "titre": "Él / Tourments",
+          "titreVo": "Él",
+          "realisateurs": "Luis Buñuel",
+          "annee": 1952,
+          "pays": "Mexique",
+          "duree": 91,
+          "version": "VOSTF",
+          "format": "35 mm",
+          "ageMinimal": null,
+          "generique": [
+            "Arturo de Córdova",
+            "Delia Garcés",
+            "Aurora Walker"
+          ],
+          "adaptation": "D'après le roman _Él_ de Mercedes Pinto.",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d'une jalousie paranoïaque."
             }
           ]
         }

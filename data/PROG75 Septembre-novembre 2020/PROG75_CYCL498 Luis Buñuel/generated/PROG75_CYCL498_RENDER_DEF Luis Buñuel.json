@@ -361,6 +361,53 @@
         },
         {
           "idCategorie": 2282,
+          "idEvenement": 22459,
+          "films": [
+            {
+              "idFilm": 43189,
+              "titre": "Él / Tourments",
+              "titreVo": "Él",
+              "realisateurs": "Luis Buñuel",
+              "annee": 1952,
+              "pays": "Mexique",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d'une jalousie paranoïaque."
+                }
+              ],
+              "adaptation": "D'après le roman _Él_ de Mercedes Pinto.",
+              "generique": [
+                "Arturo de Córdova",
+                "Delia Garcés",
+                "Aurora Walker"
+              ],
+              "duree": 91,
+              "format": "35 mm",
+              "version": "VOSTF",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-10-01T21:30:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            },
+            {
+              "dateHeure": "2020-10-10T16:45:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2282,
           "idEvenement": 22445,
           "films": [
             {
@@ -538,8 +585,8 @@
             {
               "dateHeure": "2020-10-19T19:00:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             },
             {
@@ -730,8 +777,8 @@
             {
               "dateHeure": "2020-10-19T21:00:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             },
             {
@@ -1155,53 +1202,6 @@
             },
             {
               "dateHeure": "2020-10-23T19:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            }
-          ]
-        },
-        {
-          "idCategorie": 2282,
-          "idEvenement": 22459,
-          "films": [
-            {
-              "idFilm": 43189,
-              "titre": "Tourments",
-              "titreVo": "Él",
-              "realisateurs": "Luis Buñuel",
-              "annee": 1952,
-              "pays": "Mexique",
-              "textes": [
-                {
-                  "typeTexte": 9,
-                  "texte": "Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d'une jalousie paranoïaque."
-                }
-              ],
-              "adaptation": "D'après le roman _Él_ de Mercedes Pinto.",
-              "generique": [
-                "Arturo de Córdova",
-                "Delia Garcés",
-                "Aurora Walker"
-              ],
-              "duree": 91,
-              "format": "35 mm",
-              "version": "VOSTF",
-              "ageMinimal": null,
-              "ordre": 1
-            }
-          ],
-          "seance": [
-            {
-              "dateHeure": "2020-10-01T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2020-10-10T16:45:00",
               "idSalle": [
                 "HL",
                 "Henri Langlois"

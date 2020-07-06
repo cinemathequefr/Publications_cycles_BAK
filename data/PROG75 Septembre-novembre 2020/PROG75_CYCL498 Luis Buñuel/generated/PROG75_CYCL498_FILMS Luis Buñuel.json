@@ -641,21 +641,6 @@
     "adaptation": "D'après le roman _Tristana_ de Benito Pérez Galdós."
   },
   {
-    "titre": "Triumph of will",
-    "titreVo": "",
-    "idFilm": 108104,
-    "ageMinimal": null,
-    "realisateurs": "Luis Buñuel",
-    "annee": 1939,
-    "pays": "États-Unis",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "À la suite d'une commande du Musée d'Art Moderne de New-York, Buñuel effectue un montage à partir de larges extraits des films de Leni Riefenstahl _Triumph des Willens_ (Le Triomphe de la volonté, 1935) et de Hans Bertram _Feldzug in Polen_ (Campagne de Pologne, 1940)."
-      }
-    ]
-  },
-  {
     "titre": "Un chien andalou",
     "titreVo": "",
     "idFilm": 47197,

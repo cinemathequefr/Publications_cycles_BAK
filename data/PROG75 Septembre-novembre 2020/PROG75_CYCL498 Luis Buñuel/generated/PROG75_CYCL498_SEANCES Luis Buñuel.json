@@ -77,11 +77,11 @@
         "idFilm": 43189,
         "ordre": 1,
         "idSeance": 35758,
-        "idCopie": 21397,
+        "idCopie": 21399,
         "duree": 91,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -127,7 +127,7 @@
         "duree": 94,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -419,11 +419,11 @@
         "idFilm": 43189,
         "ordre": 1,
         "idSeance": 36137,
-        "idCopie": 21397,
+        "idCopie": 21399,
         "duree": 91,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -653,7 +653,7 @@
         "duree": 94,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -722,7 +722,7 @@
         "duree": 90,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -825,8 +825,8 @@
     "idSeance": 35858,
     "dateHeure": "2020-10-19T19:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "items": [
       {
@@ -837,7 +837,7 @@
         "duree": 82,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -848,8 +848,8 @@
     "idSeance": 35859,
     "dateHeure": "2020-10-19T21:00:00",
     "idSalle": [
-      "GF",
-      "Georges Franju"
+      "JE",
+      "Jean Epstein"
     ],
     "items": [
       {
@@ -883,7 +883,7 @@
         "duree": 90,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -1131,7 +1131,7 @@
         "duree": 82,
         "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },

@@ -86,6 +86,7 @@
 <pstyle:SYNOPSIS>Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d<0x2019>une jalousie paranoïaque.
 <pstyle:><cstyle:INFOSBLEUES>je 01 octXXX21h30XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Conférence p.<0x00A0>X
 <cstyle:INFOSBLEUES>sa 10 octXXX16h45XXX
 <cstyle:SALLESBLEUES>A
 
@@ -109,6 +110,7 @@
 <cstyle:SALLESBLEUES>A
 <cstyle:INFOSBLEUES>sa 24 octXXX15h00XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Dialogue p.<0x00A0>X
 
 <pstyle:TITRE>La Fièvre monte à El Pao
 <pstyle:TECHNIQUE>de Luis Buñuel
@@ -374,18 +376,18 @@
 <pstyle:CATEGORIE>Rencontres et conférences
 
 <pstyle:TITRE>Tours et détours<0x00A0>: les films mexicains de Luis Buñuel (1947-1965)
-<pstyle:TECHNIQUE>undefined
-<pstyle:TECHNIQUE>90<0x2019>
+Conférence de Gabriela Trujillo
 <pstyle:SYNOPSIS>«<0x00A0>Je me sentais si peu attiré par l<0x2019>Amérique latine que je disais toujours à mes amis<0x00A0>: "Si je disparais, cherchez moi partout dans le monde, sauf là"<0x00A0>», écrit Buñuel dans son autobiographie <ct:Italic>Mon dernier soupir<ct:>. Pourtant, le maître aragonais aura vécu près de quarante ans au Mexique, où il dirige vingt de ses trente-deux films, de <ct:Italic>Grand casino<ct:> à <ct:Italic>Simon du désert<ct:> en passant par <ct:Italic>Los Olvidados<ct:>. Il y est même, en pleine guerre froide, l<0x2019>une des cibles principales des services secrets mexicains. Mexico devient le lieu de rencontres capitales où le cinéaste collabore avec des intellectuels reconnus (Carlos Fuentes, Elena Poniatowska, Max Aub) et participe à la splendeur de l<0x2019>industrie cinématographique mexicaine (avec Gustavo Alatriste, Gabriel Figueroa, Arturo Ripstein), employant les grandes stars de l<0x2019>époque (Silvia Pinal, Libertad Lamarque, Jorge Negrete, Claudio Brook). Terreau de grandes affinités électives, ce faux dépaysement est surtout le lieu incontournable où s<0x2019>affirme l<0x2019>univers narratif de Buñuel, puisqu<0x2019>il y crée une infinité de variations de l<0x2019>enfermement et de l<0x2019>hallucination, sans oublier sa satire de la religion et du machisme latino-américains. Ou<0x00A0>: ce que le Mexique doit à Buñuel, ce que Buñuel doit au Mexique.
 <pstyle:SYNOPSIS>Gabriela Trujillo est spécialiste des avant-gardes latino-américaines et européennes. Elle travaille à l<0x2019>Action culturelle de la Cinémathèque française.
 <pstyle:><cstyle:INFOSBLEUES>je 01 octXXX19h00XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:CONFERENCE NOTE>À la suite de la conférence, à 21h30, projection d<0x2019>un film choisi par la conférencière<0x00A0>: <cSkew:9>Él<cSkew:> de Luis Buñuel (voir p.<0x00A0>xx)
 
 <pstyle:TITRE>Dialogue avec Jean-Claude Carrière
-<pstyle:TECHNIQUE>undefined
+Rencontre animée par Frédéric Bonnaud
 <pstyle:SYNOPSIS>«<0x00A0>Luis n<0x2019>aimait pas parler de ses films, mais je crois qu<0x2019>il gardait une secrète préférence pour celui-ci. Naturellement, nous ne pouvons pas espérer, dans un cas pareil, que tout le monde suive. Nous savons qu<0x2019>ils seront nombreux, ceux qui diront, non sans irritation: "Mais je ne comprends pas<0x00A0>! Ça n<0x2019>a ni queue ni tête<0x00A0>! Qu<0x2019>est-ce qu<0x2019>on me raconte<0x00A0>? Qu<0x2019>est-ce que ça veut dire<0x00A0>?" Tant pis. Tant pis pour eux et tant pis pour nous.<0x00A0>» (Jean-Claude Carrière, <ct:Italic>Ateliers<ct:>, Odile Jacob, 2020)
 <pstyle:SYNOPSIS>Frédéric Bonnaud est directeur général de la Cinémathèque française.
 <pstyle:SYNOPSIS>Au sujet de sa collaboration au long cours avec Luis Buñuel, Jean-Claude Carrière a décrit une «<0x00A0>harmonie souterraine<0x00A0>» qui a duré près de vingt ans. Carrière a cosigné les scénarios de six films de la dernière période du réalisateur espagnol, du <ct:Italic>Journal d<0x2019>une femme de chambre<ct:> (sorti en 1964) à <ct:Italic>Cet obscur objet du désir<ct:> (1977). Ensemble, les deux amis ont écrit l<0x2019>autobiographie de Buñuel, parue en 1982, <ct:Italic>Mon dernier soupir<ct:>.
 <pstyle:><cstyle:INFOSBLEUES>sa 24 octXXX15h00XXX
 <cstyle:SALLESBLEUES>A
-
+<pstyle:CONFERENCE NOTE>À la suite de la projection de <cSkew:9>Fantôme de la liberté<cSkew:> de Luis Buñuel (voir p.<0x00A0>xx)

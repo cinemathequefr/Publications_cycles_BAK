@@ -10,7 +10,7 @@ Mexique / 1962 / 93 min / VOSTF / DCP
 Avec Silvia Pinal, Enrique Rambal, Jacqueline Andere.  
 Les invités d'une réception mondaine se retrouvent empêchés de rentrer chez eux, retenus par une étrange force invisible. Les jours passent, et les privations entraînent tensions et violences, bouleversant l'ordre établi.
 
-- sa 3 oct 19h30 HL
+- sa 3 oct 19h30 HL  
 - lu 26 oct 19h00 GF
 
 [43227]  
@@ -22,7 +22,7 @@ D'après le roman _Robinson Crusoe_ de Daniel Defoe.
 Avec Dan O'Herlihy, Jaime Fernández, Felipe de Alba, Chel López.  
 En route vers l'Afrique, Robinson Crusoé fait naufrage et échoue sur une île déserte. Il doit s'organiser pour survivre en compagnie de son chien Rex et de sa petite chatte. Un jour, il sauve un homme, qu'il baptise Vendredi.
 
-- sa 10 oct 14h45 HL
+- sa 10 oct 14h45 HL  
 - sa 24 oct 14h30 GF
 
 [47174]  
@@ -34,7 +34,7 @@ Avec Catherine Deneuve, Jean Sorel, Michel Piccoli, Pierre Clémenti.
 Séverine, femme au foyer mariée à un riche chirurgien, décide de rompre avec l'insatisfaction et de se prostituer l'après-midi chez madame Anaïs, une maison de rendez-vous dont lui a parlé un ami de son mari.  
 Film restauré par la Cinémathèque française et StudioCanal.
 
-- di 4 oct 21h45 HL
+- di 4 oct 21h45 HL  
 - je 15 oct 19h00 HL
 
 [47175]  
@@ -55,7 +55,7 @@ D'après le roman _La Femme et le pantin_ de Pierre Louÿs.
 Avec Fernando Rey, Carole Bouquet, Ángela Molina.  
 Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de route la passion déchirante qu'il a eue pour Conchita, jeune femme qui n'a cessé de se promettre à lui et de se dérober.
 
-- je 8 oct 21h15 HL
+- je 8 oct 21h15 HL  
 - me 28 oct 21h00 GF
 
 [47185]  
@@ -76,8 +76,20 @@ D'après la pièce _Don Quintín, el amargao_ de Carlos Arniches et Antonio Estr
 Avec Fernando Soler, Alicia Caro, Fernando Soto.  
 Don Quintín, jaloux de l'infidélité de sa femme, la répudie et abandonne son enfant.
 
-- di 18 oct 17h15 GF
+- di 18 oct 17h15 GF  
 - sa 24 oct 18h15 GF
+
+[43189]  
+**Él / Tourments**  
+**(Él)**  
+de Luis Buñuel  
+Mexique / 1952 / 91 min / VOSTF / 35 mm  
+D'après le roman _Él_ de Mercedes Pinto.  
+Avec Arturo de Córdova, Delia Garcés, Aurora Walker.  
+Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d'une jalousie paranoïaque.
+
+- je 1 oct 21h30 HL  
+- sa 10 oct 16h45 HL
 
 [42819]  
 **L'Enjôleuse**  
@@ -87,7 +99,7 @@ Mexique / 1952 / 81 min / VOAutres / 35 mm
 Avec Pedro Armendáriz, Katy Jurado, Rosita Arenas.  
 Cabrera, homme riche et sans scrupules, n'hésite pas à chasser les locataires de l'immeuble vétuste qui lui appartient. Les délogés organisent leur résistance.
 
-- di 11 oct 17h15 HL
+- di 11 oct 17h15 HL  
 - di 25 oct 18h30 GF
 
 [47186]  
@@ -97,7 +109,7 @@ France / 1974 / 104 min / DCP
 Avec Adriana Asti, Julien Bertheau, Michel Piccoli.  
 Cadavre exquis dont les quatorze épisodes dévergondent le cartésianisme rigide de notre société.
 
-- je 8 oct 19h00 HL
+- je 8 oct 19h00 HL  
 - sa 24 oct 15h00 HL
 
 [47195]  
@@ -108,7 +120,7 @@ D'après le roman _La Fièvre monte à El Pao_ de Henri Castillou.
 Avec Gérard Philipe, María Félix, Jean Servais.  
 Dans un pays où les droits fondamentaux sont souvent bafoués, Ramón Vázquez, un intellectuel idéaliste, tente d'améliorer les conditions de vie des détenus d'un pénitencier.
 
-- me 7 oct 19h30 HL
+- me 7 oct 19h30 HL  
 - ve 16 oct 21h00 GF
 
 [43226]  
@@ -120,7 +132,7 @@ D'après le roman _Muro blanco sobre roca negra_ de Miguel Álvarez Acosta.
 Avec Columba Domínguez, Miguel Torruco, Joaquín Cordero.  
 À Santa Viviana, les clans Anguiano et Menchaca se livrent une guerre sans répit.
 
-- lu 19 oct 19h00 GF
+- lu 19 oct 19h00 JE  
 - di 25 oct 16h30 GF
 
 [69332]  
@@ -131,7 +143,7 @@ D'après le roman _El Rugido del paraíso_ de Michel Weber.
 Avec Libertad Lamarque, Jorge Negrete, Mercedes Barba.  
 Un aventurier, évadé de prison, tombe amoureux de la belle Mercedes. Il va l'aider à venger son frère, tué alors qu'il défendait son puits de pétrole.
 
-- sa 17 oct 17h15 GF
+- sa 17 oct 17h15 GF  
 - me 21 oct 21h00 GF
 
 [69333]  
@@ -143,7 +155,7 @@ D'après le roman _El Gran calavera_ d'Adolfo Torrado.
 Avec Fernando Soler, Rosario Granados, Andrés Soler.  
 Don Ramiro, un riche veuf, se console dans l'alcool et la débauche. Sa famille parasite s'inquiète de voir le patrimoine se dilapider à vue d'œil.
 
-- sa 17 oct 19h15 GF
+- sa 17 oct 19h15 GF  
 - me 21 oct 19h00 GF
 
 [43210]  
@@ -155,7 +167,7 @@ D'après le roman _Les Hauts de hurlevent_ d'Emily Brontë.
 Avec Irasema Dilián, Jorge Mistral, Ernesto Alonso.  
 Alejandro revient au manoir familial et retrouve Catalina, son premier amour, dans l'espoir de l'épouser. Mais la jeune femme a fait un mariage de convenance.
 
-- di 11 oct 19h15 HL
+- di 11 oct 19h15 HL  
 - di 25 oct 20h45 GF
 
 [43124]  
@@ -167,7 +179,7 @@ D'après la nouvelle _Travellin' Man_ de Peter Matthiessen.
 Avec Zachary Scott, Kay Meersman, Bernie Hamilton.  
 Sur une île du Sud des États-Unis, le face-à-face entre Miller, le Blanc, et Travers, le Noir, accusé de viol.
 
-- lu 19 oct 21h00 GF
+- lu 19 oct 21h00 JE  
 - je 29 oct 19h30 GF
 
 [47196]  
@@ -178,7 +190,7 @@ D'après le roman _Le Journal d'une femme de chambre_ d'Octave Mirbeau.
 Avec Jeanne Moreau, Michel Piccoli, Françoise Lugagne, Georges Géret.  
 En 1928, Célestine est embauchée comme femme de chambre chez les Monteil et devient la maîtresse de Joseph, un domestique qui a assassiné une petite fille.
 
-- me 14 oct 19h00 GF
+- me 14 oct 19h00 GF  
 - je 29 oct 21h45 GF
 
 [129626]  
@@ -214,7 +226,7 @@ Mexique / 1951 / 74 min / VOSTF / 35 mm
 Avec Lilia Prado, Esteban Márquez, Carmelita González.  
 Oliverio, dont la mère est mourante, interrompt sa nuit de noces pour se rendre en ville chez le notaire et régler l'héritage. Son voyage en autocar est mouvementé.
 
-- sa 17 oct 21h15 GF
+- sa 17 oct 21h15 GF  
 - sa 24 oct 16h30 GF
 
 [43219]  
@@ -225,7 +237,7 @@ D'après le roman _La Mort en ce jardin_ de José-André Lacour.
 Avec Simone Signoret, Georges Marchal, Michel Piccoli.  
 Fuyant une révolte dans une cité minière de l'Amazonie, un petit groupe s'enfonce dans la jungle.
 
-- di 11 oct 21h15 HL
+- di 11 oct 21h15 HL  
 - sa 24 oct 20h00 GF
 
 [43222]  
@@ -236,7 +248,7 @@ D'après le roman _Nazarín_ de Benito Pérez Galdós.
 Avec Francisco Rabal, Marga López, Ignacio López Tarso.  
 Le jeune prêtre Nazario, ayant protégé une prostituée soupçonnée de meurtre, est contraint de fuir.
 
-- ve 2 oct 21h00 HL
+- ve 2 oct 21h00 HL  
 - ve 16 oct 19h00 GF
 
 [43223]  
@@ -247,7 +259,7 @@ Avec Estela Inda, Miguel Inclán, Alfonso Mejía.
 La vie criminelle d'un groupe d'enfants pauvres dans les faubourgs de Mexico.  
 Film restauré en 2019 au laboratoire L'Immagine ritrovata dans le cadre de la World Cinema Project de la Film Foundation, en collaboration avec la Fundación Televisa, la Cineteca Nacional México et la Filmoteca de la UNAM, grâce au soutien de la Material World Foundation.
 
-- sa 10 oct 19h00 HL
+- sa 10 oct 19h00 HL  
 - ve 23 oct 21h30 HL
 
 [43215]  
@@ -258,7 +270,7 @@ Mexique / 1953 / 82 min / VOSTF / 35 mm
 Avec Lilia Prado, Carlos Navarro, Fernando Soto.  
 Dans le vieux Mexico, le tram 133, accomplit un dernier voyage avant de partir à la ferraille.
 
-- di 18 oct 21h00 GF
+- di 18 oct 21h00 GF  
 - di 25 oct 14h30 GF
 
 [43232]  
@@ -270,20 +282,8 @@ D'après la nouvelle _Susana_ de Manuel Reachi.
 Avec Fernando Soler, Rosita Quintana, Víctor Manuel Mendoza.  
 Susana, une jeune détenue, s'échappe d'une maison de redressement. Elle se réfugie dans l'hacienda de Don Guadalupe et y séduit l'intendant, le père et le fils, semant la zizanie.
 
-- sa 10 oct 21h00 HL
+- sa 10 oct 21h00 HL  
 - ve 23 oct 19h30 HL
-
-[43189]  
-**Tourments**  
-**(Él)**  
-de Luis Buñuel  
-Mexique / 1952 / 91 min / VOSTF / 35 mm  
-D'après le roman _Él_ de Mercedes Pinto.  
-Avec Arturo de Córdova, Delia Garcés, Aurora Walker.  
-Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d'une jalousie paranoïaque.
-
-- je 1 oct 21h30 HL
-- sa 10 oct 16h45 HL
 
 [43676]  
 **Tristana**  
@@ -294,7 +294,7 @@ Avec Catherine Deneuve, Fernando Rey, Franco Nero.
 À Tolède, Don Lope devient le tuteur et l'amant de la jeune Tristana, débordante de fantasmes.  
 « Catherine Deneuve n'est pas précisément mon type de femme mais, boiteuse et maquillée, je la trouve très attirante. » (Luis Buñuel)
 
-- di 4 oct 19h45 HL
+- di 4 oct 19h45 HL  
 - je 15 oct 21h15 HL
 
 [47197]  
@@ -322,7 +322,7 @@ D'après le récit _Las Jurdes_ de Maurice Legendre.
 Documentaire consacré aux miséreux de la région de Las Hurdes en Estrémadure, confrontés à la maladie, aux dangers et à la mort.
 
 - me 30 sep 20h00 HL  
-  Ouverture de la rétrospective
+Ouverture de la rétrospective  
 - sa 31 oct 14h30 GF
 
 [43234]  
@@ -333,7 +333,7 @@ D'après le roman _Pierre et Jean_ de Guy de Maupassant.
 Avec Rosario Granados, Tito Junco, Julio Villareal.  
 Carlito, parvenu à l'âge adulte, soupçonne sa mère d'infidélité.
 
-- di 18 oct 19h00 GF
+- di 18 oct 19h00 GF  
 - sa 31 oct 16h45 GF
 
 [43104]  
@@ -345,7 +345,7 @@ D'après le roman _Ensayo de un crimen_ de Rodolfo Usigli.
 Avec Ernesto Alonso, Miroslava Stern, Rita Macedo.  
 Après la mort accidentelle suspecte d'une jeune infirmière, Archibald de la Cruz, grand bourgeois de Mexico, se confie au juge et lui fait le récit de ses pulsions de tueur de femmes.
 
-- ve 2 oct 19h00 HL
+- ve 2 oct 19h00 HL  
 - lu 26 oct 21h15 GF
 
 [43677]  
@@ -356,7 +356,7 @@ D'après le roman _Halma_ de Benito Pérez Galdós.
 Avec Silvia Pinal, Francisco Rabal, Fernando Rey.  
 Jeune novice dans un couvent, Viridiana rend visite, avant de prononcer ses vœux, à son oncle Jaime. Il découvre en elle le sosie de son épouse, morte vingt ans auparavant, le soir de leurs noces.
 
-- sa 3 oct 21h30 HL
+- sa 3 oct 21h30 HL  
 - me 28 oct 19h00 GF
 
 [47198]  
@@ -366,7 +366,7 @@ France-Italie / 1968 / 101 min / DCP
 Avec Paul Frankeur, Laurent Terzieff, Julien Guiomar, Delphine Seyrig.  
 Sur la route de Saint-Jacques-de-Compostelle, deux vagabonds font d'étranges rencontres.
 
-- di 4 oct 17h30 HL
+- di 4 oct 17h30 HL  
 - di 1 nov 14h15 GF
 
 ## Autour de Luis Buñuel
@@ -399,3 +399,4 @@ Frédéric Bonnaud est directeur général de la Cinémathèque française.
 Au sujet de sa collaboration au long cours avec Luis Buñuel, Jean-Claude Carrière a décrit une « harmonie souterraine » qui a duré près de vingt ans. Carrière a cosigné les scénarios de six films de la dernière période du réalisateur espagnol, du _Journal d'une femme de chambre_ (sorti en 1964) à _Cet obscur objet du désir_ (1977). Ensemble, les deux amis ont écrit l'autobiographie de Buñuel, parue en 1982, _Mon dernier soupir_.
 
 - sa 24 oct 15h00 HL
+
