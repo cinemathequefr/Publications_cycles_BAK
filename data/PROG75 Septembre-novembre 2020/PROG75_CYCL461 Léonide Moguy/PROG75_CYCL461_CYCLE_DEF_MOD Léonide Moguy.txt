@@ -105,3 +105,6 @@
 <pstyle:><cstyle:INFOSBLEUES>sa 12 sepXXX20h00XXX
 <cstyle:SALLESBLEUES>C
 
+<pstyle:>Remerciements
+
+Alizés Films, Archives françaises du film, René Chateau, Cinémathèque suisse, Gaumont, Oleksandr Dovzhenko National Centre, Pathé Distribution.

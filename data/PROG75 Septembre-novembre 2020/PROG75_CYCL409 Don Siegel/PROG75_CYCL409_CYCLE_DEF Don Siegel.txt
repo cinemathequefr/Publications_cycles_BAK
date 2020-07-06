@@ -42,6 +42,7 @@
 <pstyle:TECHNIQUE>États-Unis/1953/82<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Edmond O<0x2019>Brien, Barry Sullivan, Jocelyn Brando.
 <pstyle:SYNOPSIS>Pendant la Seconde Guerre mondiale, une troupe de soldats américains part en mission dans le Sud de la Chine pour délivrer un prisonnier important.
+<pstyle:INFOS_UTILES>Film sous réserve.
 <pstyle:><cstyle:INFOSBLEUES>lu 28 sepXXX19h00XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>di 04 octXXX16h45XXX
@@ -89,6 +90,7 @@
 <pstyle:TECHNIQUE>États-Unis/1951/77<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Audie Murphy, Faith Domergue, Stephen McNally.
 <pstyle:SYNOPSIS>Le shérif de Silver City et son adjoint essayent de neutraliser une bande armée qui terrorise la région.
+<pstyle:INFOS_UTILES>Film sous réserve.
 <pstyle:><cstyle:INFOSBLEUES>di 27 sepXXX20h45XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>di 04 octXXX18h45XXX
@@ -320,6 +322,7 @@
 <pstyle:TECHNIQUE>États-Unis/1959/81<0x2019>/VOSTF/35mm
 <pstyle:TECHNIQUE>Avec Cornel Wilde, Victoria Shaw, Mickey Shaughnessy.
 <pstyle:SYNOPSIS>Des meurtres violents ont été commis aux abords d<0x2019>une mine désaffectée, dans le Grand Canyon du Colorado. Un jeune shérif mène l<0x2019>enquête.
+<pstyle:INFOS_UTILES>Film sous réserve.
 <pstyle:><cstyle:INFOSBLEUES>lu 28 sepXXX21h00XXX
 <cstyle:SALLESBLEUES>B
 <cstyle:INFOSBLEUES>sa 03 octXXX22h00XXX
@@ -390,6 +393,7 @@
 <pstyle:TECHNIQUE>D<0x2019>après le roman <cSkew:9>Houn Dog Man<cSkew:> de Fred Gipson.
 <pstyle:TECHNIQUE>Avec Fabian, Carol Lynley, Stuart Whitman.
 <pstyle:SYNOPSIS>Censé veiller au bon fonctionnement de la ferme selon les ordres de sa mère, Spud Kinney part à la chasse avec son frère et son meilleur ami.
+<pstyle:INFOS_UTILES>Copie d<0x2019>époque avec son stéréophonique 4 pistes d<0x2019>origine. Couleurs dénaturées.
 <pstyle:><cstyle:INFOSBLEUES>sa 26 sepXXX17h15XXX
 <cstyle:SALLESBLEUES>A
 

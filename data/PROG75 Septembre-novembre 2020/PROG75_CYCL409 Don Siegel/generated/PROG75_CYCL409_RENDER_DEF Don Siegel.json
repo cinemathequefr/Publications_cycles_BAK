@@ -186,6 +186,10 @@
             {
               "typeTexte": 9,
               "texte": "Pendant la Seconde Guerre mondiale, une troupe de soldats américains part en mission dans le Sud de la Chine pour délivrer un prisonnier important."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film sous réserve."
             }
           ],
           "generique": [
@@ -378,6 +382,10 @@
             {
               "typeTexte": 9,
               "texte": "Le shérif de Silver City et son adjoint essayent de neutraliser une bande armée qui terrorise la région."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film sous réserve."
             }
           ],
           "generique": [
@@ -1313,6 +1321,10 @@
             {
               "typeTexte": 9,
               "texte": "Des meurtres violents ont été commis aux abords d'une mine désaffectée, dans le Grand Canyon du Colorado. Un jeune shérif mène l'enquête."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Film sous réserve."
             }
           ],
           "generique": [
@@ -1591,6 +1603,10 @@
             {
               "typeTexte": 9,
               "texte": "Censé veiller au bon fonctionnement de la ferme selon les ordres de sa mère, Spud Kinney part à la chasse avec son frère et son meilleur ami."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Copie d'époque avec son stéréophonique 4 pistes d'origine. Couleurs dénaturées."
             }
           ],
           "adaptation": "D'après le roman _Houn Dog Man_ de Fred Gipson.",
