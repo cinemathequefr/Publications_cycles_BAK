@@ -1,5 +1,21 @@
 # Cinéma bis
 
+[52063]*  
+**Cartes sur table**  
+**(Cartas boca arriba)**  
+de Jesus Franco  
+Espagne-France / 1965  
+Avec Eddie Constantine, Françoise Brion, Fernando Rey.  
+Un agent secret enquête sur une série d'assassinats de personnalités internationales commis par des terroristes génétiquement modifiés
+
+[60678]*  
+**Dans les griffes du maniaque = Le Diabolique docteur Z**  
+**(Miss Muerte)**  
+de Jess Franco  
+Espagne-France / 1965  
+Avec Estella Blain, Mabel Karr, Howard Vernon.  
+La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort.
+
 [48793]*  
 **Le Gendarme et les extra-terrestres**  
 de Jean Girault  
@@ -33,22 +49,6 @@ de Ray Milland
 Avec Ray Milland, Jean Hagen, Frankie Avalon.  
 Los Angeles est détruit par une attaque nucléaire. Commence alors la lutte pour la survie. Un honorable père de famille américain révèle sa véritable nature.
 
-[33229]  
-**Les Secrets du docteur Boronski**  
-**(The Gamma People)**  
-de John Gilling  
-Grande-Bretagne / 1955  
-Avec Paul Douglas, Eva Bartok, Walter Rilla.  
-Un journaliste découvre les travaux d'un scientifique fou, exposant des enfants à des rayons gamma, en pensant développer chez eux, une intelligence supérieure. Les résultats et conséquences sont en fait fort dramatiques.
-
-[45501]  
-**Signes particuliers : Néant**  
-**(The Man Inside)**  
-de John Gilling  
-Grande-Bretagne / 1958  
-Avec Jack Palance, Anita Ekberg, Donald Pleasence.  
-L'employé d'une bijouterie tue un homme en volant une des pierres précieuses de l'établissement. Un détective privé est vite lancé à sa poursuite.
-
 [54589]*  
 **La Soupe aux choux**  
 de Jean Girault  
@@ -63,6 +63,6 @@ Deux vieux paysans alcooliques, Le Glaude et Le Bombé, vivent retirés de la vi
 **(Tarzan, the Ape Man)**  
 de John Derek  
 États-Unis / 1981  
-Avec Richard Harris, Bo Derek.  
+Avec Richard Harris, Bo Derek, John Phillip Law.  
 Jane Parker part à la recherche de son père, explorateur en Afrique occidentale, disparu depuis de longues années.
 

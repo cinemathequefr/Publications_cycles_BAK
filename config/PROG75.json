@@ -49,8 +49,18 @@
           "tri": 4
         },
         {
-          "titre": "[?]",
-          "cats": [2291],
+          "titre": "Formes dégradées de l'aventure exotique",
+          "cats": [2325],
+          "tri": 4
+        },
+        {
+          "titre": "Après l'Apocalypse",
+          "cats": [2326],
+          "tri": 4
+        },
+        {
+          "titre": "Jess Franco / Jean-Claude Carrière",
+          "cats": [2329],
           "tri": 4
         }
       ]

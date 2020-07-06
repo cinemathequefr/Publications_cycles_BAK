@@ -11,9 +11,23 @@
         "tri": 4
       },
       {
-        "titre": "[?]",
+        "titre": "Formes dégradées de l'aventure exotique",
         "cats": [
-          2291
+          2325
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Après l'Apocalypse",
+        "cats": [
+          2326
+        ],
+        "tri": 4
+      },
+      {
+        "titre": "Jess Franco / Jean-Claude Carrière",
+        "cats": [
+          2329
         ],
         "tri": 4
       }
@@ -62,7 +76,8 @@
               "idSalle": [
                 "HL",
                 "Henri Langlois"
-              ]
+              ],
+              "mention": "Séance présentée par Christine Dejoux"
             }
           ]
         },
@@ -109,12 +124,12 @@
       ]
     },
     {
-      "titreSousCycle": "[?]",
+      "titreSousCycle": "Formes dégradées de l'aventure exotique",
       "tri": 4,
       "textes": [],
       "items": [
         {
-          "idCategorie": 2291,
+          "idCategorie": 2325,
           "idEvenement": 22682,
           "films": [
             {
@@ -132,7 +147,8 @@
               ],
               "generique": [
                 "Richard Harris",
-                "Bo Derek"
+                "Bo Derek",
+                "John Phillip Law"
               ],
               "duree": 111,
               "format": "35 mm",
@@ -152,7 +168,7 @@
           ]
         },
         {
-          "idCategorie": 2291,
+          "idCategorie": 2325,
           "idEvenement": 22683,
           "films": [
             {
@@ -177,7 +193,7 @@
               ],
               "duree": 93,
               "format": "35 mm",
-              "version": "",
+              "version": "VF",
               "ageMinimal": null,
               "ordre": 1
             }
@@ -191,9 +207,16 @@
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Après l'Apocalypse",
+      "tri": 4,
+      "textes": [],
+      "items": [
         {
-          "idCategorie": 2291,
+          "idCategorie": 2326,
           "idEvenement": 22699,
           "films": [
             {
@@ -214,7 +237,7 @@
                 "Jean Hagen",
                 "Frankie Avalon"
               ],
-              "duree": 0,
+              "duree": 92,
               "format": "35 mm",
               "version": "VOSTF",
               "ageMinimal": null,
@@ -232,7 +255,7 @@
           ]
         },
         {
-          "idCategorie": 2291,
+          "idCategorie": 2326,
           "idEvenement": 22700,
           "films": [
             {
@@ -256,7 +279,7 @@
               ],
               "duree": 88,
               "format": "35 mm",
-              "version": "",
+              "version": "VF",
               "ageMinimal": null,
               "ordre": 1
             }
@@ -264,6 +287,91 @@
           "seance": [
             {
               "dateHeure": "2020-11-27T22:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titreSousCycle": "Jess Franco / Jean-Claude Carrière",
+      "tri": 4,
+      "textes": [],
+      "items": [
+        {
+          "idCategorie": 2329,
+          "idEvenement": 22609,
+          "films": [
+            {
+              "idFilm": 52063,
+              "titre": "Cartes sur table",
+              "titreVo": "Cartas boca arriba",
+              "realisateurs": "Jesus Franco",
+              "annee": 1965,
+              "pays": "Espagne-France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "Un agent secret enquête sur une série d'assassinats de personnalités internationales commis par des terroristes génétiquement modifiés"
+                }
+              ],
+              "generique": [
+                "Eddie Constantine",
+                "Françoise Brion",
+                "Fernando Rey"
+              ],
+              "duree": 91,
+              "format": "DCP",
+              "version": "VF",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-10-23T20:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
+              ]
+            }
+          ]
+        },
+        {
+          "idCategorie": 2329,
+          "idEvenement": 22610,
+          "films": [
+            {
+              "idFilm": 60678,
+              "titre": "Dans les griffes du maniaque = Le Diabolique docteur Z",
+              "titreVo": "Miss Muerte",
+              "realisateurs": "Jess Franco",
+              "annee": 1965,
+              "pays": "Espagne-France",
+              "textes": [
+                {
+                  "typeTexte": 9,
+                  "texte": "La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort."
+                }
+              ],
+              "generique": [
+                "Estella Blain",
+                "Mabel Karr",
+                "Howard Vernon"
+              ],
+              "duree": 86,
+              "format": "DCP",
+              "version": "VF",
+              "ageMinimal": null,
+              "ordre": 1
+            }
+          ],
+          "seance": [
+            {
+              "dateHeure": "2020-10-23T22:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"

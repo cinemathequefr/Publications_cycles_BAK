@@ -1,6 +1,6 @@
 [
   {
-    "idCategorie": 2291,
+    "idCategorie": 2325,
     "typeEvenement": 13,
     "idEvenement": 22682,
     "idSeance": 35636,
@@ -23,7 +23,7 @@
     ]
   },
   {
-    "idCategorie": 2291,
+    "idCategorie": 2325,
     "typeEvenement": 13,
     "idEvenement": 22683,
     "idSeance": 35637,
@@ -39,7 +39,7 @@
         "idSeance": 35637,
         "idCopie": 21149,
         "duree": 93,
-        "version": "",
+        "version": "VF",
         "format": "35 mm",
         "valide": 1
       }
@@ -66,7 +66,8 @@
         "format": "",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Christine Dejoux"
   },
   {
     "idCategorie": 2249,
@@ -92,7 +93,53 @@
     ]
   },
   {
-    "idCategorie": 2291,
+    "idCategorie": 2329,
+    "typeEvenement": 13,
+    "idEvenement": 22609,
+    "idSeance": 35915,
+    "dateHeure": "2020-10-23T20:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 52063,
+        "ordre": 1,
+        "idSeance": 35915,
+        "idCopie": 21110,
+        "duree": 91,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2329,
+    "typeEvenement": 13,
+    "idEvenement": 22610,
+    "idSeance": 35916,
+    "dateHeure": "2020-10-23T22:00:00",
+    "idSalle": [
+      "GF",
+      "Georges Franju"
+    ],
+    "items": [
+      {
+        "idFilm": 60678,
+        "ordre": 1,
+        "idSeance": 35916,
+        "idCopie": 21114,
+        "duree": 86,
+        "version": "VF",
+        "format": "DCP",
+        "valide": 0
+      }
+    ]
+  },
+  {
+    "idCategorie": 2326,
     "typeEvenement": 13,
     "idEvenement": 22699,
     "idSeance": 36002,
@@ -107,7 +154,7 @@
         "ordre": 1,
         "idSeance": 36002,
         "idCopie": 21217,
-        "duree": 0,
+        "duree": 92,
         "version": "VOSTF",
         "format": "35 mm",
         "valide": 1
@@ -115,7 +162,7 @@
     ]
   },
   {
-    "idCategorie": 2291,
+    "idCategorie": 2326,
     "typeEvenement": 13,
     "idEvenement": 22700,
     "idSeance": 36003,
@@ -129,9 +176,9 @@
         "idFilm": 73096,
         "ordre": 1,
         "idSeance": 36003,
-        "idCopie": 21215,
+        "idCopie": 21216,
         "duree": 88,
-        "version": "",
+        "version": "VF",
         "format": "35 mm",
         "valide": 1
       }

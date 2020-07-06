@@ -1,5 +1,45 @@
 [
   {
+    "titre": "Cartes sur table",
+    "titreVo": "Cartas boca arriba",
+    "idFilm": 52063,
+    "ageMinimal": null,
+    "realisateurs": "Jesus Franco",
+    "annee": 1965,
+    "pays": "Espagne-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un agent secret enquête sur une série d'assassinats de personnalités internationales commis par des terroristes génétiquement modifiés"
+      }
+    ],
+    "generique": [
+      "Eddie Constantine",
+      "Françoise Brion",
+      "Fernando Rey"
+    ]
+  },
+  {
+    "titre": "Dans les griffes du maniaque = Le Diabolique docteur Z",
+    "titreVo": "Miss Muerte",
+    "idFilm": 60678,
+    "ageMinimal": null,
+    "realisateurs": "Jess Franco",
+    "annee": 1965,
+    "pays": "Espagne-France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort."
+      }
+    ],
+    "generique": [
+      "Estella Blain",
+      "Mabel Karr",
+      "Howard Vernon"
+    ]
+  },
+  {
     "titre": "Gendarme et les extra-terrestres",
     "art": "Le",
     "titreVo": "",
@@ -84,49 +124,6 @@
     ]
   },
   {
-    "titre": "Secrets du docteur Boronski",
-    "art": "Les",
-    "titreVo": "Gamma People",
-    "artVo": "The",
-    "idFilm": 33229,
-    "ageMinimal": 0,
-    "realisateurs": "John Gilling",
-    "annee": 1955,
-    "pays": "Grande-Bretagne",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "Un journaliste découvre les travaux d'un scientifique fou, exposant des enfants à des rayons gamma, en pensant développer chez eux, une intelligence supérieure. Les résultats et conséquences sont en fait fort dramatiques."
-      }
-    ],
-    "generique": [
-      "Paul Douglas",
-      "Eva Bartok",
-      "Walter Rilla"
-    ]
-  },
-  {
-    "titre": "Signes particuliers : Néant",
-    "titreVo": "Man Inside",
-    "artVo": "The",
-    "idFilm": 45501,
-    "ageMinimal": null,
-    "realisateurs": "John Gilling",
-    "annee": 1958,
-    "pays": "Grande-Bretagne",
-    "textes": [
-      {
-        "typeTexte": 9,
-        "texte": "L'employé d'une bijouterie tue un homme en volant une des pierres précieuses de l'établissement. Un détective privé est vite lancé à sa poursuite."
-      }
-    ],
-    "generique": [
-      "Jack Palance",
-      "Anita Ekberg",
-      "Donald Pleasence"
-    ]
-  },
-  {
     "titre": "Soupe aux choux",
     "art": "La",
     "titreVo": "",
@@ -163,7 +160,8 @@
     ],
     "generique": [
       "Richard Harris",
-      "Bo Derek"
+      "Bo Derek",
+      "John Phillip Law"
     ]
   }
 ]
