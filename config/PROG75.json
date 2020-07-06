@@ -44,23 +44,23 @@
       "titreCycle": "Cinéma bis",
       "sousCycles": [
         {
-          "titre": "De Funès et les extraterrestres",
-          "cats": [2249],
-          "tri": 4
-        },
-        {
           "titre": "Formes dégradées de l'aventure exotique",
           "cats": [2325],
           "tri": 4
         },
         {
-          "titre": "Après l'Apocalypse",
-          "cats": [2326],
+          "titre": "De Funès et les extraterrestres",
+          "cats": [2249],
           "tri": 4
         },
         {
           "titre": "Jess Franco / Jean-Claude Carrière",
           "cats": [2329],
+          "tri": 4
+        },
+        {
+          "titre": "Après l'Apocalypse",
+          "cats": [2326],
           "tri": 4
         }
       ]
