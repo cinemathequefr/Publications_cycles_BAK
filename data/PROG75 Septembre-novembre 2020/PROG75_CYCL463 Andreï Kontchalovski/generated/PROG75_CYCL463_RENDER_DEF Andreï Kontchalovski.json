@@ -179,7 +179,7 @@
           ],
           "duree": 0,
           "format": "DCP",
-          "version": "VO",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -333,8 +333,8 @@
               "idEvenement": 21806,
               "dateHeure": "2020-10-14T19:30:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             }
           ]
@@ -424,8 +424,8 @@
               "idEvenement": 21813,
               "dateHeure": "2020-10-14T21:45:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             }
           ]

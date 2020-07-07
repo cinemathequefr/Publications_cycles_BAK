@@ -39,7 +39,7 @@ Avec Tom Hulce, Lolita Davidovich, Alexandre Zbrouïev, Fédor Chaliapine Jr..
 **Chers camarades**  
 **(Doroguié tovarichtchi)**  
 d'Andreï Kontchalovski  
-Russie / 2020 / VO / DCP  
+Russie / 2020 / VOSTF / DCP  
 Avec Ioulia Vyssotskaïa, Andreï Goussev, Ioulia Bourava.  
 Le récit des événements de 1962 à Novotcherkassk, quand une manifestation d'ouvriers en grève fut réprimée dans le sang par les autorités.
 
@@ -79,7 +79,7 @@ En 1996, pendant la première guerre en Tchétchénie, la vie des patients, livr
 Restauration 2K par The Andrei Konchalovsky Studios.
 
 - sa 26 sep 18h30 GF  
-- me 14 oct 19h30 GF
+- me 14 oct 19h30 JE
 
 [33873]  
 **Maria's Lovers**  
@@ -101,7 +101,7 @@ Avec Irina Kouptchenko, Leonid Koulaguine, Nikita Mikhalkov.
 Dans les années 1840, un noble russe, trompé par sa femme, rentre d'Italie et retrouve avec plaisir son domaine. Mais la première visite rendue à ses voisins le met en présence de son indigne épouse.
 
 - me 23 sep 19h30 GF  
-- me 14 oct 21h45 GF
+- me 14 oct 21h45 JE
 
 [127368]  
 **Les Nuits blanches du facteur**  

@@ -5,16 +5,15 @@
 <pstyle:TITRE>Persepolis
 <pstyle:TECHNIQUE>de Marjane Satrapi, Vincent Paronnaud
 <pstyle:TECHNIQUE>France/2006/95<0x2019>/DCP
-<pstyle:TECHNIQUE>D<0x2019>après la bande-dessinée <cSkew:9>Persepolis<cSkew:> de Marjane Satrapi.
-<pstyle:TECHNIQUE>Avec Chiara Mastroianni, Catherine Deneuve, Danielle Darrieux.
+<pstyle:TECHNIQUE>D<0x2019>après la bande dessinée <cSkew:9>Persepolis<cSkew:> de Marjane Satrapi.
 
-<pstyle:><cstyle:INFOSBLEUES>je 15 octXXX19h00XXX
+<pstyle:><cstyle:INFOSBLEUES>je 15 octXXX19h30XXX
 <cstyle:SALLESBLEUES>C
 
-<pstyle:TITRE>Sur les traces de Persepolis, le chemin des archives
+<pstyle:TITRE>Sur les traces de «<0x00A0>Persepolis<0x00A0>»<0x00A0>: le chemin des archives
 <pstyle:TECHNIQUE>undefined
 <pstyle:TECHNIQUE>90<0x2019>
 
-<pstyle:><cstyle:INFOSBLEUES>je 15 octXXX17h00XXX
+<pstyle:><cstyle:INFOSBLEUES>je 15 octXXX17h30XXX
 <cstyle:SALLESBLEUES>C
 

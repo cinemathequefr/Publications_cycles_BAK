@@ -198,7 +198,7 @@
           "annee": 2020,
           "pays": "Russie",
           "duree": 0,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "DCP",
           "ageMinimal": null,
           "generique": [
@@ -398,8 +398,8 @@
           "ordre": 1,
           "dateHeure": "2020-10-14T19:30:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 2082,
           "idEvenement": 21806,
@@ -536,8 +536,8 @@
           "ordre": 1,
           "dateHeure": "2020-10-14T21:45:00",
           "idSalle": [
-            "GF",
-            "Georges Franju"
+            "JE",
+            "Jean Epstein"
           ],
           "idCategorie": 2082,
           "idEvenement": 21813,

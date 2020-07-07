@@ -133,6 +133,7 @@
 <pstyle:><cstyle:INFOSBLEUES>me 16 sepXXX19h00XXX
 <cstyle:SALLESBLEUES>A
 <pstyle:EVENEMENT>Ouverture de la rétrospective
+Voir aussi Leçon de cinéma p.<0x00A0>X
 <cstyle:INFOSBLEUES>di 11 octXXX16h45XXX
 <cstyle:SALLESBLEUES>B
 
@@ -228,11 +229,11 @@
 <pstyle:CATEGORIE>Rencontres et conférences
 
 <pstyle:TITRE>Kontchalovski par Kontchalovski
-<pstyle:TECHNIQUE>undefined
-<pstyle:TECHNIQUE>90<0x2019>
+Leçon de cinéma animée par Michel Ciment et Bernard Benoliel
 <pstyle:SYNOPSIS>«<0x00A0>Je pense que la première touche de moi-même dans un de mes films est arrivée dans <ct:Italic>Le Bonheur d<0x2019>Assia<ct:>, puis je suis redevenu maniériste dans toutes les directions possibles et c<0x2019>est seulement avec <ct:Italic>Les Nuits blanches du facteur<ct:> et <ct:Italic>Paradis<ct:> que je me suis trouvé. C<0x2019>est pourquoi je dis que ma carrière a réellement commencé il y a quatre ans.<0x00A0>» «<0x00A0>L<0x2019>idée de faire ce film est sans doute venue il y a vingt ans, lorsque j<0x2019>ai lu un petit article sur Véra Obolensky. J<0x2019>ai lu sa biographie, et j<0x2019>ai vu des photos. Elle était très belle et son histoire m<0x2019>a fait pleurer. Une aristocrate russe, qui a été guillotinée à Berlin parce qu<0x2019>elle a sauvé des enfants juifs, pour moi c<0x2019>était un symbole du vrai esprit russe.<0x00A0>» (Andreï Kontchalovski)
-<pstyle:SYNOPSIS>Bernard Benoliel est directeur de l<0x2019>Action culturelle et éducative à la Cinémathèque française.
 <pstyle:SYNOPSIS>Historien et critique de cinéma, Michel Ciment est maître de conférences en civilisation américaine à l<0x2019>université Paris-Diderot et membre du comité de rédaction de <ct:Italic>Positif,<ct:> collaborateur régulier du <ct:Italic>Masque et la plume<ct:> à France Inter. Il est l<0x2019>auteur, entre autres, de <ct:Italic>Kazan par Kazan<ct:>, du <ct:Italic>Livre de Losey<ct:>, de <ct:Italic>Kubrick<ct:> et, récemment, de <ct:Italic>John Boorman, un visionnaire en son temps<ct:> (Marest Éditeur, 2019) et d<0x2019><ct:Italic>Andreï Konchalovsky, ni dissident, ni partisan, ni courtisan<ct:> (Institut Lumière / Actes Sud, 2019).
+<pstyle:SYNOPSIS>Bernard Benoliel est directeur de l<0x2019>Action culturelle et éducative à la Cinémathèque française.
 <pstyle:><cstyle:INFOSBLEUES>me 16 sepXXX19h00XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:CONFERENCE NOTE>À la suite de la projection de <cSkew:9>Paradis<cSkew:> d'Andreï Kontchalovski (voir p.<0x00A0>xx)
 
