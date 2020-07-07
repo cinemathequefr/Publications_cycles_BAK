@@ -141,7 +141,7 @@
 <pstyle:SYNOPSIS>Pierre, un quadragénaire directeur d<0x2019>usine, s<0x2019>ennuie dans son travail et sa vie de couple. Un jour, une jolie jeune femme vient remplacer sa vieille secrétaire.
 <pstyle:><cstyle:INFOSBLEUES>je 22 octXXX19h00XXX
 <cstyle:SALLESBLEUES>A
-<pstyle:EVENEMENT>Film précédé de <cSkew:9>Heureux anniversaire<cSkew:> de Pierre Étaix, Jean-Claude Carrière, <cSkew:9>La Pince à ongles<cSkew:> de Jean-Claude Carrière
+<pstyle:EVENEMENT>Film précédé de <cSkew:9>Heureux anniversaire<cSkew:> de Pierre Étaix et Jean-Claude Carrière et <cSkew:9>La Pince à ongles<cSkew:> de Jean-Claude Carrière
 
 <pstyle:TITRE>Heureux anniversaire
 <pstyle:TECHNIQUE>de Pierre Étaix, Jean-Claude Carrière
@@ -150,7 +150,7 @@
 <pstyle:SYNOPSIS>Des anniversaires pas comme les autres, entre scènes de ménage à la Laurel et Hardy, ou des petites canailles qui s<0x2019>invitent à la fête.
 <pstyle:><cstyle:INFOSBLEUES>je 22 octXXX19h00XXX
 <cstyle:SALLESBLEUES>A
-<pstyle:EVENEMENT>Film suivi de <cSkew:9>Le Grand amour<cSkew:> de Pierre Étaix, <cSkew:9>La Pince à ongles<cSkew:> de Jean-Claude Carrière
+<pstyle:EVENEMENT>Film suivi du <cSkew:9>Grand amour<cSkew:> de Pierre Étaix et <cSkew:9>La Pince à ongles<cSkew:> de Jean-Claude Carrière
 
 <pstyle:TITRE>L<0x2019>Homme fidèle
 <pstyle:TECHNIQUE>de Louis Garrel
@@ -203,7 +203,7 @@
 <pstyle:SYNOPSIS>La disparition d<0x2019>une pince à ongles dans une chambre d<0x2019>hôtel provoque la frayeur des propriétaires de l<0x2019>objet capricieux.
 <pstyle:><cstyle:INFOSBLEUES>je 22 octXXX19h00XXX
 <cstyle:SALLESBLEUES>A
-<pstyle:EVENEMENT>Film précédé de <cSkew:9>Heureux anniversaire<cSkew:> de Pierre Étaix, Jean-Claude Carrière et suivi de de <cSkew:9>Le Grand amour<cSkew:> de Pierre Étaix
+<pstyle:EVENEMENT>Film précédé de <cSkew:9>Heureux anniversaire<cSkew:> de Pierre Étaix et Jean-Claude Carrière et suivi du <cSkew:9>Grand amour<cSkew:> de Pierre Étaix
 
 <pstyle:TITRE>La Piscine
 <pstyle:TECHNIQUE>de Jacques Deray
@@ -212,6 +212,7 @@
 <pstyle:SYNOPSIS>Jean-Paul et Marianne forment un couple idéal et coulent des jours heureux dans leur villa de Saint-Tropez, jusqu<0x2019>au jour où arrive Harry, accompagné sa fille, l<0x2019>incendiaire Pénélope.
 <pstyle:><cstyle:INFOSBLEUES>sa 31 octXXX15h00XXX
 <cstyle:SALLESBLEUES>A
+<pstyle:EVENEMENT>Voir aussi Dialogue p.<0x00A0>X
 
 <pstyle:TITRE>Le Ruban blanc
 <pstyle:TITRE_ANG>(Das Weisse Band)
@@ -290,11 +291,10 @@
 <pstyle:CATEGORIE>Rencontres et conférences
 
 <pstyle:TITRE>Dialogue avec Jean-Claude Carrière
-<pstyle:TECHNIQUE>undefined
-<pstyle:TECHNIQUE>45<0x2019>
+Animé par Gabriela Trujillo
 <pstyle:SYNOPSIS>«<0x00A0>J<0x2019>ai travaillé plus de trois mois sur ces dialogues. Après tout un travail d<0x2019>élimination, de coupures, je m<0x2019>estimai à peu près satisfait. Cependant, lorsque le producteur lut cette version, il me demanda<0x00A0>: "Et maintenant, qu<0x2019>est-ce qu<0x2019>on fait pour le dialogue<0x00A0>?" Je ne savais que dire. Je voyais le film condamné d<0x2019>avance. Heureusement, Jacques Deray se tenait à mes côtés...<0x00A0>»
 <pstyle:SYNOPSIS>Gabriela Trujillo est spécialiste des avant-gardes latino-américaines et européennes. Elle travaille à l<0x2019>Action culturelle de la Cinémathèque française.
 <pstyle:SYNOPSIS>Scénariste d<0x2019>une myriade de films, Jean-Claude Carrière collabore à huit reprises avec le réalisateur Jacques Deray, signant avec lui, entre autres des scénarios pour la télévision et le cinéma, dont <ct:Italic>La Piscine<ct:>, <ct:Italic>Borsalino<ct:> et <ct:Italic>Un papillon sur l<0x2019>épaule<ct:>.
 <pstyle:><cstyle:INFOSBLEUES>sa 31 octXXX15h00XXX
 <cstyle:SALLESBLEUES>A
-
+<pstyle:CONFERENCE NOTE>À la suite de la projection de <cSkew:9>La Piscine<cSkew:> de Jacques Deray (voir p.<0x00A0>xx)

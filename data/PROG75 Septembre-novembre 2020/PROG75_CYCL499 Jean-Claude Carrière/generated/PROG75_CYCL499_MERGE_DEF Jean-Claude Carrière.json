@@ -196,7 +196,7 @@
           "idFilm": 52063,
           "titre": "Cartes sur table",
           "titreVo": "Cartas boca arriba",
-          "realisateurs": "Jesús Franco",
+          "realisateurs": "Jess Franco",
           "annee": 1965,
           "pays": "Espagne-France",
           "duree": 91,
@@ -422,6 +422,40 @@
             {
               "typeTexte": 9,
               "texte": "Été 1793 : le Comité de salut public, à l'instigation de Robespierre, instaure la Terreur. La famine réapparaît, entraînant la révolte, et les têtes tombent. Danton, regagnant Paris, s'oppose à Robespierre."
+            }
+          ]
+        },
+        {
+          "idSeance": 35916,
+          "ordre": 1,
+          "dateHeure": "2020-10-23T22:00:00",
+          "idSalle": [
+            "GF",
+            "Georges Franju"
+          ],
+          "idCategorie": 2283,
+          "idEvenement": 22610,
+          "typeEvenement": 13,
+          "idFilm": 60678,
+          "art": "Le",
+          "titre": "Diabolique docteur Z",
+          "titreVo": "Miss Muerte",
+          "realisateurs": "Jess Franco",
+          "annee": 1965,
+          "pays": "Espagne-France",
+          "duree": 86,
+          "version": "VF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Estella Blain",
+            "Mabel Karr",
+            "Howard Vernon"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort."
             }
           ]
         },
@@ -769,40 +803,6 @@
             {
               "typeTexte": 9,
               "texte": "En 1928, Célestine est embauchée comme femme de chambre chez les Monteil et devient la maîtresse de Joseph, un domestique qui a assassiné une petite fille."
-            }
-          ]
-        },
-        {
-          "idSeance": 35916,
-          "ordre": 1,
-          "dateHeure": "2020-10-23T22:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
-          "idCategorie": 2283,
-          "idEvenement": 22610,
-          "typeEvenement": 13,
-          "idFilm": 60678,
-          "art": "Le",
-          "titre": "Le Diabolique docteur Z",
-          "titreVo": "Miss Muerte",
-          "realisateurs": "Jesús Franco",
-          "annee": 1965,
-          "pays": "Espagne-France",
-          "duree": 86,
-          "version": "VF",
-          "format": "DCP",
-          "ageMinimal": null,
-          "generique": [
-            "Estella Blain",
-            "Mabel Karr",
-            "Howard Vernon"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort."
             }
           ]
         },

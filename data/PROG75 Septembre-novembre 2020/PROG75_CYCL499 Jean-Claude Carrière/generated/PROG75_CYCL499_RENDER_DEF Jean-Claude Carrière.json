@@ -187,7 +187,7 @@
           "idFilm": 52063,
           "titre": "Cartes sur table",
           "titreVo": "Cartas boca arriba",
-          "realisateurs": "Jesús Franco",
+          "realisateurs": "Jess Franco",
           "annee": 1965,
           "pays": "Espagne-France",
           "textes": [
@@ -410,6 +410,42 @@
               "idSalle": [
                 "HL",
                 "Henri Langlois"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 60678,
+          "titre": "Diabolique docteur Z",
+          "art": "Le",
+          "titreVo": "Miss Muerte",
+          "realisateurs": "Jess Franco",
+          "annee": 1965,
+          "pays": "Espagne-France",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort."
+            }
+          ],
+          "generique": [
+            "Estella Blain",
+            "Mabel Karr",
+            "Howard Vernon"
+          ],
+          "duree": 86,
+          "format": "DCP",
+          "version": "VF",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 35916,
+              "ordre": 1,
+              "idEvenement": 22610,
+              "dateHeure": "2020-10-23T22:00:00",
+              "idSalle": [
+                "GF",
+                "Georges Franju"
               ]
             }
           ]
@@ -693,42 +729,6 @@
               "ordre": 1,
               "idEvenement": 22453,
               "dateHeure": "2020-10-29T21:45:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
-            }
-          ]
-        },
-        {
-          "idFilm": 60678,
-          "titre": "Le Diabolique docteur Z",
-          "art": "Le",
-          "titreVo": "Miss Muerte",
-          "realisateurs": "Jesús Franco",
-          "annee": 1965,
-          "pays": "Espagne-France",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort."
-            }
-          ],
-          "generique": [
-            "Estella Blain",
-            "Mabel Karr",
-            "Howard Vernon"
-          ],
-          "duree": 86,
-          "format": "DCP",
-          "version": "VF",
-          "ageMinimal": null,
-          "seance": [
-            {
-              "idSeance": 35916,
-              "ordre": 1,
-              "idEvenement": 22610,
-              "dateHeure": "2020-10-23T22:00:00",
               "idSalle": [
                 "GF",
                 "Georges Franju"
