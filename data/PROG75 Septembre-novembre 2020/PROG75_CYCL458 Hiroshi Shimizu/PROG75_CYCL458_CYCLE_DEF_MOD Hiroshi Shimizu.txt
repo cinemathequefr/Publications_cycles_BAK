@@ -271,6 +271,7 @@
 <pstyle:INFOS_UTILES>Copie National Film Archive of Japan.
 <pstyle:><cstyle:INFOSBLEUES>ve 30 octXXX19h30XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Voir aussi Dialogue p.<0x00A0>X
 
 <pstyle:TITRE>Journal d<0x2019>une famille
 <pstyle:TITRE_ANG>(Katei nikki)
@@ -360,6 +361,7 @@
 <pstyle:SYNOPSIS>Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s<0x2019>excuser de l<0x2019>incident. Une idylle se noue entre eux.
 <pstyle:><cstyle:INFOSBLEUES>je 05 novXXX21h30XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:EVENEMENT>Voir aussi Conférence p.<0x00A0>X
 
 <pstyle:TITRE>Pourquoi sont-elles devenues ainsi<0x00A0>?
 <pstyle:TITRE_ANG>(Naze kanojora wa so natta ka)
@@ -490,19 +492,18 @@
 <pstyle:CATEGORIE>Rencontres et conférences
 
 <pstyle:TITRE>Dialogue avec Jo Osawa
-<pstyle:TECHNIQUE>undefined
-<pstyle:TECHNIQUE>45<0x2019>
+Animé par Wafa Ghermani
 <pstyle:SYNOPSIS>«<0x00A0>La plupart des films japonais qui représentent des femmes traînant autour des ports sont, dans mon souvenir, vulgaires, exagérant le côté sensuel de ces femmes. <ct:Italic>Jeunes filles japonaises au port<ct:>, cependant, garde une certaine dignité. Les derniers films de Hiroshi Shimizu ont une acuité brillante, où l<0x2019>on retrouve cette dignité.<0x00A0>» (Fuyuhiko Kitagawa, <ct:Italic>Kinema Jumpo<ct:>, 21 juin 1933)
-<pstyle:SYNOPSIS>Wafa Ghermani est docteure en études cinématographiques, spécialiste du cinéma taïwanais, et chargée d<0x2019>événements culturels à la Cinémathèque française.
 <pstyle:SYNOPSIS>Jo Osawa est curateur au National Film Archive of Japan.
+<pstyle:SYNOPSIS>Wafa Ghermani est docteure en études cinématographiques, spécialiste du cinéma taïwanais, et chargée d<0x2019>événements culturels à la Cinémathèque française.
 <pstyle:><cstyle:INFOSBLEUES>ve 30 octXXX19h30XXX
 <cstyle:SALLESBLEUES>B
+<pstyle:CONFERENCE NOTE>À la suite de la projection de <cSkew:9>Jeunes filles japonaises sur le port<cSkew:> de Hiroshi Shimizu (voir p.<0x00A0>xx)
 
 <pstyle:TITRE>Qui êtes-vous Hiroshi Shimizu<0x00A0>?
-<pstyle:TECHNIQUE>undefined
-<pstyle:TECHNIQUE>90<0x2019>
+Conférence de Fabrice Arduini
 <pstyle:SYNOPSIS>Longtemps, Hiroshi Shimizu (1903-1966) est resté un inconnu au Japon. C<0x2019>est grâce à la persévérance d<0x2019>un seul homme, son ami et critique de renom Matsuo Kishi (1906-1985), que son <0x0153>uvre a pu faire l<0x2019>objet d<0x2019>une réhabilitation à partir des années 1990. À travers ses passionnants écrits sur la vie, la carrière, le style et ses rapports notamment avec Ozu, son rival aux studios Shochiku, cette conférence se propose de partir à la découverte de Shimizu, l<0x2019>oublié nippon aux 163 films.
 <pstyle:SYNOPSIS>Fabrice Arduini est directeur adjoint de la programmation à la Maison de la culture du Japon à Paris.
 <pstyle:><cstyle:INFOSBLEUES>je 05 novXXX19h00XXX
 <cstyle:SALLESBLEUES>B
-
+<pstyle:CONFERENCE NOTE>À la suite de la conférence, à 21h30, projection d<0x2019>un film choisi par le conférencier<0x00A0>: <cSkew:9>Pour une épingle à cheveux<cSkew:> de Hiroshi Shimizu (voir p.<0x00A0>xx)

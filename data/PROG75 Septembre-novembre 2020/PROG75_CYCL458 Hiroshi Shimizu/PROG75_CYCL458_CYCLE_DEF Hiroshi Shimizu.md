@@ -224,7 +224,7 @@ Japon / 1937 / 64 min / VOSTF / 16 mm
 Avec Shuji Sano, Ryu Chishu, Shin'ichi Himori.  
 Des étudiants partis en manœuvre s'intéressent moins à leur formation militaire qu'aux gens qu'ils croisent sur la route. Un soir, l'un deux surprend Seki, le champion d'athlétisme de l'université, en galante compagnie.
 
-- lu 23 nov 19h00 GF
+- lu 23 nov 19h00 JE
 
 [100286]  
 **Le Forgeron de la forêt**  
@@ -461,7 +461,7 @@ Japon / 1953 / 36 min / VOSTF / 35 mm
 Court métrage documentaire sur l'architecture et l'histoire des temples Kofuku-ji et Todai-ji, réalisé en même temps que _Les Enfants du Grand Bouddha_.  
 Copie neuve Kobe Planet Film Archive.
 
-- lu 23 nov 21h00 GF
+- lu 23 nov 21h00 JE
 
 [142771]  
 **La Tour d'introspection**  
@@ -543,7 +543,7 @@ Copie National Film Archive of Japan.
 **Dialogue avec Jo Osawa**  
 undefined  
 45 min  
-xxxxxxxxx, xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxxxx xx xxxxxxx xx xxxxx. xxxxx xxxxx x xx xxxxxxxxxxxx xxxx xxxx xxxxx, xxx xxx xx xxxxxxxx xx xxxxx xxxxxx xxxxx xxxxxxxxxxx, xxx xxx xxxxx x xx xxxxx xxxxxxx xxxxx xxxxxxxxxxxxxx x xxxxxx xxx xxxxxx xxxx. x xxxxxxx xxx xxxxxxxxxxxx xxxxxx xxx xx xxx, xx xxxxxxxx, xx xxxxx xx xxx xxxxxxxx xxxxxxxxx xxxx xxx, xxx xxxxx xxx xxxxxxx xxxxxxxx, xxxxx xxxxxxxxxx xx xxxxxxx xx xxxxxx x xx xxxxxxxxxx xx xxxxxxx, xxxxxxxx xxxxxx xxx xxx xxxxx.  
+« La plupart des films japonais qui représentent des femmes traînant autour des ports sont, dans mon souvenir, vulgaires, exagérant le côté sensuel de ces femmes. _Jeunes filles japonaises au port_, cependant, garde une certaine dignité. Les derniers films de Hiroshi Shimizu ont une acuité brillante, où l'on retrouve cette dignité. » (Fuyuhiko Kitagawa, _Kinema Jumpo_, 21 juin 1933)  
 Wafa Ghermani est docteure en études cinématographiques, spécialiste du cinéma taïwanais, et chargée d'événements culturels à la Cinémathèque française.  
 Jo Osawa est curateur au National Film Archive of Japan.
 

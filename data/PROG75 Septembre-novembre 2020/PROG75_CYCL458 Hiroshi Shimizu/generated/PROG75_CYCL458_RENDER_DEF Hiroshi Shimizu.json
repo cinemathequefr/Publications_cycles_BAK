@@ -873,8 +873,8 @@
             {
               "dateHeure": "2020-11-23T19:00:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             }
           ]
@@ -1749,8 +1749,8 @@
             {
               "dateHeure": "2020-11-23T21:00:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "JE",
+                "Jean Epstein"
               ]
             }
           ]
@@ -2055,7 +2055,7 @@
               "textes": [
                 {
                   "typeTexte": 8,
-                  "texte": "xxxxxxxxx, xxxxxxx xxxxxxx xxxxxxxxxxx xxx xxxxx xx xxxxxxx xx xxxxx. xxxxx xxxxx x xx xxxxxxxxxxxx xxxx xxxx xxxxx, xxx xxx xx xxxxxxxx xx xxxxx xxxxxx xxxxx xxxxxxxxxxx, xxx xxx xxxxx x xx xxxxx xxxxxxx xxxxx xxxxxxxxxxxxxx x xxxxxx xxx xxxxxx xxxx. x xxxxxxx xxx xxxxxxxxxxxx xxxxxx xxx xx xxx, xx xxxxxxxx, xx xxxxx xx xxx xxxxxxxx xxxxxxxxx xxxx xxx, xxx xxxxx xxx xxxxxxx xxxxxxxx, xxxxx xxxxxxxxxx xx xxxxxxx xx xxxxxx x xx xxxxxxxxxx xx xxxxxxx, xxxxxxxx xxxxxx xxx xxx xxxxx."
+                  "texte": "« La plupart des films japonais qui représentent des femmes traînant autour des ports sont, dans mon souvenir, vulgaires, exagérant le côté sensuel de ces femmes. _Jeunes filles japonaises au port_, cependant, garde une certaine dignité. Les derniers films de Hiroshi Shimizu ont une acuité brillante, où l'on retrouve cette dignité. » (Fuyuhiko Kitagawa, _Kinema Jumpo_, 21 juin 1933)"
                 },
                 {
                   "typeTexte": 156,
