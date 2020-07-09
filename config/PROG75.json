@@ -286,6 +286,7 @@
     {
       "idCycleProg": 510,
       "titreCycle": "Séances Jeune public",
+      "type": "jp",
       "sousCycles": [
         {
           "titre": "Les films",

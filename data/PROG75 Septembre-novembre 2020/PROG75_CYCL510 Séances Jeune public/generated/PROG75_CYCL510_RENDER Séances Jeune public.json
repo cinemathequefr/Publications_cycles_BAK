@@ -2,6 +2,7 @@
   "header": {
     "idCycleProg": 510,
     "titreCycle": "Séances Jeune public",
+    "type": "jp",
     "sousCycles": [
       {
         "titre": "Les films",
@@ -120,8 +121,8 @@
             {
               "dateHeure": "2020-10-18T15:00:00",
               "idSalle": [
-                "GF",
-                "Georges Franju"
+                "HL",
+                "Henri Langlois"
               ]
             }
           ]
