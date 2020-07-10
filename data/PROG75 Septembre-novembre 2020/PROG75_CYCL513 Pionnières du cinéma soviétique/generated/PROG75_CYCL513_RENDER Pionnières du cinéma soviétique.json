@@ -1,0 +1,563 @@
+{
+  "header": {
+    "idCycleProg": 513,
+    "titreCycle": "Pionnières du cinéma soviétique",
+    "sousCycles": [
+      {
+        "titre": "Les films",
+        "cats": [
+          2324
+        ],
+        "tri": 1
+      }
+    ],
+    "idProg": 75
+  },
+  "data": [
+    {
+      "titreSousCycle": "Les films",
+      "tri": 1,
+      "textes": [],
+      "items": [
+        {
+          "idFilm": 145170,
+          "titre": "Affaire des fermoirs",
+          "art": "L'",
+          "titreVo": "Delo s zastejkami",
+          "realisateurs": "Aleksandra Khokhlova",
+          "annee": 1929,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Tiré d'une nouvelle de Gorki. Trois vagabonds sont recueillis par une dévote. Dans cette satire de la bigoterie, sa première réalisation, Khokhlova met en valeur des acteurs jeunes, et filme en liberté les paysages de la vieille Russie."
+            }
+          ],
+          "generique": [
+            "A. Bavrine",
+            "Piotr Galadjev",
+            "G. Ivanovskaia"
+          ],
+          "duree": 27,
+          "format": "DCP",
+          "version": "",
+          "ageMinimal": 0,
+          "seance": [
+            {
+              "idSeance": 36262,
+              "ordre": 1,
+              "idEvenement": 22904,
+              "dateHeure": "2020-10-18T21:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36206,
+              "ordre": 1,
+              "idEvenement": 22904,
+              "dateHeure": "2020-10-25T17:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film suivi de _Sacha_ d'Aleksandra = Alexandra Khokhlova"
+        },
+        {
+          "idFilm": 145167,
+          "titre": "Buba",
+          "titreVo": "",
+          "realisateurs": "Nutsa Gogoberidze",
+          "annee": 1930,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Un village de montagne dont la pauvreté ancestrale sera bouleversée par l'arrivée du pouvoir soviétique. On pense au Sel de Svanétie, de Mikhaïl Kalatozov. La vitalité des avant-gardes géorgiennes n'avait alors rien à envier à Moscou et Leningrad."
+            }
+          ],
+          "duree": 39,
+          "format": "DCP",
+          "version": "VO",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36193,
+              "ordre": 1,
+              "idEvenement": 22902,
+              "dateHeure": "2020-10-18T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36201,
+              "ordre": 1,
+              "idEvenement": 22902,
+              "dateHeure": "2020-10-24T21:15:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film suivi d'_Ujmuri_ de Nutsa Gogoberidze"
+        },
+        {
+          "idFilm": 41491,
+          "titre": "Conte de Cendrillon = Cendrillon",
+          "art": "Le",
+          "titreVo": "Zolushka",
+          "realisateurs": "Nadejda Kocheverova, Mikhail Chapiro",
+          "annee": 1947,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Adaptant le conte de fées, l'ancienne assistante de Kozintsev et Trauberg tourne le dos à la réalité de l'après-guerre et adopte un point de vue résolument esthétisant, évoquant la miniature, les illustrateurs ou les décorateurs de théâtre du 19e siècle."
+            }
+          ],
+          "adaptation": "D'après le conte _Cendrillon_ de Charles Perrault.",
+          "generique": [
+            "Ianina Jeimo",
+            "Alekseï Konsovski",
+            "Erast Garine",
+            "Faïna Ranevskaïa"
+          ],
+          "duree": 82,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36199,
+              "ordre": 1,
+              "idEvenement": 22911,
+              "dateHeure": "2020-10-22T21:15:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36237,
+              "ordre": 1,
+              "idEvenement": 22911,
+              "dateHeure": "2020-10-29T20:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 145172,
+          "titre": "Gavroche",
+          "titreVo": "Gavroch",
+          "realisateurs": "Tatiana Loukachevitch",
+          "annee": 1937,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Adaptation très libre des _Misérables_ qui met en valeur le contexte politique et l'opposition à la Monarchie de Juillet. Incarnation du petit peuple, pauvre, rusé, héroïque, Gavroche monte sur les barricades parce que son père est assassiné dans les geôles du Roi."
+            }
+          ],
+          "adaptation": "D'après le roman _Les Misérables_ de Victor Hugo.",
+          "generique": [
+            "Kolya Smortchkov",
+            "Ivan Novoseltsev",
+            "Nina Zorskaya"
+          ],
+          "duree": 70,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36190,
+              "ordre": 1,
+              "idEvenement": 22898,
+              "dateHeure": "2020-10-17T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36235,
+              "ordre": 1,
+              "idEvenement": 22898,
+              "dateHeure": "2020-10-24T17:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film suivi de _Vavila le terrible et tante Arina_ de Nikolai Khodataev, Olga = Olga Khodatayeva Khodataeva"
+        },
+        {
+          "idFilm": 40480,
+          "titre": "Génération des vainqueurs",
+          "art": "La",
+          "titreVo": "Pokolenie pobediteleje",
+          "realisateurs": "Vera Stroeva",
+          "annee": 1936,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "D'un chahut à l'université en 1896 à la révolution de 1905 : l'histoire d'une génération qui prépare Octobre. Le film bénéficie d'interprètes parmi les plus brillants empruntés aux théâtres de Moscou."
+            }
+          ],
+          "generique": [
+            "Nikolai Khmelev",
+            "Ossip Abdoulov",
+            "Gueorgui Tchernovolenko"
+          ],
+          "duree": 110,
+          "format": "35 mm",
+          "version": "VO",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36197,
+              "ordre": 1,
+              "idEvenement": 22900,
+              "dateHeure": "2020-10-21T21:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36233,
+              "ordre": 1,
+              "idEvenement": 22900,
+              "dateHeure": "2020-10-28T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 135420,
+          "titre": "K.Ch.È. – Komsomol à la tête de l'électrification",
+          "titreVo": "K.Ch.E. – Komsomol – Chef èlektrifikatsii",
+          "realisateurs": "Esfir Choub",
+          "annee": 1932,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Pour Esther Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien et même américain."
+            }
+          ],
+          "duree": 59,
+          "format": "35 mm",
+          "version": "VO",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36196,
+              "ordre": 1,
+              "idEvenement": 22887,
+              "dateHeure": "2020-10-21T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36202,
+              "ordre": 1,
+              "idEvenement": 22887,
+              "dateHeure": "2020-10-25T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 145175,
+          "titre": "Kachtanka",
+          "titreVo": "",
+          "realisateurs": "Olga Preobrajenskaïa",
+          "annee": 1926,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'histoire d'un chien qui se perd, est vendu et finalement sauvé par un clown qui le fait monter sur scène. Tiré d'une nouvelle de Tchekhov, c'est un des premiers films conservés de la réalisatrice de _Femmes de Riazan_ (_Le Village du péché_)."
+            }
+          ],
+          "adaptation": "D'après la nouvelle _Kachtanka_ d'Anton Tchekhov.",
+          "generique": [
+            "Nikolai Panov",
+            "Evguenia Khovanskaia",
+            "Naoum Rogojine"
+          ],
+          "duree": 80,
+          "format": "35 mm",
+          "version": "VO",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36263,
+              "ordre": 1,
+              "idEvenement": 22912,
+              "dateHeure": "2020-10-17T21:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36200,
+              "ordre": 1,
+              "idEvenement": 22912,
+              "dateHeure": "2020-10-24T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 145171,
+          "titre": "Père et fils",
+          "titreVo": "Otets i syn",
+          "realisateurs": "Margarita Barskaia",
+          "annee": 1936,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Malgré sa réussite professionnelle, un père est incapable de communiquer avec son fils. Le garçon fugue et se retrouve mêlé à une bande de criminels. Le film a été interdit, remonté et mutilé. Il n'existe que dans une version incomplète."
+            }
+          ],
+          "generique": [
+            "Lev Sverdline",
+            "Vassili Novikov"
+          ],
+          "duree": 72,
+          "format": "35 mm",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36198,
+              "ordre": 1,
+              "idEvenement": 22903,
+              "dateHeure": "2020-10-22T19:30:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36236,
+              "ordre": 1,
+              "idEvenement": 22903,
+              "dateHeure": "2020-10-28T21:15:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 72917,
+          "titre": "Sacha",
+          "titreVo": "",
+          "realisateurs": "Aleksandra = Alexandra Khokhlova",
+          "annee": 1930,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Une jeune paysanne arrive à la ville, enceinte. Un policier la prend sous sa protection, un autre la dénonce comme l'épouse d'un détenu, accusé d'avoir tué l'instituteur du village. Khokhlova cinéaste fait la synthèse de Stanislavski et de son mari Koulechov."
+            }
+          ],
+          "generique": [
+            "M. Sapojnikova",
+            "P. Iline",
+            "Andreï Faït"
+          ],
+          "duree": 42,
+          "format": "",
+          "version": "",
+          "ageMinimal": 0,
+          "seance": [
+            {
+              "idSeance": 36262,
+              "ordre": 2,
+              "idEvenement": 22904,
+              "dateHeure": "2020-10-18T21:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36206,
+              "ordre": 2,
+              "idEvenement": 22904,
+              "dateHeure": "2020-10-25T17:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _L'Affaire des fermoirs_ d'Aleksandra Khokhlova"
+        },
+        {
+          "idFilm": 40611,
+          "titre": "Souliers percés",
+          "titreVo": "Rvanye bachmaki",
+          "realisateurs": "Margarita Barskaïa",
+          "annee": 1933,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "L'Allemagne prénazie vue par des yeux d'enfants. Splendidement chaotique comme le cinéma soviétique savait encore l'être, son esprit de révolte, son anarchisme et son amour des enfants séduisirent Henri Langlois : « Un vrai chef-d'œuvre », « le meilleur film parlant soviétique »."
+            }
+          ],
+          "generique": [
+            "Vera Alekhina",
+            "Mikhaïl Klimov",
+            "Ivan Novoseltsev"
+          ],
+          "duree": 85,
+          "format": "35 mm",
+          "version": "VO",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36189,
+              "ordre": 1,
+              "idEvenement": 22901,
+              "dateHeure": "2020-10-14T20:00:00",
+              "idSalle": [
+                "HL",
+                "Henri Langlois"
+              ],
+              "mention": "Ouverture de la rétrospective. Séance présentée par Bernard Eisenschitz et Irène Bonnaud"
+            },
+            {
+              "idSeance": 36203,
+              "ordre": 1,
+              "idEvenement": 22901,
+              "dateHeure": "2020-10-25T20:45:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 145168,
+          "titre": "Ujmuri",
+          "titreVo": "",
+          "realisateurs": "Nutsa Gogoberidze",
+          "annee": 1934,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Ujmuri, la Reine des Grenouilles qui hante le marais. Interdit après sa sortie en 1934, _Ujmuri_ a été retrouvé et restauré en 2018."
+            }
+          ],
+          "generique": [
+            "Kote Daushvili",
+            "Merab Chiqovani",
+            "Nutsa Chkheidze"
+          ],
+          "duree": 56,
+          "format": "DCP",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36193,
+              "ordre": 2,
+              "idEvenement": 22902,
+              "dateHeure": "2020-10-18T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36201,
+              "ordre": 2,
+              "idEvenement": 22902,
+              "dateHeure": "2020-10-24T21:15:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Buba_ de Nutsa Gogoberidze"
+        },
+        {
+          "idFilm": 145173,
+          "titre": "Vavila le terrible et tante Arina",
+          "titreVo": "Grozny Vavila i tetka Arina",
+          "realisateurs": "Nikolai Khodataev, Olga = Olga Khodatayeva Khodataeva",
+          "annee": 1928,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Le moujik Vavila bat sa femme, « tante » Arina. Quand lui et son copain voient les femmes partir fêter le 8 mars et s'éduquer à l'école des travailleuses, ils comprennent qu'ils sont fichus. Cet agit-film réunit quatre pionniers/pionnières de l'animation soviétique."
+            }
+          ],
+          "duree": 6,
+          "format": "35 mm",
+          "version": "VO",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36190,
+              "ordre": 2,
+              "idEvenement": 22898,
+              "dateHeure": "2020-10-17T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36235,
+              "ordre": 2,
+              "idEvenement": 22898,
+              "dateHeure": "2020-10-24T17:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Gavroche_ de Tatiana Loukachevitch"
+        }
+      ]
+    }
+  ]
+}
