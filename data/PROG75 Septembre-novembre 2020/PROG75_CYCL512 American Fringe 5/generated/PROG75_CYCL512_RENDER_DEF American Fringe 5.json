@@ -33,7 +33,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Jay, scénariste en herbe, retourne dans son vieux quartier, et y découvre à quel point celui-ci, et lui-même, ont changé. Avec pour arrière-plan la gentrification urbaine contemporaine – les résidents les plus pauvres, d'origine majoritairement afro-américaine, se trouvent poussés hors de leurs quartiers par des propriétaires plus riches et majoritairement blancs."
+                  "texte": "Jay, scénariste en herbe, retourne dans son ancien quartier et découvre à quel point tout y a changé, y compris lui-même. Avec pour arrière-plan la gentrification urbaine contemporaine – les résidents les plus pauvres, d'origine majoritairement afro-américaine, se trouvent poussés hors de leurs quartiers par des propriétaires plus riches et majoritairement blancs."
                 }
               ],
               "generique": [
@@ -73,7 +73,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Sur une période de 35 ans, de 1984 à 2019, Lynne Sachs a tourné en 8mm, 16mm, vidéo et numérique des images de son père, un homme d'affaires bon vivant de Park City, Utah, dans le but de comprendre le réseau qui lie une enfant à son père et une sœur à sa fratrie."
+                  "texte": "Sur une période de 35 ans, de 1984 à 2019, Lynne Sachs a tourné en 8 mm, 16 mm, vidéo et numérique des images de son père, un homme d'affaires bon vivant de Park City, Utah, dans le but de comprendre les liens qui rattache une fille à son père, et une sœur à sa fratrie."
                 }
               ],
               "generique": [
@@ -112,7 +112,11 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Une chanson de charme, d'amour et de sexe autour de Gay, autrice à succès d'une soixantaine d'années, et ses prétendants. Peuplé de personnages complexes parfaitement interprétés, le film est également doté d'un script vif aux dialogues percutants, écrits en collaboration avec les acteurs du film."
+                  "texte": "Une chanson de charme, d'amour et de sexe autour de Gay, autrice à succès d'une soixantaine d'années, et ses prétendants."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Peuplé de personnages complexes parfaitement interprétés, le film est également doté d'un script vif aux dialogues percutants, écrits en collaboration avec les acteurs du film."
                 }
               ],
               "generique": [
@@ -149,7 +153,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Amazon recrute des milliers d'ouvriers logés dans des camping-cars pour une unité de travail saisonnier nommée CamperForce. A quoi ressemble l'intérieur d'une des compagnies les plus secrètes du monde ?"
+                  "texte": "Amazon recrute des milliers d'ouvriers logés dans des camping-cars pour une unité de travail saisonnier nommée CamperForce. À quoi ressemble l'intérieur de l'une des compagnies les plus secrètes du monde ?"
                 }
               ],
               "duree": 16,
@@ -194,9 +198,9 @@
           "films": [
             {
               "idFilm": 145169,
-              "titre": "La Bonita",
-              "titreVo": "",
-              "realisateurs": "Maria Del Mar Rosario",
+              "titre": "Bonita",
+              "titreVo": "La",
+              "realisateurs": "Maria del Mar Rosario",
               "annee": 2018,
               "pays": "États-Unis",
               "textes": [
@@ -221,7 +225,11 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Le deuil et le désir se confondent lorsque deux hommes transgenre se rencontrent par hasard à l'enterrement de la capitaine lesbienne du club de bowling Lavender League à Los Angeles. Créé et interprété par une équipe et un casting majoritairement transgenre."
+                  "texte": "Le deuil et le désir se confondent lorsque deux hommes transgenre se rencontrent par hasard à l'enterrement de la capitaine lesbienne du club de bowling Lavender League à Los Angeles."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Créé et interprété par une équipe et un casting majoritairement transgenre."
                 }
               ],
               "generique": [
@@ -282,7 +290,7 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Nate et Melissa ne sont plus en couple. Des déménageurs viennent embarquer les affaires de Melissa dans leur appartement une pièce situé à Brooklyn, et les amis de Nate, agglutinés dans le salon de coiffure où il travaille, sont impatients d'entendre les détails."
+                  "texte": "Nate et Melissa ne sont plus en couple. Des déménageurs viennent embarquer les affaires de Melissa dans leur petit appartement de Brooklyn, et les amis de Nate, agglutinés dans le salon de coiffure où il travaille, sont impatients d'entendre les détails."
                 }
               ],
               "generique": [
@@ -355,7 +363,11 @@
               "textes": [
                 {
                   "typeTexte": 9,
-                  "texte": "Jonglant entre son travail et l'éducation de son fils, Daryl tente tant bien que mal d'aider sa copine Nani à sortir de ses addictions, sans compter que Nani est enceinte de leur deuxième enfant. Hasan Oswald s'est vu accorder un accès exceptionnel à un univers rarement observé d'aussi près."
+                  "texte": "Jonglant entre son travail et l'éducation de son fils, Daryl tente tant bien que mal d'aider sa copine Nani à sortir de ses addictions, sans compter que Nani est enceinte de leur deuxième enfant."
+                },
+                {
+                  "typeTexte": 99,
+                  "texte": "Hasan Oswald s'est vu accorder un accès exceptionnel à un univers rarement observé d'aussi près."
                 }
               ],
               "duree": 77,
