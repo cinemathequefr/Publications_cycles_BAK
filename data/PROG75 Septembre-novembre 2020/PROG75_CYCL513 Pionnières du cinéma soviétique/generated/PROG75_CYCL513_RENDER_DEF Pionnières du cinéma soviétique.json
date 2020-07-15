@@ -23,20 +23,25 @@
           "idFilm": 145170,
           "titre": "Affaire des fermoirs",
           "art": "L'",
-          "titreVo": "Delo s zastejkami",
+          "titreVo": "Delo s zastiojkami",
           "realisateurs": "Aleksandra Khokhlova",
           "annee": 1929,
           "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Tiré d'une nouvelle de Gorki. Trois vagabonds sont recueillis par une dévote. Dans cette satire de la bigoterie, sa première réalisation, Khokhlova met en valeur des acteurs jeunes, et filme en liberté les paysages de la vieille Russie."
+              "texte": "Trois vagabonds sont recueillis par une dévote."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Dans cette satire de la bigoterie, sa première réalisation, Khokhlova met en valeur des acteurs jeunes, et filme en liberté les paysages de la vieille Russie."
             }
           ],
+          "adaptation": "D'après la nouvelle _L'Affaire des fermoirs_ de Maxime Gorki.",
           "generique": [
             "A. Bavrine",
             "Piotr Galadjev",
-            "G. Ivanovskaia"
+            "Galina Ivanovskaïa"
           ],
           "duree": 27,
           "format": "DCP",
@@ -64,19 +69,22 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi de _Sacha_ d'Aleksandra = Alexandra Khokhlova"
+          "precedeSuivi": "Film suivi de _Sacha_ d'Aleksandra Khokhlova"
         },
         {
           "idFilm": 145167,
-          "titre": "Buba",
-          "titreVo": "",
-          "realisateurs": "Nutsa Gogoberidze",
+          "titre": "Bouba",
+          "realisateurs": "Noutsa Gogoberidzé",
           "annee": 1930,
           "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Un village de montagne dont la pauvreté ancestrale sera bouleversée par l'arrivée du pouvoir soviétique. On pense au Sel de Svanétie, de Mikhaïl Kalatozov. La vitalité des avant-gardes géorgiennes n'avait alors rien à envier à Moscou et Leningrad."
+              "texte": "La pauvreté ancestrale d'un village de montagne dont est bouleversée par l'arrivée du pouvoir soviétique."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "On pense au _Sel de Svanétie_ de Mikhaïl Kalatozov. La vitalité des avant-gardes géorgiennes n'avait alors rien à envier à celles de Moscou et Léningrad."
             }
           ],
           "duree": 39,
@@ -105,25 +113,28 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi d'_Ujmuri_ de Nutsa Gogoberidze"
+          "precedeSuivi": "Film suivi d'_Oujmouri_ de Noutsa Gogoberidzé"
         },
         {
           "idFilm": 41491,
-          "titre": "Conte de Cendrillon = Cendrillon",
-          "art": "Le",
-          "titreVo": "Zolushka",
-          "realisateurs": "Nadejda Kocheverova, Mikhail Chapiro",
+          "titre": "Cendrillon",
+          "titreVo": "Zolouchka",
+          "realisateurs": "Nadejda Kocheverova, Mikhaïl Shapiro",
           "annee": 1947,
           "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Adaptant le conte de fées, l'ancienne assistante de Kozintsev et Trauberg tourne le dos à la réalité de l'après-guerre et adopte un point de vue résolument esthétisant, évoquant la miniature, les illustrateurs ou les décorateurs de théâtre du 19e siècle."
+              "texte": "L'histoire de Cendrillon."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Adaptant le conte de fées, l'ancienne assistante de Kozintsev et Trauberg tourne le dos à la réalité de l'après-guerre et adopte un point de vue résolument esthétisant, évoquant la miniature, les illustrateurs ou les décorateurs de théâtre du XIX<sup>e</sup> siècle."
             }
           ],
           "adaptation": "D'après le conte _Cendrillon_ de Charles Perrault.",
           "generique": [
-            "Ianina Jeimo",
+            "Ianina Jeïmo",
             "Alekseï Konsovski",
             "Erast Garine",
             "Faïna Ranevskaïa"
@@ -158,21 +169,20 @@
         {
           "idFilm": 145172,
           "titre": "Gavroche",
-          "titreVo": "Gavroch",
           "realisateurs": "Tatiana Loukachevitch",
           "annee": 1937,
           "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Adaptation très libre des _Misérables_ qui met en valeur le contexte politique et l'opposition à la Monarchie de Juillet. Incarnation du petit peuple, pauvre, rusé, héroïque, Gavroche monte sur les barricades parce que son père est assassiné dans les geôles du Roi."
+              "texte": "Adaptation très libre des _Misérables_ qui met en valeur le contexte politique et l'opposition à la monarchie de Juillet. Incarnation du petit peuple, pauvre, rusé, héroïque, Gavroche monte sur les barricades parce que son père est assassiné dans les geôles du Roi."
             }
           ],
           "adaptation": "D'après le roman _Les Misérables_ de Victor Hugo.",
           "generique": [
-            "Kolya Smortchkov",
-            "Ivan Novoseltsev",
-            "Nina Zorskaya"
+            "Nikolaï Smortchkov",
+            "Ivan Novosseltsev",
+            "Nina Zorskaïa"
           ],
           "duree": 70,
           "format": "35 mm",
@@ -200,24 +210,30 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi de _Vavila le terrible et tante Arina_ de Nikolai Khodataev, Olga = Olga Khodatayeva Khodataeva"
+          "precedeSuivi": "Film suivi de _Vavila le terrible et tante Arina_ de Nikolaï Khodataïev, Olga Khodataïeva"
         },
         {
           "idFilm": 40480,
           "titre": "Génération des vainqueurs",
           "art": "La",
-          "titreVo": "Pokolenie pobediteleje",
-          "realisateurs": "Vera Stroeva",
+          "titreVo": "Pokolenié pobediteleï",
+          "realisateurs": "Vera Stroïeva",
           "annee": 1936,
           "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "D'un chahut à l'université en 1896 à la révolution de 1905 : l'histoire d'une génération qui prépare Octobre. Le film bénéficie d'interprètes parmi les plus brillants empruntés aux théâtres de Moscou."
+              "texte": "D'un chahut à l'université en 1896 à la révolution de 1905 : l'histoire d'une génération qui prépare Octobre."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Le film bénéficie d'interprètes parmi les plus brillants empruntés aux théâtres de Moscou."
             }
           ],
           "generique": [
-            "Nikolai Khmelev",
+            "Boris Choukine",
+            "Nikolaï Khmelev",
+            "Ksenia Tarassova",
             "Ossip Abdoulov",
             "Gueorgui Tchernovolenko"
           ],
@@ -249,62 +265,25 @@
           ]
         },
         {
-          "idFilm": 135420,
-          "titre": "K.Ch.È. – Komsomol à la tête de l'électrification",
-          "titreVo": "K.Ch.E. – Komsomol – Chef èlektrifikatsii",
-          "realisateurs": "Esfir Choub",
-          "annee": 1932,
-          "pays": "URSS",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Pour Esther Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien et même américain."
-            }
-          ],
-          "duree": 59,
-          "format": "35 mm",
-          "version": "VO",
-          "ageMinimal": null,
-          "seance": [
-            {
-              "idSeance": 36196,
-              "ordre": 1,
-              "idEvenement": 22887,
-              "dateHeure": "2020-10-21T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            },
-            {
-              "idSeance": 36202,
-              "ordre": 1,
-              "idEvenement": 22887,
-              "dateHeure": "2020-10-25T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            }
-          ]
-        },
-        {
           "idFilm": 145175,
           "titre": "Kachtanka",
-          "titreVo": "",
           "realisateurs": "Olga Preobrajenskaïa",
           "annee": 1926,
           "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "L'histoire d'un chien qui se perd, est vendu et finalement sauvé par un clown qui le fait monter sur scène. Tiré d'une nouvelle de Tchekhov, c'est un des premiers films conservés de la réalisatrice de _Femmes de Riazan_ (_Le Village du péché_)."
+              "texte": "L'histoire d'un chien qui se perd, est vendu et finalement sauvé par un clown qui le fait monter sur scène."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "L'un des premiers films conservés de la réalisatrice de _Femmes de Riazan_."
             }
           ],
           "adaptation": "D'après la nouvelle _Kachtanka_ d'Anton Tchekhov.",
           "generique": [
-            "Nikolai Panov",
-            "Evguenia Khovanskaia",
+            "Nikolaï Panov",
+            "Evguenia Khovanskaïa",
             "Naoum Rogojine"
           ],
           "duree": 80,
@@ -335,21 +314,118 @@
           ]
         },
         {
+          "idFilm": 135420,
+          "titre": "Komsomol, chef de l'électrification",
+          "titreVo": "K.Ch.E. (Komsomol, chef elektrifikatsii)",
+          "realisateurs": "Esfir Choub",
+          "annee": 1932,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Documentaire tourné en son direct (célébré dans la séquence d'ouverture) sur la construction d'une centrale hydroélectrique en Transcaucasie avec l'aide d'ingénieurs américains."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Pour Esfir Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien, et même américain."
+            }
+          ],
+          "duree": 59,
+          "format": "35 mm",
+          "version": "VO",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36196,
+              "ordre": 1,
+              "idEvenement": 22887,
+              "dateHeure": "2020-10-21T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36202,
+              "ordre": 1,
+              "idEvenement": 22887,
+              "dateHeure": "2020-10-25T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ]
+        },
+        {
+          "idFilm": 145168,
+          "titre": "Oujmouri",
+          "realisateurs": "Noutsa Gogoberidzé",
+          "annee": 1934,
+          "pays": "URSS",
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Oujmouri, la Reine des grenouilles, qui hante le marais."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Interdit après sa sortie en 1934, _Ujmuri_ a été retrouvé et restauré en 2018."
+            }
+          ],
+          "generique": [
+            "Koté Daouchvili",
+            "Merab Tchikovani",
+            "Noutsa Tchkheidzé"
+          ],
+          "duree": 56,
+          "format": "DCP",
+          "version": "",
+          "ageMinimal": null,
+          "seance": [
+            {
+              "idSeance": 36193,
+              "ordre": 2,
+              "idEvenement": 22902,
+              "dateHeure": "2020-10-18T19:00:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            },
+            {
+              "idSeance": 36201,
+              "ordre": 2,
+              "idEvenement": 22902,
+              "dateHeure": "2020-10-24T21:15:00",
+              "idSalle": [
+                "JE",
+                "Jean Epstein"
+              ]
+            }
+          ],
+          "precedeSuivi": "Film précédé de _Bouba_ de Noutsa Gogoberidzé"
+        },
+        {
           "idFilm": 145171,
           "titre": "Père et fils",
           "titreVo": "Otets i syn",
-          "realisateurs": "Margarita Barskaia",
+          "realisateurs": "Margarita Barskaïa",
           "annee": 1936,
           "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Malgré sa réussite professionnelle, un père est incapable de communiquer avec son fils. Le garçon fugue et se retrouve mêlé à une bande de criminels. Le film a été interdit, remonté et mutilé. Il n'existe que dans une version incomplète."
+              "texte": "Un père accaparé par sa réussite professionnelle est incapable de communiquer avec son fils. Le garçon fugue et se retrouve mêlé à une bande de criminels."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Le film a été interdit, remonté et mutilé. Il n'existe que dans une version incomplète."
             }
           ],
           "generique": [
             "Lev Sverdline",
-            "Vassili Novikov"
+            "Viatcheslav Novikov"
           ],
           "duree": 72,
           "format": "35 mm",
@@ -381,14 +457,13 @@
         {
           "idFilm": 72917,
           "titre": "Sacha",
-          "titreVo": "",
-          "realisateurs": "Aleksandra = Alexandra Khokhlova",
+          "realisateurs": "Aleksandra Khokhlova",
           "annee": 1930,
           "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Une jeune paysanne arrive à la ville, enceinte. Un policier la prend sous sa protection, un autre la dénonce comme l'épouse d'un détenu, accusé d'avoir tué l'instituteur du village. Khokhlova cinéaste fait la synthèse de Stanislavski et de son mari Koulechov."
+              "texte": "Une jeune paysanne enceinte arrive en ville. Un policier la prend sous sa protection, un autre la dénonce comme l'épouse d'un détenu accusé d'avoir tué l'instituteur de son village."
             }
           ],
           "generique": [
@@ -427,20 +502,24 @@
         {
           "idFilm": 40611,
           "titre": "Souliers percés",
-          "titreVo": "Rvanye bachmaki",
+          "titreVo": "Rvanyé bachmaki",
           "realisateurs": "Margarita Barskaïa",
           "annee": 1933,
           "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "L'Allemagne prénazie vue par des yeux d'enfants. Splendidement chaotique comme le cinéma soviétique savait encore l'être, son esprit de révolte, son anarchisme et son amour des enfants séduisirent Henri Langlois : « Un vrai chef-d'œuvre », « le meilleur film parlant soviétique »."
+              "texte": "L'Allemagne prénazie vue par des yeux d'enfants."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Splendidement chaotique comme le cinéma soviétique savait encore l'être, son esprit de révolte, son anarchisme et son amour des enfants séduisirent Henri Langlois : « Un vrai chef-d'œuvre », « Le meilleur film parlant soviétique »."
             }
           ],
           "generique": [
             "Vera Alekhina",
             "Mikhaïl Klimov",
-            "Ivan Novoseltsev"
+            "Ivan Novosseltsev"
           ],
           "duree": 85,
           "format": "35 mm",
@@ -471,62 +550,20 @@
           ]
         },
         {
-          "idFilm": 145168,
-          "titre": "Ujmuri",
-          "titreVo": "",
-          "realisateurs": "Nutsa Gogoberidze",
-          "annee": 1934,
-          "pays": "URSS",
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Ujmuri, la Reine des Grenouilles qui hante le marais. Interdit après sa sortie en 1934, _Ujmuri_ a été retrouvé et restauré en 2018."
-            }
-          ],
-          "generique": [
-            "Kote Daushvili",
-            "Merab Chiqovani",
-            "Nutsa Chkheidze"
-          ],
-          "duree": 56,
-          "format": "DCP",
-          "version": "",
-          "ageMinimal": null,
-          "seance": [
-            {
-              "idSeance": 36193,
-              "ordre": 2,
-              "idEvenement": 22902,
-              "dateHeure": "2020-10-18T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            },
-            {
-              "idSeance": 36201,
-              "ordre": 2,
-              "idEvenement": 22902,
-              "dateHeure": "2020-10-24T21:15:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
-            }
-          ],
-          "precedeSuivi": "Film précédé de _Buba_ de Nutsa Gogoberidze"
-        },
-        {
           "idFilm": 145173,
           "titre": "Vavila le terrible et tante Arina",
-          "titreVo": "Grozny Vavila i tetka Arina",
-          "realisateurs": "Nikolai Khodataev, Olga = Olga Khodatayeva Khodataeva",
+          "titreVo": "Groznyï Vavila i tetka Arina",
+          "realisateurs": "Nikolaï Khodataïev, Olga Khodataïeva",
           "annee": 1928,
           "pays": "URSS",
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Le moujik Vavila bat sa femme, « tante » Arina. Quand lui et son copain voient les femmes partir fêter le 8 mars et s'éduquer à l'école des travailleuses, ils comprennent qu'ils sont fichus. Cet agit-film réunit quatre pionniers/pionnières de l'animation soviétique."
+              "texte": "Le moujik Vavila bat sa femme, « tante » Arina. Quand lui et son copain voient les femmes partir fêter le 8 mars et s'éduquer à l'école des travailleuses, ils comprennent qu'ils sont fichus."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Cet _« agit-film »_ réunit quatre pionniers/pionnières de l'animation soviétique."
             }
           ],
           "duree": 6,
