@@ -1,5 +1,11 @@
 # Séances spéciales
 
+[144118]  
+**Adolescentes**  
+de Sébastien Lifshitz  
+France / 2019  
+Deux jeunes filles, filmées de 13 à 18 ans. Leurs émotions, leur complicité, leurs différences qui peu à peu apparaissent et font glisser la chronique légère vers le documentaire politique.
+
 [66147]*  
 **La Bataille du siècle = La Grande bagarre**  
 **(The Battle of the Century)**  
@@ -23,14 +29,23 @@ Une soirée au cabaret avec Charlot dans le rôle du trouble fête. Adapté du n
 **Colette**  
 de Yannick Bellon  
 France / 1950  
-Avec Colette, Maurice Goudeket, Pauline Tissandier, Georges Wague.
+Avec Colette, Maurice Goudeket, Pauline Tissandier, Georges Wague.  
+Dans ce portrait moderne et captivant où Colette se promène dans ses souvenirs, assise devant sa fenêtre donnant sur le Palais Royal, on découvre avec ravissement les lieux où elle a habité, ses chats, son amitié avec Jean Cocteau, son amour de l'écriture, son regard espiègle sur les gens et la vie.
 
 > (Site) Dans ce portrait moderne et captivant où Colette se promène dans ses souvenirs, assise devant sa fenêtre donnant sur le Palais Royal, on découvre avec ravissement les lieux où elle a habité, ses chats, son amitié avec Jean Cocteau, son amour de l'écriture, son regard espiègle sur les gens et la vie.
 
 [145112]  
 **D'où vient cet air lointain**  
 de Yannick Bellon  
-France / 2018
+France / 2018  
+D'où vient cet air lointain ? est le dernier film de Yannick Bellon. Dans ce documentaire autobiographique, réalisé en 2018, la cinéaste revient sur son enfance, sa famille, ses amis, ses engagements, empruntant différents chemins pour nous conter son histoire, toujours disponible « aux ordres du merveilleux... », comme l'écrivait Breton.
+
+[145211]  
+**Garçon chiffon**  
+de Nicolas Maury  
+France / 2020  
+Avec Nicolas Maury, Arnaud Valois, Laure Calamy.  
+Jérémie, un jaloux maladif tiraillé entre ses déboires sentimentaux, professionnels et familiaux est au bord de la rupture. Il décide de quitter Paris et se rend sur sa terre d'origine, le Limousin, où il va tenter de se réparer auprès sa mère.
 
 [143690]*  
 **Once Over**  

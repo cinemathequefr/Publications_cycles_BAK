@@ -95,7 +95,7 @@
 <pstyle:TECHNIQUE>URSS/1934/56<0x2019>/DCP
 <pstyle:TECHNIQUE>Avec Koté Daouchvili, Merab Tchikovani, Noutsa Tchkheidzé.
 <pstyle:SYNOPSIS>Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n<0x2019>imaginent pas tenir tête à Oujmouri, la Reine des grenouilles, qui hante le marais.
-<pstyle:INFOS_UTILES>Interdit après sa sortie en 1934, <cSkew:9>Ujmuri<cSkew:> a été retrouvé et restauré en 2018.
+<pstyle:INFOS_UTILES>Interdit après sa sortie en 1934, <cSkew:9>Oujmouri<cSkew:> a été retrouvé et restauré en 2018.
 <pstyle:><cstyle:INFOSBLEUES>di 18 octXXX19h00XXX
 <cstyle:SALLESBLEUES>C
 <pstyle:EVENEMENT>Film précédé de <cSkew:9>Bouba<cSkew:> de Noutsa Gogoberidzé

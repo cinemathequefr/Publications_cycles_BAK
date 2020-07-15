@@ -99,7 +99,7 @@ de Noutsa Gogoberidzé
 URSS / 1934 / 56 min / DCP  
 Avec Koté Daouchvili, Merab Tchikovani, Noutsa Tchkheidzé.  
 Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Oujmouri, la Reine des grenouilles, qui hante le marais.  
-Interdit après sa sortie en 1934, _Ujmuri_ a été retrouvé et restauré en 2018.  
+Interdit après sa sortie en 1934, _Oujmouri_ a été retrouvé et restauré en 2018.  
 Film précédé de _Bouba_ de Noutsa Gogoberidzé
 
 - di 18 oct 19h00 JE  

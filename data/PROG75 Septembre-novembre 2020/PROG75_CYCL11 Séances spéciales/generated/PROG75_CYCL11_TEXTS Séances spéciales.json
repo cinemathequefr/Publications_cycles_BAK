@@ -1,5 +1,12 @@
 {
-  "cycle": {},
+  "cycle": {
+    "11": [
+      {
+        "typeTexte": 263,
+        "texte": "Hiventy, Les Films de l'Equinoxe, Eric Le Roy."
+      }
+    ]
+  },
   "cats": {
     "2246": [
       {
@@ -16,7 +23,17 @@
       },
       {
         "typeTexte": 156,
-        "texte": "**Gabriela Trujillo** travaille à l'Action culturelle de La Cinémathèque française."
+        "texte": "**Gabriela Trujillo** est chargée d'événements culturels à La Cinémathèque française."
+      }
+    ],
+    "2327": [
+      {
+        "typeTexte": 8,
+        "texte": "Dans tous ses films (8 longs métrages et 16 courts métrages au cinéma), Yannick Bellon a porté un regard lucide sur ces êtres partis à la reconquête de leur dignité. Elle a mené sa carrière en produisant de manière autonome et artisanale, avec difficulté, ses propres films souvent refusés par la profession, et en se montrant intransigeante sur les thèmes qu'elle affrontait sans détour. Si on peut parler d'une cinéaste engagée à l'écriture très personnelle, on ne saurait négliger pour autant son travail de recherche formelle, mêlant la fiction et le documentaire, et creusant la question du temps et de la mémoire."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Les archives Yannick Bellon sont désormais conservées à la Cinémathèque, déposées par Eric Le Roy – légataire universel."
       }
     ]
   }
