@@ -23,7 +23,7 @@
           "annee": 1929,
           "pays": "URSS",
           "duree": 27,
-          "version": "",
+          "version": "INT. FR.",
           "format": "DCP",
           "ageMinimal": 0,
           "generique": [
@@ -62,7 +62,7 @@
           "annee": 1929,
           "pays": "URSS",
           "duree": 27,
-          "version": "",
+          "version": "INT. FR.",
           "format": "DCP",
           "ageMinimal": 0,
           "generique": [
@@ -95,11 +95,11 @@
           "typeEvenement": 13,
           "idFilm": 145167,
           "titre": "Bouba",
-          "realisateurs": "Noutsa Gogoberidzé",
+          "realisateurs": "Noutsa Gogoberidze",
           "annee": 1930,
           "pays": "URSS",
           "duree": 39,
-          "version": "VO",
+          "version": "INT. FR.",
           "format": "DCP",
           "ageMinimal": null,
           "textes": [
@@ -126,11 +126,11 @@
           "typeEvenement": 13,
           "idFilm": 145167,
           "titre": "Bouba",
-          "realisateurs": "Noutsa Gogoberidzé",
+          "realisateurs": "Noutsa Gogoberidze",
           "annee": 1930,
           "pays": "URSS",
           "duree": 39,
-          "version": "VO",
+          "version": "INT. FR.",
           "format": "DCP",
           "ageMinimal": null,
           "textes": [
@@ -158,11 +158,11 @@
           "idFilm": 41491,
           "titre": "Cendrillon",
           "titreVo": "Zolouchka",
-          "realisateurs": "Nadejda Kocheverova, Mikhaïl Shapiro",
+          "realisateurs": "Nadejda Kocheverova, Mikhaïl Chapiro",
           "annee": 1947,
           "pays": "URSS",
           "duree": 82,
-          "version": "",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -197,11 +197,11 @@
           "idFilm": 41491,
           "titre": "Cendrillon",
           "titreVo": "Zolouchka",
-          "realisateurs": "Nadejda Kocheverova, Mikhaïl Shapiro",
+          "realisateurs": "Nadejda Kocheverova, Mikhaïl Chapiro",
           "annee": 1947,
           "pays": "URSS",
           "duree": 82,
-          "version": "",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -239,7 +239,7 @@
           "annee": 1937,
           "pays": "URSS",
           "duree": 70,
-          "version": "",
+          "version": "INT. FR.",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -272,7 +272,7 @@
           "annee": 1937,
           "pays": "URSS",
           "duree": 70,
-          "version": "",
+          "version": "INT. FR.",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -302,12 +302,12 @@
           "idFilm": 40480,
           "art": "La",
           "titre": "Génération des vainqueurs",
-          "titreVo": "Pokolenié pobediteleï",
+          "titreVo": "Pokolenie pobediteleï",
           "realisateurs": "Vera Stroïeva",
           "annee": 1936,
           "pays": "URSS",
           "duree": 110,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -342,12 +342,12 @@
           "idFilm": 40480,
           "art": "La",
           "titre": "Génération des vainqueurs",
-          "titreVo": "Pokolenié pobediteleï",
+          "titreVo": "Pokolenie pobediteleï",
           "realisateurs": "Vera Stroïeva",
           "annee": 1936,
           "pays": "URSS",
           "duree": 110,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -385,7 +385,7 @@
           "annee": 1926,
           "pays": "URSS",
           "duree": 80,
-          "version": "VO",
+          "version": "INT. FR.",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -422,7 +422,7 @@
           "annee": 1926,
           "pays": "URSS",
           "duree": 80,
-          "version": "VO",
+          "version": "INT. FR.",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -454,13 +454,13 @@
           "idEvenement": 22887,
           "typeEvenement": 13,
           "idFilm": 135420,
-          "titre": "Komsomol, chef de l'électrification",
-          "titreVo": "K.Ch.E. (Komsomol, chef elektrifikatsii)",
-          "realisateurs": "Esfir Choub",
+          "titre": "Komsomol à la tête de l'électrification",
+          "titreVo": "K.Ch.E. : Komsomol, chef elektrifikatsii",
+          "realisateurs": "Esther Choub",
           "annee": 1932,
           "pays": "URSS",
           "duree": 59,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -470,7 +470,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Pour Esfir Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien, et même américain."
+              "texte": "Pour Esther Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien, et même américain."
             }
           ]
         },
@@ -486,13 +486,13 @@
           "idEvenement": 22887,
           "typeEvenement": 13,
           "idFilm": 135420,
-          "titre": "Komsomol, chef de l'électrification",
-          "titreVo": "K.Ch.E. (Komsomol, chef elektrifikatsii)",
-          "realisateurs": "Esfir Choub",
+          "titre": "Komsomol à la tête de l'électrification",
+          "titreVo": "K.Ch.E. : Komsomol, chef elektrifikatsii",
+          "realisateurs": "Esther Choub",
           "annee": 1932,
           "pays": "URSS",
           "duree": 59,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -502,7 +502,7 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Pour Esfir Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien, et même américain."
+              "texte": "Pour Esther Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien, et même américain."
             }
           ]
         },
@@ -519,17 +519,17 @@
           "typeEvenement": 13,
           "idFilm": 145168,
           "titre": "Oujmouri",
-          "realisateurs": "Noutsa Gogoberidzé",
+          "realisateurs": "Noutsa Gogoberidze",
           "annee": 1934,
           "pays": "URSS",
           "duree": 56,
-          "version": "",
+          "version": "VOSTF",
           "format": "DCP",
           "ageMinimal": null,
           "generique": [
             "Koté Daouchvili",
             "Merab Tchikovani",
-            "Noutsa Tchkheidzé"
+            "Noutsa Tchkheidze"
           ],
           "textes": [
             {
@@ -555,17 +555,17 @@
           "typeEvenement": 13,
           "idFilm": 145168,
           "titre": "Oujmouri",
-          "realisateurs": "Noutsa Gogoberidzé",
+          "realisateurs": "Noutsa Gogoberidze",
           "annee": 1934,
           "pays": "URSS",
           "duree": 56,
-          "version": "",
+          "version": "VOSTF",
           "format": "DCP",
           "ageMinimal": null,
           "generique": [
             "Koté Daouchvili",
             "Merab Tchikovani",
-            "Noutsa Tchkheidzé"
+            "Noutsa Tchkheidze"
           ],
           "textes": [
             {
@@ -596,7 +596,7 @@
           "annee": 1936,
           "pays": "URSS",
           "duree": 72,
-          "version": "",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -632,7 +632,7 @@
           "annee": 1936,
           "pays": "URSS",
           "duree": 72,
-          "version": "",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -667,8 +667,8 @@
           "annee": 1930,
           "pays": "URSS",
           "duree": 42,
-          "version": "",
-          "format": "",
+          "version": "INT. FR.",
+          "format": "35 mm",
           "ageMinimal": 0,
           "generique": [
             "M. Sapojnikova",
@@ -699,8 +699,8 @@
           "annee": 1930,
           "pays": "URSS",
           "duree": 42,
-          "version": "",
-          "format": "",
+          "version": "INT. FR.",
+          "format": "35 mm",
           "ageMinimal": 0,
           "generique": [
             "M. Sapojnikova",
@@ -733,7 +733,7 @@
           "annee": 1933,
           "pays": "URSS",
           "duree": 85,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -770,7 +770,7 @@
           "annee": 1933,
           "pays": "URSS",
           "duree": 85,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "generique": [
@@ -802,12 +802,12 @@
           "typeEvenement": 13,
           "idFilm": 145173,
           "titre": "Vavila le terrible et tante Arina",
-          "titreVo": "Groznyï Vavila i tetka Arina",
+          "titreVo": "Grozny Vavila i tetka Arina",
           "realisateurs": "Nikolaï Khodataïev, Olga Khodataïeva",
           "annee": 1928,
           "pays": "URSS",
           "duree": 6,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -834,12 +834,12 @@
           "typeEvenement": 13,
           "idFilm": 145173,
           "titre": "Vavila le terrible et tante Arina",
-          "titreVo": "Groznyï Vavila i tetka Arina",
+          "titreVo": "Grozny Vavila i tetka Arina",
           "realisateurs": "Nikolaï Khodataïev, Olga Khodataïeva",
           "annee": 1928,
           "pays": "URSS",
           "duree": 6,
-          "version": "VO",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [

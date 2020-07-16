@@ -208,7 +208,8 @@
         "format": "DCP",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Matthieu Bareyre"
   },
   {
     "idCategorie": 2269,
@@ -231,7 +232,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Matthieu Bareyre"
   },
   {
     "idCategorie": 2335,
@@ -254,7 +256,8 @@
         "format": "DCP",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance suivie d'une discussion avec Patrick Mario Bernard et Pierre Trividic"
   },
   {
     "idCategorie": 2335,
@@ -275,9 +278,10 @@
         "duree": 87,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Pierre Trividic et Patrick Mario Bernard"
   },
   {
     "idCategorie": 2337,
@@ -456,14 +460,15 @@
         "format": "16 mm",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Miguel Valverde"
   },
   {
     "idCategorie": 2330,
     "typeEvenement": 13,
     "idEvenement": 22871,
     "idSeance": 36255,
-    "dateHeure": "2020-11-02T20:00:00",
+    "dateHeure": "2020-11-02T19:30:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -489,6 +494,30 @@
         "format": "DCP",
         "valide": 0
       }
+    ],
+    "mention": "Séance suivie d'une discussion avec Mathilde Delaunay"
+  },
+  {
+    "idCategorie": 2342,
+    "typeEvenement": 13,
+    "idEvenement": 22920,
+    "idSeance": 36264,
+    "dateHeure": "2020-11-09T18:30:00",
+    "idSalle": [
+      "JE",
+      "Jean Epstein"
+    ],
+    "items": [
+      {
+        "idFilm": 145212,
+        "ordre": 1,
+        "idSeance": 36264,
+        "idCopie": 21515,
+        "duree": 83,
+        "version": "VOSTF",
+        "format": "DCP",
+        "valide": 1
+      }
     ]
   },
   {
@@ -496,7 +525,7 @@
     "typeEvenement": 13,
     "idEvenement": 22910,
     "idSeance": 36256,
-    "dateHeure": "2020-11-09T20:00:00",
+    "dateHeure": "2020-11-09T21:00:00",
     "idSalle": [
       "JE",
       "Jean Epstein"
@@ -641,6 +670,13 @@
         "format": "35 mm",
         "valide": 1
       }
-    ]
+    ],
+    "mention": "Séance présentée par Morgan Pokée"
+  },
+  {
+    "mention": "Séance présentée par Miguel Valverde"
+  },
+  {
+    "mention": "Séance présentée par Elsa Charbit"
   }
 ]

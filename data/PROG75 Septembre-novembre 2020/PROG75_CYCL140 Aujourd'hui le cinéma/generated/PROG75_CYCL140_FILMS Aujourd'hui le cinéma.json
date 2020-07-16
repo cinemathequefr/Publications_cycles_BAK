@@ -203,6 +203,21 @@
     ]
   },
   {
+    "titre": "Encantado",
+    "titreVo": "",
+    "idFilm": 145212,
+    "ageMinimal": null,
+    "realisateurs": "Filipe Galvon",
+    "annee": 2019,
+    "pays": "Brésil",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Encantado est un portrait politique et poétique du Brésil des dernières années vu par la première génération de la classe populaire à étudier à l'étranger. Le pays qui a enchanté le monde est-il en désenchantement ? Si un jour le Brésil portait le titre de pays de l'avenir, aujourd'hui il est un exemple de démocratie en ruines, la situation de ce pays étant le symptôme d'un processus global de désenchantements démocratiques."
+      }
+    ]
+  },
+  {
     "titre": "Epoque",
     "art": "L'",
     "titreVo": "",
@@ -245,7 +260,10 @@
     "ageMinimal": null,
     "realisateurs": "Roman Kané",
     "annee": 2020,
-    "pays": "France"
+    "pays": "France",
+    "generique": [
+      "Quentin Dolmaire"
+    ]
   },
   {
     "titre": "Fendas",
@@ -372,7 +390,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Sur une musique de Philip Glass se succèdent des images de nature, de vies sociales, d'individus, de paysages somptueux arrachés à la paix de la Création par des bulldozers, des brouillards de pollution..."
+        "texte": "Fruit de la collaboration entre Godfrey Reggio et Philip Glass _Koyaanisqatsi: Life out of Balance_ (« la vie en déséquilibre », en hopi) aura été, en 1982, un véritable événement dans l'histoire des rapports entre musique et cinéma : le montage des images danse au rythme lancinant des formules mélodiques répétitives, dans l'alternance entre les visions d'une nature imposante et la folie des flux urbains."
       }
     ]
   },

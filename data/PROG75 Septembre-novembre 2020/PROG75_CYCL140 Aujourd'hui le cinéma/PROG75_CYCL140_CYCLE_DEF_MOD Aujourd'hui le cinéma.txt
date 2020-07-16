@@ -341,3 +341,6 @@
 
 <pstyle:CATEGORIE>Festival Entrevues Belfort 2020
 
+<pstyle:><cstyle:INFOSBLEUES>lu 30 novXXX19h30XXX
+<cstyle:SALLESBLEUES>C
+<pstyle:EVENEMENT>Séance présentée par Elsa Charbit

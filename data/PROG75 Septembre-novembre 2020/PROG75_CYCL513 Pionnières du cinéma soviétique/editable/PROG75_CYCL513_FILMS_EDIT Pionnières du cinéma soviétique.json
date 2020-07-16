@@ -27,7 +27,7 @@
     "titreNx": "Буба",
     "idFilm": 145167,
     "ageMinimal": null,
-    "realisateurs": "Noutsa Gogoberidzé",
+    "realisateurs": "Noutsa Gogoberidze",
     "annee": 1930,
     "pays": "URSS",
     "textes": [
@@ -47,7 +47,7 @@
     "titreNx": "Золушка",
     "idFilm": 41491,
     "ageMinimal": null,
-    "realisateurs": "Nadejda Kocheverova, Mikhaïl Shapiro",
+    "realisateurs": "Nadejda Kocheverova, Mikhaïl Chapiro",
     "annee": 1947,
     "pays": "URSS",
     "textes": [
@@ -88,7 +88,7 @@
   {
     "titre": "Génération des vainqueurs",
     "art": "La",
-    "titreVo": "Pokolenié pobediteleï",
+    "titreVo": "Pokolenie pobediteleï",
     "titreNx": "Поколение победителей",
     "idFilm": 40480,
     "ageMinimal": null,
@@ -114,12 +114,12 @@
     ]
   },
   {
-    "titre": "Komsomol, chef de l'électrification",
-    "titreVo": "K.Ch.E. (Komsomol, chef elektrifikatsii)",
+    "titre": "Komsomol à la tête de l'électrification",
+    "titreVo": "K.Ch.E. : Komsomol, chef elektrifikatsii",
     "titreNx": "КШЭ (Комсомол – шеф электрификации)",
     "idFilm": 135420,
     "ageMinimal": null,
-    "realisateurs": "Esfir Choub",
+    "realisateurs": "Esther Choub",
     "annee": 1932,
     "pays": "URSS",
     "textes": [
@@ -129,7 +129,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Pour Esfir Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien, et même américain."
+        "texte": "Pour Esther Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien, et même américain."
       }
     ]
   },
@@ -217,7 +217,7 @@
     "titreNx": "უჟმური",
     "idFilm": 145168,
     "ageMinimal": null,
-    "realisateurs": "Noutsa Gogoberidzé",
+    "realisateurs": "Noutsa Gogoberidze",
     "annee": 1934,
     "pays": "URSS",
     "textes": [
@@ -230,11 +230,11 @@
         "texte": "Interdit après sa sortie en 1934, _Oujmouri_ a été retrouvé et restauré en 2018."
       }
     ],
-    "generique": ["Koté Daouchvili", "Merab Tchikovani", "Noutsa Tchkheidzé"]
+    "generique": ["Koté Daouchvili", "Merab Tchikovani", "Noutsa Tchkheidze"]
   },
   {
     "titre": "Vavila le terrible et tante Arina",
-    "titreVo": "Groznyï Vavila i tetka Arina",
+    "titreVo": "Grozny Vavila i tetka Arina",
     "titreNx": "Грозный Вавила и тетка Арина",
     "idFilm": 145173,
     "ageMinimal": null,

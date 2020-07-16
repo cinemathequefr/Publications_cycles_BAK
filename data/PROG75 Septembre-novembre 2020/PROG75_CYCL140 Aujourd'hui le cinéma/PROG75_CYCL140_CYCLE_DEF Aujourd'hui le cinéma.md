@@ -2,6 +2,8 @@
 
 ## Dominique Rocher
 
+**Dans ce récit de survie, Dominique Rocher revisite le film de zombies dans un Paris désert et confiné. Sorti en mars 2018, passé peut-être inaperçu, _La Nuit a dévoré le monde_ est d'une actualité troublante cette année. Le film sera suivi d'une carte blanche du réalisateur.**
+
 [138464]  
 **La Nuit a dévoré le monde**  
 de Dominique Rocher  
@@ -46,6 +48,8 @@ Yosuke, quitté par sa femme, ne supporte plus son travail. Sur les conseils d'u
 
 ## Premiers pas
 
+**Leurs longs métrages sont à l'affiche, découvrez leurs courts ! Au même titre que les longs métrages, de nombreux courts sont ancrés dans nos mémoires, constituant comme une histoire parallèle du cinéma français. Ces séances trimestrielles visent surtout à faire découvrir ou redécouvrir des films courts de cinéastes dont un long métrage est à l'affiche, éclairant sous un nouveau jour la découverte de celui-ci.**
+
 [91633]  
 **Il faut que je l'aime**  
 de Sébastien Lifshitz  
@@ -85,6 +89,8 @@ Ariane, accompagnée de sa petite fille Alice, descend dans le Sud pour retrouve
 
 ## Quentin Dolmaire
 
+**Révélé en 2015 par _Trois souvenirs de ma jeunesse_ d'Arnaud Desplechin, Quentin Dolmaire est le héros vacillant de deux courts métrages français contemporains.**
+
 [145164]  
 **L'Ami de vacances**  
 d'Antoine Du Jeu  
@@ -103,7 +109,7 @@ Joseph n'est pas particulièrement heureux, même s'il le cache plutôt bien. Le
 
 ## Matthieu Bareyre
 
-**Avec L'Epoque, Matthieu Bareyre offre un premier long-métrage intense qui capte les pulsations d'une jeunesse croisée la nuit, au hasard de ses déambulations dans la capitale. Film suivi de la carte blanche du réalisateur consacrée à Alfonso Cuarón.**
+**Avec _L'Époque_, Matthieu Bareyre offre un premier long métrage intense qui capte les pulsations d'une jeunesse croisée la nuit, au hasard de ses déambulations dans la capitale. Film suivi de la carte blanche du réalisateur, consacrée à Alfonso Cuarón.**
 
 [141518]  
 **L'Époque**  
@@ -111,7 +117,8 @@ de Matthieu Bareyre
 France / 2018 / 98 min / DCP  
 _L'Époque_, c'est des rêves, des cauchemars, de l'ivresse, de l'ennui, de la douceur, des larmes, des terrasses, des parents, du désir, de l'amnésie, mais _L'Époque_ c'est surtout une traversée nocturne aux côtés de jeunes à Paris, de l'après-Charlie aux élections présidentielles.
 
-- lu 28 sep 19h00 JE
+- lu 28 sep 19h00 JE  
+Séance suivie d'une discussion avec Matthieu Bareyre
 
 [75270]  
 **Y tu mamá también**  
@@ -120,9 +127,12 @@ Mexique / 2000 / 105 min / VOSTF / 35 mm
 Avec Maribel Verdú, Gael García Bernal, Diego Luna.  
 Tenoch et Julio sont deux jeunes amis fêtards et dragueurs. Lors d'un mariage ils font la rencontre d'une trentenaire, Luisa. Très vite ils décident de partir ensemble pendant quelques jours sur la côte du Pacifique
 
-- lu 28 sep 21h30 JE
+- lu 28 sep 21h30 JE  
+Séance présentée par Matthieu Bareyre
 
 ## Patrick Mario Bernard et Pierre Trividic
+
+**Entre fantastique et social, le troisième film Pierre Trividic et Patrick Mario Bernard revisite avec brio le mythe de l'homme invisible. Pour leur carte blanche, les cinéastes présenteront _Koyaanisqatsi_ de Godfrey Reggio, film culte des années 80, qui sera présenté dans une copie 35 mm.**
 
 [142978]  
 **L'Angle mort**  
@@ -131,7 +141,8 @@ France / 2018 / 104 min / DCP
 Avec Jean-Christophe Folly, Isabelle Carré, Golshifteh Farahani.  
 Dominick a le pouvoir de se rendre invisible. Mais il s'en sert peu et en a fait un secret vaguement honteux, qu'il dissimule même à sa fiancée. Vient un jour où le pouvoir se détraque et échappe à son contrôle.
 
-- lu 5 oct 19h00 JE
+- lu 5 oct 19h00 JE  
+Séance suivie d'une discussion avec Patrick Mario Bernard et Pierre Trividic
 
 [56619]  
 **Koyaanisqatsi**  
@@ -139,9 +150,12 @@ de Godfrey Reggio
 États-Unis / 1982 / 87 min / 35 mm  
 Sur une musique de Philip Glass se succèdent des images de nature, d'êtres humains, de paysages somptueux arrachés à la paix de la Création par des bulldozers, des brouillards de pollution...
 
-- lu 5 oct 21h30 JE
+- lu 5 oct 21h30 JE  
+Séance présentée par Pierre Trividic et Patrick Mario Bernard
 
 ## Courts métrages Arte 2020
+
+**Rendez-vous annuel autour du meilleur des courts métrages coproduits par la chaine franco-allemande Arte, mêlant films de fictions classiques et films d'animation.**
 
 [145122]  
 **Le Départ**  
@@ -215,7 +229,7 @@ Moscou, hiver 2018. À sa grande surprise, l'élève de troisième Kirill Grishi
 
 ## Carte blanche au festival Indie Lisboa
 
-**Le Festival international du cinéma indépendant de Lisbonne, IndieLisboa, propose chaque année un panorama exceptionnel de la création cinématographique. Avec une compétition prestigieuse et des sections parallèles prospectives, le festival a acquis une réputation internationale. En première partie de soirée un programme de courts métrages primés lors des dernières éditions du festivals sera suivi à 21h par la projection en avant-première d'un long métrage figurant au palmarès de la 17e édition du festival (30 avril – 10 mai). Détail de la programmation à partir du 11 mai sur cinematheque.fr Séance présentées par Miguel Valverde, délégué général d'IndieLisboa**
+**Le Festival international du cinéma indépendant de Lisbonne, IndieLisboa, propose chaque année un panorama exceptionnel de la création cinématographique. Avec une compétition prestigieuse et des sections de prospective, le festival a acquis une réputation internationale. En première partie de soirée un programme de courts métrages primés lors des dernières éditions du festivals sera suivi à 21h par la projection en avant-première d'un long métrage figurant au palmarès de la 17e édition du festival (25 août-5 septembre 2020). Détail de la programmation à partir du 7 septembre sur cinematheque.fr. Séance présentées par Miguel Valverde, délégué général d'IndieLisboa**
 
 [143866]  
 **Past Perfect**  
@@ -243,9 +257,12 @@ Colombie-France / 2016 / 13 min / VOSTF / 16 mm
 Avec Christine Salem, David Abrousse, Harry Périgonne.  
 Pour tenir la promesse faite à sa mère mourante, une jeune femme part à la recherche de son père, homme volage qu'elle n'a jamais connu. En chemin, elle apprend rapidement que l'homme est mort. Porté par le rythme envoutant du maloya, chant rituel réunionnais, Cilaos explore les liens profonds et troubles qui unissent morts et vivants.
 
-- lu 26 oct 19h00 JE
+- lu 26 oct 19h00 JE  
+Séance présentée par Miguel Valverde
 
 ## Mathilde Delaunay
+
+**Des personnages et des lieux inhabituels nous plongent dans un conte fantastique et poétique porté par le regard singulier d'une cinéaste prometteuse. Pour sa carte blanche, Mathilde Delaunay présentera _Sweetie_, le premier long métrage de Jane Campion.**
 
 [145143]  
 **La Fille oblique**  
@@ -261,9 +278,24 @@ Australie / 1989 / 99 min / VOSTF / DCP
 Avec Karen Colston, Genevieve Lemon, Tom Lycos.  
 Kay, qui a peur de tout, s'apaise lorsqu'elle se met en ménage avec Louis. Mais ce bonheur apparent ne dure qu'un temps et ses angoisses la reprennent. C'est alors qu'apparaît Sweetie, sa jeune sœur, obèse, débraillée et sympathique.
 
-- lu 2 nov 20h00 JE
+- lu 2 nov 19h30 JE  
+Séance suivie d'une discussion avec Mathilde Delaunay
+
+## Filipe Galvon
+
+**Portrait sensible du Brésil contemporain par un cinéaste de la génération Lula-Dilma.**
+
+[145212]  
+**Encantado**  
+de Filipe Galvon  
+Brésil / 2019 / 83 min / VOSTF / DCP  
+Un portrait politique et poétique du Brésil des dernières années vu par la première génération de la classe populaire à étudier à l'étranger. Si le Brésil a un jour porté le titre de pays de l'avenir, c'est aujourd'hui l'exemple d'une démocratie en ruine. Le pays qui a enchanté le monde est-il en plein désenchantement ?
+
+- lu 9 nov 18h30 JE
 
 ## Carlos Segundo
+
+**Portraitiste de femmes, explorateur d'espaces et de dimensions sonores à révéler, penseur sensoriel de l'image, tel est Carlos Segundo, révélé par le FID Marseille, dont nous projetons trois films, parmi lesquels son premier long métrage, _Fendas_, en avant-première.**
 
 [142504]  
 **Subcutâneo**  
@@ -287,9 +319,11 @@ Brésil-France / 2019 / 80 min / DCP
 Avec Roberta Rangel.  
 Catarina, chercheuse en physique quantique, étudie les espaces sonores cachés dans les variations de la lumière. En se plongeant dans des images qu'elle distord, elle découvre une nouvelle forme de spectre sonore, qui semble lui donner accès à une autre temporalité.
 
-- lu 9 nov 20h00 JE
+- lu 9 nov 21h00 JE
 
 ## Jihane Chouaib
+
+**À l'occasion de la sortie d'un coffret DVD de ses films, soirée avec Jihane Chouaib, avec _Pays rêvé_, documentaire expérimentant en partage le rapport intime à un pays, et _Go Home_, fiction intense mêlant aussi étroitement souvenirs et lieux, portée par la comédienne Golshifteh Farahani.**
 
 [117169]  
 **Pays rêvé**  
@@ -311,7 +345,7 @@ Nada revient au Liban, désormais étrangère dans son propre pays. Elle se ré
 
 ## Radiohead par Paul Thomas Anderson
 
-**Fruit de la riche collaboration entre Paul Thomas Anderson et les membres de Radiohead, l'intégrale des œuvres (documentaire, clips et court-métrage) réalisées par le cinéaste américain sont présentées pour la première fois à Paris sur grand écran. _Soirée organisée en collaboration avec le Cinéma Le Concorde de La Roche-sur-Yon._**
+**Fruit de la riche collaboration entre Paul Thomas Anderson et les membres de Radiohead, l'intégrale des œuvres (documentaire, clips et court métrage) réalisées par le cinéaste américain sont présentées pour la première fois à Paris sur grand écran. Soirée organisée en collaboration avec le cinéma Le Concorde de La Roche-sur-Yon._**
 
 [143264]  
 **Junun**  
@@ -329,7 +363,7 @@ suivi de
 **Daydreaming**  
 de Paul Thomas Anderson  
 États-Unis / 2016 / 6 min / VO / 35 mm  
-Clip de « _Daydreaming_ » de Radiohead réalisé par Paul Thomas Anderson en 2016.  
+Clip de _Daydreaming_ de Radiohead réalisé par Paul Thomas Anderson en 2016.  
 suivi de  
 [143266]  
 **Present Tense**  
@@ -344,4 +378,8 @@ de Paul Thomas Anderson
 Le musicien Thom Yorke, leader de Radiohead, mis en scène dans un futur dystopique.  
 Court métrage réalisé pour accompagner la sortie de son album solo _Anima_.
 
-- lu 23 nov 20h00 GF
+- lu 23 nov 20h00 GF  
+Séance présentée par Morgan Pokée
+
+## Festival Entrevues Belfort 2020
+

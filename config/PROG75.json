@@ -131,6 +131,11 @@
           "tri": 4
         },
         {
+          "titre": "Filipe Galvon",
+          "cats": [2342],
+          "tri": 4
+        },
+        {
           "titre": "Carlos Segundo",
           "cats": [2341],
           "tri": 4
@@ -143,6 +148,11 @@
         {
           "titre": "Radiohead par Paul Thomas Anderson",
           "cats": [2197],
+          "tri": 4
+        },
+        {
+          "titre": "Festival Entrevues Belfort 2020",
+          "cats": [2344],
           "tri": 4
         }
       ]

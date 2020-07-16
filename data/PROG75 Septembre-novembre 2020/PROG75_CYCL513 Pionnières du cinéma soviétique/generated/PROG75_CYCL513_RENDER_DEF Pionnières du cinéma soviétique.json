@@ -45,7 +45,7 @@
           ],
           "duree": 27,
           "format": "DCP",
-          "version": "",
+          "version": "INT. FR.",
           "ageMinimal": 0,
           "seance": [
             {
@@ -74,7 +74,7 @@
         {
           "idFilm": 145167,
           "titre": "Bouba",
-          "realisateurs": "Noutsa Gogoberidzé",
+          "realisateurs": "Noutsa Gogoberidze",
           "annee": 1930,
           "pays": "URSS",
           "textes": [
@@ -89,7 +89,7 @@
           ],
           "duree": 39,
           "format": "DCP",
-          "version": "VO",
+          "version": "INT. FR.",
           "ageMinimal": null,
           "seance": [
             {
@@ -113,13 +113,13 @@
               ]
             }
           ],
-          "precedeSuivi": "Film suivi d'_Oujmouri_ de Noutsa Gogoberidzé"
+          "precedeSuivi": "Film suivi d'_Oujmouri_ de Noutsa Gogoberidze"
         },
         {
           "idFilm": 41491,
           "titre": "Cendrillon",
           "titreVo": "Zolouchka",
-          "realisateurs": "Nadejda Kocheverova, Mikhaïl Shapiro",
+          "realisateurs": "Nadejda Kocheverova, Mikhaïl Chapiro",
           "annee": 1947,
           "pays": "URSS",
           "textes": [
@@ -141,7 +141,7 @@
           ],
           "duree": 82,
           "format": "35 mm",
-          "version": "",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -186,7 +186,7 @@
           ],
           "duree": 70,
           "format": "35 mm",
-          "version": "",
+          "version": "INT. FR.",
           "ageMinimal": null,
           "seance": [
             {
@@ -216,7 +216,7 @@
           "idFilm": 40480,
           "titre": "Génération des vainqueurs",
           "art": "La",
-          "titreVo": "Pokolenié pobediteleï",
+          "titreVo": "Pokolenie pobediteleï",
           "realisateurs": "Vera Stroïeva",
           "annee": 1936,
           "pays": "URSS",
@@ -239,7 +239,7 @@
           ],
           "duree": 110,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -288,7 +288,7 @@
           ],
           "duree": 80,
           "format": "35 mm",
-          "version": "VO",
+          "version": "INT. FR.",
           "ageMinimal": null,
           "seance": [
             {
@@ -315,9 +315,9 @@
         },
         {
           "idFilm": 135420,
-          "titre": "Komsomol, chef de l'électrification",
-          "titreVo": "K.Ch.E. (Komsomol, chef elektrifikatsii)",
-          "realisateurs": "Esfir Choub",
+          "titre": "Komsomol à la tête de l'électrification",
+          "titreVo": "K.Ch.E. : Komsomol, chef elektrifikatsii",
+          "realisateurs": "Esther Choub",
           "annee": 1932,
           "pays": "URSS",
           "textes": [
@@ -327,12 +327,12 @@
             },
             {
               "typeTexte": 99,
-              "texte": "Pour Esfir Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien, et même américain."
+              "texte": "Pour Esther Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien, et même américain."
             }
           ],
           "duree": 59,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -360,7 +360,7 @@
         {
           "idFilm": 145168,
           "titre": "Oujmouri",
-          "realisateurs": "Noutsa Gogoberidzé",
+          "realisateurs": "Noutsa Gogoberidze",
           "annee": 1934,
           "pays": "URSS",
           "textes": [
@@ -376,11 +376,11 @@
           "generique": [
             "Koté Daouchvili",
             "Merab Tchikovani",
-            "Noutsa Tchkheidzé"
+            "Noutsa Tchkheidze"
           ],
           "duree": 56,
           "format": "DCP",
-          "version": "",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -404,7 +404,7 @@
               ]
             }
           ],
-          "precedeSuivi": "Film précédé de _Bouba_ de Noutsa Gogoberidzé"
+          "precedeSuivi": "Film précédé de _Bouba_ de Noutsa Gogoberidze"
         },
         {
           "idFilm": 145171,
@@ -429,7 +429,7 @@
           ],
           "duree": 72,
           "format": "35 mm",
-          "version": "",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -472,8 +472,8 @@
             "Andreï Faït"
           ],
           "duree": 42,
-          "format": "",
-          "version": "",
+          "format": "35 mm",
+          "version": "INT. FR.",
           "ageMinimal": 0,
           "seance": [
             {
@@ -523,7 +523,7 @@
           ],
           "duree": 85,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {
@@ -552,7 +552,7 @@
         {
           "idFilm": 145173,
           "titre": "Vavila le terrible et tante Arina",
-          "titreVo": "Groznyï Vavila i tetka Arina",
+          "titreVo": "Grozny Vavila i tetka Arina",
           "realisateurs": "Nikolaï Khodataïev, Olga Khodataïeva",
           "annee": 1928,
           "pays": "URSS",
@@ -568,7 +568,7 @@
           ],
           "duree": 6,
           "format": "35 mm",
-          "version": "VO",
+          "version": "VOSTF",
           "ageMinimal": null,
           "seance": [
             {

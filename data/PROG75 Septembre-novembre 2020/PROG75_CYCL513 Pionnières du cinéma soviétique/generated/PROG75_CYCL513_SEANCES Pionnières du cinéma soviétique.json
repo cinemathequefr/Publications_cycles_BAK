@@ -17,7 +17,7 @@
         "idSeance": 36189,
         "idCopie": 12000,
         "duree": 85,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -41,7 +41,7 @@
         "idSeance": 36190,
         "idCopie": 21505,
         "duree": 70,
-        "version": "",
+        "version": "INT. FR.",
         "format": "35 mm",
         "valide": 0
       },
@@ -51,9 +51,9 @@
         "idSeance": 36190,
         "idCopie": 21506,
         "duree": 6,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -74,7 +74,7 @@
         "idSeance": 36263,
         "idCopie": 21509,
         "duree": 80,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "35 mm",
         "valide": 0
       }
@@ -97,7 +97,7 @@
         "idSeance": 36193,
         "idCopie": 21501,
         "duree": 39,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "DCP",
         "valide": 0
       },
@@ -107,7 +107,7 @@
         "idSeance": 36193,
         "idCopie": 21510,
         "duree": 56,
-        "version": "",
+        "version": "VOSTF",
         "format": "DCP",
         "valide": 0
       }
@@ -130,9 +130,9 @@
         "idSeance": 36262,
         "idCopie": 21502,
         "duree": 27,
-        "version": "",
+        "version": "INT. FR.",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 72917,
@@ -140,8 +140,8 @@
         "idSeance": 36262,
         "idCopie": 12236,
         "duree": 42,
-        "version": "",
-        "format": "",
+        "version": "INT. FR.",
+        "format": "35 mm",
         "valide": 1
       }
     ]
@@ -163,7 +163,7 @@
         "idSeance": 36196,
         "idCopie": 21503,
         "duree": 59,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -186,7 +186,7 @@
         "idSeance": 36197,
         "idCopie": 21508,
         "duree": 110,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -209,7 +209,7 @@
         "idSeance": 36198,
         "idCopie": 21504,
         "duree": 72,
-        "version": "",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -232,7 +232,7 @@
         "idSeance": 36199,
         "idCopie": 21507,
         "duree": 82,
-        "version": "",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -255,7 +255,7 @@
         "idSeance": 36235,
         "idCopie": 21505,
         "duree": 70,
-        "version": "",
+        "version": "INT. FR.",
         "format": "35 mm",
         "valide": 0
       },
@@ -265,9 +265,9 @@
         "idSeance": 36235,
         "idCopie": 21506,
         "duree": 6,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -288,7 +288,7 @@
         "idSeance": 36200,
         "idCopie": 21509,
         "duree": 80,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "35 mm",
         "valide": 0
       }
@@ -311,7 +311,7 @@
         "idSeance": 36201,
         "idCopie": 21501,
         "duree": 39,
-        "version": "VO",
+        "version": "INT. FR.",
         "format": "DCP",
         "valide": 0
       },
@@ -321,7 +321,7 @@
         "idSeance": 36201,
         "idCopie": 21510,
         "duree": 56,
-        "version": "",
+        "version": "VOSTF",
         "format": "DCP",
         "valide": 0
       }
@@ -344,9 +344,9 @@
         "idSeance": 36206,
         "idCopie": 21502,
         "duree": 27,
-        "version": "",
+        "version": "INT. FR.",
         "format": "DCP",
-        "valide": 0
+        "valide": 1
       },
       {
         "idFilm": 72917,
@@ -354,8 +354,8 @@
         "idSeance": 36206,
         "idCopie": 12236,
         "duree": 42,
-        "version": "",
-        "format": "",
+        "version": "INT. FR.",
+        "format": "35 mm",
         "valide": 1
       }
     ]
@@ -377,7 +377,7 @@
         "idSeance": 36202,
         "idCopie": 21503,
         "duree": 59,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -400,7 +400,7 @@
         "idSeance": 36203,
         "idCopie": 12000,
         "duree": 85,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -423,7 +423,7 @@
         "idSeance": 36233,
         "idCopie": 21508,
         "duree": 110,
-        "version": "VO",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -446,7 +446,7 @@
         "idSeance": 36236,
         "idCopie": 21504,
         "duree": 72,
-        "version": "",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }
@@ -469,7 +469,7 @@
         "idSeance": 36237,
         "idCopie": 21507,
         "duree": 82,
-        "version": "",
+        "version": "VOSTF",
         "format": "35 mm",
         "valide": 0
       }

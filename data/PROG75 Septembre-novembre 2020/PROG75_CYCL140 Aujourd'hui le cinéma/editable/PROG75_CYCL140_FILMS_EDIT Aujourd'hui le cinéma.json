@@ -1,5 +1,20 @@
 [
   {
+    "titre": "Encantado",
+    "titreVo": "",
+    "idFilm": 145212,
+    "ageMinimal": null,
+    "realisateurs": "Filipe Galvon",
+    "annee": 2019,
+    "pays": "Brésil",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un portrait politique et poétique du Brésil des dernières années vu par la première génération de la classe populaire à étudier à l'étranger. Si le Brésil a un jour porté le titre de pays de l'avenir, c'est aujourd'hui l'exemple d'une démocratie en ruine. Le pays qui a enchanté le monde est-il en plein désenchantement ?"
+      }
+    ]
+  },
+  {
     "titre": "À marche forcée",
     "titreVo": "",
     "idFilm": 145131,
@@ -147,7 +162,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Clip de « _Daydreaming_ » de Radiohead réalisé par Paul Thomas Anderson en 2016."
+        "texte": "Clip de _Daydreaming_ de Radiohead réalisé par Paul Thomas Anderson en 2016."
       }
     ]
   },
