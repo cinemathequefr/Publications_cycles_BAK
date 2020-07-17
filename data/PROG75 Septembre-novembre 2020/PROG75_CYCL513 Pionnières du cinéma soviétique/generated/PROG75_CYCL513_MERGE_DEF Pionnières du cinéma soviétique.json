@@ -2,7 +2,7 @@
   "data": [
     {
       "titreSousCycle": "Les films",
-      "tri": 1,
+      "tri": 2,
       "items": [
         {
           "idSeance": 36262,
@@ -94,8 +94,8 @@
           "idEvenement": 22902,
           "typeEvenement": 13,
           "idFilm": 145167,
-          "titre": "Bouba",
-          "realisateurs": "Noutsa Gogoberidze",
+          "titre": "Buba",
+          "realisateurs": "Nutsa Gogoberidze",
           "annee": 1930,
           "pays": "URSS",
           "duree": 39,
@@ -125,8 +125,8 @@
           "idEvenement": 22902,
           "typeEvenement": 13,
           "idFilm": 145167,
-          "titre": "Bouba",
-          "realisateurs": "Noutsa Gogoberidze",
+          "titre": "Buba",
+          "realisateurs": "Nutsa Gogoberidze",
           "annee": 1930,
           "pays": "URSS",
           "duree": 39,
@@ -507,78 +507,6 @@
           ]
         },
         {
-          "idSeance": 36193,
-          "ordre": 2,
-          "dateHeure": "2020-10-18T19:00:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "idCategorie": 2324,
-          "idEvenement": 22902,
-          "typeEvenement": 13,
-          "idFilm": 145168,
-          "titre": "Oujmouri",
-          "realisateurs": "Noutsa Gogoberidze",
-          "annee": 1934,
-          "pays": "URSS",
-          "duree": 56,
-          "version": "VOSTF",
-          "format": "DCP",
-          "ageMinimal": null,
-          "generique": [
-            "Koté Daouchvili",
-            "Merab Tchikovani",
-            "Noutsa Tchkheidze"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Oujmouri, la Reine des grenouilles, qui hante le marais."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Interdit après sa sortie en 1934, _Oujmouri_ a été retrouvé et restauré en 2018."
-            }
-          ]
-        },
-        {
-          "idSeance": 36201,
-          "ordre": 2,
-          "dateHeure": "2020-10-24T21:15:00",
-          "idSalle": [
-            "JE",
-            "Jean Epstein"
-          ],
-          "idCategorie": 2324,
-          "idEvenement": 22902,
-          "typeEvenement": 13,
-          "idFilm": 145168,
-          "titre": "Oujmouri",
-          "realisateurs": "Noutsa Gogoberidze",
-          "annee": 1934,
-          "pays": "URSS",
-          "duree": 56,
-          "version": "VOSTF",
-          "format": "DCP",
-          "ageMinimal": null,
-          "generique": [
-            "Koté Daouchvili",
-            "Merab Tchikovani",
-            "Noutsa Tchkheidze"
-          ],
-          "textes": [
-            {
-              "typeTexte": 9,
-              "texte": "Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Oujmouri, la Reine des grenouilles, qui hante le marais."
-            },
-            {
-              "typeTexte": 99,
-              "texte": "Interdit après sa sortie en 1934, _Oujmouri_ a été retrouvé et restauré en 2018."
-            }
-          ]
-        },
-        {
           "idSeance": 36198,
           "ordre": 1,
           "dateHeure": "2020-10-22T19:30:00",
@@ -786,6 +714,78 @@
             {
               "typeTexte": 99,
               "texte": "Splendidement chaotique comme le cinéma soviétique savait encore l'être, son esprit de révolte, son anarchisme et son amour des enfants séduisirent Henri Langlois : « Un vrai chef-d'œuvre », « Le meilleur film parlant soviétique »."
+            }
+          ]
+        },
+        {
+          "idSeance": 36193,
+          "ordre": 2,
+          "dateHeure": "2020-10-18T19:00:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2324,
+          "idEvenement": 22902,
+          "typeEvenement": 13,
+          "idFilm": 145168,
+          "titre": "Ujmuri",
+          "realisateurs": "Nutsa Gogoberidze",
+          "annee": 1934,
+          "pays": "URSS",
+          "duree": 56,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Koté Daouchvili",
+            "Merab Tchikovani",
+            "Nutsa Tchkheidze"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Ujmuri, la Reine des grenouilles, qui hante le marais."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Interdit après sa sortie en 1934, _Ujmuri_ a été retrouvé et restauré en 2018."
+            }
+          ]
+        },
+        {
+          "idSeance": 36201,
+          "ordre": 2,
+          "dateHeure": "2020-10-24T21:15:00",
+          "idSalle": [
+            "JE",
+            "Jean Epstein"
+          ],
+          "idCategorie": 2324,
+          "idEvenement": 22902,
+          "typeEvenement": 13,
+          "idFilm": 145168,
+          "titre": "Ujmuri",
+          "realisateurs": "Nutsa Gogoberidze",
+          "annee": 1934,
+          "pays": "URSS",
+          "duree": 56,
+          "version": "VOSTF",
+          "format": "DCP",
+          "ageMinimal": null,
+          "generique": [
+            "Koté Daouchvili",
+            "Merab Tchikovani",
+            "Nutsa Tchkheidze"
+          ],
+          "textes": [
+            {
+              "typeTexte": 9,
+              "texte": "Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Ujmuri, la Reine des grenouilles, qui hante le marais."
+            },
+            {
+              "typeTexte": 99,
+              "texte": "Interdit après sa sortie en 1934, _Ujmuri_ a été retrouvé et restauré en 2018."
             }
           ]
         },

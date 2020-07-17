@@ -11,25 +11,34 @@ D'après la nouvelle _L'Affaire des fermoirs_ de Maxime Gorki.
 Avec A. Bavrine, Piotr Galadjev, Galina Ivanovskaïa.  
 Trois vagabonds sont recueillis par une dévote.  
 Dans cette satire de la bigoterie, sa première réalisation, Khokhlova met en valeur des acteurs jeunes, et filme en liberté les paysages de la vieille Russie.  
-Film suivi de _Sacha_ d'Aleksandra Khokhlova
+suivi de  
+[72917]  
+**Sacha**  
+d'Aleksandra Khokhlova  
+URSS / 1930 / 42 min / INT. FR. / 35 mm  
+Avec M. Sapojnikova, P. Iline, Andreï Faït.  
+Une jeune paysanne enceinte arrive en ville. Un policier la prend sous sa protection, un autre la dénonce comme l'épouse d'un détenu accusé d'avoir tué l'instituteur de son village.
 
 - di 18 oct 21h00 JE  
-Film suivi de _Sacha_ d'Aleksandra Khokhlova  
-- di 25 oct 17h00 JE  
-Film suivi de _Sacha_ d'Aleksandra Khokhlova
+- di 25 oct 17h00 JE
 
 [145167]  
-**Bouba**  
-de Noutsa Gogoberidze  
+**Buba**  
+de Nutsa Gogoberidze  
 URSS / 1930 / 39 min / INT. FR. / DCP  
 La pauvreté ancestrale d'un village de montagne dont est bouleversée par l'arrivée du pouvoir soviétique.  
 On pense au _Sel de Svanétie_ de Mikhaïl Kalatozov. La vitalité des avant-gardes géorgiennes n'avait alors rien à envier à celles de Moscou et Léningrad.  
-Film suivi d'_Oujmouri_ de Noutsa Gogoberidze
+suivi de  
+[145168]  
+**Ujmuri**  
+de Nutsa Gogoberidze  
+URSS / 1934 / 56 min / VOSTF / DCP  
+Avec Koté Daouchvili, Merab Tchikovani, Nutsa Tchkheidze.  
+Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Ujmuri, la Reine des grenouilles, qui hante le marais.  
+Interdit après sa sortie en 1934, _Ujmuri_ a été retrouvé et restauré en 2018.
 
 - di 18 oct 19h00 JE  
-Film suivi d'_Oujmouri_ de Noutsa Gogoberidze  
-- sa 24 oct 21h15 JE  
-Film suivi d'_Oujmouri_ de Noutsa Gogoberidze
+- sa 24 oct 21h15 JE
 
 [41491]  
 **Cendrillon**  
@@ -51,12 +60,17 @@ URSS / 1937 / 70 min / INT. FR. / 35 mm
 D'après le roman _Les Misérables_ de Victor Hugo.  
 Avec Nikolaï Smortchkov, Ivan Novosseltsev, Nina Zorskaïa.  
 Adaptation très libre des _Misérables_ qui met en valeur le contexte politique et l'opposition à la monarchie de Juillet. Incarnation du petit peuple, pauvre, rusé, héroïque, Gavroche monte sur les barricades parce que son père est assassiné dans les geôles du Roi.  
-Film suivi de _Vavila le terrible et tante Arina_ de Nikolaï Khodataïev, Olga Khodataïeva
+suivi de  
+[145173]  
+**Vavila le terrible et tante Arina**  
+**(Grozny Vavila i tetka Arina)**  
+de Nikolaï Khodataïev, Olga Khodataïeva  
+URSS / 1928 / 6 min / VOSTF / 35 mm  
+Le moujik Vavila bat sa femme, « tante » Arina. Quand lui et son copain voient les femmes partir fêter le 8 mars et s'éduquer à l'école des travailleuses, ils comprennent qu'ils sont fichus.  
+Cet _« agit-film »_ réunit quatre pionniers/pionnières de l'animation soviétique.
 
 - sa 17 oct 19h00 JE  
-Film suivi de _Vavila le terrible et tante Arina_ de Nikolaï Khodataïev, Olga Khodataïeva  
-- sa 24 oct 17h00 JE  
-Film suivi de _Vavila le terrible et tante Arina_ de Nikolaï Khodataïev, Olga Khodataïeva
+- sa 24 oct 17h00 JE
 
 [40480]  
 **La Génération des vainqueurs**  
@@ -93,20 +107,6 @@ Pour Esther Choub, les grands travaux du premier plan quinquennal vont de pair a
 - me 21 oct 19h00 JE  
 - di 25 oct 19h00 JE
 
-[145168]  
-**Oujmouri**  
-de Noutsa Gogoberidze  
-URSS / 1934 / 56 min / VOSTF / DCP  
-Avec Koté Daouchvili, Merab Tchikovani, Noutsa Tchkheidze.  
-Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Oujmouri, la Reine des grenouilles, qui hante le marais.  
-Interdit après sa sortie en 1934, _Oujmouri_ a été retrouvé et restauré en 2018.  
-Film précédé de _Bouba_ de Noutsa Gogoberidze
-
-- di 18 oct 19h00 JE  
-Film précédé de _Bouba_ de Noutsa Gogoberidze  
-- sa 24 oct 21h15 JE  
-Film précédé de _Bouba_ de Noutsa Gogoberidze
-
 [145171]  
 **Père et fils**  
 **(Otets i syn)**  
@@ -118,19 +118,6 @@ Le film a été interdit, remonté et mutilé. Il n'existe que dans une version 
 
 - je 22 oct 19h30 JE  
 - me 28 oct 21h15 JE
-
-[72917]  
-**Sacha**  
-d'Aleksandra Khokhlova  
-URSS / 1930 / 42 min / INT. FR. / 35 mm  
-Avec M. Sapojnikova, P. Iline, Andreï Faït.  
-Une jeune paysanne enceinte arrive en ville. Un policier la prend sous sa protection, un autre la dénonce comme l'épouse d'un détenu accusé d'avoir tué l'instituteur de son village.  
-Film précédé de _L'Affaire des fermoirs_ d'Aleksandra Khokhlova
-
-- di 18 oct 21h00 JE  
-Film précédé de _L'Affaire des fermoirs_ d'Aleksandra Khokhlova  
-- di 25 oct 17h00 JE  
-Film précédé de _L'Affaire des fermoirs_ d'Aleksandra Khokhlova
 
 [40611]  
 **Souliers percés**  
@@ -144,18 +131,4 @@ Splendidement chaotique comme le cinéma soviétique savait encore l'être, son 
 - me 14 oct 20h00 HL  
 Ouverture de la rétrospective. Séance présentée par Bernard Eisenschitz et Irène Bonnaud  
 - di 25 oct 20h45 JE
-
-[145173]  
-**Vavila le terrible et tante Arina**  
-**(Grozny Vavila i tetka Arina)**  
-de Nikolaï Khodataïev, Olga Khodataïeva  
-URSS / 1928 / 6 min / VOSTF / 35 mm  
-Le moujik Vavila bat sa femme, « tante » Arina. Quand lui et son copain voient les femmes partir fêter le 8 mars et s'éduquer à l'école des travailleuses, ils comprennent qu'ils sont fichus.  
-Cet _« agit-film »_ réunit quatre pionniers/pionnières de l'animation soviétique.  
-Film précédé de _Gavroche_ de Tatiana Loukachevitch
-
-- sa 17 oct 19h00 JE  
-Film précédé de _Gavroche_ de Tatiana Loukachevitch  
-- sa 24 oct 17h00 JE  
-Film précédé de _Gavroche_ de Tatiana Loukachevitch
 
