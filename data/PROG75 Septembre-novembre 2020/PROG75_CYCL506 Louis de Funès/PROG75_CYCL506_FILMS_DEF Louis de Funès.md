@@ -136,6 +136,20 @@ France / 1964
 Avec Jean Marais, Louis de Funès, Mylène Demongeot.  
 Le mystérieux Fantômas terrorise la France entière. Aidé par le journaliste Fandor et une ravissante photographe, le commissaire Juve traque le malfaiteur.
 
+[53934]  
+**Fantômas contre Scotland Yard**  
+d'André Hunebelle  
+France-Italie / 1966  
+Avec Jean Marais, Louis de Funès, Mylène Demongeot.  
+Fantômas revient avec une nouvelle idée : imposer aux riches, nobles comme gangsters, un impôt sur le droit de vivre. Débarqués en Ecosse, le commissaire Juve, Fandor et sa fiancée ont pour mission d'attraper le célèbre bandit.
+
+[53849]  
+**Fantômas se déchaîne**  
+d'André Hunebelle  
+France-Italie / 1965  
+Avec Jean Marais, Louis de Funès, Mylène Demongeot.  
+Le professeur Marchand est un scientifique connu pour avoir créé un rayon télépathique. Quand il disparaît mystérieusement, Fantômas est immédiatement soupçonné.
+
 [48766]  
 **Frou-Frou**  
 d'Augusto Genina  
@@ -143,6 +157,13 @@ France-Italie / 1954
 D'après le roman _Frou-frou_ de Cécil Saint-Laurent.    
 Avec Dany Robin, Gino Cervi, Louis de Funès.  
 La vie et les amours d'Antoinette, une jeune et jolie bouquetière parisienne qui, sous la protection de quelques messieurs d'un certain âge, devient une chanteuse en vogue.
+
+[48777]  
+**Le Gendarme à New York**  
+de Jean Girault  
+France-Italie / 1965  
+Avec Louis de Funès, Michel Galabru, Christian Marin, Jean Lefebvre.  
+Les célèbres gendarmes de Saint-Tropez partent à New York pour représenter la France au Congrès international de gendarmerie.
 
 [48792]  
 **Le Gendarme de Saint-Tropez**  
@@ -166,6 +187,13 @@ de Jean Girault
 France / 1978  
 Avec Louis de Funès, Michel Galabru, Maurice Risch.  
 Les célèbres gendarmes de Saint-Tropez se retrouvent confrontés à des extraterrestres.
+
+[52319]  
+**Le Gendarme se marie**  
+de Jean Girault  
+France-Italie / 1968  
+Avec Louis de Funès, Michel Galabru, Claude Gensac, Geneviève Grad.  
+Suite à un accident, Cruchot rencontre Josépha, la veuve d'un colonel de gendarmerie.
 
 [51911]  
 **Le Grand restaurant**  

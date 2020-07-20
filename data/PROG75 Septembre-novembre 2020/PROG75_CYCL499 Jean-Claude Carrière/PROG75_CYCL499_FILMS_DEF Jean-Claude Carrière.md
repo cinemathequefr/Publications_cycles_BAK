@@ -35,7 +35,7 @@ Avec Peter Brook, Jean-Claude Carrière, Milos Forman, Pierre Étaix.
 [52063]  
 **Cartes sur table**  
 **(Cartas boca arriba)**  
-de Jesús Franco  
+de Jess Franco  
 Espagne-France / 1965  
 Avec Eddie Constantine, Françoise Brion, Fernando Rey.  
 Un agent secret enquête sur une série d'assassinats de personnalités internationales commis par des terroristes génétiquement modifiés.
@@ -79,6 +79,14 @@ France-Pologne / 1982
 D'après la pièce _L'Affaire Danton_ de Stanislawa Przybyszewska.  
 Avec Gérard Depardieu, Wojciech Pszoniak, Patrice Chéreau.  
 Été 1793 : le Comité de salut public, à l'instigation de Robespierre, instaure la Terreur. La famine réapparaît, entraînant la révolte, et les têtes tombent. Danton, regagnant Paris, s'oppose à Robespierre.
+
+[60678]  
+**Le Diabolique docteur Z**  
+**(Miss Muerte)**  
+de Jess Franco  
+Espagne-France / 1965  
+Avec Estella Blain, Mabel Karr, Howard Vernon.  
+La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort.
 
 [47186]  
 **Le Fantôme de la liberté**  
@@ -131,14 +139,6 @@ France-Italie / 1963
 D'après le roman _Le Journal d'une femme de chambre_ d'Octave Mirbeau.  
 Avec Jeanne Moreau, Michel Piccoli, Françoise Lugagne, Georges Géret.  
 En 1928, Célestine est embauchée comme femme de chambre chez les Monteil et devient la maîtresse de Joseph, un domestique qui a assassiné une petite fille.
-
-[60678]  
-**Le Le Diabolique docteur Z**  
-**(Miss Muerte)**  
-de Jesús Franco  
-Espagne-France / 1965  
-Avec Estella Blain, Mabel Karr, Howard Vernon.  
-La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort.
 
 [41888]  
 **Liza**  

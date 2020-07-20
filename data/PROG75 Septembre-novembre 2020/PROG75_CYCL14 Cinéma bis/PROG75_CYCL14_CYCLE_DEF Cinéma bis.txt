@@ -51,7 +51,7 @@
 <pstyle:><cstyle:INFOSBLEUES>ve 23 octXXX20h00XXX
 <cstyle:SALLESBLEUES>B
 
-<pstyle:TITRE>Le Le Diabolique docteur Z
+<pstyle:TITRE>Le Diabolique docteur Z
 <pstyle:TITRE_ANG>(Miss Muerte)
 <pstyle:TECHNIQUE>de Jess Franco
 <pstyle:TECHNIQUE>Espagne-France/1965/86<0x2019>/VF/DCP

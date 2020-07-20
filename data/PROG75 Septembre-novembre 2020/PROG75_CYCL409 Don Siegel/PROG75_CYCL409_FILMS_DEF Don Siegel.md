@@ -43,6 +43,8 @@ de Don Siegel
 Avec Edmond O'Brien, Barry Sullivan, Jocelyn Brando.  
 Pendant la Seconde Guerre mondiale, une troupe de soldats américains part en mission dans le Sud de la Chine pour délivrer un prisonnier important.
 
+Film sous réserve.
+
 [35829]  
 **Contre une poignée de diamants**  
 **(The Black Windmill)**  
@@ -78,6 +80,8 @@ de Don Siegel
 États-Unis / 1951  
 Avec Audie Murphy, Faith Domergue, Stephen McNally.  
 Le shérif de Silver City et son adjoint essayent de neutraliser une bande armée qui terrorise la région.
+
+Film sous réserve.
 
 [45130]  
 **L'Enfer est pour les héros**  
@@ -283,6 +287,8 @@ de Don Siegel
 Avec Cornel Wilde, Victoria Shaw, Mickey Shaughnessy.  
 Des meurtres violents ont été commis aux abords d'une mine désaffectée, dans le Grand Canyon du Colorado. Un jeune shérif mène l'enquête.
 
+Film sous réserve.
+
 [57017]  
 **Sierra torride**  
 **(Two Mules for Sister Sara)**  
@@ -342,6 +348,8 @@ de Don Siegel
 D'après le roman _Houn Dog Man_ de Fred Gipson.  
 Avec Fabian, Carol Lynley, Stuart Whitman.  
 Censé veiller au bon fonctionnement de la ferme selon les ordres de sa mère, Spud Kinney part à la chasse avec son frère et son meilleur ami.
+
+Copie d'époque avec son stéréophonique 4 pistes d'origine. Couleurs dénaturées.
 
 [71798]  
 **Le Verdict**  

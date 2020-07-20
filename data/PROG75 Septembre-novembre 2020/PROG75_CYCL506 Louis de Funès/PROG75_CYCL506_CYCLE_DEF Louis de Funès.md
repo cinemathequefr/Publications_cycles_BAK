@@ -38,7 +38,7 @@ Avec Louis de Funès, Noëlle Adam, Olivier de Funès.
 Evan Evans est à la fois danseur, musicien, impresario, metteur en scène et manager d'une troupe de danseuses qu'il mène à la baguette. Au cours d'une tournée, il retrouve un bébé dans sa chambre, et doit se transformer malgré lui en père nourricier.
 
 - di 8 nov 15h00 GF  
-  Séance présentée par Serge Korber
+Séance présentée par Serge Korber
 
 [50189]  
 **Oscar**  
@@ -58,7 +58,7 @@ Avec Louis de Funès, Geraldine Chaplin, Olivier de Funès.
 Un promoteur français, qui vient de conclure avec un Italien un accord leur assurant la mainmise sur les autoroutes européennes, fait une embardée au volant. Sa voiture se retrouve, avec ses occupants, au sommet d'un arbre accroché à la paroi d'une falaise.
 
 - di 8 nov 17h30 GF  
-  Séance présentée par Serge Korber
+Séance présentée par Serge Korber
 
 ## Cinéma bis
 
@@ -71,7 +71,7 @@ Avec Louis de Funès, Jean Carmet, Jacques Villeret.
 Deux vieux paysans alcooliques, le Glaude et le Bombé, vivent retirés à la campagne. Une nuit, un extraterrestre atterrit dans le jardin du Glaude qui lui offre un peu de sa fameuse soupe aux choux.
 
 - ve 9 oct 20h00 HL  
-  Séance présentée par Christine Dejoux
+Séance présentée par Christine Dejoux
 
 [48793]  
 **Le Gendarme et les extra-terrestres**  
@@ -113,3 +113,4 @@ Pianiste de bar à ses débuts, Louis de Funès n'a jamais été, à l'écran, t
 Stéphane Lerouge est concepteur de la collection discographique _Ecoutez le cinéma !_ chez Universal Music France, dans laquelle figure l'anthologie _Louis de Funès – musiques de films 1963-1982_ (4 CD).
 
 - je 19 nov 19h00 GF
+

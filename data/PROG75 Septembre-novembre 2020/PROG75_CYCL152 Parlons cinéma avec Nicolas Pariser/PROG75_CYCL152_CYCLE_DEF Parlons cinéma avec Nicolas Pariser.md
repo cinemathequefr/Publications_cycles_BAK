@@ -2,7 +2,7 @@
 
 ## Les films
 
-\*\*Le vent souffle où il veut
+**Le vent souffle où il veut
 
 Jeune cinéphile, je cherchais à percer le mystère de la mise en scène. Je voulais savoir ce que c'était, et je savais que cela n'avait rien à voir avec la question « comment fait-on un film ? » J'ai commencé par compter les plans, puis à ne faire attention qu'au cadre, puis à observer uniquement la durée des plans. Je lisais les textes de Rivette et de Michel Mourlet, qui cherchaient à définir un en soi de la mise en scène. C'était souvent excitant, superbement écrit, mais disons pour être honnête que je n'étais pas très avancé.
 
@@ -12,9 +12,9 @@ Je ne le crois pas. J'aimerais peut-être simplement m'attarder sur un aspect du
 
 Il y a peut-être, à mes yeux, dans l'apparente absence de mise en scène des films des comédiens-cinéastes, un idéal secret de mise en scène. Tout cela est peut-être un peu théorique mais ces quatre projections nous aideront sans doute à y voir plus clair.
 
-Nicolas Pariser\*\*
+Nicolas Pariser**
 
-**Nicolas Pariser est cinéaste : auteur de trois courts métrages (_Le jour où Ségolène a gagné_, _La République_, _Agit Pop_), il a réalisé à ce jour deux longs métrages : _Le Grand Jeu_ (2015, avec Melvil Poupaud et André Dussollier, Prix Louis-Delluc) et _Alice et le maire_ (2019, avec Fabrice Luchini et Anaïs Demoustier, César de la meilleure actrice).**
+**Nicolas Pariser est cinéaste : auteur de trois courts métrages (_Le jour où Ségolène a gagné_, _La République_, _Agit Pop_), il a réalisé à ce jour deux longs métrages : _Le Grand jeu_ (2015, avec Melvil Poupaud et André Dussollier, Prix Louis-Delluc) et _Alice et le maire_ (2019, avec Fabrice Luchini et Anaïs Demoustier, César de la meilleure actrice).**
 
 [49090]  
 **Deburau**  
@@ -54,3 +54,4 @@ Avec Warren Beatty, Halle Berry, Oliver Platt, Don Cheadle.
 Le sénateur démocrate Jay Bulworth, à bout, ne croit plus à rien, alors qu'il se lance dans une campagne électorale. Ayant souscrit une assurance vie dont sa fille serait bénéficiaire, il engage un tueur pour mettre fin à ses jours.
 
 - je 22 oct 19h30 GF
+

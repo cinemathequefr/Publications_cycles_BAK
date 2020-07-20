@@ -10,7 +10,7 @@ Avec Jean Lefebvre, Dany Carrel, Bernard Blier.
 Un peu simplet, Goubi vit dans un village de l'Allier et rêve de voir Paris. À la suite d'une mauvaise farce, il est embarqué dans un camion et se retrouve dans la capitale, en pleine nuit.
 
 - sa 7 nov 19h15 GF  
-  Séance présentée par Serge Korber
+Séance présentée par Serge Korber
 
 [52146]  
 **L'Homme orchestre**  
@@ -21,7 +21,7 @@ Evan Evans est à la fois danseur, musicien, impresario, metteur en scène et ma
 Film accessible aux enfants
 
 - di 8 nov 15h00 GF  
-  Séance présentée par Serge Korber
+Séance présentée par Serge Korber
 
 [52216]  
 **Sur un arbre perché**  
@@ -31,4 +31,5 @@ Avec Louis de Funès, Geraldine Chaplin, Olivier de Funès.
 Un promoteur français, qui vient de conclure avec un Italien un accord leur assurant la mainmise sur les autoroutes européennes, fait une embardée au volant. Sa voiture se retrouve, avec ses occupants, au sommet d'un arbre accroché à la paroi d'une falaise.
 
 - di 8 nov 17h30 GF  
-  Séance présentée par Serge Korber
+Séance présentée par Serge Korber
+

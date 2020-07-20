@@ -13,11 +13,11 @@ Trois vagabonds sont recueillis par une dévote.
 Dans cette satire de la bigoterie, sa première réalisation, Khokhlova met en valeur des acteurs jeunes, et filme en liberté les paysages de la vieille Russie.
 
 [145167]  
-**Bouba**  
+**Buba**  
 **(Буба)**  
-de Noutsa Gogoberidze  
+de Nutsa Gogoberidze  
 URSS / 1930  
-La pauvreté ancestrale d'un village de montagne dont est bouleversée par l'arrivée du pouvoir soviétique.
+Un village de montagne dont la pauvreté ancestrale sera bouleversée par l'arrivée du pouvoir soviétique.
 
 On pense au _Sel de Svanétie_ de Mikhaïl Kalatozov. La vitalité des avant-gardes géorgiennes n'avait alors rien à envier à celles de Moscou et Léningrad.
 
@@ -74,16 +74,6 @@ Documentaire tourné en son direct (célébré dans la séquence d'ouverture) su
 
 Pour Esther Choub, les grands travaux du premier plan quinquennal vont de pair avec les possibilités du cinéma sonore. Elle monte et mélange les sons industriels et la parole, langues et accents – russe, arménien, ukrainien, et même américain.
 
-[145168]  
-**Oujmouri**  
-**(უჟმური)**  
-de Noutsa Gogoberidze  
-URSS / 1934  
-Avec Koté Daouchvili, Merab Tchikovani, Noutsa Tchkheidze.  
-Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Oujmouri, la Reine des grenouilles, qui hante le marais.
-
-Interdit après sa sortie en 1934, _Oujmouri_ a été retrouvé et restauré en 2018.
-
 [145171]  
 **Père et fils**  
 **(Otets i syn)**  
@@ -113,6 +103,16 @@ Avec Vera Alekhina, Mikhaïl Klimov, Ivan Novosseltsev.
 L'Allemagne prénazie vue par des yeux d'enfants.
 
 Splendidement chaotique comme le cinéma soviétique savait encore l'être, son esprit de révolte, son anarchisme et son amour des enfants séduisirent Henri Langlois : « Un vrai chef-d'œuvre », « Le meilleur film parlant soviétique ».
+
+[145168]  
+**Ujmuri**  
+**(უჟმური)**  
+de Nutsa Gogoberidze  
+URSS / 1934  
+Avec Koté Daouchvili, Merab Tchikovani, Nutsa Tchkheidze.  
+Les autorités veulent assécher les marais de Mingrélie pour combattre la malaria. Les jeunes communistes n'imaginent pas tenir tête à Ujmuri, la Reine des grenouilles, qui hante le marais.
+
+Interdit après sa sortie en 1934, _Ujmuri_ a été retrouvé et restauré en 2018.
 
 [145173]  
 **Vavila le terrible et tante Arina**  

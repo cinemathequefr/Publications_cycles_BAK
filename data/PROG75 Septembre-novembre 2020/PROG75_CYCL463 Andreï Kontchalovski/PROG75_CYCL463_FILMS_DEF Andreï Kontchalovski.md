@@ -141,8 +141,7 @@ Vania vit tranquillement en compagnie de sa mère et de sa nièce. Lorsque son b
 **(Рай)**  
 d'Andreï Kontchalovski  
 Russie-Allemagne / 2015  
-Avec Ioulia Vyssotskaïa, Christian Clauss, Philippe Duquesne.
-
+Avec Ioulia Vyssotskaïa, Christian Clauss, Philippe Duquesne.  
 1942. Une aristocrate russe, membre de la résistance, un fonctionnaire de police collaborationniste, et un officier SS, en poste dans un camp de concentration, doivent répondre de leurs actes devant Dieu pour entrer ou non au paradis.
 
 [143624]  
@@ -224,3 +223,4 @@ d'Andreï Kontchalovski
 États-Unis / 1989  
 Avec James Belushi, Whoopi Goldberg, John Waters.  
 Un simple d'esprit veut rendre visite à son père mourant, et traverse les États-Unis en compagnie d'une jeune femme échappée d'un asile psychiatrique.
+

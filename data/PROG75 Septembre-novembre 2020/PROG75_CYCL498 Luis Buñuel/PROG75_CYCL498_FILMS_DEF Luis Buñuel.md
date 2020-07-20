@@ -74,6 +74,15 @@ D'après la pièce _Don Quintín, el amargao_ de Carlos Arniches et Antonio Estr
 Avec Fernando Soler, Alicia Caro, Fernando Soto.  
 Don Quintín, jaloux de l'infidélité de sa femme, la répudie et abandonne son enfant.
 
+[43189]  
+**Él / Tourments**  
+**(Él)**  
+de Luis Buñuel  
+Mexique / 1952  
+D'après le roman _Él_ de Mercedes Pinto.  
+Avec Arturo de Córdova, Delia Garcés, Aurora Walker.  
+Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d'une jalousie paranoïaque.
+
 [42819]  
 **L'Enjôleuse**  
 **(El Bruto)**  
@@ -230,15 +239,6 @@ de Luis Buñuel
 Espagne / 1932  
 D'après le récit _Las Jurdes_ de Maurice Legendre.  
 Documentaire consacré aux miséreux de la région de Las Hurdes en Estrémadure, confrontés à la maladie, aux dangers et à la mort.
-
-[43189]  
-**Tourments**  
-**(Él)**  
-de Luis Buñuel  
-Mexique / 1952  
-D'après le roman _Él_ de Mercedes Pinto.  
-Avec Arturo de Córdova, Delia Garcés, Aurora Walker.  
-Francesco, riche propriétaire foncier et catholique pratiquant, séduit Gloria, fiancée de Raoul. Il ne tarde pas à se montrer d'une jalousie paranoïaque.
 
 [43676]  
 **Tristana**  

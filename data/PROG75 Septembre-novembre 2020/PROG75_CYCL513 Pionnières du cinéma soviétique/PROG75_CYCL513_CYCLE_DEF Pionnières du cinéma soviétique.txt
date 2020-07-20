@@ -24,7 +24,7 @@
 <pstyle:TITRE>Buba
 <pstyle:TECHNIQUE>de Nutsa Gogoberidze
 <pstyle:TECHNIQUE>URSS/1930/39<0x2019>/INT. FR./DCP
-<pstyle:SYNOPSIS>La pauvreté ancestrale d<0x2019>un village de montagne dont est bouleversée par l<0x2019>arrivée du pouvoir soviétique.
+<pstyle:SYNOPSIS>Un village de montagne dont la pauvreté ancestrale sera bouleversée par l<0x2019>arrivée du pouvoir soviétique.
 <pstyle:INFOS_UTILES>On pense au <cSkew:9>Sel de Svanétie<cSkew:> de Mikhaïl Kalatozov. La vitalité des avant-gardes géorgiennes n<0x2019>avait alors rien à envier à celles de Moscou et Léningrad.
 <pstyle:SUIVI_DE>Suivi de
 <pstyle:TITRE>Ujmuri

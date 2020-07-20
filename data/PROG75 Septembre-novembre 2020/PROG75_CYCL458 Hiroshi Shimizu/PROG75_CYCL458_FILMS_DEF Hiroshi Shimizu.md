@@ -59,7 +59,7 @@ Copie National Film Archive of Japan.
 **(霧の音)**  
 de Hiroshi Shimizu  
 Japon / 1956  
-Avec Ken Uehara, Michiyo Kogure, Keizo Kawasaki.  
+Avec Ken Uehara, Michiyo Kogure, Yoshiko Fujita.  
 Dans une hutte au cœur des Alpes japonaises, un botaniste observe deux jeunes mariés et se remémore son amour de jeunesse.
 
 Copie National Film Archive of Japan.
@@ -69,7 +69,7 @@ Copie National Film Archive of Japan.
 **(Hisshoka)**  
 **(必勝歌)**  
 de Masahiro Makino, Kenji Mizoguchi, Hiroshi Shimizu, Tomotaka Tasaka  
-Japon / 1946  
+Japon / 1945  
 Avec Reikichi Kawamura, Isamu Kosugi, Hiroyuki Nagato.  
 Treize histoires exaltant les mérites du patriotisme japonais en temps de guerre.
 
@@ -104,7 +104,7 @@ Copie National Film Archive of Japan.
 de Hiroshi Shimizu  
 Japon / 1941  
 Avec Michiyo Kogure, Takeshi Sakamoto, Mitsuko Yoshikawa.  
-Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme conductrice de bus.
+Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et commence à travailler comme receveuse de bus.
 
 [142776]  
 **La Cloche de Sayon**  
@@ -112,7 +112,7 @@ Une jeune fille abandonne le lycée pour subvenir aux besoins de sa famille, et 
 **(サヨンの鐘)**  
 de Hiroshi Shimizu  
 Japon / 1942  
-Avec Shirley Yamaguchi, Toshiaki Konoe, Kenji Oyama.  
+Avec Rio Koran, Toshiaki Konoe, Kenji Oyama.  
 Taïwan, 1938. Une jeune aborigène se noie alors qu'elle accompagne son professeur japonais qui rejoint le front. Film de propagande basé sur une histoire vraie pour inciter les « sujets taïwanais » à s'enrôler dans l'armée impériale.
 
 Copie National Film Archive of Japan.
@@ -169,7 +169,7 @@ Version musiquée. Copie National Film Archive of Japan.
 **(しいのみ学園)**  
 de Hiroshi Shimizu  
 Japon / 1955  
-Avec Kyoko Kagawa, Yukiko Shimazaki, Ranko Hanai.  
+Avec Kyoko Kagawa, Jukichi Uno, Ranko Hanai.  
 Un professeur en psychologie et son épouse décident de fonder une école pour élèves atteints de poliomyélite car leurs enfants, souffrant eux-mêmes de cette maladie, subissent les moqueries de leurs camarades.
 
 [139731]  
@@ -213,7 +213,7 @@ Avec Shuji Sano, Ryu Chishu, Shin'ichi Himori.
 Des étudiants partis en manœuvre s'intéressent moins à leur formation militaire qu'aux gens qu'ils croisent sur la route. Un soir, l'un deux surprend Seki, le champion d'athlétisme de l'université, en galante compagnie.
 
 [100286]  
-**Le Forgeron de la fôret**  
+**Le Forgeron de la forêt**  
 **(Mori no kajiya)**  
 **(森の鍛冶屋)**  
 de Hiroshi Shimizu  
@@ -305,7 +305,7 @@ Représentant du « film culturel » (de l'allemand _Kulturfilm_), genre qui, co
 **(有りがたうさん)**  
 de Hiroshi Shimizu  
 Japon / 1937  
-Avec Ken Uehara, Kaoru Futuba, Michiko Kuwano.  
+Avec Ken Uehara, Kaoru Futaba, Michiko Kuwano.  
 « Monsieur Merci » est le surnom d'un chauffeur de bus réputé pour sa courtoisie, qui conduit les habitants des zones rurales à l'intérieur de la péninsule d'Izu. Une série de rencontres prises sur le vif dans une campagne ensoleillée et endormie.
 
 Copie National Film Archive of Japan.
@@ -375,7 +375,7 @@ Copie National Film Archive of Japan.
 **(簪)**  
 de Hiroshi Shimizu  
 Japon / 1941  
-D'après la nouvelle _Yottsu no yubune_ de Masuji Ibuse.  
+D'après la nouvelle _Yotsu no yubune_ de Masuji Ibuse.  
 Avec Kinuyo Tanaka, Ryu Chishu, Tatsuo Saito.  
 Dans une station thermale, un pensionnaire se blesse en posant le pied sur une épingle à cheveux perdue dans un bassin. Après un échange épistolaire, une belle jeune femme se présente pour s'excuser de l'incident. Une idylle se noue entre eux.
 
@@ -410,7 +410,7 @@ Copie National Film Archive of Japan.
 de Hiroshi Shimizu  
 Japon / 1932  
 D'après le roman _Nanatsu no umi_ d'Itsuma Maki.  
-Avec Hiroko Kawasaki, Sachiko Murase, Atsushi Arai.  
+Avec Hiroko Kawasaki, Satoko Date, Atsushi Arai.  
 Yunosuke, l'héritier d'une riche famille doit se fiancer avec Yumie. Jaloux, Takehiko, son frère cadet, arrive à séduire la future épouse en lui faisant croire que Yunosuke a renoncé à elle.
 
 Copie National Film Archive of Japan.
@@ -440,11 +440,11 @@ Copie National Film Archive of Japan.
 
 [142771]  
 **La Tour d'introspection**  
-**(Mikaheri no to)**  
+**(Mikaeri no to)**  
 **(みかへりの搭)**  
 de Hiroshi Shimizu  
 Japon / 1941  
-Avec Chishu Ryu, Kuniko Miya, Jun Yokoyama.  
+Avec Chishu Ryu, Kuniko Miyake, Jun Yokoyama.  
 La vie quotidienne dans un centre de redressement pour enfants difficiles, entre bagarres, fugues et désobéissance.
 
 D'après les carnets d'un directeur de centre de redressement d'Osaka édités par le romancier Yoshio Toyoshima.
@@ -498,7 +498,7 @@ Un mari s'enfuit avec l'argent de sa société. La mère, abandonnée, doit cach
 **(大学の若旦那)**  
 de Hiroshi Shimizu  
 Japon / 1933  
-Avec Mitsugu Fujii, Haruro Takeda, Yoshiko Tsubouchi.  
+Avec Mitsugu Fujii, Shunro Takeda, Yoshiko Tsubouchi.  
 Fujii a été exclu du club de rugby de son université pour avoir amené une geisha sur le stade. Depuis, il mène une vie dissolue au grand dam de son père, riche marchand, à qui il doit succéder.
 
 Copie 35 mm National Film Archive of Japan avec musique de la partition originale.
@@ -514,7 +514,7 @@ Deux masseurs aveugles arrivent dans la station thermale de montagne où ils von
 
 [142785]  
 **Les Vieux bouddhas de Nara**  
-**(Nara ni wa furuki butsutachi)**  
+**(Nara ni wa furuki hotoketachi)**  
 **(奈良には古き仏たち)**  
 de Hiroshi Shimizu  
 Japon / 1953  

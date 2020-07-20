@@ -94,6 +94,15 @@ D'après le roman _Les Mariolles_ de Frédéric Dard.
 Avec Marie-José Nat, Robert Hossein, Elsa Martinelli.  
 Pour pouvoir intégrer la bande des Mariolles, la jeune Josépha achète une moto avec de l'argent emprunté au pharmacien du village, qui s'intéresse à elle. Mais quand une fille du groupe est retrouvée assassinée, elle le dénonce à la police.
 
+[47405]  
+**Le Miroir à deux faces**  
+d'André Cayatte  
+France-Italie / 1958  
+Avec Michèle Morgan, Bourvil, Sandra Milo, Gérard Oury.  
+Marie-José est amoureuse de son patron, mais celui-ci lui préfère sa sœur, plus jolie. Après dix ans d'une vie terne, elle fait la connaissance d'un chirurgien prêt à transformer son visage.
+
+Gérard Oury a cosigné le scénario et joue dans le film.
+
 [64902]  
 **Le Schpountz**  
 de Gérard Oury  

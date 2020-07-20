@@ -13,7 +13,7 @@ Don Salluste profite de ses fonctions de ministre des Finances du roi d'Espagne 
 Film accessible aux enfants
 
 - [8 ans] me 2 sep 20h00 HL  
-  Ouverture de la rétrospective
+Ouverture de la rétrospective  
 - [8 ans] di 25 oct 15h00 HL
 
 [50401]  
@@ -24,7 +24,7 @@ France-Grande-Bretagne / 1966 / 122 min / DCP
 Dans la France occupée, un peintre en bâtiment candide (Bourvil) et un chef d'orchestre irritable (de Funès) aident des pilotes anglais, dont l'avion a été abattu par les Allemands au-dessus de Paris, à gagner la zone libre. Formant un duo comique irrésistible, ils deviennent, malgré eux, des héros de la Résistance.  
 Film accessible aux enfants
 
-- [6 ans] sa 5 sep 14h30 HL
+- [6 ans] sa 5 sep 14h30 HL  
 - [6 ans] di 18 oct 15h00 HL
 
 [56162]  
@@ -47,7 +47,7 @@ Film accessible aux enfants
 Projection suivie d'une discussion avec Danièle Thompson, réalisatrice, fille et scénariste de Gérard Oury.
 
 - [8 ans] di 13 sep 14h30 HL  
-  Séance suivie d'une discussion avec Danièle Thompson
+Séance suivie d'une discussion avec Danièle Thompson  
 - [8 ans] lu 5 oct 15h30 HL
 
 [144989]  
@@ -188,7 +188,7 @@ France / 1910
 suivi de  
 [71069]  
 **Rupture**  
-de Pierre Étaix, Jean-Claude Carrière  
+de Pierre Etaix, Jean-Claude Carrière  
 France / 1960 / 11 min / DCP  
 [JP] Un tuyau d'arrosage, une simple lettre, ou bien des objets plus insolites, comme une machine qui rend les œufs incassables... Parfois, il suffit d'un détail pour détourner ces objets et les rendre tout à fait comiques !  
 suivi de  
@@ -217,7 +217,7 @@ Evan Evans est à la fois danseur, musicien, impresario, metteur en scène et ma
 Film accessible aux enfants
 
 - [6 ans] di 8 nov 15h00 GF  
-  Séance présentée par Serge Korber
+Séance présentée par Serge Korber
 
 [33623]  
 **Docteur Jerry et Mister Love**  
@@ -282,3 +282,4 @@ Avec Jean Marais, Louis de Funès, Mylène Demongeot.
 [JP] Il est décidément bien difficile de se défaire de Fantômas. Il revient avec une nouvelle idée : imposer aux riches un impôt sur le droit de vivre. C'est en Ecosse que le commissaire Juve, Fandor et sa fiancée tentent d'attraper le célèbre bandit.
 
 - [8 ans] di 22 nov 15h00 HL
+

@@ -126,7 +126,7 @@ France-Italie / 1965
 Avec Jean Marais, Louis de Funès, Mylène Demongeot.  
 [JP] Alors que le professeur Marchand disparaît mystérieusement, Fantômas est immédiatement soupçonné. Mais le commissaire Juve ne parvient pas à mettre la main sur l'homme masqué, qui s'enfuit dans sa voiture volante !
 
-> (Site) Aussi, lorsque le professeur Marchand disparaît mystérieusement, Fantômas est immédiatement soupçonné. Mais Juve et ses acolytes sont pris à leur propre piège. Juve ne parvient pas à mettre la main sur l'homme masqué, qui s'enfuit dans sa DS volante, traçant un « F » dans un ciel bleu azur.
+> (Site) Lorsque le professeur Marchand disparaît mystérieusement, Fantômas est immédiatement soupçonné. Mais Juve et ses acolytes sont pris à leur propre piège. Juve ne parvient pas à mettre la main sur l'homme masqué, qui s'enfuit dans sa DS volante, traçant un «  F  » dans un ciel bleu azur.
 
 [50400]*  
 **La Folie des grandeurs**  

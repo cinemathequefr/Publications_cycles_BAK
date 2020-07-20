@@ -33,7 +33,7 @@ Avec Louis de Funès, Jean Carmet, Jacques Villeret.
 Deux vieux paysans alcooliques, le Glaude et le Bombé, vivent retirés à la campagne. Une nuit, un extraterrestre atterrit dans le jardin du Glaude qui lui offre un peu de sa fameuse soupe aux choux.
 
 - ve 9 oct 20h00 HL  
-  Séance présentée par Christine Dejoux
+Séance présentée par Christine Dejoux
 
 [48793]  
 **Le Gendarme et les extra-terrestres**  
@@ -57,7 +57,7 @@ Un agent secret enquête sur une série d'assassinats de personnalités internat
 - ve 23 oct 20h00 GF
 
 [60678]  
-**Le Le Diabolique docteur Z**  
+**Le Diabolique docteur Z**  
 **(Miss Muerte)**  
 de Jess Franco  
 Espagne-France / 1965 / 86 min / VF / DCP  
@@ -87,3 +87,4 @@ Avec Henry Silva, Mark Gregory, Valeria D'Obici.
 À New York, un projet de renovation du Bronx menace les intérêts de la pègre locale. Un âpre combat va opposer les truands au mercenaire engagé par la multinationale chargée des travaux.
 
 - ve 27 nov 22h00 GF
+

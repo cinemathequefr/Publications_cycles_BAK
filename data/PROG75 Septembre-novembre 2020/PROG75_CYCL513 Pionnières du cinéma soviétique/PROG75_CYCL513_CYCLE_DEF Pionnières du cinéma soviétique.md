@@ -26,7 +26,7 @@ Une jeune paysanne enceinte arrive en ville. Un policier la prend sous sa protec
 **Buba**  
 de Nutsa Gogoberidze  
 URSS / 1930 / 39 min / INT. FR. / DCP  
-La pauvreté ancestrale d'un village de montagne dont est bouleversée par l'arrivée du pouvoir soviétique.  
+Un village de montagne dont la pauvreté ancestrale sera bouleversée par l'arrivée du pouvoir soviétique.  
 On pense au _Sel de Svanétie_ de Mikhaïl Kalatozov. La vitalité des avant-gardes géorgiennes n'avait alors rien à envier à celles de Moscou et Léningrad.  
 suivi de  
 [145168]  
