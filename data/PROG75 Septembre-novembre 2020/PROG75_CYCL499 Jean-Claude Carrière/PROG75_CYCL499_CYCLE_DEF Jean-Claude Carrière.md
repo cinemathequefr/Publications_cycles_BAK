@@ -310,7 +310,7 @@ de Louis Malle
 France-Italie / 1966 / 122 min / DCP  
 D'après le roman _Le Voleur_ de Georges Darien.  
 Avec Jean-Paul Belmondo, Geneviève Bujold, Marie Dubois, Françoise Fabian.  
-Dépouillé par un oncle peu scrupuleux, Georges Rendal devient voleur, d'abord par vengeance, puis par conviction.  
+Dépouillé par un oncle peu scrupuleux, Georges Randal devient voleur, d'abord par vengeance, puis par conviction.  
 Restauré en 2016 par Gaumont au laboratoire Éclair.
 
 - ve 30 oct 19h00 HL
