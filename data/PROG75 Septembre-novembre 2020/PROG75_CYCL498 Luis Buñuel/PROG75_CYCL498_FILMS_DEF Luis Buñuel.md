@@ -92,8 +92,8 @@ Avec Pedro Armendáriz, Katy Jurado, Rosita Arenas.
 Cabrera, homme riche et sans scrupules, n'hésite pas à chasser les locataires de l'immeuble vétuste qui lui appartient. Les délogés organisent leur résistance.
 
 [69331]  
-**Espagne 1936**  
-**(España 1936 / España leal en armas)**  
+**Espagne 1937**  
+**(España 1937 / España leal en armas)**  
 de Jean-Paul Dreyfus  
 Espagne / 1936  
 Alors que la guerre civile fait rage, le gouvernement républicain commande à Luis Buñuel l'écriture d'un film militant sur la tragédie qui déchire l'Espagne.

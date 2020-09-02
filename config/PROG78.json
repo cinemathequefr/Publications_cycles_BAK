@@ -1,0 +1,118 @@
+{
+  "idProg": 78,
+  "titre": "Décembre 2020-février 2021",
+  "cycles": [
+    {
+      "idCycleProg": 13,
+      "titreCycle": "Cinéma d'avant-garde",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 14,
+      "titreCycle": "Cinéma bis",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 140,
+      "titreCycle": "Aujourd'hui le cinéma",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 143,
+      "titreCycle": "Fenêtre sur les collections",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 237,
+      "titreCycle": "Artavazd Pelechian",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 238,
+      "titreCycle": "Paulo Branco",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 460,
+      "titreCycle": "Hugo Santiago",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2054],
+          "tri": 2
+        },
+        {
+          "titre": "Autour d'Hugo Santiago",
+          "cats": [2122],
+          "tri": 4
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2218],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 486,
+      "titreCycle": "Alain Resnais",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2221],
+          "tri": 1
+        },
+        {
+          "titre": "Visites d'ateliers",
+          "cats": [2236],
+          "tri": 4
+        },
+        {
+          "titre": "Courts métrages documentaires",
+          "cats": [2237],
+          "tri": 4
+        },
+        {
+          "titre": "Films collectifs et encyclopédie",
+          "cats": [2253],
+          "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2223],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 501,
+      "titreCycle": "Plein les yeux 4",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 504,
+      "titreCycle": "Richard Brooks",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 506,
+      "titreCycle": "Louis de Funès",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 507,
+      "titreCycle": "Dino Risi",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 516,
+      "titreCycle": "Wilhelm Friedrich Murnau",
+      "sousCycles": []
+    },
+    {
+      "idCycleProg": 517,
+      "titreCycle": "Jacques Rozier",
+      "sousCycles": []
+    }
+  ]
+}

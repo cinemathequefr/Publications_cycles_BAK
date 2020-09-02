@@ -197,8 +197,8 @@
 <pstyle:TECHNIQUE>Avec Salvador Dalí, Catalina Domènech.
 <pstyle:SYNOPSIS>Film amateur réalisé pendant le tournage du prologue de <ct:Italic>L<0x2019>Âge d<0x2019>or<ct:><0x00A0>: le père de Salvador Dalí déguste des oursins.
 <pstyle:SUIVI_DE>Suivi de
-<pstyle:TITRE>Espagne 1936
-<pstyle:TITRE_ANG>(España 1936 / España leal en armas)
+<pstyle:TITRE>Espagne 1937
+<pstyle:TITRE_ANG>(España 1937 / España leal en armas)
 <pstyle:TECHNIQUE>de Jean-Paul Dreyfus
 <pstyle:TECHNIQUE>Espagne/1936/34<0x2019>/VF/35mm
 <pstyle:SYNOPSIS>Alors que la guerre civile fait rage, le gouvernement républicain commande à Luis Buñuel l<0x2019>écriture d<0x2019>un film militant sur la tragédie qui déchire l<0x2019>Espagne.

@@ -123,4 +123,3 @@ URSS / 1928
 Le moujik Vavila bat sa femme, « tante » Arina. Quand lui et son copain voient les femmes partir fêter le 8 mars et s'éduquer à l'école des travailleuses, ils comprennent qu'ils sont fichus.
 
 Cet _« agit-film »_ réunit quatre pionniers/pionnières de l'animation soviétique.
-

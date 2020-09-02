@@ -201,8 +201,8 @@ Avec Salvador Dalí, Catalina Domènech.
 Film amateur réalisé pendant le tournage du prologue de _L'Âge d'or_ : le père de Salvador Dalí déguste des oursins.  
 suivi de  
 [69331]  
-**Espagne 1936**  
-**(España 1936 / España leal en armas)**  
+**Espagne 1937**  
+**(España 1937 / España leal en armas)**  
 de Jean-Paul Dreyfus  
 Espagne / 1936 / 34 min / VF / 35 mm  
 Alors que la guerre civile fait rage, le gouvernement républicain commande à Luis Buñuel l'écriture d'un film militant sur la tragédie qui déchire l'Espagne.  
