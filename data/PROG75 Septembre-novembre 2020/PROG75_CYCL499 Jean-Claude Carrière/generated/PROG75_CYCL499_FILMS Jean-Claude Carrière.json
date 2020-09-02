@@ -54,11 +54,7 @@
         "texte": "Hugues, un vétérinaire, rencontre Jeanne via une agence matrimoniale et installe son cabinet dans son grand appartement. Très vite, il la soupçonne d'avoir un amant et elle est effrayée par la quantité d'animaux présents chez eux, annonçant un danger imminent."
       }
     ],
-    "generique": [
-      "Anna Karina",
-      "Jean-Claude Carrière",
-      "Jean-Pierre Darras"
-    ],
+    "generique": ["Anna Karina", "Jean-Claude Carrière", "Jean-Pierre Darras"],
     "adaptation": "D'après le roman _L'Alliance_ de Jean-Claude Carrière."
   },
   {
@@ -97,11 +93,7 @@
         "texte": "Anna se remet enfin de la mort de son mari, Sean, quand elle rencontre un jeune garçon de dix ans. Il semble tout savoir de ce qu'elle a partagé avec Sean, ce qui éveille la curiosité d'Anna et sème le doute dans son esprit."
       }
     ],
-    "generique": [
-      "Nicole Kidman",
-      "Cameron Bright",
-      "Lauren Bacall"
-    ]
+    "generique": ["Nicole Kidman", "Cameron Bright", "Lauren Bacall"]
   },
   {
     "titre": "Carrière, 250 metros",
@@ -138,11 +130,7 @@
         "texte": "Un agent secret enquête sur une série d'assassinats de personnalités internationales commis par des terroristes génétiquement modifiés"
       }
     ],
-    "generique": [
-      "Eddie Constantine",
-      "Françoise Brion",
-      "Fernando Rey"
-    ]
+    "generique": ["Eddie Constantine", "Françoise Brion", "Fernando Rey"]
   },
   {
     "titre": "Cet obscur objet du désir",
@@ -158,11 +146,7 @@
         "texte": "Dans un train entre Séville et Madrid, Mathieu Fabert raconte à ses compagnons de route la passion déchirante qu'il a eue pour Conchita, jeune femme qui n'a cessé de se promettre à lui et de se dérober."
       }
     ],
-    "generique": [
-      "Fernando Rey",
-      "Carole Bouquet",
-      "Ángela Molina"
-    ],
+    "generique": ["Fernando Rey", "Carole Bouquet", "Ángela Molina"],
     "adaptation": "D'après le roman _La Femme et le pantin_ de Pierre Louÿs."
   },
   {
@@ -243,11 +227,7 @@
         "texte": "La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort."
       }
     ],
-    "generique": [
-      "Estella Blain",
-      "Mabel Karr",
-      "Howard Vernon"
-    ]
+    "generique": ["Estella Blain", "Mabel Karr", "Howard Vernon"]
   },
   {
     "titre": "Danton",
@@ -263,11 +243,7 @@
         "texte": "Eté 1793, le Comité de Salut Public, à l'instigation de Robespierre, instaure la « Terreur ». La famine réapparaît, avec elle la révolte, et les têtes tombent. Danton regagnant Paris s'oppose à Robespierre."
       }
     ],
-    "generique": [
-      "Gérard Depardieu",
-      "Wojciech Pszoniak",
-      "Patrice Chéreau"
-    ],
+    "generique": ["Gérard Depardieu", "Wojciech Pszoniak", "Patrice Chéreau"],
     "adaptation": "D'après l'ouvrage _L'Affaire Danton_ de Stanislawa Przybyszewska."
   },
   {
@@ -285,11 +261,7 @@
         "texte": "Cadavre exquis dont les quatorze épisodes dévergondent le cartésianisme rigide de notre société."
       }
     ],
-    "generique": [
-      "Adriana Asti",
-      "Julien Bertheau",
-      "Michel Piccoli"
-    ]
+    "generique": ["Adriana Asti", "Julien Bertheau", "Michel Piccoli"]
   },
   {
     "titre": "Faussaire",
@@ -307,11 +279,7 @@
         "texte": "Georg, un reporter allemand, est envoyé à Beyrouth pour enquêter sur les causes de la guerre au Liban. Il y retrouve une ancienne maîtresse et découvre les traumatismes du conflit qu'il refuse de livrer à son retour."
       }
     ],
-    "generique": [
-      "Bruno Ganz",
-      "Hanna Schygulla",
-      "Jerzy Skolimowski"
-    ]
+    "generique": ["Bruno Ganz", "Hanna Schygulla", "Jerzy Skolimowski"]
   },
   {
     "titre": "Franc-tireur TV",
@@ -328,11 +296,7 @@
         "texte": "Jacques décide de se faire licencier pour toucher des indemnités et ouvrir un commerce en bord de mer avec un ami. Il critique la gestion de son entreprise mais obtient malgré lui une promotion. Dès lors, il va travailler à être renvoyé..."
       }
     ],
-    "generique": [
-      "Bernard Le Coq",
-      "Jenny Arasse",
-      "Yves Pignot"
-    ]
+    "generique": ["Bernard Le Coq", "Jenny Arasse", "Yves Pignot"]
   },
   {
     "titre": "Grand amour",
@@ -349,11 +313,7 @@
         "texte": "Pierre, un quadragénaire directeur d'usine, s'ennuie dans son travail et sa vie de couple. Un jour, une jolie jeune femme vient remplacer sa vieille secrétaire."
       }
     ],
-    "generique": [
-      "Pierre Etaix",
-      "Annie Fratellini",
-      "Nicole Calfan"
-    ]
+    "generique": ["Pierre Etaix", "Annie Fratellini", "Nicole Calfan"]
   },
   {
     "titre": "Heureux anniversaire",
@@ -369,10 +329,7 @@
         "texte": "Des anniversaires pas comme les autres : entre scènes de ménage à la Laurel et Hardy et une route semée d'embuches façon Pierre Etaix... Ou encore la bande des petites canailles qui s'invitent... La fête ne manque pas de piquant !"
       }
     ],
-    "generique": [
-      "Pierre Etaix",
-      "Laurence Lignères"
-    ]
+    "generique": ["Pierre Etaix", "Laurence Lignères"]
   },
   {
     "titre": "Homme fidèle",
@@ -389,11 +346,7 @@
         "texte": "Abel et Marianne sont séparés depuis 10 ans. Alors qu'ils se retrouvent, Abel décide de la reconquérir mais les choses ont changé : Marianne a un fils, Joseph, et sa tante, la jeune Ève, a grandi. Et ils ont des secrets à révéler..."
       }
     ],
-    "generique": [
-      "Louis Garrel",
-      "Laetitia Casta",
-      "Lily-Rose Depp"
-    ]
+    "generique": ["Louis Garrel", "Laetitia Casta", "Lily-Rose Depp"]
   },
   {
     "titre": "Journal d'une femme de chambre",
@@ -497,11 +450,7 @@
         "texte": "La disparition d'une pince à ongles dans une chambre d'hôtel provoque la frayeur chez les propriétaires de l'objet capricieux."
       }
     ],
-    "generique": [
-      "Michael Lonsdale",
-      "Henri Garcin",
-      "Anne-Marie Deschott"
-    ]
+    "generique": ["Michael Lonsdale", "Henri Garcin", "Anne-Marie Deschott"]
   },
   {
     "titre": "Piscine",
@@ -562,11 +511,7 @@
         "texte": "Dans les montagnes de Kaboul, une femme est au chevet de son mari dans le coma, alors que la guerre frappe à leur porte. Elle lui confie ses souvenirs, ses secrets, ses désirs les plus intimes. Il devient sa « syngué sabour », sa pierre de patience."
       }
     ],
-    "generique": [
-      "Golshifteh Farahani",
-      "Hamid Reza Javdan",
-      "Massi Mrowat"
-    ],
+    "generique": ["Golshifteh Farahani", "Hamid Reza Javdan", "Massi Mrowat"],
     "adaptation": "D'après le roman _Syngué Sabour, pierre de patience_ d'Atiq Rahimi."
   },
   {
@@ -583,11 +528,7 @@
         "texte": "Jeannie, jeune fille de la banlieue fugue et arrive à New-York en espérant y devenir chanteuse. Ses parents partent à sa recherche et découvrent le New-York de la fin des années 60."
       }
     ],
-    "generique": [
-      "Linnea Heacock",
-      "Lynn Carlin",
-      "Buck Henry"
-    ]
+    "generique": ["Linnea Heacock", "Lynn Carlin", "Buck Henry"]
   },
   {
     "titre": "Tambour",
@@ -605,11 +546,7 @@
         "texte": "En 1927 à Dantzig, le jeune Oskar, choqué par le cruauté du monde des adultes, décide de ne plus grandir. Il reçoit en cadeau un petit tambour rouge dont il s'aidera pour traverser la seconde guerre mondiale et les exactions nazies en Pologne."
       }
     ],
-    "generique": [
-      "David Bennent",
-      "Mario Adorf",
-      "Angela Winkler"
-    ],
+    "generique": ["David Bennent", "Mario Adorf", "Angela Winkler"],
     "adaptation": "D'après le roman _le Tambour_ de Günter Grass."
   },
   {
@@ -626,11 +563,7 @@
         "texte": "Après un long séjour en mer, Roland débarque à Barcelone. À l'hôtel où il réside, il découvre un cadavre, puis se réveille dans une étrange clinique sans se souvenir de ce qui l'a amené là. On lui parle d'hallucination mais, quelques jours plus tard, il acquiert la preuve qu'il n'a pas rêvé. Il rencontre plusieurs personnes mêlées à cette affaire et récupère une mystérieuse mallette."
       }
     ],
-    "generique": [
-      "Lino Ventura",
-      "Claudine Auger",
-      "Paul Crauchet"
-    ]
+    "generique": ["Lino Ventura", "Claudine Auger", "Paul Crauchet"]
   },
   {
     "titre": "Valmont",
@@ -646,11 +579,7 @@
         "texte": "Pour se venger de son amant qui s'apprête à épouser la jeune Cécile de Volanges, Mme de Merteuil demande au comte de Valmont de la séduire afin qu'elle perde sa virginité avant le mariage."
       }
     ],
-    "generique": [
-      "Colin Firth",
-      "Annette Bening",
-      "Meg Tilly"
-    ]
+    "generique": ["Colin Firth", "Annette Bening", "Meg Tilly"]
   },
   {
     "titre": "Voie lactée",
@@ -686,7 +615,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dépouillé par un oncle peu scrupuleux, Georges Rendal devient voleur, d'abord par vengeance puis par conviction."
+        "texte": "Dépouillé par un oncle peu scrupuleux, Georges Randal devient voleur, d'abord par vengeance puis par conviction."
       },
       {
         "typeTexte": 99,

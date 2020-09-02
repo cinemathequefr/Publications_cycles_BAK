@@ -5,16 +5,12 @@
     "sousCycles": [
       {
         "titre": "Les films",
-        "cats": [
-          2283
-        ],
+        "cats": [2283],
         "tri": 1
       },
       {
         "titre": "Rencontres et conférences",
-        "cats": [
-          2296
-        ],
+        "cats": [2296],
         "tri": 4
       }
     ],
@@ -56,10 +52,7 @@
               "ordre": 1,
               "idEvenement": 22476,
               "dateHeure": "2020-11-06T19:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -97,20 +90,14 @@
               "ordre": 1,
               "idEvenement": 22435,
               "dateHeure": "2020-10-04T21:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 35848,
               "ordre": 1,
               "idEvenement": 22435,
               "dateHeure": "2020-10-15T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -127,11 +114,7 @@
               "texte": "Anna s'est péniblement remise de la mort de son mari, Sean, et a refait sa vie, lorsqu'elle rencontre un garçon de dix ans qui semble être la réincarnation de Sean."
             }
           ],
-          "generique": [
-            "Nicole Kidman",
-            "Cameron Bright",
-            "Lauren Bacall"
-          ],
+          "generique": ["Nicole Kidman", "Cameron Bright", "Lauren Bacall"],
           "duree": 100,
           "format": "35 mm",
           "version": "VOSTF",
@@ -142,10 +125,7 @@
               "ordre": 1,
               "idEvenement": 22480,
               "dateHeure": "2020-10-21T20:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
+              "idSalle": ["HL", "Henri Langlois"],
               "mention": "Ouverture de la rétrospective. Séance présentée par Jean-Claude Carrière"
             }
           ]
@@ -176,10 +156,7 @@
               "ordre": 1,
               "idEvenement": 22606,
               "dateHeure": "2020-11-06T21:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -196,11 +173,7 @@
               "texte": "Un agent secret enquête sur une série d'assassinats de personnalités internationales commis par des terroristes génétiquement modifiés."
             }
           ],
-          "generique": [
-            "Eddie Constantine",
-            "Françoise Brion",
-            "Fernando Rey"
-          ],
+          "generique": ["Eddie Constantine", "Françoise Brion", "Fernando Rey"],
           "duree": 91,
           "format": "DCP",
           "version": "VF",
@@ -211,10 +184,7 @@
               "ordre": 1,
               "idEvenement": 22609,
               "dateHeure": "2020-10-23T20:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -232,11 +202,7 @@
             }
           ],
           "adaptation": "D'après le roman _La Femme et le pantin_ de Pierre Louÿs.",
-          "generique": [
-            "Fernando Rey",
-            "Carole Bouquet",
-            "Ángela Molina"
-          ],
+          "generique": ["Fernando Rey", "Carole Bouquet", "Ángela Molina"],
           "duree": 102,
           "format": "DCP",
           "version": "",
@@ -247,20 +213,14 @@
               "ordre": 1,
               "idEvenement": 22438,
               "dateHeure": "2020-10-08T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 36157,
               "ordre": 1,
               "idEvenement": 22438,
               "dateHeure": "2020-10-28T21:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -294,10 +254,7 @@
               "ordre": 1,
               "idEvenement": 22439,
               "dateHeure": "2020-10-07T21:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -330,10 +287,7 @@
               "ordre": 1,
               "idEvenement": 22605,
               "dateHeure": "2020-11-05T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -371,10 +325,7 @@
               "ordre": 1,
               "idEvenement": 22479,
               "dateHeure": "2020-10-29T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -407,10 +358,7 @@
               "ordre": 1,
               "idEvenement": 22475,
               "dateHeure": "2020-10-25T17:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -428,11 +376,7 @@
               "texte": "La fille d'un scientifique qui a réussi à localiser le centre du bien et du mal dans l'esprit humain, et ainsi à modifier son comportement, poursuit les recherches de son père et décide d'assassiner les responsables de sa mort."
             }
           ],
-          "generique": [
-            "Estella Blain",
-            "Mabel Karr",
-            "Howard Vernon"
-          ],
+          "generique": ["Estella Blain", "Mabel Karr", "Howard Vernon"],
           "duree": 86,
           "format": "DCP",
           "version": "VF",
@@ -443,10 +387,7 @@
               "ordre": 1,
               "idEvenement": 22610,
               "dateHeure": "2020-10-23T22:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -464,11 +405,7 @@
               "texte": "Cadavre exquis dont les quatorze épisodes dévergondent le cartésianisme rigide de notre société."
             }
           ],
-          "generique": [
-            "Adriana Asti",
-            "Julien Bertheau",
-            "Michel Piccoli"
-          ],
+          "generique": ["Adriana Asti", "Julien Bertheau", "Michel Piccoli"],
           "duree": 104,
           "format": "DCP",
           "version": "",
@@ -479,20 +416,14 @@
               "ordre": 1,
               "idEvenement": 22447,
               "dateHeure": "2020-10-08T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 35584,
               "ordre": 1,
               "idEvenement": 22447,
               "dateHeure": "2020-10-24T15:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -512,11 +443,7 @@
             }
           ],
           "adaptation": "D'après le roman _Le Faussaire_ de Nicolas Born.",
-          "generique": [
-            "Bruno Ganz",
-            "Hanna Schygulla",
-            "Jerzy Skolimowski"
-          ],
+          "generique": ["Bruno Ganz", "Hanna Schygulla", "Jerzy Skolimowski"],
           "duree": 108,
           "format": "35 mm",
           "version": "VOSTA",
@@ -527,20 +454,14 @@
               "ordre": 1,
               "idEvenement": 22488,
               "dateHeure": "2020-10-24T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 35911,
               "ordre": 1,
               "idEvenement": 22488,
               "dateHeure": "2020-10-31T18:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -558,11 +479,7 @@
               "texte": "Décidé à se faire licencier pour toucher des indemnités et changer de vie, Jacques ne cesse de critiquer son entreprise, mais obtient malgré lui une promotion."
             }
           ],
-          "generique": [
-            "Bernard Le Coq",
-            "Jenny Arasse",
-            "Yves Pignot"
-          ],
+          "generique": ["Bernard Le Coq", "Jenny Arasse", "Yves Pignot"],
           "duree": 76,
           "format": "Numérique",
           "version": "",
@@ -573,10 +490,7 @@
               "ordre": 1,
               "idEvenement": 22604,
               "dateHeure": "2020-11-04T19:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -594,11 +508,7 @@
               "texte": "Pierre, un quadragénaire directeur d'usine, s'ennuie dans son travail et sa vie de couple. Un jour, une jolie jeune femme vient remplacer sa vieille secrétaire."
             }
           ],
-          "generique": [
-            "Pierre Étaix",
-            "Annie Fratellini",
-            "Nicole Calfan"
-          ],
+          "generique": ["Pierre Étaix", "Annie Fratellini", "Nicole Calfan"],
           "duree": 87,
           "format": "DCP",
           "version": "",
@@ -609,10 +519,7 @@
               "ordre": 3,
               "idEvenement": 22596,
               "dateHeure": "2020-10-22T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ],
           "precedeSuivi": "Film précédé de _Heureux anniversaire_ de Pierre Étaix, Jean-Claude Carrière, _La Pince à ongles_ de Jean-Claude Carrière"
@@ -630,10 +537,7 @@
               "texte": "Des anniversaires pas comme les autres, entre scènes de ménage à la Laurel et Hardy, ou des petites canailles qui s'invitent à la fête."
             }
           ],
-          "generique": [
-            "Pierre Étaix",
-            "Laurence Lignères"
-          ],
+          "generique": ["Pierre Étaix", "Laurence Lignères"],
           "duree": 12,
           "format": "35 mm",
           "version": "",
@@ -644,10 +548,7 @@
               "ordre": 1,
               "idEvenement": 22596,
               "dateHeure": "2020-10-22T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ],
           "precedeSuivi": "Film suivi de _Le Grand amour_ de Pierre Étaix, _La Pince à ongles_ de Jean-Claude Carrière"
@@ -666,11 +567,7 @@
               "texte": "Abel et Marianne sont séparés depuis dix ans. Alors qu'ils se retrouvent, Abel décide de la reconquérir, mais les choses ont changé. Marianne a un fils ; sa belle-sœur, la jeune Ève, a bien grandi ; et chacun a des secrets à révéler."
             }
           ],
-          "generique": [
-            "Louis Garrel",
-            "Laetitia Casta",
-            "Lily-Rose Depp"
-          ],
+          "generique": ["Louis Garrel", "Laetitia Casta", "Lily-Rose Depp"],
           "duree": 75,
           "format": "DCP",
           "version": "",
@@ -681,10 +578,7 @@
               "ordre": 1,
               "idEvenement": 22492,
               "dateHeure": "2020-11-04T21:15:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -719,20 +613,14 @@
               "ordre": 1,
               "idEvenement": 22453,
               "dateHeure": "2020-10-14T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "idSeance": 35922,
               "ordre": 1,
               "idEvenement": 22453,
               "dateHeure": "2020-10-29T21:45:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -765,10 +653,7 @@
               "ordre": 1,
               "idEvenement": 22598,
               "dateHeure": "2020-10-25T20:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -801,10 +686,7 @@
               "ordre": 1,
               "idEvenement": 22484,
               "dateHeure": "2020-10-29T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -837,10 +719,7 @@
               "ordre": 1,
               "idEvenement": 22482,
               "dateHeure": "2020-10-31T20:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -873,10 +752,7 @@
               "ordre": 2,
               "idEvenement": 22596,
               "dateHeure": "2020-10-22T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ],
           "precedeSuivi": "Film précédé de _Heureux anniversaire_ de Pierre Étaix, Jean-Claude Carrière et suivi de de _Le Grand amour_ de Pierre Étaix"
@@ -911,10 +787,7 @@
               "ordre": 1,
               "idEvenement": 22493,
               "dateHeure": "2020-10-31T15:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -949,10 +822,7 @@
               "ordre": 1,
               "idEvenement": 22600,
               "dateHeure": "2020-11-01T17:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -985,10 +855,7 @@
               "ordre": 1,
               "idEvenement": 22601,
               "dateHeure": "2020-11-05T21:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -1005,11 +872,7 @@
               "texte": "Fin des années 1960 : Jeannie, jeune fille de la banlieue, fugue et arrive à New York en espérant y devenir chanteuse. Ses parents partent à sa recherche et découvrent le fossé qui les sépare de la jeunesse."
             }
           ],
-          "generique": [
-            "Linnea Heacock",
-            "Lynn Carlin",
-            "Buck Henry"
-          ],
+          "generique": ["Linnea Heacock", "Lynn Carlin", "Buck Henry"],
           "duree": 90,
           "format": "DCP",
           "version": "VOSTF",
@@ -1020,10 +883,7 @@
               "ordre": 1,
               "idEvenement": 22597,
               "dateHeure": "2020-10-22T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1043,11 +903,7 @@
             }
           ],
           "adaptation": "D'après le roman _le Tambour_ de Günter Grass.",
-          "generique": [
-            "David Bennent",
-            "Mario Adorf",
-            "Angela Winkler"
-          ],
+          "generique": ["David Bennent", "Mario Adorf", "Angela Winkler"],
           "duree": 142,
           "format": "DCP",
           "version": "",
@@ -1058,10 +914,7 @@
               "ordre": 1,
               "idEvenement": 22603,
               "dateHeure": "2020-10-30T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1079,11 +932,7 @@
             }
           ],
           "adaptation": "D'après le roman _Le Puits de velours_ de John Gearon.",
-          "generique": [
-            "Lino Ventura",
-            "Claudine Auger",
-            "Paul Crauchet"
-          ],
+          "generique": ["Lino Ventura", "Claudine Auger", "Paul Crauchet"],
           "duree": 98,
           "format": "35 mm",
           "version": "",
@@ -1094,10 +943,7 @@
               "ordre": 1,
               "idEvenement": 22599,
               "dateHeure": "2020-11-02T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -1115,11 +961,7 @@
             }
           ],
           "adaptation": "D'après le roman _Les Liaisons dangereuses_ de Pierre Choderlos de Laclos.",
-          "generique": [
-            "Colin Firth",
-            "Annette Bening",
-            "Meg Tilly"
-          ],
+          "generique": ["Colin Firth", "Annette Bening", "Meg Tilly"],
           "duree": 138,
           "format": "DCP",
           "version": "VOSTF",
@@ -1130,10 +972,7 @@
               "ordre": 1,
               "idEvenement": 22483,
               "dateHeure": "2020-11-01T20:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1167,20 +1006,14 @@
               "ordre": 1,
               "idEvenement": 22434,
               "dateHeure": "2020-10-04T17:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "idSeance": 35927,
               "ordre": 1,
               "idEvenement": 22434,
               "dateHeure": "2020-11-01T14:15:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -1195,7 +1028,7 @@
           "textes": [
             {
               "typeTexte": 9,
-              "texte": "Dépouillé par un oncle peu scrupuleux, Georges Rendal devient voleur, d'abord par vengeance, puis par conviction."
+              "texte": "Dépouillé par un oncle peu scrupuleux, Georges Randal devient voleur, d'abord par vengeance, puis par conviction."
             },
             {
               "typeTexte": 99,
@@ -1219,10 +1052,7 @@
               "ordre": 1,
               "idEvenement": 22481,
               "dateHeure": "2020-10-30T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         }
@@ -1260,10 +1090,7 @@
           "seance": [
             {
               "dateHeure": "2020-10-31T15:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         }
