@@ -28,9 +28,15 @@
       "sousCycles": []
     },
     {
-      "idCycleProg": 238,
+      "idCycleProg": 268,
       "titreCycle": "Paulo Branco",
-      "sousCycles": []
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [1155],
+          "tri": 1
+        }
+      ]
     },
     {
       "idCycleProg": 460,
@@ -92,7 +98,10 @@
     {
       "idCycleProg": 504,
       "titreCycle": "Richard Brooks",
-      "sousCycles": []
+      "sousCycles": [
+        { "titre": "Les films", "cats": [2289], "tri": 1 },
+        { "titre": "Richard Brooks scénariste", "cats": [2290], "tri": 1 }
+      ]
     },
     {
       "idCycleProg": 506,
@@ -115,7 +124,7 @@
     {
       "idCycleProg": 517,
       "titreCycle": "Jacques Rozier",
-      "sousCycles": []
+      "sousCycles": [{ "titre": "Les films", "cats": [2346], "tri": 1 }]
     }
   ]
 }
