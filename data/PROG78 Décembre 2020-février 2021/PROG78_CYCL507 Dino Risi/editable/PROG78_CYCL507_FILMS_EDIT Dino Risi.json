@@ -10,11 +10,11 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Des militaires autrichiens assistent à la répétition générale d'un ballet à la Scala de Milan. Pendant ce temps, aux cris de « À feu, la ville ! », l'insurrection éclate dans les rues."
+        "texte": "Des militaires autrichiens assistent à la répétition générale d'un ballet à la Scala. Pendant ce temps, aux cris de « À feu, la ville ! », l'insurrection éclate dans les rues de Milan."
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par l'Archivio nazionale del cinema d'impresa."
+        "texte": "Film restauré par l'Archivio nazionale del cinema d'impresa."
       }
     ],
     "generique": ["Lucia Bosè"]
@@ -46,7 +46,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un jeune étudiant rend visite à son oncle Fabio à Venise. Il entend des bruits étranges et apprend qu'un frère de Fabio, devenu fou, serait enfermé dans une pièce."
+        "texte": "Un étudiant rend visite à son oncle Fabio à Venise. Il entend des bruits étranges et apprend qu'un frère de Fabio, devenu fou, serait enfermé dans une pièce."
       },
       {
         "typeTexte": 99,
@@ -68,7 +68,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Six histoires, drôles ou tragiques, au sujet de l'amour en ville."
+        "texte": "Six histoires, drôles ou tragiques, sur le sujet de l'amour en ville."
       }
     ]
   },
@@ -99,7 +99,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Romolo et Salvatore, fiancés respectivement à Marisa et Anna Maria, sont confrontés à l'obligation de gagner leur vie afin de pouvoir se marier. Salvatore ouvre un petit atelier alors que Romolo quitte le droit chemin et s'attire des ennuis."
+        "texte": "Romolo et Salvatore, fiancés respectivement à Marisa et Anna Maria, doivent gagner leur vie pour pouvoir se marier. Salvatore ouvre un petit atelier alors que Romolo quitte le droit chemin et s'attire des ennuis."
       },
       {
         "typeTexte": 99,
@@ -120,7 +120,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "La caravane du roi fainéant et hédoniste Dagobert est attaquée par des brigands qui massacrent les gardes et violent les femmes. Dagobert en réchappe par miracle et, pour remercier la providence, se rend à Rome en pénitence."
+        "texte": "La caravane de Dagobert, roi fainéant et hédoniste, est attaquée par des brigands qui massacrent les gardes et violent les femmes. Dagobert en réchappe par miracle et, pour remercier la providence, se rend à Rome en pénitence."
       }
     ],
     "generique": ["Coluche", "Michel Serrault", "Ugo Tognazzi"]
@@ -136,7 +136,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Dans l'Italie pauvre de l'après-guerre, le cinéma est un refuge : Risi filme les visages des spectateurs qui rêvent."
+        "texte": "Dans l'Italie pauvre de l'après-guerre, le cinéma est un refuge. Dino Risi filme les visages des spectateurs qui rêvent."
       }
     ]
   },
@@ -253,7 +253,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par l'Archivio nazionale del cinema d'impresa."
+        "texte": "Film restauré par l'Archivio nazionale del cinema d'impresa."
       }
     ]
   },
@@ -360,7 +360,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par l'Archivio nazionale del cinema d'impresa."
+        "texte": "Film restauré par l'Archivio nazionale del cinema d'impresa."
       }
     ]
   },
@@ -452,7 +452,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "En 1941, dans le désert libyen, un capitaine assoiffé de violence et de pouvoir tyrannise ses subordonnés."
+        "texte": "En 1941, dans le désert libyen, un capitaine assoiffé de violence tyrannise ses subordonnés."
       }
     ],
     "generique": ["Coluche", "Fabio Testi", "Beppe Grillo", "Bernard Blier"]
@@ -469,7 +469,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Mario, un attaché de presse à court d'argent, part en voyage d'affaires en Argentine. Sur place, il tente de s'enrichir au jeu, puis en soutirant de l'argent à un compatriote devenu riche industriel."
+        "texte": "Mario, un attaché de presse à court d'argent, part en voyage d'affaires en Argentine. Sur place, il tente de s'enrichir au jeu, puis cherche à soutirer de l'argent à un compatriote devenu un riche industriel."
       }
     ],
     "generique": ["Vittorio Gassman", "Amedeo Nazzari", "Nino Manfredi"]
@@ -543,7 +543,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Gerardo, connu autrefois pour sa capacité à incarner de multiples personnages dans le but d'escroquer les gens, mène désormais, à son grand regret, une existance paisible auprès de son épouse."
+        "texte": "Gerardo, connu autrefois pour son talent à incarner de multiples personnages pour escroquer les gens, mène désormais, à son grand regret, une existence paisible auprès de son épouse."
       }
     ],
     "generique": ["Vittorio Gassman", "Dorian Gray", "Peppino De Filippo"]
@@ -561,7 +561,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Isabelle est une vieille femme autoritaire qui soumet ses proches à toutes ses volontés. Elle cherche notamment à empêcher les mariages qui ne lui conviennent pas."
+        "texte": "Raphaël, jeune ingénieur, est appelé à la campagne au chevet de sa grand-mère mourante. Mais c'était une ruse de la vieille dame pour arranger selon ses volontés le mariage de son petit-fils avec une riche héritière des environs."
       }
     ],
     "generique": [
@@ -569,7 +569,8 @@
       "Renato Salvatori",
       "Tina Pica",
       "Sylva Koscina"
-    ]
+    ],
+    "adaptation": "D'après le roman _La Nonna Sabella_ de Pasquale Festa Campanile."
   },
   {
     "titre": "Inassouvie",
@@ -618,7 +619,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Domenico, un ancien combattant mal réadapté à la vie civile, se joint au mouvement fasciste et y retrouve Umberto, un camarade de tranchée. Le 18 octobre 1922, les deux compères se joignent à la marche sur Rome."
+        "texte": "Domenico, un ancien combattant mal réadapté à la vie civile, se joint au mouvement fasciste et y retrouve Umberto, un camarade de tranchées. Le 18 octobre 1922, les deux compères se joignent à la marche sur Rome."
       }
     ],
     "generique": [
@@ -644,7 +645,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par l'Archivio nazionale del cinema d'impresa."
+        "texte": "Film restauré par l'Archivio nazionale del cinema d'impresa."
       }
     ]
   },
@@ -683,8 +684,8 @@
     "generique": ["Ugo Tognazzi", "Vittorio Gassman", "Ricky Tognazzi"]
   },
   {
-    "titre": "Marito di Attilia",
-    "art": "Il",
+    "titre": "Nostri mariti : Il Marito di Attilia",
+    "art": "I",
     "titreVo": "",
     "idFilm": 70027,
     "ageMinimal": null,
@@ -895,7 +896,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Après passé cinq ans passés en ermite au sommet d'une montagne, Pietro revient en ville. Ses principes moraux sont mis à rude épreuve quand il croise le chemin d'une équipe de télévision et d'une jeune hippie dont il tombe amoureux."
+        "texte": "Après passé cinq ans passés en ermite au sommet d'une montagne, Pietro revient en ville. Son désir de pureté et ses principes moraux sont mis à rude épreuve quand il croise le chemin d'une équipe de télévision et d'une jeune hippie dont il tombe amoureux."
       }
     ],
     "generique": ["Vittorio Gassman", "Ann-Margret", "Liana Orfei"]
@@ -916,7 +917,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par l'Archivio nazionale del cinema d'impresa."
+        "texte": "Film restauré par l'Archivio nazionale del cinema d'impresa."
       }
     ]
   },
@@ -1048,7 +1049,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Giulio, un intellectuel de quarante ans coincé dans un emploi ennuyeux, rêve de devenir riche grâce à un investissement. Mais il doit d'abord trouver dix millions."
+        "texte": "Giulio, un intellectuel de quarante ans coincé dans un emploi ennuyeux, espère devenir riche grâce à un investissement prometteur. Mais il doit d'abord trouver dix millions."
       }
     ],
     "generique": ["Vittorio Gassman", "Anouk Aimée", "Jean-Louis Trintignant"]
@@ -1064,7 +1065,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Jeune veuve sensuelle, Teresa est endettée auprès d'un créancier qui veut l'épouser sous la contrainte. Avec l'aide d'un chauffeur routier, elle tente de gagner de quoi rembourser sa dette."
+        "texte": "Jeune veuve sensuelle, Teresa est endettée auprès d'un créancier qui veut la forcer à l'épouser. Avec l'aide d'un chauffeur routier, elle tente de gagner de quoi rembourser sa dette."
       }
     ],
     "generique": ["Serena Grandi", "Luca Barbareschi", "Eros Pagni"]
@@ -1084,7 +1085,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par l'Archivio nazionale del cinema d'impresa."
+        "texte": "Film restauré par l'Archivio nazionale del cinema d'impresa."
       }
     ]
   },
@@ -1167,7 +1168,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Vepi, gondolier vénitien, est fiancé à Nina et lui a promis d'être plus sérieux. Il ne peut cependant pas résister aux charmes de deux jeunes étrangères tombées amoureuses de lui."
+        "texte": "Vepi, gondolier vénitien, est fiancé à Nina et lui juré fidélité. Il ne peut cependant pas résister aux charmes de deux jeunes étrangères tombées amoureuses de lui."
       }
     ],
     "generique": [
@@ -1192,7 +1193,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Restauré par l'Archivio nazionale del cinema d'impresa."
+        "texte": "Film restauré par l'Archivio nazionale del cinema d'impresa."
       }
     ]
   },
@@ -1209,7 +1210,7 @@
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Alberto Nardi, homme d'affaires médiocre et dépensier, est marié à la riche et dominatrice Elvira. Il apprend sa mort dans un accident de train."
+        "texte": "Alberto Nardi, homme d'affaires médiocre et dépensier, est marié à la riche et dominatrice Elvira. Il apprend sa mort inespérée dans un accident de train."
       },
       {
         "typeTexte": 99,
