@@ -1,4 +1,5 @@
-[{
+[
+  {
     "titre": "Amour, fleur sauvage",
     "titreVo": "Shotgun",
     "idFilm": 36753,
@@ -6,15 +7,13 @@
     "realisateurs": "Lesley Selander",
     "annee": 1954,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Clay Hardin, l'adjoint du shérif Mark Fletcher, promet de venger son chef, assassiné par le dangereux Ben Thompson."
-    }],
-    "generique": [
-      "Sterling Hayden",
-      "Yvonne De Carlo",
-      "Zachary Scott"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Clay Hardin, l'adjoint du shérif Mark Fletcher, promet de venger son chef, assassiné par le dangereux Ben Thompson."
+      }
+    ],
+    "generique": ["Sterling Hayden", "Yvonne De Carlo", "Zachary Scott"]
   },
   {
     "titre": "Cet homme est prêt à tout",
@@ -24,15 +23,13 @@
     "realisateurs": "S. Lee Pogostin",
     "annee": 1968,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Un impitoyable tueur à gages américain part en Europe pour effectuer un dernier coup, suite à un contrat avec l'agent Ramsey. Sa rencontre avec une belle jeune femme le perturbe au point qu'il renonce à mener à bien le 'hard contract\"."
-    }],
-    "generique": [
-      "James Coburn",
-      "Lee Remick",
-      "Lilli Palmer"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un impitoyable tueur à gages américain part en Europe pour effectuer un dernier coup, suite à un contrat avec l'agent Ramsey. Sa rencontre avec une belle jeune femme le perturbe au point qu'il renonce à mener à bien le 'hard contract\"."
+      }
+    ],
+    "generique": ["James Coburn", "Lee Remick", "Lilli Palmer"]
   },
   {
     "titre": "Chasse au gang",
@@ -43,15 +40,13 @@
     "realisateurs": "André De Toth",
     "annee": 1952,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Deux gangsters en cavale usent de la force pour contraindre un de leurs anciens acolytes, désormais rangé, à participer à un nouveau méfait."
-    }],
-    "generique": [
-      "Gene Nelson",
-      "Sterling Hayden",
-      "Phyllis Kirk"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Deux gangsters en cavale usent de la force pour contraindre un de leurs anciens acolytes, désormais rangé, à participer à un nouveau méfait."
+      }
     ],
+    "generique": ["Gene Nelson", "Sterling Hayden", "Phyllis Kirk"],
     "adaptation": "D'après la nouvelle _Criminals Mark_ de John et Ward Hawkins."
   },
   {
@@ -64,15 +59,13 @@
     "realisateurs": "Robert Fuest",
     "annee": 1973,
     "pays": "Grande-Bretagne",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Un ordinateur mis au point par une poignée de scientifiques crée un monstre hermaphrodite, nouveau messie d'une société en mal d'icônes."
-    }],
-    "generique": [
-      "Jon Finch",
-      "Derrick O'Connor",
-      "Sterling Hayden"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un ordinateur mis au point par une poignée de scientifiques crée un monstre hermaphrodite, nouveau messie d'une société en mal d'icônes."
+      }
+    ],
+    "generique": ["Jon Finch", "Derrick O'Connor", "Sterling Hayden"]
   },
   {
     "titre": "Dix jours d'angoisse",
@@ -82,15 +75,13 @@
     "realisateurs": "George Sherman",
     "annee": 1958,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "En Amérique du Sud, un gangster en fuite oblige un pilote d'avion américain à l'aider à quitter le pays."
-    }],
-    "generique": [
-      "Sterling Hayden",
-      "Grace Raynor",
-      "Rodolfo Hoyos Jr."
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En Amérique du Sud, un gangster en fuite oblige un pilote d'avion américain à l'aider à quitter le pays."
+      }
+    ],
+    "generique": ["Sterling Hayden", "Grace Raynor", "Rodolfo Hoyos Jr."]
   },
   {
     "titre": "Dr Folamour",
@@ -100,15 +91,13 @@
     "realisateurs": "Stanley Kubrick",
     "annee": 1963,
     "pays": "Grande-Bretagne",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Le général Jack Ripper, convaincu que les Russes ont décidé d'empoisonner l'eau potable des États-Unis, lance sur l'URSS une offensive de bombardiers B-52."
-    }],
-    "generique": [
-      "Sterling Hayden",
-      "Peter Sellers",
-      "George C. Scott"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le général Jack Ripper, convaincu que les Russes ont décidé d'empoisonner l'eau potable des États-Unis, lance sur l'URSS une offensive de bombardiers B-52."
+      }
     ],
+    "generique": ["Sterling Hayden", "Peter Sellers", "George C. Scott"],
     "adaptation": "D'après le roman _Red Alert_ de Peter George."
   },
   {
@@ -119,15 +108,13 @@
     "realisateurs": "Nicholas Ray",
     "annee": 1954,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Vienna, qui tient un saloon fréquenté par des hors-la-loi, embauche un ancien amant, cowboy et musicien. Il va l'aider dans sa lutte, qui l'oppose à un groupe d'éleveurs."
-    }],
-    "generique": [
-      "Joan Crawford",
-      "Sterling Hayden",
-      "Mercedes McCambridge"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Vienna, qui tient un saloon fréquenté par des hors-la-loi, embauche un ancien amant, cowboy et musicien. Il va l'aider dans sa lutte, qui l'oppose à un groupe d'éleveurs."
+      }
     ],
+    "generique": ["Joan Crawford", "Sterling Hayden", "Mercedes McCambridge"],
     "adaptation": "D'après le roman _Johnny Guitar_ de Roy Chanslor."
   },
   {
@@ -138,33 +125,29 @@
     "realisateurs": "Stuart Heisler",
     "annee": 1951,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Bouleversé par le suicide de sa femme, un pasteur se détourne de la foi. Après avoir vécu dans les bas-fonds parmi les clochards, il retrouve l'envie de vivre grâce à l'amour d'une jeune aveugle."
-    }],
-    "generique": [
-      "Sterling Hayden",
-      "Viveca Lindfors",
-      "Thomas Mitchell"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Bouleversé par le suicide de sa femme, un pasteur se détourne de la foi. Après avoir vécu dans les bas-fonds parmi les clochards, il retrouve l'envie de vivre grâce à l'amour d'une jeune aveugle."
+      }
+    ],
+    "generique": ["Sterling Hayden", "Viveca Lindfors", "Thomas Mitchell"]
   },
   {
-    "titre": "Meurtrière Ambition",
+    "titre": "Meurtrière ambition",
     "titreVo": "Crime of Passion",
     "idFilm": 35488,
     "ageMinimal": null,
     "realisateurs": "Gerd Oswald",
     "annee": 1956,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Une journaliste abandonne son métier pour épouser un inspecteur de police. Déçue par sa vie de femme au foyer, et par le manque d'ambition de son mari, elle va œuvrer dans l'ombre pour faire avancer sa carrière."
-    }],
-    "generique": [
-      "Barbara Stanwyck",
-      "Sterling Hayden",
-      "Raymond Burr"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une journaliste abandonne son métier pour épouser un inspecteur de police. Déçue par sa vie de femme au foyer, et par le manque d'ambition de son mari, elle va œuvrer dans l'ombre pour faire avancer sa carrière."
+      }
+    ],
+    "generique": ["Barbara Stanwyck", "Sterling Hayden", "Raymond Burr"]
   },
   {
     "titre": "Mourir à Belfast",
@@ -175,15 +158,13 @@
     "realisateurs": "Tony Luraschi",
     "annee": 1979,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "1973, en Irlande du Nord. Un Américain, engagé volontaire dans les troupes de l'IRA, devient la cible d'un double complot politique."
-    }],
-    "generique": [
-      "Sterling Hayden",
-      "Craig Wasson",
-      "Patricia Quinn"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "1973, en Irlande du Nord. Un Américain, engagé volontaire dans les troupes de l'IRA, devient la cible d'un double complot politique."
+      }
     ],
+    "generique": ["Sterling Hayden", "Craig Wasson", "Patricia Quinn"],
     "adaptation": "D'après _The Heritage of Michael Flaherty_ de Colin Leinster."
   },
   {
@@ -196,15 +177,13 @@
     "realisateurs": "Francis Ford Coppola",
     "annee": 1971,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Michael Corleone essaie de mener une vie éloignée de son père, un parrain de la mafia new-yorkaise. Quand le patriarche est menacé, Michael revient aider sa famille."
-    }],
-    "generique": [
-      "Marlon Brando",
-      "Al Pacino",
-      "James Caan"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Michael Corleone essaie de mener une vie éloignée de son père, un parrain de la mafia new-yorkaise. Quand le patriarche est menacé, Michael revient aider sa famille."
+      }
     ],
+    "generique": ["Marlon Brando", "Al Pacino", "James Caan"],
     "adaptation": "D'après le roman _The Godfather_ de Mario Puzo."
   },
   {
@@ -217,15 +196,13 @@
     "realisateurs": "Robert Altman",
     "annee": 1972,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "En pleine nuit, Terry Lennox demande au privé Philip Marlowe de le conduire au Mexique. À son retour, Marlowe est cueilli par la police, accusé d'avoir tué l'épouse de Lennox."
-    }],
-    "generique": [
-      "Elliott Gould",
-      "Nina Van Pallandt",
-      "Sterling Hayden"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "En pleine nuit, Terry Lennox demande au privé Philip Marlowe de le conduire au Mexique. À son retour, Marlowe est cueilli par la police, accusé d'avoir tué l'épouse de Lennox."
+      }
     ],
+    "generique": ["Elliott Gould", "Nina Van Pallandt", "Sterling Hayden"],
     "adaptation": "D'après le roman _The Long Goodbye_ de Raymond Chandler."
   },
   {
@@ -237,10 +214,12 @@
     "realisateurs": "John Huston",
     "annee": 1949,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Tout juste sorti de prison, le docteur Reidenschneider, pour préparer un casse de grande ampleur, recrute une équipe de quatre spécialistes."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Tout juste sorti de prison, le docteur Reidenschneider, pour préparer un casse de grande ampleur, recrute une équipe de quatre spécialistes."
+      }
+    ],
     "generique": [
       "Sterling Hayden",
       "Louis Calhern",
@@ -257,10 +236,12 @@
     "realisateurs": "William Richert",
     "annee": 1976,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Le président des États-Unis est assassiné. Dix-neuf ans plus tard, son frère mène l'enquête et met au jour un immense complot politique. Sa propre vie est alors menacée."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le président des États-Unis est assassiné. Dix-neuf ans plus tard, son frère mène l'enquête et met au jour un immense complot politique. Sa propre vie est alors menacée."
+      }
+    ],
     "generique": [
       "Jeff Bridges",
       "Anthony Perkins",
@@ -278,10 +259,12 @@
     "realisateurs": "Frank R. Pierson",
     "annee": 1978,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Sur son lit de mort, excluant son propre fils, le « roi » d'une tribu de gitans new-yorkaise transmet sa couronne à son petit-fils. Son choix entraîne jalousies et complots."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Sur son lit de mort, excluant son propre fils, le « roi » d'une tribu de gitans new-yorkaise transmet sa couronne à son petit-fils. Son choix entraîne jalousies et complots."
+      }
+    ],
     "generique": [
       "Sterling Hayden",
       "Susan Sarandon",
@@ -300,15 +283,13 @@
     "realisateurs": "Stuart Heisler",
     "annee": 1952,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Margaret Elliott, star de cinéma sur le déclin, se retrouve dans la misère. Elle tente par tous les moyens de décrocher le rôle qui lui permettrait de faire son come-back, et de récupérer la garde de sa fille."
-    }],
-    "generique": [
-      "Bette Davis",
-      "Natalie Wood",
-      "Sterling Hayden"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Margaret Elliott, star de cinéma sur le déclin, se retrouve dans la misère. Elle tente par tous les moyens de décrocher le rôle qui lui permettrait de faire son come-back, et de récupérer la garde de sa fille."
+      }
+    ],
+    "generique": ["Bette Davis", "Natalie Wood", "Sterling Hayden"]
   },
   {
     "titre": "Tendres chasseurs",
@@ -318,10 +299,12 @@
     "realisateurs": "Ruy Guerra",
     "annee": 1969,
     "pays": "Panama",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Un ornithologue s'installe avec sa famille sur une île déserte, dans l'attente d'une migration d'oiseaux susceptible d'éclairer ses recherches. Leur tranquillité prend fin quand arrive sur l'île un prisonnier évadé."
-    }],
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un ornithologue s'installe avec sa famille sur une île déserte, dans l'attente d'une migration d'oiseaux susceptible d'éclairer ses recherches. Leur tranquillité prend fin quand arrive sur l'île un prisonnier évadé."
+      }
+    ],
     "generique": [
       "Sterling Hayden",
       "Maureen McNalley",
@@ -337,15 +320,13 @@
     "realisateurs": "Joseph H. Lewis",
     "annee": 1958,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Au Texas, le vieil émigré suédois Hansen refuse de vendre sa propriété au riche Ed McNeil, qui convoite ses terres, ayant appris qu'elles regorgeaient de pétrole."
-    }],
-    "generique": [
-      "Sterling Hayden",
-      "Sebastian Cabot",
-      "Carol Kelly"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Au Texas, le vieil émigré suédois Hansen refuse de vendre sa propriété au riche Ed McNeil, qui convoite ses terres, ayant appris qu'elles regorgeaient de pétrole."
+      }
+    ],
+    "generique": ["Sterling Hayden", "Sebastian Cabot", "Carol Kelly"]
   },
   {
     "titre": "Ultime razzia",
@@ -357,15 +338,13 @@
     "realisateurs": "Stanley Kubrick",
     "annee": 1955,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Un gangster et ses complices organisent un hold-up pour s'emparer de la caisse d'un champ de courses."
-    }],
-    "generique": [
-      "Sterling Hayden",
-      "Coleen Gray",
-      "Vince Edwards"
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un gangster et ses complices organisent un hold-up pour s'emparer de la caisse d'un champ de courses."
+      }
     ],
+    "generique": ["Sterling Hayden", "Coleen Gray", "Vince Edwards"],
     "adaptation": "D'après le roman _The Clean Break_ de Lionel White."
   },
   {
@@ -376,14 +355,12 @@
     "realisateurs": "Gerd Oswald",
     "annee": 1957,
     "pays": "États-Unis",
-    "textes": [{
-      "typeTexte": 9,
-      "texte": "Le rancher John Garth est arrêté pour avoir tué ses parents et gravement blessé sa femme. Au cours du procès, il se remémore l'incident et les événements précédents."
-    }],
-    "generique": [
-      "Anita Ekberg",
-      "Sterling Hayden",
-      "Anthony Steel"
-    ]
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Le rancher John Garth est arrêté pour avoir tué ses parents et gravement blessé sa femme. Au cours du procès, il se remémore l'incident et les événements précédents."
+      }
+    ],
+    "generique": ["Anita Ekberg", "Sterling Hayden", "Anthony Steel"]
   }
 ]
