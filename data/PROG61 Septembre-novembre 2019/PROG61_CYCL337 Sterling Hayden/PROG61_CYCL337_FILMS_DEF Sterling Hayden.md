@@ -66,7 +66,7 @@ Avec Sterling Hayden, Viveca Lindfors, Thomas Mitchell.
 Bouleversé par le suicide de sa femme, un pasteur se détourne de la foi. Après avoir vécu dans les bas-fonds parmi les clochards, il retrouve l'envie de vivre grâce à l'amour d'une jeune aveugle.
 
 [35488]  
-**Meurtrière Ambition**  
+**Meurtrière ambition**  
 **(Crime of Passion)**  
 de Gerd Oswald  
 États-Unis / 1956  

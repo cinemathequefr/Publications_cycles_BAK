@@ -23,6 +23,17 @@
       "sousCycles": []
     },
     {
+      "idCycleProg": 152,
+      "titreCycle": "Parlons cinéma avec Bertrand Belin",
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2238],
+          "tri": 4
+        }
+      ]
+    },
+    {
       "idCycleProg": 237,
       "titreCycle": "Artavazd Pelechian",
       "sousCycles": []

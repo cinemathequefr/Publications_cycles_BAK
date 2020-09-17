@@ -88,7 +88,7 @@ Bouleversé par le suicide de sa femme, un pasteur se détourne de la foi. Aprè
 - je 24 oct 19h30 GF
 
 [35488]  
-**Meurtrière Ambition**  
+**Meurtrière ambition**  
 **(Crime of Passion)**  
 de Gerd Oswald  
 États-Unis / 1956 / 86 min / VOSTF / 35 mm  
