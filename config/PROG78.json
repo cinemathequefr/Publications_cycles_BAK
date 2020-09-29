@@ -36,7 +36,18 @@
     {
       "idCycleProg": 237,
       "titreCycle": "Artavazd Pelechian",
-      "sousCycles": []
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [1049, 2382, 2383, 2384],
+          "tri": 4
+        },
+        {
+          "titre": "Autour d'Artavazd Pelechian",
+          "cats": [2381],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 268,
@@ -129,13 +140,21 @@
     },
     {
       "idCycleProg": 516,
-      "titreCycle": "Wilhelm Friedrich Murnau",
-      "sousCycles": []
+      "titreCycle": "Friedrich Wilhelm Murnau",
+      "sousCycles": [{ "titre": "Les films", "cats": [2345], "tri": 1 }]
     },
     {
       "idCycleProg": 517,
       "titreCycle": "Jacques Rozier",
       "sousCycles": [{ "titre": "Les films", "cats": [2346], "tri": 1 }]
+    },
+    {
+      "idCycleProg": 519,
+      "titreCycle": "Mia Hansen-Løve",
+      "sousCycles": [
+        { "titre": "Les films", "cats": [2350], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [2373], "tri": 4 }
+      ]
     }
   ]
 }
