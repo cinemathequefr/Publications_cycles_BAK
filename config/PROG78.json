@@ -155,6 +155,11 @@
         { "titre": "Les films", "cats": [2350], "tri": 1 },
         { "titre": "Rencontres et conférences", "cats": [2373], "tri": 4 }
       ]
+    },
+    {
+      "idCycleProg": 522,
+      "titreCycle": "Netflix",
+      "sousCycles": [{ "titre": "Les films", "cats": [2359], "tri": 1 }]
     }
   ]
 }
