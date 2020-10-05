@@ -14,7 +14,7 @@ de João César Monteiro
 Portugal / 2000  
 D'après la pièce _Blanche-Neige_ de Robert Walser.  
 Avec Diogo Dória, Ana Brandão, Maria do Carmo Rôlo, Reginaldo da Cruz, Luís Miguel Cintra.  
-Une adaptation radicale du texte de Robert Walser.
+Adaptation radicale du texte de Robert Walser.
 
 [103570]  
 **Body Rice**  
@@ -151,14 +151,14 @@ Après une rupture amoureuse, Martine craque. Internée à sa demande en hôpita
 de Manoel de Oliveira  
 France / 2000  
 Avec Michel Piccoli, Antoine Chappey, Catherine Deneuve, John Malkovich.  
-Gilbert Valence est un comédien de théâtre dont le talent et la longue carrière lui ont valu les plus grands rôles. Un soir, à l'issue de la représentation, la tragédie entre dans sa vie.
+Gilbert Valence est un comédien de théâtre dont le talent et la longue carrière lui ont valu les plus grands rôles. Un soir, à l'issue d'une représentation, la tragédie entre dans sa vie.
 
 [64005]  
 **Lila Lili**  
 de Marie Vermillard  
 France / 1999  
 Avec Alexia Monduit, Geneviève Tenne, Simon Abkarian, Zinedine Soualem, Antoine Chappey.  
-Micheline, qui est enceinte, est accueillie dans un foyer pour femmes en difficulté. Alors que sa grand-mère est sur le point de mourir, et qu'elle même hésite à garder son enfant, elle observe le monde qui l'entoure et tente d'y trouver quelques réponses.
+Micheline, enceinte, est accueillie dans un foyer pour femmes en difficulté. Alors que sa grand-mère est sur le point de mourir, et qu'elle-même hésite à garder son enfant, elle observe le monde qui l'entoure et tente d'y trouver quelques réponses.
 
 [90882]  
 **Ma mère**  
