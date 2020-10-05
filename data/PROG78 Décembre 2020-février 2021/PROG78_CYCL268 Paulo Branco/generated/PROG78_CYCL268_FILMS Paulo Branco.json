@@ -21,6 +21,28 @@
     ]
   },
   {
+    "titre": "Blanche-Neige",
+    "titreVo": "Branca de Neve",
+    "idFilm": 87307,
+    "ageMinimal": null,
+    "realisateurs": "João César Monteiro",
+    "annee": 2000,
+    "pays": "Portugal",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Une adaptation radicale du texte de Robert Walser; le film fit scandale."
+      }
+    ],
+    "generique": [
+      "Maria Carmo do Rôlo",
+      "Ana Brandão",
+      "Reginaldo da Cruz",
+      "Luís Miguel Cintra"
+    ],
+    "adaptation": "D'après le conte _Blanche-Neige_ de Robert Walser."
+  },
+  {
     "titre": "Body rice",
     "titreVo": "",
     "idFilm": 103570,
@@ -258,7 +280,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "Restauration 4K à partir du négatif original 35 mm, menée par la Fondation Wim Wenders. Ressortie en salles le 14 mars. Distribution les Acacias pour Le Pacte."
+        "texte": "Restauration 4K à partir du négatif original 35 mm, menée par la Fondation Wim Wenders."
       }
     ],
     "generique": [
@@ -373,6 +395,49 @@
       "Valéria Bruni Tedeschi",
       "Melvil Poupaud",
       "Marc Citti"
+    ]
+  },
+  {
+    "titre": "Je rentre à la maison",
+    "titreVo": "",
+    "idFilm": 75454,
+    "ageMinimal": null,
+    "realisateurs": "Manoel de Oliveira",
+    "annee": 2000,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Gilbert Valence est un comédien de théâtre, son talent et sa longue carrière lui ont valu les plus grands rôles. Un soir, à l'issue de la représentation, la tragédie entre dans sa vie."
+      }
+    ],
+    "generique": [
+      "Michel Piccoli",
+      "Antoine Chappey",
+      "Catherine Deneuve",
+      "John Malkovich"
+    ],
+    "adaptation": "D'après des extraits du roman _La Tempête_ de William Shakespeare.  \nD'après des extraits du roman _Le Roi se meurt_ d'Eugène Ionesco.  \nD'après des extraits du roman _Ulysses_ de James Joyce."
+  },
+  {
+    "titre": "Lila Lili",
+    "titreVo": "",
+    "idFilm": 64005,
+    "ageMinimal": null,
+    "realisateurs": "Marie Vermillard",
+    "annee": 1998,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Micheline, une jeune fille un peu déroutante, vit a Paris dans un foyer pour jeunes femmes en difficulté. Sa grand-mère, sur le point de mourir a l'hôpital, est sa seule famille. Le film retrace ses interrogations, ses sensations, ainsi que les craintes et les espérances de tous ceux qu'elle croise."
+      }
+    ],
+    "generique": [
+      "Alexia Monduit",
+      "Geneviève Tenne",
+      "Simon Abkarian",
+      "Antoine Chappey"
     ]
   },
   {

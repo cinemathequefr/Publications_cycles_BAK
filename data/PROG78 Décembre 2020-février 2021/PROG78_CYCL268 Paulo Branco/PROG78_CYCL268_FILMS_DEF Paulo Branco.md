@@ -7,6 +7,15 @@ France-Portugal-Suisse-Allemagne / 1997
 Avec Maurice Garrel, Dominique Blanc, Arno, Roland Amstutz.  
 Patriarche impitoyable, farceur et jouisseur, Constantin a trois fils, qui habitent dans le même immeuble avec le reste de la famille. Avec Rose, sa seule fille, née d'une autre union, il partage une complicité à l'abri du regard des autres.
 
+[87307]  
+**Blanche-Neige**  
+**(Branca de Neve)**  
+de João César Monteiro  
+Portugal / 2000  
+D'après la pièce _Blanche-Neige_ de Robert Walser.  
+Avec Diogo Dória, Ana Brandão, Maria do Carmo Rôlo, Reginaldo da Cruz, Luís Miguel Cintra.  
+Une adaptation radicale du texte de Robert Walser.
+
 [103570]  
 **Body Rice**  
 de Hugo Vieira da Silva  
@@ -137,6 +146,20 @@ France / 1992
 Avec Valeria Bruni Tedeschi, Melvil Poupaud, Marc Citti.  
 Après une rupture amoureuse, Martine craque. Internée à sa demande en hôpital psychiatrique, elle retrouve peu à peu le goût de vivre en essayant de rendre heureux les autres malades.
 
+[75454]  
+**Je rentre à la maison**  
+de Manoel de Oliveira  
+France / 2000  
+Avec Michel Piccoli, Antoine Chappey, Catherine Deneuve, John Malkovich.  
+Gilbert Valence est un comédien de théâtre dont le talent et la longue carrière lui ont valu les plus grands rôles. Un soir, à l'issue de la représentation, la tragédie entre dans sa vie.
+
+[64005]  
+**Lila Lili**  
+de Marie Vermillard  
+France / 1999  
+Avec Alexia Monduit, Geneviève Tenne, Simon Abkarian, Zinedine Soualem, Antoine Chappey.  
+Micheline, qui est enceinte, est accueillie dans un foyer pour femmes en difficulté. Alors que sa grand-mère est sur le point de mourir, et qu'elle même hésite à garder son enfant, elle observe le monde qui l'entoure et tente d'y trouver quelques réponses.
+
 [90882]  
 **Ma mère**  
 de Christophe Honoré  
@@ -218,3 +241,4 @@ Portugal-France-Suisse / 1992
 D'après le roman _Vale Abraão_ d'Agustina Bessa-Luís.  
 Avec Leonor Silveira, Luís Miguel Cintra, Cécile Sanz de Alba.  
 Dans la région du Douro, la jeune Ema épouse le docteur Carlos de Paiva, qu'elle n'aime pas.
+
