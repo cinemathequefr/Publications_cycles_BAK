@@ -5,7 +5,13 @@
     {
       "idCycleProg": 13,
       "titreCycle": "Cinéma d'avant-garde",
-      "sousCycles": []
+      "sousCycles": [
+        {
+          "titre": "Les films",
+          "cats": [2352],
+          "tri": 4
+        }
+      ]
     },
     {
       "idCycleProg": 14,
@@ -34,6 +40,17 @@
         {
           "titre": "Hommage à Robert Clouse",
           "cats": [2366],
+          "tri": 4
+        }
+      ]
+    },
+    {
+      "idCycleProg": 18,
+      "titreCycle": "Conservatoire des techniques cinématographiques",
+      "sousCycles": [
+        {
+          "titre": "Hiver 2020-2021",
+          "cats": [1856],
           "tri": 4
         }
       ]
