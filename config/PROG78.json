@@ -131,7 +131,7 @@
         {
           "titre": "Les films",
           "cats": [2221],
-          "tri": 1
+          "tri": 2
         },
         {
           "titre": "Visites d'ateliers",
@@ -146,7 +146,7 @@
         {
           "titre": "Films collectifs et encyclopédie",
           "cats": [2253],
-          "tri": 1
+          "tri": 2
         },
         {
           "titre": "Rencontres et conférences",
