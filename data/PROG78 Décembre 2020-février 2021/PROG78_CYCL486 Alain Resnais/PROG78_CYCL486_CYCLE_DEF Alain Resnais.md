@@ -10,9 +10,9 @@ D'après la pièce _Life of Riley_ d'Alan Ayckbourn.
 Avec Caroline Sihol, Hippolyte Girardot, Sabine Azéma, Michel Vuillermoz.  
 Au cœur du Yorkshire, un médecin répète une pièce de théâtre avec sa femme. Comme elle lui reproche son manque de concentration, il lui révèle que l'un de ses patients est condamné par la maladie.
 
-- ve 15 jan 22h00 GF  
+- ve 15 jan 22h00 GF
 - lu 1 fév 19h00 GF  
-Séance présentée par Caroline Silhol, Jean-Louis Livi et Blutch
+  Séance présentée par Caroline Silhol, Jean-Louis Livi et Blutch
 
 [50864]  
 **L'Amour à mort**  
@@ -21,7 +21,7 @@ France / 1984 / 112 min / 35 mm
 Avec Sabine Azéma, Pierre Arditi, Fanny Ardant, André Dussollier.  
 Déclaré cliniquement mort, Simon revient à la vie. Bouleversé, il raconte son expérience à un couple d'amis pasteurs, et retrouve Élisabeth, la femme avec qui il vivait une intense histoire d'amour.
 
-- sa 23 jan 21h00 HL  
+- sa 23 jan 21h00 HL
 - je 28 jan 21h30 GF
 
 [50865]  
@@ -32,7 +32,7 @@ Avec Giorgio Albertazzi, Delphine Seyrig, Sacha Pitoëff.
 Dans un château de Bohême, transformé en hôtel de luxe à l'atmosphère feutrée, un homme s'attache à une femme. Il tente de la persuader qu'ils ont eu une aventure, l'année dernière, à Marienbad.
 
 - je 7 jan 20h00 HL  
-Ouverture de la rétrospective  
+  Ouverture de la rétrospective
 - di 31 jan 14h30 HL
 
 [100322]  
@@ -44,7 +44,7 @@ Avec Sabine Azéma, Isabelle Carré, André Dussollier.
 Les rencontres, les amours et le destin de Thierry, Charlotte, Nicole, Dan et Lionel dans un quartier du 13<sup>e</sup> arrondissement de Paris.
 
 - lu 25 jan 19h00 GF  
-Séance présentée par Bruno Pesery  
+  Séance présentée par Bruno Pesery
 - lu 1 fév 21h45 GF
 
 [50868]  
@@ -64,9 +64,9 @@ D'après le roman _L'Incident_ de Christian Gailly.
 Avec André Dussollier, Sabine Azéma, Anne Consigny.  
 Marguerite Muir se fait voler son sac à la sortie d'un magasin. Le coupable se débarrasse du contenu sur un parking, et George Palet, qui le ramasse, laisse libre cours à ses fantasmes.
 
-- sa 23 jan 14h30 GF  
+- sa 23 jan 14h30 GF
 - me 3 fév 17h00 GF  
-Séance présentée par Anne Consigny, Christophe Jeauffroy et Laurent Herbiet
+  Séance présentée par Anne Consigny, Christophe Jeauffroy et Laurent Herbiet
 
 [50869]  
 **Hiroshima, mon amour**  
@@ -76,7 +76,7 @@ Avec Emmanuelle Riva, Eiji Okada, Stella Dassas.
 Une comédienne vient participer à un film sur la paix tourné à Hiroshima. Elle y rencontre un Japonais qui devient son amant.  
 « Le sujet lui-même mêle une aventure passionnelle entre une jeune française et un architecte japonais à un réquisitoire antinucléaire aussi violent que pouvait l'être _Nuit et brouillard_ vis-à-vis des camps d'extermination nazis. » (Michel Marie)
 
-- ve 8 jan 19h00 HL  
+- ve 8 jan 19h00 HL
 - me 3 fév 19h30 GF
 
 [50880]  
@@ -86,7 +86,7 @@ France / 1988 / 105 min / 35 mm
 Avec Adolph Green, Gérard Depardieu, Laura Benson.  
 Un dessinateur de comics américain rend visite à sa fille, étudiante depuis deux ans à Paris. Mais leurs retrouvailles sont tendues.
 
-- sa 16 jan 19h30 GF  
+- sa 16 jan 19h30 GF
 - lu 1 fév 16h30 GF
 
 [50886]  
@@ -96,7 +96,7 @@ France / 1967 / 91 min / DCP
 Avec Claude Rich, Olga Georges-Picot, Anouk Ferjac.  
 Après une tentative de suicide, un employé de bureau se prête à une expérience scientifique : un voyage dans le temps qui lui fera revivre une minute de son passé, un an plus tôt exactement.
 
-- sa 9 jan 21h30 HL  
+- sa 9 jan 21h30 HL
 - di 24 jan 17h00 GF
 
 [50887]  
@@ -107,7 +107,7 @@ D'après la pièce de théâtre _Mélo_ d'Henri Bernstein.
 Avec Sabine Azéma, Fanny Ardant, Pierre Arditi, André Dussollier.  
 Lorsque Pierre présente sa femme Romaine à son ami Marcel, tous deux tombent immédiatement amoureux. Romaine promet de quitter Pierre mais a peur d'avouer son infidélité.
 
-- di 10 jan 18h15 HL  
+- di 10 jan 18h15 HL
 - di 31 jan 21h30 HL
 
 [50888]  
@@ -117,7 +117,7 @@ France / 1979 / 125 min / DCP
 Avec Gérard Depardieu, Nicole Garcia, Roger Pierre.  
 À travers trois récits sur les comportements humains, plongée dans les théories du professeur Henri Laborit, neurologue, ethologue et philosophe.
 
-- je 28 jan 16h00 GF  
+- je 28 jan 16h00 GF
 - di 31 jan 19h00 HL
 
 [50889]  
@@ -127,7 +127,7 @@ France-Italie / 1962 / 116 min / DCP
 Avec Delphine Seyrig, Jean-Pierre Kérien, Nita Klein.  
 Septembre 1962. Hélène, une antiquaire qui vit avec son beau-fils, tout juste rentré d'Algérie, reçoit la visite de son amour de jeunesse, Alphonse. Il est accompagné d'une jeune actrice débutante, qu'il dit être sa nièce.
 
-- ve 8 jan 21h00 HL  
+- ve 8 jan 21h00 HL
 - ve 29 jan 21h15 HL
 
 [55379]  
@@ -139,7 +139,7 @@ Apercevant un paquet de cigarettes sur la table de son jardin, Celia Teasdale h�
 Seconde partie du diptyque _Smoking / No Smoking_
 
 - di 17 jan 14h15 HL  
-Séance présentée par Renato Berta  
+  Séance présentée par Renato Berta
 - di 24 jan 19h00 HL
 
 [29021]  
@@ -149,7 +149,7 @@ France / 1997 / 121 min / VF / 35 mm
 Avec Agnès Jaoui, Pierre Arditi, Sabine Azéma, Jean-Pierre Bacri.  
 Chassés-croisés en chansons entre six personnages qui s'aiment et se déchirent, dans un Paris théâtral.
 
-- sa 16 jan 14h30 HL  
+- sa 16 jan 14h30 HL
 - di 31 jan 16h30 HL
 
 [87761]  
@@ -160,7 +160,7 @@ D'après l'opérette _Pas sur la bouche !_ de Maurice Yvain et André Barde.
 Avec Sabine Azéma, Lambert Wilson, Audrey Tautou, Pierre Arditi.  
 Dans le Paris de 1925, entre amour, amitié et quiproquos, une série de personnages fantaisistes se croise dans la grande demeure bourgeoise des Valandray.
 
-- sa 16 jan 21h45 GF  
+- sa 16 jan 21h45 GF
 - ve 29 jan 16h30 HL
 
 [144045]  
@@ -176,9 +176,9 @@ D'après les pièces _Eurydice_ et _Cher Antoine ou l'Amour raté_ de Jean Anoui
 Avec Mathieu Amalric, Pierre Arditi, Sabine Azéma, Anne Consigny.  
 Le majordome d'un dramaturge convoque tous les amis de son maître, qui ont joué sa pièce _Eurydice_, à venir découvrir la captation filmée de l'œuvre interprétée par une jeune troupe de théâtre.
 
-- lu 18 jan 19h00 GF  
+- lu 18 jan 19h00 GF
 - me 27 jan 19h00 GF  
-Séance présentée par Bruno Podalydès
+  Séance présentée par Bruno Podalydès
 
 [50891]  
 **Providence**  
@@ -187,8 +187,7 @@ France-Grande-Bretagne-Suisse / 1976 / 110 min / VOSTF / DCP
 Avec Dirk Bogarde, Ellen Burstyn, John Gielgud.  
 Seul dans sa demeure, la « Providence », le célèbre écrivain Clive Langham attend sa mort, qu'il devine prochaine. L'angoisse le ronge et lui fait mélanger fantasmes et réalité.
 
-- di 17 jan 20h45 HL  
-- ve 29 jan 19h00 HL  
+- di 17 jan 20h45 HL
 - sa 30 jan 18h45 HL
 
 [52306]  
@@ -200,7 +199,7 @@ Apercevant un paquet de cigarettes sur la table de son jardin, Celia Teasdale d�
 Première partie du diptyque _Smoking / No Smoking_
 
 - di 17 jan 17h30 HL  
-Séance présentée par Renato Berta  
+  Séance présentée par Renato Berta
 - sa 23 jan 18h00 HL
 
 [50893]  
@@ -210,7 +209,7 @@ France-Italie / 1973 / 120 min / DCP
 Avec Jean-Paul Belmondo, François Périer, Anny Duperey, Michael Lonsdale.  
 France, années 1930. Stavisky, puissant conseiller financier et riche propriétaire, profite de ses relations privilégiées avec notables et hommes politiques. Mais en même temps couve l'énorme scandale des faux bons de caisse du Crédit municipal de Bayonne.
 
-- ve 15 jan 19h30 GF  
+- ve 15 jan 19h30 GF
 - lu 25 jan 21h45 GF
 
 [50895]  
@@ -221,7 +220,7 @@ Avec Vittorio Gassman, Ruggero Raimondi, Fanny Ardant.
 Au lendemain de la Première Guerre mondiale, le comte Forbek présente à ses amis la maquette d'un château dont il veut faire le temple du bonheur.
 
 - sa 9 jan 16h30 HL  
-Séance présentée par Fanny Ardant (sous réserve)  
+  Séance présentée par Fanny Ardant (sous réserve)
 - sa 30 jan 21h00 HL
 
 ## Visites d'ateliers
@@ -269,9 +268,9 @@ France / 1946 / 6 min / Vidéo
 Tourné en décors naturels, le plus ancien film amateur d'Alain Resnais disponible : un mimodrame de Bip où le mime Marceau, âgé de 23 ans, joue également un aveugle. Marceau et Resnais, soldats dans l'Allemagne occupée en 1945-46, avaient fait partie d'une même troupe de théâtre.
 
 - me 20 jan 19h00 JE  
-Séance présentée par François Thomas  
+  Séance présentée par François Thomas
 - ve 5 fév 19h30 JE  
-Séance présentée par François Thomas
+  Séance présentée par François Thomas
 
 ## Courts métrages documentaires
 
@@ -307,7 +306,7 @@ Avec Jean-Pierre Grenier.
 Une enquête scientifique, entre reportage et fiction, pour découvrir l'origine du mal mystérieux dont est atteint un ouvrier.  
 Commentaire de Chris Marker et Rémo Forlani.
 
-- je 14 jan 19h00 JE  
+- je 14 jan 19h00 JE
 - je 21 jan 19h00 JE
 
 [58726]  
@@ -328,9 +327,9 @@ suivi de
 d'Alain Resnais  
 France / 1956 / 22 min / DCP  
 Avec Jacques Dumesnil, Gérard Willemetz, Anne Sarraute.  
-Documentaire sur la Bibliothèque Nationale, véritable musée des mots où lectures, œuvres précieuses et introuvables,  catalogues et collections de livres, véritable mémoire du monde, sont répertoriés, analysés, classés et consultés.
+Documentaire sur la Bibliothèque Nationale, véritable musée des mots où lectures, œuvres précieuses et introuvables, catalogues et collections de livres, véritable mémoire du monde, sont répertoriés, analysés, classés et consultés.
 
-- je 14 jan 21h30 JE  
+- je 14 jan 21h30 JE
 - je 21 jan 21h00 JE
 
 ## Films collectifs et encyclopédie
@@ -358,7 +357,7 @@ d'Alain Resnais
 France / 1982 / 11 min  
 Montage d'extraits de films d'Andrzej Wajda dans le cadre d'une émission collective de soutien à la Pologne diffusée sur FR3 le 9 avril 1982, au moment de l'« état de guerre » instauré par le général Jaruzelski.
 
-- me 20 jan 21h15 JE  
+- me 20 jan 21h15 JE
 - ve 5 fév 21h45 JE
 
 [52165]  
@@ -416,4 +415,3 @@ Alain Resnais s'immergeait dans la musique pendant toutes les étapes de la cré
 François Thomas est l'auteur de _L'Atelier d'Alain Resnais_ (Flammarion, 1992) et d'_Alain Resnais, les coulisses de la création_ (Armand Colin, 2016). Collaborateur de la revue _Positif,_ il enseigne à l'université Sorbonne-Nouvelle.
 
 - je 28 jan 19h00 GF
-

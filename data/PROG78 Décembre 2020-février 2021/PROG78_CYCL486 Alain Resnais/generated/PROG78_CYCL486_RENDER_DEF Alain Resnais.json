@@ -5,37 +5,27 @@
     "sousCycles": [
       {
         "titre": "Les films",
-        "cats": [
-          2221
-        ],
+        "cats": [2221],
         "tri": 2
       },
       {
         "titre": "Visites d'ateliers",
-        "cats": [
-          2236
-        ],
+        "cats": [2236],
         "tri": 4
       },
       {
         "titre": "Courts métrages documentaires",
-        "cats": [
-          2237
-        ],
+        "cats": [2237],
         "tri": 4
       },
       {
         "titre": "Films collectifs et encyclopédie",
-        "cats": [
-          2253
-        ],
+        "cats": [2253],
         "tri": 2
       },
       {
         "titre": "Rencontres et conférences",
-        "cats": [
-          2223
-        ],
+        "cats": [2223],
         "tri": 4
       }
     ],
@@ -81,17 +71,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-15T22:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "dateHeure": "2021-02-01T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ],
+              "idSalle": ["GF", "Georges Franju"],
               "mention": "Séance présentée par Caroline Silhol, Jean-Louis Livi et Blutch"
             }
           ]
@@ -130,17 +114,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-23T21:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "dateHeure": "2021-01-28T21:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -177,18 +155,12 @@
           "seance": [
             {
               "dateHeure": "2021-01-07T20:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
+              "idSalle": ["HL", "Henri Langlois"],
               "mention": "Ouverture de la rétrospective"
             },
             {
               "dateHeure": "2021-01-31T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -225,18 +197,12 @@
           "seance": [
             {
               "dateHeure": "2021-01-25T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ],
+              "idSalle": ["GF", "Georges Franju"],
               "mention": "Séance présentée par Bruno Pesery"
             },
             {
               "dateHeure": "2021-02-01T21:45:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -274,10 +240,7 @@
           "seance": [
             {
               "dateHeure": "2021-01-09T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -315,17 +278,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-23T14:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "dateHeure": "2021-02-03T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ],
+              "idSalle": ["GF", "Georges Franju"],
               "mention": "Séance présentée par Anne Consigny, Christophe Jeauffroy et Laurent Herbiet"
             }
           ]
@@ -351,11 +308,7 @@
                   "texte": "« Le sujet lui-même mêle une aventure passionnelle entre une jeune française et un architecte japonais à un réquisitoire antinucléaire aussi violent que pouvait l'être _Nuit et brouillard_ vis-à-vis des camps d'extermination nazis. » (Michel Marie)"
                 }
               ],
-              "generique": [
-                "Emmanuelle Riva",
-                "Eiji Okada",
-                "Stella Dassas"
-              ],
+              "generique": ["Emmanuelle Riva", "Eiji Okada", "Stella Dassas"],
               "duree": 91,
               "format": "DCP",
               "version": "",
@@ -366,17 +319,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-08T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "dateHeure": "2021-02-03T19:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -397,11 +344,7 @@
                   "texte": "Un dessinateur de comics américain rend visite à sa fille, étudiante depuis deux ans à Paris. Mais leurs retrouvailles sont tendues."
                 }
               ],
-              "generique": [
-                "Adolph Green",
-                "Gérard Depardieu",
-                "Laura Benson"
-              ],
+              "generique": ["Adolph Green", "Gérard Depardieu", "Laura Benson"],
               "duree": 105,
               "format": "35 mm",
               "version": "",
@@ -412,17 +355,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-16T19:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "dateHeure": "2021-02-01T16:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -458,17 +395,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-09T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "dateHeure": "2021-01-24T17:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -506,17 +437,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-10T18:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "dateHeure": "2021-01-31T21:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -552,17 +477,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-28T16:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "dateHeure": "2021-01-31T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -598,17 +517,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-08T21:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "dateHeure": "2021-01-29T21:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -633,11 +546,7 @@
                   "texte": "Seconde partie du diptyque _Smoking / No Smoking_"
                 }
               ],
-              "generique": [
-                "Pierre Arditi",
-                "Sabine Azéma",
-                "Peter Hudson"
-              ],
+              "generique": ["Pierre Arditi", "Sabine Azéma", "Peter Hudson"],
               "duree": 149,
               "format": "35 mm",
               "version": "",
@@ -648,18 +557,12 @@
           "seance": [
             {
               "dateHeure": "2021-01-17T14:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
+              "idSalle": ["HL", "Henri Langlois"],
               "mention": "Séance présentée par Renato Berta"
             },
             {
               "dateHeure": "2021-01-24T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -696,17 +599,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-16T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "dateHeure": "2021-01-31T16:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -744,17 +641,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-16T21:45:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "dateHeure": "2021-01-29T16:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -806,17 +697,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-18T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "dateHeure": "2021-01-27T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ],
+              "idSalle": ["GF", "Georges Franju"],
               "mention": "Séance présentée par Bruno Podalydès"
             }
           ]
@@ -838,11 +723,7 @@
                   "texte": "Seul dans sa demeure, la « Providence », le célèbre écrivain Clive Langham attend sa mort, qu'il devine prochaine. L'angoisse le ronge et lui fait mélanger fantasmes et réalité."
                 }
               ],
-              "generique": [
-                "Dirk Bogarde",
-                "Ellen Burstyn",
-                "John Gielgud"
-              ],
+              "generique": ["Dirk Bogarde", "Ellen Burstyn", "John Gielgud"],
               "duree": 110,
               "format": "DCP",
               "version": "VOSTF",
@@ -853,24 +734,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-17T20:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
-            },
-            {
-              "dateHeure": "2021-01-29T19:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             },
             {
               "dateHeure": "2021-01-30T18:45:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -895,10 +763,7 @@
                   "texte": "Première partie du diptyque _Smoking / No Smoking_"
                 }
               ],
-              "generique": [
-                "Pierre Arditi",
-                "Sabine Azéma"
-              ],
+              "generique": ["Pierre Arditi", "Sabine Azéma"],
               "duree": 148,
               "format": "35 mm",
               "version": "",
@@ -909,18 +774,12 @@
           "seance": [
             {
               "dateHeure": "2021-01-17T17:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
+              "idSalle": ["HL", "Henri Langlois"],
               "mention": "Séance présentée par Renato Berta"
             },
             {
               "dateHeure": "2021-01-23T18:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -957,17 +816,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-15T19:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             },
             {
               "dateHeure": "2021-01-25T21:45:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -1004,18 +857,12 @@
           "seance": [
             {
               "dateHeure": "2021-01-09T16:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ],
+              "idSalle": ["HL", "Henri Langlois"],
               "mention": "Séance présentée par Fanny Ardant (sous réserve)"
             },
             {
               "dateHeure": "2021-01-30T21:00:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         }
@@ -1168,18 +1015,12 @@
           "seance": [
             {
               "dateHeure": "2021-01-20T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
+              "idSalle": ["JE", "Jean Epstein"],
               "mention": "Séance présentée par François Thomas"
             },
             {
               "dateHeure": "2021-02-05T19:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ],
+              "idSalle": ["JE", "Jean Epstein"],
               "mention": "Séance présentée par François Thomas"
             }
           ]
@@ -1290,9 +1131,7 @@
                   "texte": "Commentaire de Chris Marker et Rémo Forlani."
                 }
               ],
-              "generique": [
-                "Jean-Pierre Grenier"
-              ],
+              "generique": ["Jean-Pierre Grenier"],
               "duree": 18,
               "format": "35 mm",
               "version": "",
@@ -1303,17 +1142,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-14T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             },
             {
               "dateHeure": "2021-01-21T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -1335,9 +1168,7 @@
                   "texte": "Film de commande réalisé pour le groupe pétro-chimique Péchiney, qui montre tous les mystères techniques de la fabrication du plastique et de ses dérivés."
                 }
               ],
-              "generique": [
-                "Sacha Vierny"
-              ],
+              "generique": ["Sacha Vierny"],
               "duree": 14,
               "format": "DCP",
               "version": "",
@@ -1391,17 +1222,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-14T21:30:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             },
             {
               "dateHeure": "2021-01-21T21:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         }
@@ -1451,10 +1276,7 @@
           "seance": [
             {
               "dateHeure": "2021-01-13T22:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -1504,17 +1326,11 @@
           "seance": [
             {
               "dateHeure": "2021-01-20T21:15:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             },
             {
               "dateHeure": "2021-02-05T21:45:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         },
@@ -1554,10 +1370,7 @@
           "seance": [
             {
               "dateHeure": "2021-01-13T19:00:00",
-              "idSalle": [
-                "JE",
-                "Jean Epstein"
-              ]
+              "idSalle": ["JE", "Jean Epstein"]
             }
           ]
         }
@@ -1603,10 +1416,7 @@
           "seance": [
             {
               "dateHeure": "2021-01-10T18:15:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1645,10 +1455,7 @@
           "seance": [
             {
               "dateHeure": "2021-01-16T14:30:00",
-              "idSalle": [
-                "HL",
-                "Henri Langlois"
-              ]
+              "idSalle": ["HL", "Henri Langlois"]
             }
           ]
         },
@@ -1679,10 +1486,7 @@
           "seance": [
             {
               "dateHeure": "2021-01-23T14:30:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         },
@@ -1709,10 +1513,7 @@
           "seance": [
             {
               "dateHeure": "2021-01-28T19:00:00",
-              "idSalle": [
-                "GF",
-                "Georges Franju"
-              ]
+              "idSalle": ["GF", "Georges Franju"]
             }
           ]
         }
