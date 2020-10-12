@@ -100,6 +100,11 @@
           "titre": "Les films",
           "cats": [1155],
           "tri": 1
+        },
+        {
+          "titre": "Rencontres et conférences",
+          "cats": [2372],
+          "tri": 4
         }
       ]
     },

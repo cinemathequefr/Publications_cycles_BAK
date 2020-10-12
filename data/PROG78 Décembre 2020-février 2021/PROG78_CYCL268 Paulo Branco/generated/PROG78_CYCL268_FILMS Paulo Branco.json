@@ -180,6 +180,10 @@
         "typeTexte": 9,
         "texte": "Witold a raté ses examens de droit et Fuchs vient de quitter son emploi dans une boite de mode parisienne. Ils vont passer quelques jours près de la mer et des montagnes, dans une pension dite de famille."
       }
+    ],
+    "generique": [
+      "Sabine Azéma",
+      "Jonathan Genet"
     ]
   },
   {
@@ -217,6 +221,11 @@
         "typeTexte": 9,
         "texte": "Les chroniques d'une famille possédant l'un des plus grands domaines d'Europe, sur la rive sud du fleuve Tagus. _Le Domaine_ plonge dans les secrets de la propriété, mettant en scène la société portugaise depuis les années 40, ses évolutions historique, politique, économique et sociale, de la Révolution des Œillets à nos jours."
       }
+    ],
+    "generique": [
+      "Albano Jerónimo",
+      "Sandra Faleiro",
+      "Miguel Borges"
     ]
   },
   {
@@ -523,6 +532,11 @@
         "typeTexte": 9,
         "texte": "Une mère porte un amour excessif à son fils, lequel entretient une passion pour les roses et pour un mystérieux jeune homme."
       }
+    ],
+    "generique": [
+      "Mostéfa Djadjam",
+      "Anna Magdalena Montezuma",
+      "Antonio Orlando"
     ]
   },
   {
