@@ -99,7 +99,7 @@ Charles et Helen se marient et ont bientôt une petite fille, Vicki. Mais Charle
 
 [30654]  
 **Dollars**  
-**(\$)**  
+**($)**  
 de Richard Brooks  
 États-Unis / 1971  
 Avec Warren Beatty, Goldie Hawn, Gert Froebe.  
@@ -226,3 +226,4 @@ de Richard Brooks
 États-Unis / 1953  
 Avec Richard Widmark, Karl Malden, Elaine Stewart.  
 Fils d'un déserteur, le sergent Thorne Ryan, qui s'est couvert de gloire durant la guerre de Corée, prend en main l'entraînement de jeunes recrues. Très dur et intransigeant, il doit faire face à la haine de ses troupes.
+

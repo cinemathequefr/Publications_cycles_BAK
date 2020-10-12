@@ -179,9 +179,9 @@
       ]
     },
     {
-      "idCycleProg": 506,
+      "idCycleProg": 527,
       "titreCycle": "Louis de Funès",
-      "sousCycles": []
+      "sousCycles": [{ "titre": "Les films", "cats": [2368], "tri": 1 }]
     },
     {
       "idCycleProg": 507,
