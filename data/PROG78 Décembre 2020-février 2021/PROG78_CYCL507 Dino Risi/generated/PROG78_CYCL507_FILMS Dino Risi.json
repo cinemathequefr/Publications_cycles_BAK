@@ -94,6 +94,10 @@
       {
         "typeTexte": 9,
         "texte": "Un juge enquête sur la mort d'une jeune droguée. Ses soupçons le portent vers un industriel d'extrême droite."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré. Ressortie en salles par les Acacias."
       }
     ],
     "generique": [
@@ -196,7 +200,7 @@
     "ageMinimal": null,
     "realisateurs": "Dino Risi",
     "annee": 1976,
-    "pays": "Italie",
+    "pays": "Italie-France",
     "textes": [
       {
         "typeTexte": 9,
@@ -207,7 +211,8 @@
       "Ugo Tognazzi",
       "Ornella Muti",
       "Patrick Dewaere"
-    ]
+    ],
+    "adaptation": "D'après le roman _La Stanza del vescovo_ de Piero Chiara."
   },
   {
     "titre": "Chemin de l'espérance",
@@ -330,6 +335,11 @@
         "typeTexte": 9,
         "texte": "Trois sketches (Une journée décisive, Le Complexe de l'esclave nubienne, Guillaume « Dents longues ») désignent les complexes de l'homme moderne."
       }
+    ],
+    "generique": [
+      "Ugo Tognazzi",
+      "Nino Manfredi",
+      "Alberto Sordi"
     ]
   },
   {
@@ -592,6 +602,10 @@
       {
         "typeTexte": 9,
         "texte": "Riche industriel de 45 ans, Francesco, devient grand-père pour la première fois et s'inquiète pour son âge. Il se sent rajeunir dès que sa charmante belle-fille commence à le séduire."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par StudioCanal. Ressortie en salle par Les Acacias."
       }
     ],
     "generique": [
@@ -845,7 +859,7 @@
       },
       {
         "typeTexte": 99,
-        "texte": "« Restaurato dalla Fondazione Cineteca di Bologna in collaborazione con Titanus a partire dal negativo scena e colonna originale. Le lavorazioni sono state effettuate presso il laboratorio L'Immagine Ritrovata nel 2014 »"
+        "texte": "Restauré par Fondazione Cineteca di Bologna, en collaboration avec Titanus, à partir des négatifs originaux image et son, auprès du laboratoire L'Immagine Ritrovata 2014\""
       }
     ],
     "generique": [
@@ -866,6 +880,10 @@
       {
         "typeTexte": 9,
         "texte": "Un jeune officier d'ordonnance est chargé d'accompagner un ancien capitaine, devenu aveugle, obsédé par les femmes et tenté par le suicide."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par TF1. Ressortie en salles par Les Acacias."
       }
     ],
     "generique": [
@@ -937,6 +955,11 @@
         "typeTexte": 9,
         "texte": "Un jeune homme milanais, fils d'un chauffeur de taxi se joint à trois américains (un couple « ouvert » et un ami homosexuel) dans un voyage à travers Tunisie, Espagne et Côte d'Azur..."
       }
+    ],
+    "generique": [
+      "Lino Capolicchio",
+      "Janet Agren",
+      "Umberto D'Orsi"
     ]
   },
   {
@@ -1074,13 +1097,18 @@
         "typeTexte": 9,
         "texte": "Amour et sexe, vus par quatre séducteurs de différentes nationalités."
       }
+    ],
+    "generique": [
+      "Roger Moore",
+      "Lino Ventura",
+      "Ugo Tognazzi"
     ]
   },
   {
     "titre": "Sexe fou",
     "titreVo": "Sessomatto",
     "idFilm": 42354,
-    "ageMinimal": null,
+    "ageMinimal": 0,
     "realisateurs": "Dino Risi",
     "annee": 1973,
     "pays": "Italie",
@@ -1251,6 +1279,10 @@
       {
         "typeTexte": 9,
         "texte": "Alors qu'un soldat allemand s'apprête à l'abattre, Silvio Magnozzi, rédacteur d'un journal clandestin, est sauvé par sa future femme : Elena. Les activités radicales de Silvio ne leur facilitent pas la vie et les plongent dans la misère."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré par StudioCanal. Ressortie en salles par Les Acacias."
       }
     ],
     "generique": [

@@ -185,22 +185,21 @@
       ]
     },
     {
-      "idCycleProg": 527,
-      "titreCycle": "Louis de Funès",
-      "sousCycles": [{ "titre": "Les films", "cats": [2368], "tri": 1 }]
-    },
-    {
       "idCycleProg": 507,
       "titreCycle": "Dino Risi",
       "sousCycles": [
         { "titre": "Les films", "cats": [2307, 2349], "tri": 1 },
-        { "titre": "Courts métrages", "cats": [2347], "tri": 2 }
+        { "titre": "Courts métrages", "cats": [2347], "tri": 2 },
+        { "titre": "Rencontres et conférences", "cats": [2370], "tri": 4 }
       ]
     },
     {
       "idCycleProg": 516,
       "titreCycle": "Friedrich Wilhelm Murnau",
-      "sousCycles": [{ "titre": "Les films", "cats": [2345], "tri": 1 }]
+      "sousCycles": [
+        { "titre": "Les films", "cats": [2345], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [2406], "tri": 4 }
+      ]
     },
     {
       "idCycleProg": 517,
