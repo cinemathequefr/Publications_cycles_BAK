@@ -129,7 +129,7 @@
         "idFilm": 51672,
         "ordre": 1,
         "idSeance": 37697,
-        "idCopie": 21914,
+        "idCopie": 21933,
         "duree": 109,
         "version": "",
         "format": "35 mm",
@@ -175,7 +175,7 @@
         "idFilm": 49096,
         "ordre": 1,
         "idSeance": 36429,
-        "idCopie": 20438,
+        "idCopie": 20439,
         "duree": 81,
         "version": "",
         "format": "35 mm",
@@ -324,8 +324,8 @@
   {
     "idCategorie": 2226,
     "typeEvenement": 13,
-    "idEvenement": 23315,
-    "idSeance": 36558,
+    "idEvenement": 23313,
+    "idSeance": 37778,
     "dateHeure": "2021-01-16T20:30:00",
     "idSalle": [
       "JE",
@@ -333,11 +333,11 @@
     ],
     "items": [
       {
-        "idFilm": 50251,
+        "idFilm": 52029,
         "ordre": 1,
-        "idSeance": 36558,
-        "idCopie": 21923,
-        "duree": 93,
+        "idSeance": 37778,
+        "idCopie": 4435,
+        "duree": 81,
         "version": "",
         "format": "35 mm",
         "valide": 0

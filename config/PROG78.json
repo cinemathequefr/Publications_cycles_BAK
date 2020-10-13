@@ -180,7 +180,8 @@
       "titreCycle": "Richard Brooks",
       "sousCycles": [
         { "titre": "Les films", "cats": [2289], "tri": 1 },
-        { "titre": "Richard Brooks scénariste", "cats": [2290], "tri": 1 }
+        { "titre": "Richard Brooks scénariste", "cats": [2290], "tri": 1 },
+        { "titre": "Rencontres et conférences", "cats": [2371], "tri": 4 }
       ]
     },
     {

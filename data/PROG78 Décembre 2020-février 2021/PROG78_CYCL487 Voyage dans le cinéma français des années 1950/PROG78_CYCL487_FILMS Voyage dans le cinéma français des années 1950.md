@@ -41,21 +41,6 @@ Un domestique peu stylé mais honnête rentre au service d'un avocat parisien au
 
 > (Site) Le domestique Honoré Bonvalet travaille au service d'un grand avocat parisien. Il l'assiste également dans ses affaires professionnelles, mais son honnêteté à toute épreuve va faire chavirer ces dernières dont le succès s'appuyait sur de louches manigances.
 
-[51673]  
-**Le Boulanger de Valorgue**  
-de Henri Verneuil  
-France-Italie / 1952  
-Avec Fernandel, Georges Chamarat, Madeleine Silvain.
-
-[46167]*  
-**Casque d'or**  
-de Jacques Becker  
-France / 1951  
-Avec Simone Signoret, Serge Reggiani, Claude Dauphin.  
-Félix, chef d'une bande de voyous, retrouve un de ses amis perdu de vue qui tombe amoureux de la femme qu'il convoite.
-
-> (Site) Félix Leca, chef d'une bande de voyous, retrouve par hasard un ami d'enfance perdu de vue. Celui-ci tombe aussitôt amoureux de la femme convoitée par Félix, la blonde «  Casque d'or  ».
-
 [46714]  
 **Cette sacrée gamine**  
 de Michel Boisrond  
@@ -80,40 +65,12 @@ D'après la pièce _Le Curé de Saint-Amour_ de Jean Guitton.
 Avec Frédéric Duvallès, Jeanne Fusier-Gir, Pierre Larquey.  
 La marquise de Saint-Ange veut marier sa nièce Nicole, mais la jeune fille, rebutée par le prétendant choisi, s'enfuit avec son ami Jacques.
 
-[49353]  
-**Le Défroqué**  
-de Léo Joannon  
-France / 1953  
-Avec Pierre Fresnay, Pierre Trabaud, Nicole Stéphane.
-
-[46181]  
-**En effeuillant la marguerite**  
-de Marc Allégret  
-France / 1956  
-Avec Brigitte Bardot, Daniel Gélin, Robert Hirsch.
-
 [49003]*  
 **L'Envers du paradis**  
 d'Edmond T. Gréville  
 France / 1953  
 Avec Jacques Sernas, Etchika Choureau, Jacques Castelot.  
 Condamnée par la médecine, une jeune fille retourne à l'auberge de ses parents où elle rencontre un écrivain dont elle tombe amoureuse.
-
-[48329]*  
-**La Fête à Henriette**  
-de Julien Duvivier  
-France / 1952  
-Avec Dany Robin, Michel Auclair, Michel Roux.  
-14 juillet, anniversaire d'Henriette et fête nationale. La jeune fille balance entre deux amoureux, l'un photographe et bon ami, l'autre mystérieux, voleur et charmeur.
-
-[53027]*  
-**La Forêt de l'adieu**  
-de Ralph Habib  
-France / 1952  
-Avec Françoise Arnoul, Jean-Claude Pascal, Jean Brochard.  
-La famille Queryan, qui exploite un domaine forestier, voit, après une longue absence, revenir la jolie Christine. Cette dernière, au caractère difficile, aide son père et se heurte au contremaitre.
-
-> (Site) La famille Queryan, qui exploite un domaine forestier, voit, après une longue absence, revenir la jolie Christine. Cette dernière, au caractère difficile, aide son père et se heurte au contremaitre.
 
 [51694]*  
 **Le Fruit défendu**  
@@ -134,16 +91,6 @@ Un routier écrase accidentellement un homme qui ne lui est pas inconnu.
 
 > (Site) Un routier écrase accidentellement un homme qui ne lui est pas inconnu.
 
-[47620]*  
-**Gervaise**  
-de René Clément  
-France / 1955  
-D'après le roman _L'Assommoir_ d'Emile Zola.  
-Avec Maria Schell, François Périer, Suzy Delair.  
-Une blanchisseuse et ses deux enfants fondent une nouvelle famille avec Coupeau, qu'un accident du travail fait bientôt sombrer dans l'alcoolisme.
-
-> (Site) Une blanchisseuse et ses deux enfants fondent une nouvelle famille avec Coupeau, qu'un accident du travail fait bientôt sombrer dans l'alcoolisme.
-
 [50926]*  
 **Gibier de potence**  
 de Roger Richebé  
@@ -152,13 +99,6 @@ Avec Arletty, Georges Marchal, Nicole Courcel.
 De retour de la guerre, Marceau se souvient de son passé. Tombé entre les griffes de Madame Alice, il devient un gigolo avant de rencontrer la jeune et pure Dominique.
 
 > (Site) De retour de la guerre, Marceau se souvient de son passé. Tombé entre les griffes de Madame Alice, il devient gigolo avant de rencontrer la jeune et pure Dominique.
-
-[50251]  
-**Le Grand pavois**  
-de Jack Pinoteau  
-France / 1953  
-Avec Marc Cassot, Nicole Courcel, Jean Chevrier.  
-Le lieutenant Favrel, aimé de ses hommes, quitte la Marine pour sauver son couple mais l'appel de la mer est plus fort.
 
 [46416]  
 **L'Homme et l'enfant**  
@@ -200,22 +140,6 @@ Avec Gérard Philipe, Suzanne Cloutier, Jean-Roger Caussimon.
 Michel a volé par amour pour Juliette. Emprisonné, il s'endort et rêve...
 
 > (Site) Michel a volé par amour pour Juliette. Emprisonné, il s'endort et rêve...
-
-[47404]*  
-**Justice est faite**  
-d'André Cayatte  
-France / 1950  
-Avec Michel Auclair, Antoine Balpêtré, Raymond Bussières.  
-La vie quotidienne de jurés durant un procès pour meurtre.
-
-> (Site) Elsa Lundenstein, qui a tué son amant, affirme avoir agi par pitié. Tout au long de son procès, les jurés débattent de sa culpabilité.
-
-[47685]  
-**Mademoiselle de La Ferté**  
-de Roger Dallier  
-France / 1949  
-Avec Jany Holt, Pierre Cressoy, Jean Servais.  
-Bafouée dans son amour pour Jacques de Saint-Selve, Anne de la Ferté continue son âpre vengeance en empoisonnant sa veuve, puis son entourage...
 
 [54410]  
 **Le Marchand de Venise**  
