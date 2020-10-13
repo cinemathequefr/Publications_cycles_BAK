@@ -41,29 +41,24 @@
     ]
   },
   {
-    "titre": "Empire du crime",
-    "art": "L'",
-    "titreVo": "Mala ordina",
-    "artVo": "La",
-    "idFilm": 106359,
+    "titre": "Frères Karaté à Bangkok;",
+    "art": "Les",
+    "titreVo": "Da di shuang ying",
+    "idFilm": 106316,
     "ageMinimal": 0,
-    "realisateurs": "Fernando Di Leo",
-    "annee": 1972,
-    "pays": "Italie-RFA",
+    "realisateurs": "Philip Chalong, Tung-Man Chan",
+    "annee": 1973,
+    "pays": "Taïwan-Hong-Kong",
     "textes": [
       {
         "typeTexte": 9,
-        "texte": "Un chargement de drogue disparaît entre l'Italie et New York. Luca Canali est soupçonné d'être l'auteur de ce vol : il est traqué par deux tueurs à gages ainsi que par les véritables auteurs du vol."
-      },
-      {
-        "typeTexte": 99,
-        "texte": "Restauré. Ressortie en salles par MARY-X Distribution."
+        "texte": "Chain, riche exploitant forestier veut s'emparer des terres d'un important planteur. Se sentant menacé, le planteur fait appel à ses fils afin de lutter contre les hommes de Chain."
       }
     ],
     "generique": [
-      "Mario Adorf",
-      "Henry Silva",
-      "Woody Strode"
+      "Sing Chan",
+      "Yuan Kao",
+      "Feng Tien"
     ]
   },
   {
@@ -151,6 +146,31 @@
       "Mario Adorf",
       "Frank Wolff",
       "Gastone Moschin"
+    ]
+  },
+  {
+    "titre": "Passeport pour deux tueurs",
+    "titreVo": "Mala ordina",
+    "artVo": "La",
+    "idFilm": 106359,
+    "ageMinimal": 0,
+    "realisateurs": "Fernando Di Leo",
+    "annee": 1972,
+    "pays": "Italie-RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un chargement de drogue disparaît entre l'Italie et New York. Luca Canali est soupçonné d'être l'auteur de ce vol : il est traqué par deux tueurs à gages ainsi que par les véritables auteurs du vol."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Restauré. Ressortie en salles par MARY-X Distribution."
+      }
+    ],
+    "generique": [
+      "Mario Adorf",
+      "Henry Silva",
+      "Woody Strode"
     ]
   },
   {
