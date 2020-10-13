@@ -8,10 +8,7 @@
           "idSeance": 36814,
           "ordre": 1,
           "dateHeure": "2021-02-27T19:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
+          "idSalle": ["GF", "Georges Franju"],
           "idCategorie": 2350,
           "idEvenement": 23013,
           "typeEvenement": 13,
@@ -43,10 +40,7 @@
           "idSeance": 36850,
           "ordre": 1,
           "dateHeure": "2021-02-22T20:00:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
+          "idSalle": ["HL", "Henri Langlois"],
           "mention": "Avant-première",
           "idCategorie": 2350,
           "idEvenement": 23510,
@@ -78,10 +72,7 @@
           "idSeance": 36809,
           "ordre": 1,
           "dateHeure": "2021-02-27T14:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
+          "idSalle": ["HL", "Henri Langlois"],
           "typeAssoc": 118,
           "idCategorie": 2350,
           "idEvenement": 23015,
@@ -96,10 +87,7 @@
           "version": "",
           "format": "DCP",
           "ageMinimal": null,
-          "generique": [
-            "Félix de Givry",
-            "Pauline Étienne"
-          ],
+          "generique": ["Félix de Givry", "Pauline Étienne"],
           "textes": [
             {
               "typeTexte": 9,
@@ -111,10 +99,7 @@
           "idSeance": 36807,
           "ordre": 1,
           "dateHeure": "2021-02-26T19:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
+          "idSalle": ["GF", "Georges Franju"],
           "mention": "Séance présentée par Hélène Louvart (sous réserve)",
           "idCategorie": 2350,
           "idEvenement": 23014,
@@ -129,11 +114,7 @@
           "version": "",
           "format": "DCP",
           "ageMinimal": null,
-          "generique": [
-            "Aarshi Banerjee",
-            "Roman Kolinka",
-            "Alex Descas"
-          ],
+          "generique": ["Aarshi Banerjee", "Roman Kolinka", "Alex Descas"],
           "textes": [
             {
               "typeTexte": 9,
@@ -145,10 +126,7 @@
           "idSeance": 36806,
           "ordre": 1,
           "dateHeure": "2021-02-25T19:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
+          "idSalle": ["GF", "Georges Franju"],
           "mention": "Séance présentée par Louis-Do de Lencquesaing",
           "idCategorie": 2350,
           "idEvenement": 23018,
@@ -180,10 +158,7 @@
           "idSeance": 36792,
           "ordre": 1,
           "dateHeure": "2021-02-24T19:00:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
+          "idSalle": ["GF", "Georges Franju"],
           "mention": "Séance présentée par Constance Rousseau et Paul Blain (sous réserve)",
           "idCategorie": 2350,
           "idEvenement": 23016,
@@ -214,10 +189,7 @@
           "idSeance": 36959,
           "ordre": 1,
           "dateHeure": "2021-02-24T21:30:00",
-          "idSalle": [
-            "GF",
-            "Georges Franju"
-          ],
+          "idSalle": ["GF", "Georges Franju"],
           "mention": "Séance présentée par Marion Monnier",
           "idCategorie": 2350,
           "idEvenement": 23017,
@@ -255,10 +227,7 @@
           "idSeance": 36809,
           "ordre": 2,
           "dateHeure": "2021-02-27T14:30:00",
-          "idSalle": [
-            "HL",
-            "Henri Langlois"
-          ],
+          "idSalle": ["HL", "Henri Langlois"],
           "typeAssoc": 118,
           "idCategorie": 2373,
           "idEvenement": 23270,
