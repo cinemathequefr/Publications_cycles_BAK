@@ -309,21 +309,21 @@ En 1947, la police, qui suspecte quatre soldats du meurtre d'un homme, découvre
 ## Rencontres et conférences
 
 []  
-**La Dernière chasse : discussion avec Patrick Brion**  
+**« La Dernière chasse » : discussion avec Patrick Brion**  
 undefined  
 60 min  
-« C'était un film difficile à faire, mais il aurait pu être remarquable. C'était d'une honnêteté si brutale qu'en Amérique personne n'a été le voir. Ce devait être une histoire géante, à la mesure d'une époque où il y avait des géants en Amérique : alors que le pays était en pleine évolution, en massacrant les bisons, les chasseurs massacraient en un sens leur avenir, parce qu'ils gaspillaient les richesses dont ils étaient comblés. » **Richard Brooks** « Western tragique et inquiétant, _La Dernière Chasse_ est un film volontairement dérangeant. On y parle de la mort, de la difficulté de survivre, de l'extermination des bisons et de l'horreur des guerres indiennes. » **Patrick Brion (****_Richard Brooks_****, éditions du Chêne, 1986)**  
-**Bernard Benoliel** est directeur de l'Action culturelle et éducative à La Cinémathèque française.  
-**Patrick Brion**, célèbre voix du « Cinéma de minuit », historien du cinéma hollywoodien, est l'auteur de plusieurs ouvrages de référence (sur Hitchcock, Eastwood, Tex Avery...) dont l'un intitulé _Richard Brooks_ (éditions du Chêne, 1986). Ces dernières années, il a publié plusieurs encyclopédies cinématographiques aux éditions Télémaque, l'une consacrée au film policier américain, d'autres au western et au film noir. Aux mêmes éditions, il a aussi édité récemment _Cinéma de minuit_, un livre-mémoire consacré à ses légendaires programmations de cinéma à la télévision française.
+« C'était un film difficile à faire, mais il aurait pu être remarquable. C'était d'une honnêteté si brutale qu'en Amérique personne n'a été le voir. Ce devait être une histoire géante, à la mesure d'une époque où il y avait des géants en Amérique : alors que le pays était en pleine évolution, en massacrant les bisons, les chasseurs massacraient en un sens leur avenir, parce qu'ils gaspillaient les richesses dont ils étaient comblés. » (Richard Brooks) « Western tragique et inquiétant, _La Dernière chasse_ est un film volontairement dérangeant. On y parle de la mort, de la difficulté de survivre, de l'extermination des bisons et de l'horreur des guerres indiennes. » (Patrick Brion, _Richard Brooks_, Éditions du Chêne, 1986)  
+Bernard Benoliel est directeur de l'Action culturelle et éducative à la Cinémathèque française.  
+Patrick Brion, célèbre voix du « Cinéma de minuit », historien du cinéma hollywoodien, est l'auteur de plusieurs ouvrages de référence (sur Hitchcock, Eastwood, Tex Avery...) dont l'un intitulé _Richard Brooks_ (Éditions du Chêne, 1986). Ces dernières années, il a publié plusieurs encyclopédies cinématographiques aux éditions Télémaque, l'une consacrée au film policier américain, d'autres au western et au film noir. Aux mêmes éditions, il a aussi édité récemment _Cinéma de minuit_, un livre-mémoire consacré à ses légendaires programmations de cinéma à la télévision française.
 
 - sa 30 jan 14h30 HL
 
 []  
-**Bas les masques: discussion avec Patrick Brion**  
+**« Bas les masques » : discussion avec Patrick Brion**  
 undefined  
 60 min  
-« Ce que je voulais dire dans _Deadline-U.S.A_., c'était donc qu'il faut lutter pour conserver un grand journal en vie et que seuls en sont capables les gens qui conçoivent ce journal : car un grand journal ne sort pas des presses, il sort du cerveau de ceux qui l'animent. » **Richard Brooks** « ''La mort d'un journal n'est jamais discrète'' déclare Ed Hutcheson (Humphrey Bogart) et _Bas les masques_ pose avec une stupéfiante virulence le problème de la liberté de la presse. Lui-même ancien journaliste, Richard Brooks sait mieux que quiconque l'importance des journaux indépendants. » **Patrick Brion** (_Richard Brooks_, éditions du Chêne, 1986)  
-**Frédéric Bonnaud** est directeur général de La Cinémathèque française.
+« Ce que je voulais dire dans _Deadline-U.S.A._ (_Bas les masques_), c'était donc qu'il faut lutter pour conserver un grand journal en vie et que seuls en sont capables les gens qui conçoivent ce journal : car un grand journal ne sort pas des presses, il sort du cerveau de ceux qui l'animent. » (Richard Brooks) « "La mort d'un journal n'est jamais discrète", déclare Ed Hutcheson (Humphrey Bogart), et _Bas les masques_ pose avec une stupéfiante virulence le problème de la liberté de la presse. Lui-même ancien journaliste, Richard Brooks sait mieux que quiconque l'importance des journaux indépendants. » (Patrick Brion, _Richard Brooks_, Éditions du Chêne, 1986)  
+Frédéric Bonnaud est directeur général de la Cinémathèque française.
 
 - sa 6 fév 14h30 HL
 
