@@ -220,6 +220,11 @@
       "sousCycles": [{ "titre": "Les films", "cats": [2359], "tri": 1 }]
     },
     {
+      "idCycleProg": 525,
+      "titreCycle": "Le ciné-club",
+      "sousCycles": [{ "titre": "Les films", "cats": [2405], "tri": 4 }]
+    },
+    {
       "idCycleProg": 526,
       "titreCycle": "Nicole Garcia",
       "sousCycles": [
