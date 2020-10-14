@@ -18,11 +18,11 @@
         "idCopie": 21773,
         "duree": 62,
         "version": "",
-        "format": "",
+        "format": "DCP",
         "valide": 0
       }
     ],
-    "mention": "Ouverture de la rétrospective"
+    "mention": "Ouverture de la rétrospective. Séance présentée par Artavazd Pelechian (sous réserve)"
   },
   {
     "idCategorie": 2382,
@@ -42,7 +42,7 @@
         "idCopie": 21769,
         "duree": 10,
         "version": "",
-        "format": "",
+        "format": "Numérique",
         "valide": 0
       },
       {
@@ -51,7 +51,7 @@
         "idSeance": 36340,
         "idCopie": 18669,
         "duree": 9,
-        "version": "Autres",
+        "version": "",
         "format": "35 mm",
         "valide": 1
       },
@@ -61,7 +61,7 @@
         "idSeance": 36340,
         "idCopie": 6961,
         "duree": 26,
-        "version": "Autres",
+        "version": "",
         "format": "35 mm",
         "valide": 1
       }
@@ -85,17 +85,17 @@
         "idCopie": 21770,
         "duree": 10,
         "version": "",
-        "format": "",
+        "format": "Numérique",
         "valide": 0
       },
       {
         "idFilm": 117857,
         "ordre": 2,
         "idSeance": 36341,
-        "idCopie": 6959,
-        "duree": 9,
+        "idCopie": 21758,
+        "duree": 10,
         "version": "",
-        "format": "35 mm",
+        "format": "DCP",
         "valide": 0
       },
       {
@@ -104,9 +104,9 @@
         "idSeance": 36341,
         "idCopie": 6962,
         "duree": 30,
-        "version": "AutresSTF",
+        "version": "VOSTF",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -125,8 +125,8 @@
         "idFilm": 74720,
         "ordre": 1,
         "idSeance": 36342,
-        "idCopie": 6960,
-        "duree": 30,
+        "idCopie": 21938,
+        "duree": 50,
         "version": "",
         "format": "35 mm",
         "valide": 0
@@ -148,7 +148,7 @@
         "idCopie": 21771,
         "duree": 7,
         "version": "",
-        "format": "",
+        "format": "DCP",
         "valide": 0
       }
     ]

@@ -47,7 +47,7 @@
                 }
               ],
               "duree": 62,
-              "format": "",
+              "format": "DCP",
               "version": "",
               "ageMinimal": null,
               "ordre": 1
@@ -60,7 +60,7 @@
                 "HL",
                 "Henri Langlois"
               ],
-              "mention": "Ouverture de la rétrospective"
+              "mention": "Ouverture de la rétrospective. Séance présentée par Artavazd Pelechian (sous réserve)"
             }
           ]
         },
@@ -82,7 +82,7 @@
                 }
               ],
               "duree": 10,
-              "format": "",
+              "format": "Numérique",
               "version": "",
               "ageMinimal": null,
               "ordre": 1
@@ -102,7 +102,7 @@
               ],
               "duree": 9,
               "format": "35 mm",
-              "version": "Autres",
+              "version": "",
               "ageMinimal": null,
               "ordre": 2
             },
@@ -121,7 +121,7 @@
               ],
               "duree": 26,
               "format": "35 mm",
-              "version": "Autres",
+              "version": "",
               "ageMinimal": null,
               "ordre": 3
             }
@@ -155,7 +155,7 @@
                 }
               ],
               "duree": 10,
-              "format": "",
+              "format": "Numérique",
               "version": "",
               "ageMinimal": null,
               "ordre": 1
@@ -174,8 +174,8 @@
                   "texte": "Une volée d'oiseaux, des bruits de fusils : les relations entre la nature et l'humain sont questionnées en un vibrant poème cinématographique."
                 }
               ],
-              "duree": 9,
-              "format": "35 mm",
+              "duree": 10,
+              "format": "DCP",
               "version": "",
               "ageMinimal": null,
               "ordre": 2
@@ -196,7 +196,7 @@
               ],
               "duree": 30,
               "format": "35 mm",
-              "version": "AutresSTF",
+              "version": "VOSTF",
               "ageMinimal": null,
               "ordre": 3
             }
@@ -228,7 +228,7 @@
                   "texte": "Méditation sur la conquête de l'espace, les mises à feu qui ne vont nulle part, le rêve d'Icare encapsulé par les Russes et les Américains, le visage des cosmonautes déformés par l'accélération, la catastrophe imminente."
                 }
               ],
-              "duree": 30,
+              "duree": 50,
               "format": "35 mm",
               "version": "",
               "ageMinimal": null,
@@ -267,7 +267,7 @@
                 }
               ],
               "duree": 7,
-              "format": "",
+              "format": "DCP",
               "version": "",
               "ageMinimal": null,
               "ordre": 3

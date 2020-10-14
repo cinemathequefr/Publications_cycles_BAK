@@ -22,7 +22,7 @@
           "annee": 1967,
           "pays": "URSS",
           "duree": 9,
-          "version": "Autres",
+          "version": "",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -78,9 +78,9 @@
           "realisateurs": "Artavazd Pelechian",
           "annee": 1970,
           "pays": "URSS",
-          "duree": 9,
+          "duree": 10,
           "version": "",
-          "format": "35 mm",
+          "format": "DCP",
           "ageMinimal": null,
           "textes": [
             {
@@ -97,7 +97,7 @@
             "HL",
             "Henri Langlois"
           ],
-          "mention": "Ouverture de la rétrospective",
+          "mention": "Ouverture de la rétrospective. Séance présentée par Artavazd Pelechian (sous réserve)",
           "idCategorie": 1049,
           "idEvenement": 23230,
           "typeEvenement": 13,
@@ -109,7 +109,7 @@
           "pays": "Arménie-France-Allemagne",
           "duree": 62,
           "version": "",
-          "format": "",
+          "format": "DCP",
           "ageMinimal": null,
           "textes": [
             {
@@ -135,7 +135,7 @@
           "realisateurs": "Artavazd Pelechian",
           "annee": 1982,
           "pays": "URSS",
-          "duree": 30,
+          "duree": 50,
           "version": "",
           "format": "35 mm",
           "ageMinimal": null,
@@ -164,7 +164,7 @@
           "annee": 1969,
           "pays": "URSS",
           "duree": 26,
-          "version": "Autres",
+          "version": "",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -193,7 +193,7 @@
           "pays": "URSS",
           "duree": 10,
           "version": "",
-          "format": "",
+          "format": "Numérique",
           "ageMinimal": null,
           "textes": [
             {
@@ -221,7 +221,7 @@
           "annee": 1975,
           "pays": "URSS",
           "duree": 30,
-          "version": "AutresSTF",
+          "version": "VOSTF",
           "format": "35 mm",
           "ageMinimal": null,
           "textes": [
@@ -251,7 +251,7 @@
           "pays": "URSS",
           "duree": 10,
           "version": "",
-          "format": "",
+          "format": "Numérique",
           "ageMinimal": null,
           "textes": [
             {
@@ -279,7 +279,7 @@
           "pays": "Arménie",
           "duree": 7,
           "version": "",
-          "format": "",
+          "format": "DCP",
           "ageMinimal": null,
           "textes": [
             {
