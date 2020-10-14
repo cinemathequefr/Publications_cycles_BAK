@@ -1,5 +1,22 @@
 [
   {
+    "titre": "40 ans, toujours dans le flow",
+    "titreVo": "40-Year-Old Version",
+    "artVo": "The",
+    "idFilm": 146461,
+    "ageMinimal": null,
+    "realisateurs": "Radha Blank",
+    "annee": 2019,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Radha, dramaturge new-yorkaise dans une mauvaise passe, aimerait connaître le succès avant ses 40 ans et trouve l'inspiration en se réinventant en tant que rappeuse."
+      }
+    ],
+    "generique": ["Radha Blank", "Peter Kim", "Oswin Benjamin"]
+  },
+  {
     "titre": "Blues de Ma Rainey",
     "art": "Le",
     "titreVo": "Ma Rainey's Black Bottom",
@@ -36,8 +53,10 @@
     "adaptation": "D'après la pièce _The Boys in the Band_ de Mart Crowley."
   },
   {
-    "titre": "Da 5 Bloods : Frères de sang",
-    "titreVo": "Da 5 Bloods",
+    "titre": "5 Bloods : Frères de sang",
+    "art": "Da",
+    "titreVo": "5 Bloods",
+    "artVo": "Da",
     "idFilm": 145215,
     "ageMinimal": null,
     "realisateurs": "Spike Lee",
