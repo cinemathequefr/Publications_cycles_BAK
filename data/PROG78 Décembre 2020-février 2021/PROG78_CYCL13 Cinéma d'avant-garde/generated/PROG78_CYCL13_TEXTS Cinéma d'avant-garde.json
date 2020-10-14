@@ -1,4 +1,11 @@
 {
-  "cycle": {},
+  "cycle": {
+    "13": [
+      {
+        "typeTexte": 263,
+        "texte": "Gaumont, La Huit, Nicolas Sand."
+      }
+    ]
+  },
   "cats": {}
 }
