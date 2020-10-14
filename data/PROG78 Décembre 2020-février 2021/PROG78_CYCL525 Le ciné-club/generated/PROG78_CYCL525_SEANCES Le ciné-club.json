@@ -5,10 +5,7 @@
     "idEvenement": 23342,
     "idSeance": 36925,
     "dateHeure": "2021-01-06T19:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
+    "idSalle": ["HL", "Henri Langlois"],
     "items": [
       {
         "idFilm": 48837,
@@ -26,35 +23,9 @@
     "idCategorie": 2405,
     "typeEvenement": 13,
     "idEvenement": 21913,
-    "idSeance": 36503,
-    "dateHeure": "2021-01-08T19:00:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
-    "items": [
-      {
-        "idFilm": 50869,
-        "ordre": 1,
-        "idSeance": 36503,
-        "idCopie": 12281,
-        "duree": 91,
-        "version": "",
-        "format": "DCP",
-        "valide": 1
-      }
-    ]
-  },
-  {
-    "idCategorie": 2405,
-    "typeEvenement": 13,
-    "idEvenement": 21913,
     "idSeance": 37596,
     "dateHeure": "2021-02-03T19:30:00",
-    "idSalle": [
-      "GF",
-      "Georges Franju"
-    ],
+    "idSalle": ["GF", "Georges Franju"],
     "items": [
       {
         "idFilm": 50869,
@@ -74,10 +45,7 @@
     "idEvenement": 23343,
     "idSeance": 36790,
     "dateHeure": "2021-02-24T19:30:00",
-    "idSalle": [
-      "HL",
-      "Henri Langlois"
-    ],
+    "idSalle": ["HL", "Henri Langlois"],
     "items": [
       {
         "idFilm": 51603,
