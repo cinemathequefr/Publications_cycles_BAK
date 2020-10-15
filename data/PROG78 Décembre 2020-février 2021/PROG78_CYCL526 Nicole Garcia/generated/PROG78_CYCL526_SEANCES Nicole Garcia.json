@@ -41,14 +41,14 @@
         "duree": 117,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
   {
     "idCategorie": 2367,
     "typeEvenement": 13,
-    "idEvenement": 23396,
+    "idEvenement": 23522,
     "idSeance": 37718,
     "dateHeure": "2020-12-02T21:30:00",
     "idSalle": [
@@ -57,18 +57,8 @@
     ],
     "items": [
       {
-        "idFilm": 75562,
-        "ordre": 1,
-        "idSeance": 37718,
-        "idCopie": 22024,
-        "duree": 10,
-        "version": "",
-        "format": "35 mm",
-        "valide": 1
-      },
-      {
         "idFilm": 52047,
-        "ordre": 2,
+        "ordre": 1,
         "idSeance": 37718,
         "idCopie": 21907,
         "duree": 99,
@@ -81,7 +71,7 @@
   {
     "idCategorie": 2367,
     "typeEvenement": 13,
-    "idEvenement": 23253,
+    "idEvenement": 23523,
     "idSeance": 37740,
     "dateHeure": "2020-12-03T19:00:00",
     "idSalle": [
@@ -90,8 +80,18 @@
     ],
     "items": [
       {
-        "idFilm": 122375,
+        "idFilm": 75562,
         "ordre": 1,
+        "idSeance": 37740,
+        "idCopie": 22024,
+        "duree": 10,
+        "version": "",
+        "format": "35 mm",
+        "valide": 1
+      },
+      {
+        "idFilm": 122375,
+        "ordre": 2,
         "idSeance": 37740,
         "idCopie": 21901,
         "duree": 95,
@@ -123,7 +123,8 @@
         "format": "35 mm",
         "valide": 0
       }
-    ]
+    ],
+    "mention": "Séance présentée par Jacques Fieschi"
   },
   {
     "idCategorie": 2369,
@@ -257,7 +258,7 @@
         "idFilm": 48708,
         "ordre": 1,
         "idSeance": 36863,
-        "idCopie": 21903,
+        "idCopie": 21971,
         "duree": 100,
         "version": "",
         "format": "35 mm",
@@ -371,7 +372,7 @@
         "duree": 92,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -413,11 +414,11 @@
         "idFilm": 56326,
         "ordre": 1,
         "idSeance": 36889,
-        "idCopie": 21820,
-        "duree": 0,
+        "idCopie": 21819,
+        "duree": 110,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -440,7 +441,7 @@
         "duree": 98,
         "version": "",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   },
@@ -463,7 +464,7 @@
         "duree": 90,
         "version": "VO",
         "format": "35 mm",
-        "valide": 0
+        "valide": 1
       }
     ]
   }

@@ -9,6 +9,13 @@
           2368
         ],
         "tri": 1
+      },
+      {
+        "titre": "Autour de Louis de Funès",
+        "cats": [
+          2408
+        ],
+        "tri": 1
       }
     ],
     "idProg": 78
@@ -455,6 +462,12 @@
           ]
         }
       ]
+    },
+    {
+      "titreSousCycle": "Autour de Louis de Funès",
+      "tri": 1,
+      "textes": [],
+      "items": []
     }
   ]
 }

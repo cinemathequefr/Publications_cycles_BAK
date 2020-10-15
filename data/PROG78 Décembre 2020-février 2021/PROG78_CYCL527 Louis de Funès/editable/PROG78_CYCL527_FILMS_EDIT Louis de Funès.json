@@ -1,5 +1,20 @@
 [
   {
+    "titre": "Louis de Funès, créature/créateur",
+    "titreVo": "",
+    "idFilm": 146483,
+    "ageMinimal": null,
+    "realisateurs": "Baptiste Etchegaray, Nicolas Perge",
+    "annee": 2020,
+    "pays": "France",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "« Acteur comique préféré des Français », Louis de Funès a fait rire des générations de spectateurs avec son personnage de petit chef méchant, colérique et radin, aux mimiques si particulières. Le rire a été l'affaire de sa vie, au point que la star prend une part prépondérante dans la fabrication de ses films. Comment le roi du box-office des années 1960-70 a-t-il inventé et peaufiné son double à l'écran ?"
+      }
+    ]
+  },
+  {
     "titre": "Aile ou la cuisse",
     "art": "L'",
     "titreVo": "",

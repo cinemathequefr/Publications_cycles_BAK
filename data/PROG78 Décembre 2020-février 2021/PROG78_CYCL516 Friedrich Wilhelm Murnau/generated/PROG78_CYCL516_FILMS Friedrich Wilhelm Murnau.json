@@ -34,6 +34,10 @@
       {
         "typeTexte": 9,
         "texte": "Un jeune paysan ramène de la ville une serveuse qu'il a épousée et qui ne plaît pas à ses parents."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Accompagnement musical par un trio (piano, violoncelle et percussions)."
       }
     ],
     "generique": [
@@ -120,6 +124,10 @@
     "textes": [
       {
         "typeTexte": 9,
+        "texte": "Accompagnement musical par un duo (piano et trombone)."
+      },
+      {
+        "typeTexte": 9,
         "texte": "Après avoir semé la peste, Méphisto propose un marché à Faust."
       }
     ],
@@ -154,6 +162,41 @@
     "adaptation": "D'après le roman _Die Finanzen des Grossherzogs_ de Frank Heller."
   },
   {
+    "titre": "Marizza, genannt die Schmugglermadonna",
+    "titreVo": "",
+    "idFilm": 67685,
+    "ageMinimal": null,
+    "realisateurs": "F.W. Murnau",
+    "annee": 1920,
+    "pays": "Allemagne",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Fragment du film."
+      }
+    ],
+    "generique": [
+      "Adele Sandrock",
+      "Harry Frank",
+      "Hans Heinrich von Twardowski"
+    ]
+  },
+  {
+    "titre": "Murnau's 4 Devils : Traces of a Lost Film",
+    "titreVo": "",
+    "idFilm": 129912,
+    "ageMinimal": null,
+    "realisateurs": "Janet Bergstrom",
+    "annee": 2003,
+    "pays": "États-Unis",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "À partir de photos et d'archives, une reconstitution du film perdu de Murnau réalisé entre _L'Aurore_ et _City Girl_."
+      }
+    ]
+  },
+  {
     "titre": "Nosferatu le vampire",
     "titreVo": "Nosferatu – Eine Symphonie des Grauens",
     "idFilm": 39961,
@@ -165,6 +208,10 @@
       {
         "typeTexte": 9,
         "texte": "Thomas Hutter, un jeune clerc de notaire, part pour la Transylvanie pour vendre une propriété au comte Orlok. Accueilli dans le sinistre château de son hôte, il ne tarde pas à découvrir sa véritable nature."
+      },
+      {
+        "typeTexte": 99,
+        "texte": "Ciné-mix par Murcof."
       }
     ],
     "generique": [
@@ -187,6 +234,21 @@
       {
         "typeTexte": 9,
         "texte": "Version proposant un montage différent intégrant des plans inédits et une « fin heureuse »."
+      }
+    ]
+  },
+  {
+    "titre": "Phantombilder",
+    "titreVo": "",
+    "idFilm": 146271,
+    "ageMinimal": null,
+    "realisateurs": "Enno Patalas, Frieda Grafe",
+    "annee": 1988,
+    "pays": "RFA",
+    "textes": [
+      {
+        "typeTexte": 9,
+        "texte": "Un essai sur Friedrich Wilhelm Murnau réalisé à l'occasion de son 100 ème anniversaire."
       }
     ]
   },
